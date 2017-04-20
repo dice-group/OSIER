@@ -7,6 +7,9 @@ requirements:
 test:
 	nosetests -s tests/
 
+benchmark:
+	nosetests -s benchmarks/
+
 data-server-10:
 	docker run --name osier-data -d -p 80:80 earthquakesan/osier-data:server-10
 
