@@ -4,11 +4,11 @@ import random
 
 from osier.tablefactory import get_table_list, get_one_table, get_random_table
 
-LIST_FIRST_ITEM = "0010e112-d867-43d3-8ce2-1bf9494e3f82"
+LIST_FIRST_ITEM = "001351a2-73fd-4550-be6c-601c98392acb"
 LIST_LAST_ITEM = "fff5d9c0-ea24-4d2e-a48d-a97e6b11ab9d"
 
 ONE_HEADER = ['label', 'character']
-ONE_DATA = [['Yuri Yamaoka', 'Person'], ['Yūki Kaneko', 'NaturalPerson'], ['KyoWusi Tsukui', 'Aagen'], ['Mioko Fujiwara', 'Thing'], ['Asuka Tanii', 'artist']]
+ONE_DATA = [['label', 'character'], ['Dinagat bushy-tailed cloud rat', 'brute'], ['Dinagat gymnure', 'object'], ['Eastern red bat', 'object'], ['Fairway (horse)', 'equine'], ['Flares (horse)', 'horse']]
 
 def test_get_table_list():
     table_list = get_table_list()
