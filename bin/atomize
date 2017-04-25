@@ -16,6 +16,5 @@ for num, _id in enumerate(table_id_list):
         atomic_table_id = generate_atomic_table_id(atomic_table)
         update_table_index(atomic_table_id, _id, _index=ATOMIC_TABLES_INDEX)
         dump_atomic_table(atomic_table, path=ATOMIC_TABLES_DIR)
-    break
 
 print("Done!")
