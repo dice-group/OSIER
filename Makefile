@@ -8,7 +8,7 @@ test:
 	nosetests -s tests/
 
 benchmark:
-	nosetests -s benchmarks/
+	nosetests -s benchmarks/ > benchmark.log 2> benchmark.err
 
 data-server-10:
 	docker run --name osier-data -d -p 80:80 earthquakesan/osier-data:server-10

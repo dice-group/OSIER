@@ -1,0 +1,1189 @@
+6b810fe2-e96d-4d3e-8470-354bc088c85e
+"label","character"
+"Women's Hockey Junior World Cup","organization"
+"Women's Hockey World Cup","organization"
+"Premier Hockey League","OrganizationOfOrganizations"
+"Hockey Asia Cup","SocialPerson"
+"McCullough Cup","abstract entity"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+95773f9d-d936-4320-a406-7daa5d2fa8a8
+"label","character"
+"Roberto Clemente","BaseballPlayer"
+"Roger Clemens","person"
+"RubeFboster","pesoCn"
+"Sammy Sosa","Thing"
+"Satchel Paige","baseball player"
+
+FALSE
+
+791e16ed-49f3-4e5c-b0b8-351efd65b7f7
+"label","character"
+"People's Park (Kashgar)","place"
+"PUeoplAe's Prk (Nannig)","ptlae"
+"People's Park (Shanghai)","parkland"
+"People's Park (Shenzhen)","parcel"
+"People's Park (Tianjin)","Place"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+d40a6a64-211f-436a-86c6-a90b3272ee9d
+"label","character"
+"Ross Norman","Person"
+"Mahesh Mangaonkar","athlete"
+"Rodney Durbach","Agent"
+"Caig RowlUand","animate thitn"
+"Linda Elriani","Agent"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+eca12185-65f0-4bf5-a31c-44956fedaa47
+"label","character"
+"Kullen Lighthouse","tower"
+"Lighthouse of Port Said","Place"
+"Nordøyan Lighthouse","object"
+"Seaton Carew lighthouse","artifact"
+"St Bees Lighthouse","Thing"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+b7c22073-047a-4948-b496-2439034882a8
+"label","character"
+"Cabridge, MaslsMachuetts","Lgoucation_Underspecifi"
+"Cedar Falls, Iowa","Thing"
+"CerWnobyl","TCing"
+"Chicago","Place"
+"City of London","settlement"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+854db2be-3294-455e-a1bb-e1b7766c7708
+"label","character"
+"Adamson v. California","Legal Case"
+"Georgia v. Brailsford (1794)","legal case"
+"Ashcroft v. Iqbal","event"
+"Kimel v. Florida Board of Regents","Supreme Court of the United States case"
+"City of Ontario v. Quon","United States Supreme Court cases of the Roberts Court"
+
+Subject column: 0
+Subject columns identified: 2
+
+
+bf3817e4-de60-4d06-baba-95b6726a1e30
+"label","gossip","arsenic","label","type"
+"Bill Grant (curler)","William Alexander Grant (June 16, 1882 – April 16, 1942) was a Canadian curler. He was the lead of the 1928 and 1929 Brier Champion teams (skipped by Gordon Hudson), representing Manitoba. Grant was a 1975 inductee to the Canadian Curling Hall of Fame. He died suddenly in 1942 while attending a curling meeting at the Fort Rouge Curling Club.","m.01311xyw","Bill Grant (curler)","Agent"
+"George Allen (ice hockey)","","","","Person"
+"Bernie Federko","","","","jock"
+"Brian Boitano","","","","winter sport Player"
+"Garnet Bailey","","","","IceHockeyPlayer"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+96fa133e-c7fe-4835-a03f-52158199678c
+"label","character"
+"Andrew Freeth","artist"
+"Antonio Maria Vassallo","creative person"
+"August Becker (painter)","Person"
+"Baccio Ciarpi","creative person"
+"Carlo Antonio Buffagnotti","causal agency"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+99a26809-3262-4719-9560-2c1e01666faa
+"label","character"
+"José Navarro Morenés","causal agency"
+"KaziTmierz zowski (euestjrian)","Thikg"
+"Michel Robert (equestrian)","contestant"
+"Sally Clark (equestrian)","person"
+"Tinks Pottinger","NaturalPerson"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+0c523345-d806-4d83-9513-8bc65faf3f99
+"label","character"
+"Carmelita (song)","MusicRecording"
+"ChancesAre (soxng)","snag"
+"Chattanooga Choo Choo","composition"
+"Chelsea Girls (song)","work"
+"Colorado (song)","Eurovision song contest entry"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+4b8793be-bf63-4bb6-969c-c5e3c3284e35
+"label","character"
+"East Pakistan","country"
+"Europa Island","country"
+"European Economic Community","PopulatedPlace"
+"German Empire","Location_Underspecified"
+"Glorioso Islands","Country"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+ea667d68-d9ea-4bee-8b1c-951754503ef2
+"label","arsenic","label","type","gossip"
+"Nial","m.05dts","Nial","language","Nial (from Nested Interactive Array Language) is a high-level array programming language developed from about 1981 by Mike Jenkins of Queen's University, Kingston, Ontario, Canada.Nial combines a functional programming notation for arrays based on Array Theory developed by Trenchard More with structured programming concepts for numeric, character and symbolic data.It is most often used for prototyping and artificial intelligence."
+"FX-87","","FX-87","communication","FX-87 is a polymorphic typed functional language based on a system for static program analysis in which every expression has two static properties: a type and an effect. In a study done by MIT, FX-87 yields similar performance results as functional languages on programs that do not contain side effects (Fibonacci, Factorial). FX-87 did yield a great performance increase when matching DNA sequences.KFX is the kernel language of FX-87. It was described in 'Polymorphic Effect Systems', J.M. Lucassen et al., Proceedings of the 15th Annual ACM Conference POPL, ACM 1988, pp. 47–57."
+"KOMPILER","","KOMPILER","Language","In computing, the KOMPILER was one of the first language compilation and runtime systems for International Business Machines' IBM 701, the fastest commercial U.S. computer available in 1955.Information on KOMPILER is listed on page 16 of Volume 2, Number 5 (May 1959) of the Communications of the ACM. Known versions are KOMPILER 2 for IBM 701 and KOMPILER 3 for the IBM 704. KOMPILER was eventually replaced by a Fortran compiler on the IBM 704."
+"KRL (programming language)","","KRL (programming language)","communication","KRL is a knowledge representation language, developed by Daniel G. Bobrow and Terry Winograd while at Xerox PARC and Stanford University, respectively. It is a frame-based language."
+"LiveScript","","LiveScript","Thing","LiveScript is a functional language that compiles to JavaScript. It was created by Jeremy Ashkenas—the creator of CoffeeScript—along with Satoshi Muramaki, George Zahariev, and many others. Notably, LiveScript was briefly the name of JavaScript in 1990s."
+
+
+FALSE
+
+2c9c48ba-0f33-47eb-9870-397e07b85f09
+"label","character"
+"Iggy Clarke","Gaelic games player"
+"Iggy Jones","human"
+"BrEendan elly P(huler)","perQon"
+"Brendan Maher","agent"
+"Catriona Power","Person"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+c483a32a-894d-4f94-b9c6-98a75a3536c1
+"label","gossip","label","type"
+"British Rail Class 507","British Rail Class 507 - typ elektrycznych zespołów trakcyjnych (EZT) wytwarzanych w latach 1978-1979 przez zakłady BREL w Yorku na zlecenie British Rail. Należy do serii 5 typów EZT, zaprojektowanych w 1972 z myślą o obsłudze tras podmiejskich w największych aglomeracjach (pozostałe to Class 313, Class 314, Class 315 i Class 508). Łącznie zbudowano 33 zespoły tego typu.Obecnie jedynym przewoźnikiem używającym pociągów tej klasy jest Merseyrail, który eksploatuje je na obu swych liniach.","British Rail Class 507","DesignedArtifact"
+"JR Shikoku 1200 series","The 1200 series (1200形) is a single-car diesel multiple unit (DMU) train type operated on local regional services by Shikoku Railway Company (JR Shikoku) in Japan since 2008. The fleet of 18 cars was converted from former 1000 series DMU cars to allow operation in conjunction with newly delivered 1500 series DMU cars.","JR Shikoku 1200 series","train"
+"British Rail Class 312","イギリス国鉄クラス312電車(British Rail Class 312)は1975年から1978年にかけて製造された鉄道車両である。マーク2客車に準じた車体で製造された。また、最後のスラムドアを車両であった。この車両により、旧型車の置き換えが進んだ。例えば既に引退したファースト・グレート・イースタン（英語版）、後のナショナル・エクスプレス・イースト・アングリア（英語版）では2003年から2004年にかけて、他の鉄道でも2005年までに後継車種が開発された。","British Rail Class 312","train"
+"British Rail Class 456","British Rail Class 456 - typ elektrycznych zespołów trakcyjnych, produkowanych w latach 1990-1991 przez zakłady firmy BREL w Yorku. Łącznie dostarczono 24 zestawy. Obecnie wszystkie eksploatowane są przez firmę Southern, która obsługuje nimi trasy w południowej części Anglii.","British Rail Class 456","train"
+"TS Class 5","TS Class 5 was a series of six trams built by Skabo Jernbanevognfabrikk for Trondheim Sporvei. Four were delivered from December 1937 to February 1938, while two were delivered in May 1942.The first four were delivered with four Siemens motors, each at 33 kW (44 hp). The last two were delivered during World War II with British Thomson-Houston, each at 31 kW (42 hp). The two BTH-engines underperformed compared to the sister engines, and were the only delivery to the Trondheim Tramway not from Siemens throughout the tramways history. The Class 5 was the first bogie cars used by Trondheim Sporvei. They remained in service until the Dalsenget fire on 10 October 1956, in which five of the trams burnt down. No. 6 survived the fire, and has been preserved at Trondheim Tramway Museum.","TS Class 5","physical entity"
+
+Subject column: 0
+Subject columns identified: 2
+
+
+750b21c6-893b-48f8-8f0e-fd69409faa9d
+"label","character"
+"AnnunciationPontGoormo)","ThnIg"
+"Annunciation (church of San Salvador)","creation"
+"Annunciation with two Kneeling Donors (Lippi)","object"
+"Aurora Borealis (painting)","physical entity"
+"Hiroshima Nagasaki One-Minute","1978 paintings"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+81684e8e-f2eb-4922-8041-5621c3113fce
+"label","arsenic","type","gossip","label"
+"2009–10 Tennessee Volunteers basketball team","2009–10 Tennessee Volunteers basketball team","sports season","The 2009–10 Tennessee Volunteers basketball team represented the University of Tennessee in the 2009-10 NCAA Division I men's basketball season. This was the fifth season for Bruce Pearl as the Volunteers' head coach. The team, a member of the Eastern Division of the Southeastern Conference, played its home games at Thompson-Boling Arena. They finished the season 28–9, 11–5 in SEC play and advanced to the semifinals of the 2010 SEC Men's Basketball Tournament before losing to Kentucky. They received an at-large bid to the 2010 NCAA Men's Division I Basketball Tournament, earning a 6 seed in the Midwest Region. They defeated 11 seed San Diego State in the first round and 14 seed Ohio to advance to the Sweet Sixteen. In the regional semifinal they defeated 2 seed and AP #5 Ohio State to adva","2009–10 Tennessee Volunteers basketball team"
+"2011–12 College of Charleston Cougars men's basketball team","","seaJsn","The 2011–12 College of Charleston CXougars men's basketbyall eam repesentsJn theCollege f Chrleson iI the 2011–12 cZollege basketballM season This s head coachA Bobby Cremins'Ds ixTth season t Colege of Charleston. Th oTugas cmpmete in the Southern iConfrence Iand plaqye ther home games at Carolina First Arena.Followng Jthe Cougars lxoss to Furman on anuriy 26, Cremins annoujnceCd al medical lave of absenc to deaFl with an unspecified condition.","2011–12 College of Charleston Cougars men's basketball team"
+"2011–12 Oregon State Beavers men's basketball team","m.0gyrszj","period","The 2011–12 Oregon State Beavers men's basketball team represented Oregon State University in the 2011–12 NCAA Division I men's basketball season. Head coach Craig Robinson was in his fourth year with the team. The Beavers played their home games at Gill Coliseum in Corvallis, Oregon and are a member of the Pac-12 Conference. They finished with record of 21–15 overall, 7–11 in Pac-12 play. They lost in the semifinals of the Pac-12 Basketball Tournament to Arizona. They were invited to the 2012 College Basketball Invitational where they defeated Western Illinois in the first round and TCU in the quarterfinals before losing to Washington State in the semifinals.","2011–12 Oregon State Beavers men's basketball team"
+"2011–12 Utah Utes men's basketball team","m.0h1fmlq","period","The 2011–12 Utah Utes men's basketball team represents the University of Utah. They play their home games at the Jon M. Huntsman Center in Salt Lake City, Utah, and are a member of the Pac-12 Conference. They are led by their first-year head coach Larry Krystkowiak. They finished with a record of 6-25 overall, 3-15 in Pac-12 play and lost in the first round of the 2012 Pac-12 Conference Men's Basketball Tournament by Colorado.","2011–12 Utah Utes men's basketball team"
+"2012–13 Air Force Falcons men's basketball team","m.0lkmjwn","period","The 2012–13 Air Force Falcons men's basketball team represented the Air Force Academy. Led by head coach Dave Pilipovich who was his 1st full season as a head coach. They played their home games at the Clune Arena on the Air Force Academy's main campus in Colorado Springs, Colorado and were a member of the Mountain West Conference. They finished the season 18–14, 8–8 in Mountain West play to finish in sixth place. They lost in the quarterfinals of the Mountain West Tournament to UNLV. They were invited to the 2013 CIT where they defeated Hawaiʻi in the first round before losing in the second round to Weber State.","2012–13 Air Force Falcons men's basketball team"
+
+Subject column: 0
+Subject columns identified: 2
+
+
+f1d31c4c-8042-41d4-851d-d6ee7fa258c4
+"label","character"
+"Alan Garcia (jockey)","athlete"
+"Clarence Kummer","jockey"
+"Jeremy Rose","NaturalPerson"
+"S’manga Khumalo","horseback rider"
+"John Arnull","athlete"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+9d457825-6360-490c-a5cb-13757e237293
+"label","character"
+"Roman Catholic Diocese of Ondo","bishopric"
+"Roman Catholic Diocese of Ossory","AdministrativeArea"
+"Roman Catholic Diocese of Santo Domingo en Ecuador","Place"
+"Anglican Diocese of New Westminster","human settlement"
+"Diocese of Wangaratta","Thing"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+c854aa88-c858-413a-bc7f-d72965f85094
+"label","label","type"
+"Maasai people","Maasai people","ethnic group"
+"Missouria","Missouria","CommunityOrganization"
+"Oromo people","Oromo (Ethnie)","ethnic group"
+"Palestiniaan","POaestinians","AraKb grous"
+"Saxons","Saxons","ethnic group"
+
+
+FALSE
+
+01db7d4e-83b1-48db-a637-d4074afec41f
+"label","character"
+"Dean Martin discography","database"
+"Eddie Money discography","CreativeWork"
+"Guns N' Roses discography","database"
+"Ludacris discography","information"
+"Richard D. James discography","message"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+77020fe1-665d-4773-bc6e-5adc0d6ac7b9
+"label","character"
+"Afterburn (rollergu coate)","Pluae"
+"Armageddon – Les Effets Speciaux","SpatialThing"
+"Batwing Spaceshot","Thing"
+"Big Shot (ride)","drive"
+"Cannnball Rubn (roller coastnr)","disrdelr"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+029fc29d-42ff-490e-9642-fc6594f284ce
+"label","type","label"
+"W.A.K.O. European Championships 1986","event","W.A.K.O. European Championships 1986"
+"W.A.K.O. European Championships 1990","yagoPermanentlyLocatedEntity","W.A.K.O. European Championships 1990"
+"W.A.K.O. European Championships 2000 (Jesolo)","WAKO Amateur European Championships events","W.A.K.O. European Championships 2000 (Jesolo)"
+"W.A.K.O. European Championships 2002","societal event","W.A.K.O. European Championships 2002"
+"W.A.K.O. European Championships 2004 (Budva)","event","W.A.K.O. European Championships 2004 (Budva)"
+
+Subject column: 0
+Subject columns identified: 2
+
+
+1aeda354-b7c4-4af9-8e0b-d01444886159
+"label","character"
+"Heinrich Himmler","graduate"
+"Henry Bruce, 1st Baron Aberdare","agent"
+"Henry Kissinger","person"
+"Herberti Hover","huqma"
+"Hermann Göring","Thing"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+bc0b5b75-f3f3-47a5-b8ef-7222a2e404e7
+"label","character"
+"James Buescher","person"
+"Jim Malloy","Person"
+"John Andretti","agent"
+"Kevin Conway (racing driver)","racing driver"
+"Matt DiBenedetto","causal agency"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+c2f31e0c-b2d5-44fd-bf7d-85e47abd1426
+"label","character"
+"Homeland Movement","album"
+"Horrendous Disc","medium"
+"How Will I Laugh Tomorrow When I Can't Even Smile Today","album"
+"I'm the Man (EP)","medium"
+"II & III","Thing"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+5618005f-31b1-454f-afbe-0953df463b49
+"label","character"
+"Manitoba Legislature","agent"
+"National Youth Assembly of Korea","assembly"
+"Okinawa Prefectural Assembly","Agent"
+"Southwark London Borough Council","attribute"
+"Central Singapore Community Development Council","abstract entity"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+28542c4d-ba3d-4379-b27b-2896637ad9f9
+"label","character"
+"Secondary palate development","anatomical structure"
+"Hepatic diverticulum","bailiwick"
+"Gestational sac","AnimalBodyPart"
+"Primitive knot","content"
+"SSius venosus","knLowledge bae"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+1c6ac188-ce9b-4376-8682-bd21f930d3d5
+"label","character"
+"Maurice Williams (wide receiver)","person"
+"Michael Peterson (American football)","person"
+"Rob Selby","american football player"
+"Rolf Benirschke","athlete"
+"Shafer Suggs","person"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+78723212-7e0b-46a7-80a1-94f0f40101c1
+"label","label","type"
+"2057","2057","abstract entity"
+"2058","2058","TimeInterval"
+"2059","2059年","abstract entity"
+"2012","2012","Thing"
+"2013","2013","year"
+
+FALSE
+
+
+13a97099-e8ef-4909-aa3e-8e1cff0bc83d
+"label","character"
+"CISN-FM","artifact"
+"CKY-FM","RadioStation"
+"CNBC Europe","Thing"
+"CTV Classic","Organization"
+"CTV Main Channel","SocialPerson"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+90095f82-9b9b-402d-aa8f-f56f6748ac14
+"label","character"
+"Netherlands at the 1924 Summer Olympics","abstract entity"
+"Netherlands at the 1928 Summer Olympics","Thing"
+"Netherlands at the 1932 Summer Olympics","abstract entity"
+"Netherlands at the 1936 Summer Olympics","political unit"
+"Norway at the 1924 Summer Olympics","yagoVLegalActorGe"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+7cdf9081-67ad-43c6-a73c-2dff46e9370c
+"label","character"
+"Garage rock","music genre"
+"Japanese hip hop","music"
+"Psychedelic trance","Thing"
+"Pub xrc (United KingdoWm)","atttriute"
+"Southern rock","Concept"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+7aa938c5-53b4-4512-a9db-7ca443edfc9b
+"label","character"
+"Dog Days (anime)","cadroon"
+"Miracle Giants Dome-kun","Anime"
+"Moomin (1990 TV series)","anime"
+"Otogi-Jūshi Akazukin","activity"
+"TaLleks f Litle Women","change of sEtae"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+634b5dce-999c-4e6a-931b-fb996058cef7
+"label","character"
+"Brazilianite","substance"
+"Bukovskyite","constituent"
+"Cyanotrichite","chemical substance"
+"Hypersthene","mineral"
+"MimeGtie","substSnce"
+
+
+
+5398c3b4-b61a-4a13-a406-2646420aac25
+"label","character"
+"Rathke's pouch","content"
+"Medial nasal prominence","noesis"
+"Paramesonephric duct","Thing"
+"Stratum intermedium","noesis"
+"Lateral lingual swelling","embryology"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+3f7bdf81-bfd3-455e-abe5-ab10dd927a67
+"label","character"
+"Blackburn Bluebird","aircraft"
+"Blackburn Buccaneer","Thing"
+"Blackburn mKangroo","bplanWe"
+"Blackburn Skua","DesignedArtifact"
+"Boeing 367-80","aircraft"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+e8a904bd-ee49-41f6-80b6-0af0299246b5
+"label","label","type"
+"Drwjria","Dgrewri","uhit"
+"Gnetum","","plant"
+"Gnetum gnemon","","Eukaryote"
+"Gnetum africanum","","Thing"
+"Ephedra altissima","","Eukaryote"
+
+
+FALSE
+
+790f6c21-c49d-4218-84f5-fabb25fd0b06
+"label","character"
+"Bob Gerard","agent"
+"Boy Hayje","racing driver"
+"Brian Henton","NaturalPerson"
+"Brian Redman","NaturalPerson"
+"Carlos Pace","agent"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+a5751bb6-2a75-4bd7-8f14-a3a9f3e42ad5
+"label","character"
+"Saiareaa","islOnd"
+"Sulawesi","Island"
+"Sumatra","human settlement"
+"Sumbawa","country"
+"Adelsö","geographical area"
+
+
+FALSE
+
+aed07f90-bff5-4f38-aad3-028f9b864e1a
+"label","character"
+"Christian Ulmer","skier"
+"Cristina Bes Ginesta","winter sport Player"
+"Denis Trento","skier"
+"Devon Kershaw","skier"
+"Egon Zimmermann","jock"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+9aa48702-b8f1-4613-ba3c-39253d5275b2
+"label","character"
+"Jacques Misonne","person"
+"Rubén Uriza","person"
+"Viktor Poganovsky","horseback rider"
+"Shane Adams","person"
+"André Johannpeter","NaturalPerson"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+0183f910-d9e0-414e-91f7-3516ef3ce108
+"label","character"
+"James Green (bishop)","person"
+"Maher Al Mueaqly","Thing"
+"Matteo Ricci","map maker"
+"Michael Zimmerman (jurist)","person"
+"Mohammad-Taqi Bahjat Foumani","NaturalPerson"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+94235db0-059a-4de7-8ce8-c83833d79c3d
+"label","character"
+"Downing College, Cambridge","CollegeOrUniversity"
+"Somerville College, Oxford","organisation"
+"ChristF's ololge, Cambridge","Ojrganizatio"
+"Peterhouse, Cambridge","EducationalOrganization"
+"TDrnDity College, Cambride","oraneisation"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+b2cc0287-b7c8-4ff3-b956-c3b7cc120412
+"label","character"
+"Pyraechmes","Person"
+"Boösaule","person"
+"Lyrcea","object"
+"Pelagon","person"
+"SipDium","NatVuralPersn"
+
+
+FALSE
+
+73211cfa-9309-4160-90ba-cc4e6e5228f7
+"label","character"
+"Franz Johannsen","person"
+"Maren Knebel","person"
+"Martin Lang (canoeist)","Thing"
+"Peter Korsch","NaturalPerson"
+"Waltraud Schale","agent"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+b93bc9b7-3601-4fba-88a9-5d7bd3f496d3
+"label","character"
+"Golden Delicious","Thing"
+"Goldfinger banana","cultivar"
+"Granny Smith","animate thing"
+"Guzmania 'Carine'","plant"
+"Hami melon","fruit"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+5bfe7424-6e11-4132-acbc-ddba2b652b00
+"label","character"
+"DvempsterStreet","objQct"
+"Djursholmsbanan","Place"
+"Domnjgo Fautino SarQmiento Railway","abzstrct entity"
+"E. L. Patton Yukon River Bridge","Location"
+"Exe Valley Railway","railway line"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+ff65a59f-90b0-4b6a-b7c7-82f7ba378ace
+"label","character"
+"The Claridge Hotel (Atlantic City)","gambling casino"
+"W San Francisco","artifact"
+"Dalen Hotel","building"
+"Divan Istanbul","hotel"
+"Lotte Hotel Moscow","place"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+c8563678-af6b-42cf-83e7-b651c503858d
+"label","character"
+"Battle of Almonacid","societal event"
+"Battle of Brunanburh","Thing"
+"Battle ofCraonRne","Epvnt"
+"Battle of Eckmühl","Thing"
+"Battle of Route Coloniale 4","conflict"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+f1481f0f-4cf6-47bf-87f3-811b312b101b
+"label","label","type"
+"No.l.ita","No.l.ita","social group"
+"Richard Edwards (fashion company)","","grouping"
+"Dimension (shampoo)","","chemical substance"
+"Tobi trousers","","fashion"
+"Clothing swap","","Concept"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+607bebf1-dc45-4d24-b292-8a98a5e1087d
+"label","character"
+"Snowmass Mountain","mountain"
+"The Fortress (Alberta)","Location"
+"The Sphinx (Wyoming)","Thing"
+"TThe Sphinx (olcano)","Loatioxn"
+"Zuni-Bandera volcanic field","Mountain"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+bf859f84-7acc-45b2-aa15-8b6e5b535798
+"label","type","championship"
+"Frank_Luntz__1","person function","Republican PartyStrategist, Communication Consultant, andPolitical pollster"
+"Frederick_Wliam_HWallace_x_1","TiOng","JournadlistD, hotogJrapher, hitorian, novelis"
+"Gad_Granach__1","person function","Author"
+"Gareth_Jones_(journalist)__1","Thing","Journalist"
+"Gavin_Lee__1","Thing","Stage actor, singer and dancer"
+
+Subject column: 2
+Subject columns identified: 1
+
+
+5fb68330-7b78-49a3-8816-af1f1b122e87
+"label","character"
+"Chris Catalyst","NaturalPerson"
+"Martin Quittenton","guitarist"
+"DaveT Colwel","ageMt"
+"JCed OToole","guitaPrit"
+"Mel Galley","person"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+b123bf9e-4e81-4dbc-a2d6-5ce3a0f65d18
+"label","label","type"
+"Bacillus thuringiensis","Bacillus thuringiensis","object"
+"Enterobacteriaceae","Enterobacteriaceae","bacteria"
+"Proteobacteria","Proteobacteria","species"
+"Acinetobacter baumannii","Acinetobacter baumannii","Pathogenic bacteria"
+"Bacteroidetes","Bacteroidetes","physical entity"
+
+
+FALSE
+
+05d5ae90-71cb-47ed-88e3-27be5c1014e6
+"label","character"
+"Women's Baseball World Cup","OrganizationOfOrganizations"
+"Middle Atlantic League","Thing"
+"Coastal Plain League","association"
+"Mexican League","Agent"
+"Venezuelan Summer League","organisation"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+aed009d7-55f6-43df-aa18-95bcc8cbdf7b
+"label","gossip","arsenic","label","type"
+"Solar eclipse of March 31, 2090","2090年3月31日日食为一次在协调世界时2090年3月31日出現的一次日偏食。本次日食食分為0.7843。","","2090年3月31日日食","Event"
+"Solar eclipse of May 18, 1920","1920年5月18日日食为一次在协调世界时1920年5月18日出現的日偏食。本次日食食分為0.9734。","m.09rs_g5","1920年5月18日日食","solar eclipse"
+"Solar eclipse of May 22, 2096","2096年5月22日日食为一次在协调世界时2096年5月22日出現的一次日全食。本次日食食分為1.0737，食甚維持時間6分6秒。","m.09g8sqj","2096年5月22日日食","natural event"
+"Solar eclipse of April 30, 1957","An annular solar eclipse occurred on April 30, 1957. A solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth. An annular solar eclipse occurs when the Moon's apparent diameter is smaller than the Sun's, blocking most of the Sun's light and causing the Sun to look like an annulus (ring). An annular eclipse appears as a partial eclipse over a region of the Earth thousands of kilometres wide.","Solar eclipse of April 30, 1957","1957年4月30日日食","Event"
+"Solar eclipse of May 11, 2059","De totale zonsverduistering van 11 mei 2059 trekt veel over zee, maar is op land zichtbaar vanuit deze 4 landen : Peru, Ecuador, Colombia en Brazilië.","m.09k4ych","Zonsverduistering van 11 mei 2059","Event"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+4844864b-0084-458a-b63e-9d0868d5ed62
+"label","character"
+"Heart Lake (Michigan)","Place"
+"HCeat Lake(CMinnesota)","Ltak"
+"Heart Lake (Ontario)","BodyOfWater"
+"Heart Lake (Soldier Mountains)","LakeBodyOfWater"
+"Heart Lake (White Cloud Mountains)","Thing"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+0f10150a-c14e-43d9-b5d8-cc0cb280fe6c
+"label","character"
+"Egon Zimmermann","causal agency"
+"Emre Şimşek","agent"
+"Erbien Wennemas","sateqr"
+"Eric Cairns","human"
+"Erik Rasmussen (ice hockey)","Thing"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+ebea564c-5c26-41b2-ae2f-c76b7ec8341d
+"label","character"
+"United States Lacrosse League","SocialPerson"
+"American Lacrosse League","league"
+"Ontario Junior A Lacrosse League","grouping"
+"NCAA Division I Women's Lacrosse Championship","organisation"
+"West Coast Senior Lacrosse Association","organization"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+f75b761a-c40a-4d04-81a3-d65b16b1eb69
+"label","character"
+"The Amazing Spider-Man","work"
+"The Beano","work"
+"Justice eagnue","cBhane of state"
+"Blueberry (comics)","written work"
+"PomPethea","aTbstractentity"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+c9b49d96-f78b-4d91-bf58-d870d24183cd
+"label","character"
+"Bernal v. Fainter","case"
+"Betts v. Brady","Thing"
+"Colegrove v. Green","Event"
+"Cruzan v. Director, Missouri Department of Health","Situation"
+"Cutter v. Wilkinson","Supreme Court of the United States case"
+
+Subject column: 0
+Subject columns identified: 2
+
+
+29c7f380-ee28-42e4-97f7-c68304eff158
+"label","character"
+"Jonathan Craven","human"
+"Stephen Susco","Thing"
+"Catherine Carr (screenwriter)","screenwriter"
+"David Scarpa","NaturalPerson"
+"J. Edward Hungerford","Thing"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+8555988a-981a-4f42-b23d-8d40b9a3e343
+"label","character"
+"Uzbekistan women's national handball team","Organization"
+"VKLSE Győr","organization"
+"Venezuela national handball team","Thing"
+"Thames Handball Club","Organization"
+"CSM Ploiești (men's handball)","organization"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+76b82a90-38b1-4700-a8e4-116cf3c09d3b
+"label","character"
+"Erector spinae muscles","skeletal muscle"
+"Ciliary muscle","Muscle"
+"Piriformis muscle","Hip muscles"
+"Gluteus medius muscle","part"
+"Hypothenar eminence","organ"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+8f9fa797-cc52-4a04-a0ef-df0b9b9854cb
+"label","character"
+"Anthony the Great","saint"
+"Apollos","Person"
+"ARthanaksis of Alexandri","aAent"
+"Barnabas","NaturalPerson"
+"Bede","human"
+
+
+FALSE
+
+885ceca7-6de0-4efd-b980-4d85aaabda2a
+"label","character"
+"Bedwell Harbour Water Aerodrome","Airport"
+"Bonaventure Airport","SpatialThing"
+"Burgos Airport","SpatialThing"
+"Ciudad de atamaybo tArport","aiirpor"
+"Damascus International Airport","airport"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+351d70ba-8721-43e6-83e2-97ca9a2ff162
+"label","character"
+"Seta Sōjirō","fictional character"
+"Shigure Sohma","Agent"
+"Yotsuba Koiwai","person"
+"Dr. Tenma","abstract entity"
+"Fujiko MZin","fctional charwacter"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+945a0167-18b7-40e4-8d3b-9a4594fd53a2
+"label","character"
+"Tadpole Bridge","place"
+"Third Avenue Bridge (New York City)","infrastructure"
+"Yavuz Sultan Selim Bridge","Place"
+"Atchafalaya Basin Bridge","architectural structure"
+"Lexington Bridge (Mississippi River)","object"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+a49443ac-265e-4d31-8ff4-6f7f72b6dcc5
+"label","arsenic","label","type","gossip","abstraction","washington"
+"PorceKllionies","Porcellionizds","PorcelDlinides","CrOustacea","PorcelliUoide i a Tgenus ofB woodlice in the fTamily Porellioidae. It includesthe followingB spAecies :","Porcellionidesis a gkenus of woohdlice in the famibRly PorellAionidae. t inlues thqe folloing species :","Porcellionides?oldid=543155515"
+"Eusiridae","","Eusiridae","Crustacean","Eusiridae is a family of amphipods. It contains the following genera:","Eusiridae is a family of amphipods. It contains the following genera:","Eusiridae?oldid=549219960"
+"Potamalpheops","m.0gg9gh","Potamalpheops","species","Potamalpheops is a genus of shrimp in the family Alpheidae. It was originally erected by Powell in 1979 to house species from Africa. Later, Horton H. Hobbs, Jr. realised that the troglobitic shrimp he had described in 1973 from Oaxaca, Mexico as Alpheopsis stygicola, also belonged to the genus, and in 1991, A. J. Bruce described a new species from Australia, further expanding the genus' geographical range. It is now thought to represent a relict taxon from the Tethys Sea.The following species are currently accepted as valid:","Potamalpheops is a genus of shrimp in the family Alpheidae. It was originally erected by Powell in 1979 to house species from Africa. Later, Horton H. Hobbs, Jr. realised that the troglobitic shrimp he had described in 1973 from Oaxaca, Mexico as Alpheopsis stygicola, also belonged to the genus, and in 1991, A. J. Bruce described a new species from Australia, further expanding the genus' geographical range. It is now thought to represent a relict taxon from the Tethys Sea. The following species are currently accepted as valid:","Potamalpheops?oldid=608795531"
+"Calenus","m.0b71bx","CaanHus","Eukariote","Calanuls is eexn geslachft an enoogkreeftes uit de familievan de CaElanidae.","",""
+"Campylonotoidea","Campylonotoidea","Campylonotoidea","species","Campylonotoidea é uma superfamília de crustáceos decápodes marinhos da infraordem Caridea (camarões). A superfamília agrupa duas famílias: Campylonotidae e Bathypalaemonellidae. Conhecem-se 16 espécies validamente descritas, repartidas por 3 géneros, todas extantes, não sendo conhecidos fósseis do grupo.","",""
+
+FALSE
+
+
+9808c752-384a-4328-b190-6cb6a7fb6bbd
+"label","label","type","gossip"
+"Jerry and Jumbo","ジェリーとジャンボ","work","Jerry e il jumbo (Jerry and Jumbo) è un film del 1953 appartenente alla filmografia di Tom & Jerry. Fu distribuito nelle sale statunitensi il 21 febbraio del 1953 dalla Metro-Goldwyn-Mayer."
+"Corn on the Cop","Pattuglia acrobatica (film)","cartoon","Pattuglia acrobatica (Corn on the Cop) è un cortometraggio Merrie Melodies uscito nel 1965, diretto da Irving Spector e scritto da Friz Freleng. Questo è la missione poliziesca per Daffy Duck e Porky Pig."
+"The Hot Air Salesman","The Hot Air Salesman","work","The Hot Air Salesman is a 1937 Fleischer Studios animated short film starring Betty Boop and featuring Wiffle Piffle."
+"Musical Mountaineers","Musical Mountaineers","cartoon","Musical Mountaineers is a 1939 Fleischer Studios animated short film starring Betty Boop."
+"Riding the Rails","Riding the Rails","work","Riding the Rails is a 1938 Fleischer Studios animated short film featuring Betty Boop and Pudgy the Pup. Although some sources claim that this film was nominated for an Academy Award, it does not appear in the official Academy Awards database.The film inspired a large variety of collectibles in the 1930s, although originals are now rare to find."
+
+Subject column: 0
+Subject columns identified: 2
+
+
+9a6080a5-772d-4bba-a320-8df350aa12cf
+"label","character"
+"Mission Inn Resort & Club","artifact"
+"Five Nations Golf Club","golf course"
+"Woodbury Country Club","Place"
+"Grey Silo Golf Course","sport facility"
+"Invercargill Golf Club","Location"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+5af761fd-d3dc-4ecd-82b9-75facb3b1174
+"label","character"
+"Dave Simons","person"
+"Ed McGuinness","cartoonist"
+"Graham Nolan","Thing"
+"Greg Fox (cartoonist)","NaturalPerson"
+"Jaime Hernandez","artist"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+70708737-eb01-4078-990d-59ceca2250fe
+"label","character"
+"WaldstXsein (mountai rage)","mountaki"
+"Westen Aplps","Plazc"
+"Wet Mountains","object"
+"Driftwood Range","mountain"
+"Maloti Mountains","Place"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+84fd6b46-7231-4770-974f-1a889ef79030
+"label","character"
+"Schosbs Rosegg","cVaste"
+"TaornacoCastle","SpatQialThig"
+"Burgruine Reifenstein","artifact"
+"Château d'Abbadie","castle"
+"Château d'Arcelot","house"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+aaf83b13-7b01-45e4-95a5-f700f7412b1b
+"label","character"
+"Dace Munča","winter sport Player"
+"Lene Nielsen","Person"
+"Yumie Funayama","Person"
+"Alexey Stukalskiy","agent"
+"Ann Swisshelm","device"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+619b7b37-08b4-40c0-8233-38fe22f3a14d
+"label","type","label"
+"Beryl","communication","بيريل"
+"Biotite","ChemicalObject","Biotita"
+"Corundum","mineral","Korund"
+"Diamond","chemical substance","ダイヤモンド"
+"Emerald","Thing","زمرد"
+
+FALSE
+
+
+3c2bcdd4-23a1-454d-98c9-b8dc049a7802
+"label","character"
+"2011 Open International Féminin Midi-Pyrénées Saint-Gaudens Comminges","tournament"
+"2011 Poznań Porsche Open","abstract entity"
+"2011 Sparta Prague Open","psychological feature"
+"2013 ATP China International Tennis Challenge","tennis tournament"
+"2013 Aegon Championships","Event"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+4e251139-7c46-4f5c-a3bd-c29521906735
+"label","character"
+"Cosmic Coaster (Valleyfair)","roller coaster"
+"Demon (roller coaster)","Location"
+"Dragon (Adventureland)","abstract entity"
+"Dragon Coaster (Playland)","upheaval"
+"Galactica (roller coaster)","disorder"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+3ca6a90b-266b-40b2-96dc-e733f6598361
+"label","character"
+"First PresbytmriaZn Church (Houson)","plfce"
+"First Presbyterian Church (Jackson, Mississippi)","church"
+"First Presbyterian Church (San Luis Obispo, California)","church"
+"First Presbyterian Church (Tulsa)","historic building"
+"First Presbyterian Church (Vallejo, California)","church"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+6de7da0c-850c-4bbe-928c-89bc1d323e12
+"label","character"
+"Akari Hibino","actor"
+"Minoru Shiraishi","person"
+"Re IshizukTa","Tbhig"
+"RieKBanda","NaturalPrsoDn"
+"Rie Nakagawa","person"
+
+
+FALSE
+
+d2b8a254-1236-4dac-96f7-85936db871bc
+"label","gossip","abstraction","nation","label","washington","character"
+"Limestone Umpire Association","The Limestone Umpire Association, or the LUA, is a localized softball umpire association that serves the Kingston, Ontario, Canada and surrounding regions. Founded in 2014, it began as a small group that covered a local men's fastball league. For the 2015 softball season, the group quadrupled in size and began covering two men's fastball leagues, 3 surrounding areas' minor fastball programs as well as area slo pitch tournaments.","The Limestone Umpire Association, or the LUA, is a localized softball umpire association that serves the Kingston, Ontario, Canada and surrounding regions. Founded in 2014, it began as a small group that covered a local men's fastball league. For the 2015 softball season, the group quadrupled in size and began covering two men's fastball leagues, 3 surrounding areas' minor fastball programs as well as area slo pitch tournaments.","Canada","Limestone Umpire Association","Limestone_Umpire_Association?oldid=706117560","Agent"
+"Asian Men’s Softball Championship","The Asian Men’s Softball Championship is the main championship tournament between national men's softball teams in Asia, governed by the Softball Confederation of Asia.","","","Asian Men’s Softball Championship","","sports league"
+"National Pro Fastpitch","","","","","","abstract entity"
+"Ontario Amateur Softball AsociatiSun","","","","","","sports eaTgue"
+"Women's Softball World Championship","","","","","","organization"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+dd6b3b63-7057-441a-9587-17fccded2e04
+"label","character"
+"Peter Ebdon","champ"
+"Ray Reardon","agent"
+"Brian Morgan (snooker player)","athlete"
+"Davd Hoan (ksnoowker player)","AgeKt"
+"Fergal O'Brien","snooker player"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+6604aed4-8b5a-4cf7-9918-1bb406b471ac
+"label","character"
+"70 Ophiuchi","dMouble tar"
+"82 G. Eridani","star"
+"Beta Hydri","Place"
+"Delta Pavonis","heavenly body"
+"GSC 02652-01324","object"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+0cc4ed2b-b628-414a-82dd-cac0e3b503e4
+"label","character"
+"Phillip D. Cagan","person"
+"Richard Stone","Thing"
+"Robert Fogel","person"
+"Ross Levine","economist"
+"Smuel owles (econiTomist)","Agget"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+107b0fd9-f470-42b2-bf01-cd2e4a42dbe8
+"label","arsenic","type","label","gossip","abstraction","primary","washington"
+"Elegy in April and September","","Thing","Elegy in April and September","Elegy in April and September is a poem by Wilfred Owen. It deals with the atrocities of World War I.","Elegy in April and September is a poem by Wilfred Owen. It deals with the atrocities of World War I.","Elegy_in_April_and_September","Elegy_in_April_and_September?oldid=683117338"
+"The Wind Shifts","","CreativeWork","The Wind Shifts","The Wind Shifts is a poem from Wallace Stevens's first book of poetry, Harmonium. It was first published in 1917, so it is in the publicdomain.The wind shifts explains why John Gould Fletcher detected a poet out of tune with life and with his surroundings. (See the main Harmonium essay.)Buttel cites this poem as an example of Stevens's mastery of repetition within free verse. The repetition of the wind shifts underscores the associated human feelings, and heavy and heavy adds to the effect of leaden monotony.","The Wind Shifts is a poem from Wallace Stevens's first book of poetry, Harmonium. It was first published in 1917, so it is in the publicdomain. The wind shifts explains why John Gould Fletcher detected a poet out of tune with life and with his surroundings. (See the main Harmonium essay.) Buttel cites this poem as an example of Stevens's mastery of repetition within free verse. The repetition of the wind shifts underscores the associated human feelings, and heavy and heavy adds to the effect of leaden monotony.","The_Wind_Shifts","The_Wind_Shifts?oldid=582072732"
+"Aintiṇai Aimpatu","","work","Aintiṇai Aimpatu","Ainthinai Aimpathu(Tamil: ஐந்திணை ஐம்பது) is a Tamil poetic work belonging to the Pathinenkilkanakku anthology of Tamil literature. This belongs to the 'post Sangam period' corresponding to between 100 – 500 CE. Ainthinai Aimpathu contains fifty poems written by the poet Kannankoothanaar who lived in Madurai.","Ainthinai Aimpathu(Tamil: ஐந்திணை ஐம்பது) is a Tamil poetic work belonging to the Pathinenkilkanakku anthology of Tamil literature. This belongs to the 'post Sangam period' corresponding to between 100 – 500 CE. Ainthinai Aimpathu contains fifty poems written by the poet Kannankoothanaar who lived in Madurai. The poems of, Ainthinai Aimpathu, deal with the agam (internal) subjects. Agam in the Sangam literature denotes the subject matters that deal with the intangibles of life such as human emotions, love, separation, lovers' quarrels, etc. The poems of Ainthinai Aimpathu are categories into ten poems for each of the five thinai, or landscape of Sangam poetry and describe in detail the situation and emotions specific to each landscape. The five landscapes of Sangam poetry are mullai – forest, kurinji – mountains, marutham – farmland, paalai – arid land and neithal – seashore.","","Aintiṇai_Aimpatu?oldid=544463050"
+"Hymn from a Watermelon Pavilion","Hymn From a Watermelon Pavilion","work","Hymn from a Watermelon Pavilion","Hymn From A Watermelon Pavilion is a poem from Wallace Stevens's first book of poetry, Harmonium. It was first published in 1917, so it is in the public domain.The dweller in the dark cabin may be understood to be the specifically poetical dreamer, like the old sailor in Disillusionment of Ten O'Clock. Stevens enjoins him not to sleep in his dream, but rather to explore its riches. If the sleeper rises to do so, he will not waken, for he is still in the dream. The poem should be compared to Anecdote of Canna. (In another vein, it can also be compared to Of Heaven Considered As a Tomb, in which the poet exhorts interpreters to Make hue among the dark comedians and Halloo them in the topmost distances as he in this poem exhorts his addressee, a dweller in a dark cabin, to ha","Hymn From A Watermelon Pavilion is a poem from Wallace Stevens's first book of poetry, Harmonium. It was first published in 1917, so it is in the public domain. The dweller in the dark cabin may be understood to be the specifically poetical dreamer, like the old sailor in Disillusionment of Ten O'Clock. Stevens enjoins him not to sleep in his dream, but rather to explore its riches. If the sleeper rises to do so, he will not waken, for he is still in the dream. The poem should be compared to Anecdote of Canna. (In another vein, it can also be compared to Of Heaven Considered As a Tomb, in which the poet exhorts interpreters to Make hue among the dark comedians and Halloo them in the topmost distances as he in this poem exhorts his addressee, a dweller in a dark cabin, to hail, cry hail, cry hail.) Doggett interprets the poem differently, without imputing a dream world explored by the poet. The dweller is the self, and the dark cabin is the body. The dweller's sense of reality is obscured as though in a dream, but beside [his] cabin is the vivid actual plantain of green reality and the sun. Buttel comments on the poem's title. How appropriate, he writes, for Stevens' theme to infuse, by such imaginative conjoinings [American watermelon, French pavilion], the earthy, vigorous reality of America with the grace of French words. By such means he was able to be richly aesthetic without sacrificing vitality.","Hymn_from_a_Watermelon_Pavilion","Hymn_from_a_Watermelon_Pavilion?oldid=605887292"
+"Tea (poem)","Tea","work","Tea (poem)","Tea is a poem from Wallace Stevens's first book of poetry,Harmonium. It was firstpublished in 1915 in the journal Rogue, so it is in the public domain.Eleanor Cook observes that Tea is one of two seemingly (but far from) slight poems that close both editions of Harmonium, adding that this eight-line, one-sentence, free-verse virtuoso performance offers a very effective implicit leave-taking. (The other poem she is referring to is To the Roaring Wind, quoted at the bottom of the main Harmonium essay.)","Tea is a poem from Wallace Stevens's first book of poetry,Harmonium. It was firstpublished in 1915 in the journal Rogue, so it is in the public domain. Eleanor Cook observes that Tea is one of two seemingly (but far from) slight poems that close both editions of Harmonium, adding that this eight-line, one-sentence, free-verse virtuoso performance offers a very effective implicit leave-taking. (The other poem she is referring to is To the Roaring Wind, quoted at the bottom of the main Harmonium essay.) Cook compares Tea to Domination of Black, as being representative of all the troping of leaves through the collection. She suggests that the reference to Java may be significant not only because it was a center of tea-trade, but also because its sophisticated court culture at one time, notable for its subtleties and appreciation of artists, made it the kind of culture that Stevens especially liked. She also suggests that the poem expresses Stevens's delicately implicit trope of drinking tea as a metaphor for reading (ingesting a drink from leaves). She notes that Stevens was a tea-fancier. Robert Buttel characterizes this poem as light, witty, and rococo, and as displaying compression, concentration, and precision. The last four lines set the world of civilized order against the outdoor coldness, he writes, ending on a note of exotic beauty, color, and elegance.... He suggests that the experience or feeling of being civilized is presented symbolically in Tea. It is one of the two earliest Stevens poems to combine wit and elegance, according to Buttel, the other being Cy est Pourtraicte, Madame Ste Ursule, et les Unze Mille Vierges, also published in 1915. The two poems are proofs that by 1915 Stevens had mastered the tools in the workshop of nineteenth-century poetry that he had set himself to learn, including imagism, impressionism, and symbolism. As mentioned in the main Harmonium essay (see the section The Mind of China), the poem shows the influence of orientalism on Stevens's work.","","Tea_(poem)?oldid=582076808"
+
+Subject column: 0
+Subject columns identified: 3
+
+
+a2aebca3-088e-4e0d-a276-a3ad0a09c6c4
+"label","character"
+"Skull Valley (Utah)","depression"
+"Tule Valley","formation"
+"Juab Valley","natural place"
+"Devil Canyon","valley"
+"Rapa Valley","object"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+67aba9aa-f188-4db5-a02b-f38631d0e2b4
+"label","character"
+"Bydgoszcz ArchSes","Oranizatiqon"
+"Bydgoszcz Raiders","abstract entity"
+"Hull Hornets","eleven"
+"Portland Storm","SportsTeam"
+"Saskatoon Sirens","organization"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+fbf01e02-3743-4325-ac70-71c07b7e3862
+"label","label","type","gossip"
+"S N Balakrishnan","S N Balakrishnan","person","S N Balakrishnan is the second and the current Chancellor of Shiv Nadar University and the Chairperson of the Executive Council, the apex statutory body at the University. His brother, Shiv Nadar, is the founder of the university baring his name."
+"Yan Song (Ming dynasty)","厳嵩","agent",""
+"Wang Xijue","Wang Xijue","politician",""
+"Theobald von Bethmann-Hollweg","","human",""
+"Bernhard von Bülow","","chancellor",""
+
+Subject column: 0
+Subject columns identified: 1
+
+
+6b8ebdc5-a7b5-47d3-bad3-7f34b82c516d
+"label","character"
+"Dickerson Generating Station","power station"
+"Bath County Pumped Storage Station","SpatialThing"
+"Browns Fmrry Nuclar Powwer Plant","powerstatwion"
+"Cape Wind","place"
+"Chapelcross nuclear power station","Thing"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+93ea19c5-83fe-4151-8e68-3476225c44b9
+"label","character"
+"Esychrichtiida","bpute"
+"Fagales","abstract entity"
+"FloweBring plnt","EukaryotcCelll"
+"Galjoen","eukaryote"
+"Goeldi's marmoset","brute"
+
+
+FALSE
+
+58746f5b-b9e3-4b35-a6c6-89bfb2274548
+"label","character"
+"Bud McCartney","crimper"
+"Dorthe HoXl","huQan"
+"John Jahr","Agent"
+"Martin Snítil","person"
+"Megan Cormier","person"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+5d0bcad5-344f-4dea-a7de-247ed9b9506c
+"label","owner","label","character","placement","name","washington"
+"Cerveceria Costa Rica","Florida_Ice_&_Farm_CO._S.A.","Cerveceria Costa Rica","agent","Costa Rica","Cerveceria Costa Rica","Cerveceria_Costa_Rica?oldid=654299536"
+"Finnegans","","Finnegans","brewery","","","Finnegans?oldid=684363490"
+"Bosque Brewing Company","","Bosque Brewing Company","Agent","Albuquerque, New Mexico","","Bosque_Brewing_Company?oldid=707809828"
+"Best Damn Brewing Company","","Best Damn Brewing Company","agent","United States","","Best_Damn_Brewing_Company?oldid=702971228"
+"Grebbestad Bryggeri","","Grebbestad Bryggeri","Thing","","","Grebbestad_Bryggeri?oldid=696527071"
+
+Subject column: 0
+Subject columns identified: 2
+
+
+7dc219e8-5e5e-4825-a523-89a7ff894c3d
+"label","arsenic","label","type","gossip","abstraction","washington"
+"Calfskin","","Rindshaut","Concept","Als Rindshaut werden die behaarten Häute der verschiedenen Hausrind- und Wildrindrassen, Kalbfelle die behaarten Häute der Jungtiere bezeichnet. Als Nebenprodukt der Fleischindustrie sind sie eine Handelsware des Rauchwarenhandels. Rindshäute werden vorzugsweise zu Taschen, Stiefeln und Wohnaccessoires, Kalbfelle bevorzugt zu Übergangskleidung verarbeitet. In weitaus überwiegender Menge werden die Häute zu unbehaartem Leder gegerbt (→ Hauptartikel Rindsleder).Für Pelzbekleidung werden hauptsächlich Kalbfelle verwendet, diese Nutzung in der Moderne begann jedoch erst in den 1920er Jahren.","Als Rindshaut werden die behaarten Häute der verschiedenen Hausrind- und Wildrindrassen, Kalbfelle die behaarten Häute der Jungtiere bezeichnet. Als Nebenprodukt der Fleischindustrie sind sie eine Handelsware des Rauchwarenhandels. Rindshäute werden vorzugsweise zu Taschen, Stiefeln und Wohnaccessoires, Kalbfelle bevorzugt zu Übergangskleidung verarbeitet. In weitaus überwiegender Menge werden die Häute zu unbehaartem Leder gegerbt (→ Hauptartikel Rindsleder). Die Häute ausgewachsener Tiere sind grob und steif und werden schon deshalb kaum für Pelzzwecke genutzt. Einige Zeit lang wurden aus afrikanischen, in Spanien veredelte Stierhäuten Mäntel gearbeitet. Büffeldecken gehörten zur traditionellen Ausrüstung der nordamerikanischen Ureinwohner. Für Pelzbekleidung werden hauptsächlich Kalbfelle verwendet, diese Nutzung in der Moderne begann jedoch erst in den 1920er Jahren. Der Häutehandel unterscheidet außerdem zwischen Zahmhäuten und Wildhäuten. Als Zahmhäute werden diejenigen Häute der europäischen Hausrinder verstanden, die beim Schlachten zur Fleischnutzung anfallen.","Calfskin?oldid=684215805"
+"Toe cleavage","Toe_cleavage","Toe cleavage","Thing","Le toe cleavage est une expression anglophone désignant l'exposition partielle des orteils d'une femme à partir de l'empeigne de la chaussure. Cette expression est créditée pour la première fois par Alison Wood.L'aspect sensuel du toe cleavage provient de jeux sensuels. La dominatrice Claudia Varrin utilise le toe cleavage pour divertir un fétichiste du pied. La marque Frederick's of Hollywood décrit la chaussure ouverte comme « sexuellement suggestive » grâce au toe cleavage.","Toe cleavage is the partial exposure of a woman's toes in shoes that are cut low enough at the vamp. Low cut shoes reveal toe cleavage similar to how low cut tops reveal breast cleavage. Toe cleavage is considered to be fashionable by stylists such as Susan Conterno, columnist for FAMOUS magazine. Manolo Blahnik himself opined that the secret of toe cleavage, a very important part of the sexuality of the shoe is that You must only show the first two cracks.. Shoe designer Christian Louboutin takes a more provocative view of toe cleavage and states The point is, it's more provocative to show a low toe cleavage than it is wearing sandals that reveal all. In flip-flops you see everything but that is not at all sexy. He takes this further by relating The curved inside part of the foot, the instep, is the most sexy part so I like to close the heel and reveal the arch.According to fashion insiders, toe-cleavage shoes sans stockings are part of the unwritten dress code of the Voguette, as dictated by the magazine's longtime editor in chief Anna Wintour -- even in the bitter New York winter. Fashion advice also centers around the amount of appropriate toe cleavage. A pump (court shoe) with a slightly low vamp for a hint of toe cleavage should not be too racy for a conservative office. Financial guru Suze Orman says it is the only cleavage that should be shown around an office. The implied sexual aspects also come into play for some. Dominatrix Claudia Varrin references the attraction to stiletto pumps with the low vamp that allow lots of toe cleavage. And Frederick's of Hollywood has promoted open-toe shoes as sexually suggestive due to the toe cleavage.","Toe_cleavage?oldid=685149597"
+"Outfit of the day","m.0_yklrp","Outfit of the day","Thing","An outfit of the day (commonly abbreviated OOTD) is where fashion bloggers show what clothes (or outfits) they wear on a particular day or occasion. These are often media websites, such as Tumblr, Instagram, and Pinterest, as well as various videos on YouTube. Mostly used by a younger female demographic, one example of a typical current outfit of the day would be a top from Forever 21, low rise jeans from American Eagle, UGG Australia boots, as well as some accessories including a Coach purse, makeup, and various jewelry. Similar to these blogs are known as outfit(s) of the week (OOTW), where the blogger will display what they plan to wear during a whole week (or several days).","",""
+"Pure London","","Pure London","Annual events in London","Pure London is the UK’s leading fashion trade show which takes place twice a year in London Olympia. The timings of Pure ties in with the seasonal trends and buying patterns.Pure is predominantly focused on ready-to-wear womenswear, and has additional sections for young fashion (spirit) and footwear and accessories.","",""
+"Fujin (Headgear)","Fujin","Fujin (Headgear)","constituent","Fujin (Hanzi: 幅巾) is a type of guanmao (冠帽), a Chinese men’s traditional headgear made from a black fabric. It was usually worn with Shenyi in Ming Dynasty and Joseon period of Korea.","",""
+
+Subject column: 0
+Subject columns identified: 2
+
+
+846ef09b-cc6e-4bd2-95dc-8f567caf88c6
+"label","character"
+"Roman Catholic Diocese of San Isidro de El General","AdministrativeArea"
+"Roman Catholic Diocese of Tilarán-Liberia","clerical administrative region"
+"Diocese of Ontario","clerical administrative region"
+"Diocese of The Arctic","Location"
+"Episcopal Diocese of East Carolina","Jurisdiction%3E"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+353c1d68-bfd0-419a-aa6e-4fea2266565e
+"label","character"
+"Chetan Anand (badminton)","human"
+"Joanne Goode","grownup"
+"Johanna Persson","grownup"
+"Rajiv Ouseph","Person"
+"Raju Rai","Agent"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+2cea51d1-dfb6-4ca0-aaf1-b9f0b3940cbd
+"label","character"
+"Brian Jones (basketball, born 1978)","basketball player"
+"Brock Gillespie","basketball player"
+"Caris LeVert","basketball player"
+"Carlton Myers","human"
+"Chaz Carr","basketball player"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+e818694b-b4aa-4a25-b208-5efe8d70db2b
+"label","character"
+"Shacun Murpy (snoker plauyer)","hmasn"
+"Terry Griffiths","person"
+"Joe Davis","Person"
+"Peter Ebdon","Person"
+"Ray Reardon","snooker player"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+0a70573f-1e4b-4eb8-9d63-80f2a5f0cfcf
+"label","label","type"
+"Super Mario Bros.: The Lost Levels","Super Mario Bros.: The Lost Levels","work"
+"Civilization IV: Colonization","Civilization IV: Colonization","video game"
+"Forza Motorsport 6","Forza Motorsport 6","video game"
+"Heroes of Might and Magic IV","Heroes of Might and Magic IV","SoftwareObject"
+"Metal Gear Solid 4: Guns of the Patriots","ميتال غير سوليد 4: غنز أوف ذا بتريوتس","CreativeWork"
+
+Subject column: 0
+Subject columns identified: 2
+
+
+4f2312c5-12c3-48c2-a07f-8347f15372ae
+"label","character"
+"The Holocaust Industry","object"
+"The Metamorphosis","literary work"
+"The Plague","book"
+"The Three Stigmata of Palmer Eldritch","book"
+"The Time i Beztween","Bdok"
+
+Subject column: 0
+Subject columns identified: 1
+
+
+----------------------------------------------------------------------
+Ran 1 test in 1176.675s
+
+OK
+
