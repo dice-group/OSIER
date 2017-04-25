@@ -2,8 +2,8 @@ import os
 
 from osier.table import Table
 from osier.atomizer import atomize, dump_atomic_table, \
-    generate_atomic_table_id, get_atomic_table_path
-from osier.pathes import ATOMIC_TABLES_DIR
+    generate_atomic_table_id, get_atomic_table_path, update_table_index
+from osier.pathes import ATOMIC_TABLES_DIR, ATOMIC_TABLES_INDEX
 
 TEST_ID = "bf3817e4-de60-4d06-baba-95b6726a1e30"
 
@@ -59,6 +59,19 @@ def test_get_atomic_table_path():
     atomic_tables = atomize(table)
     atomic_table = atomic_tables[0]
     _path = get_atomic_table_path(atomic_table, path=ATOMIC_TABLES_DIR)
-
     _PATH = os.path.join(ATOMIC_TABLES_DIR, generate_atomic_table_id(atomic_table) + ".table")
     assert _path == _PATH
+
+def test_update_table_index():
+    table_id = "table_id"
+    atomic_table_id = "atomic_table_id"
+    ATOMIC_TABLES_INDEX_TEST = ATOMIC_TABLES_INDEX + ".test"
+    update_table_index(table_id, atomic_table_id, _index=ATOMIC_TABLES_INDEX_TEST)
+    update_table_index(table_id, atomic_table_id, _index=ATOMIC_TABLES_INDEX_TEST)
+    update_table_index(table_id, atomic_table_id, _index=ATOMIC_TABLES_INDEX_TEST)
+    _f = open(ATOMIC_TABLES_INDEX_TEST, 'rU')
+    for line in _f.readlines():
+        if line.startswith(table_id):
+            break
+    assert line == "%s,%s\n" %(atomic_table_id, table_id)
+    os.remove(ATOMIC_TABLES_INDEX_TEST)

@@ -2,7 +2,9 @@
 
 import random
 
-from osier.tablefactory import get_table_list, get_one_table, get_random_table
+from osier.tablefactory import get_table_list, get_one_table, \
+    get_random_table, load_atomic_tables
+from osier.atomizer import generate_atomic_table_id
 
 LIST_FIRST_ITEM = "001351a2-73fd-4550-be6c-601c98392acb"
 LIST_LAST_ITEM = "fff5d9c0-ea24-4d2e-a48d-a97e6b11ab9d"
@@ -30,3 +32,10 @@ def test_get_random_table():
     table_a = get_random_table()
     table_b = get_random_table()
     assert table_a.data != table_b.data
+
+def test_load_atomic_tables():
+    (atomic_table_ids, atomic_tables) = load_atomic_tables()
+    _ID = generate_atomic_table_id(atomic_tables[0])
+    assert atomic_table_ids[0] == _ID
+    assert len(atomic_tables[0][0]) == len(atomic_tables[0][1])
+    assert len(atomic_tables[0]) == 2

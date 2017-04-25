@@ -18,3 +18,6 @@ data-server-30:
 
 data-server-50:
 	docker run --name osier-data -d -p 80:80 earthquakesan/osier-data:server-50
+
+atomize:
+	python bin/atomize

@@ -1,0 +1,21 @@
+#!/usr/bin/env python
+
+from osier.atomizer import atomize, update_table_index, \
+    generate_atomic_table_id, dump_atomic_table
+from osier.tablefactory import get_table_list
+from osier.table import Table
+from osier.pathes import ATOMIC_TABLES_DIR, ATOMIC_TABLES_INDEX
+
+table_id_list = get_table_list()
+tables_to_process = len(table_id_list)
+for num, _id in enumerate(table_id_list):
+    print("Status: %s out of %s processed" % (num,tables_to_process,))
+    table = Table(_id)
+    atomic_tables = atomize(table)
+    for atomic_table in atomic_tables:
+        atomic_table_id = generate_atomic_table_id(atomic_table)
+        update_table_index(atomic_table_id, _id, _index=ATOMIC_TABLES_INDEX)
+        dump_atomic_table(atomic_table, path=ATOMIC_TABLES_DIR)
+    break
+
+print("Done!")

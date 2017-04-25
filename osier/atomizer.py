@@ -1,7 +1,7 @@
 import msgpack
 import os
 
-from osier.pathes import ATOMIC_TABLES_DIR
+from osier.pathes import ATOMIC_TABLES_DIR, ATOMIC_TABLES_INDEX
 from osier.util import generate_id
 
 def atomize(table):
@@ -21,6 +21,14 @@ def atomize(table):
         atomic_tables.append(atomic_table)
     return atomic_tables
 
+
+def update_table_index(table_id, atomic_table_id, _index=ATOMIC_TABLES_INDEX):
+    _f = open(_index, "a+")
+    line = "%s,%s\n" % (atomic_table_id, table_id)
+    _f.write(line)
+    _f.close()
+
+
 def dump_atomic_table(table, path=ATOMIC_TABLES_DIR):
     table_byte_string = msgpack.packb(table)
     table_id = generate_atomic_table_id(table)
@@ -30,9 +38,11 @@ def dump_atomic_table(table, path=ATOMIC_TABLES_DIR):
         _f.write(table_byte_string)
         _f.close()
 
+
 def generate_atomic_table_id(table):
     table_byte_string = msgpack.packb(table)
     return generate_id(table_byte_string)
+
 
 def get_atomic_table_path(table, path=ATOMIC_TABLES_DIR):
     table_id = generate_atomic_table_id(table)
