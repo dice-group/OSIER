@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Atomic tables
+*.table
+atomic_tables.index
+candidates_top_hash.data

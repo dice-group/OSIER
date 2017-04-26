@@ -28,14 +28,36 @@ def get_random_table():
 def load_atomic_tables():
     atomic_tables = []
     atomic_table_ids = []
-    file_list = os.listdir(ATOMIC_TABLES_DIR)
+    file_list = get_atomic_file_list(path=ATOMIC_TABLES_DIR)
     for _filename in file_list:
         if _filename.endswith(".table"):
-            filepath = os.path.join(ATOMIC_TABLES_DIR, _filename)
+            atomic_table = load_atomic_table(_filename, path=ATOMIC_TABLES_DIR)
             _id = _filename.split(".")[0]
-            _f = open(filepath, "rb")
-            atomic_table = msgpack.unpackb(_f.read())
-            _f.close()
             atomic_table_ids.append(_id)
             atomic_tables.append(atomic_table)
     return (atomic_table_ids, atomic_tables)
+
+def load_atomic_tables_lazy():
+    file_list = get_atomic_file_list(path=ATOMIC_TABLES_DIR)
+    for _filename in file_list:
+        if _filename.endswith(".table"):
+            atomic_table = load_atomic_table(_filename, path=ATOMIC_TABLES_DIR)
+            _id = _filename.split(".")[0]
+            yield (_id, atomic_table)
+
+def get_atomic_file_list(path=ATOMIC_TABLES_DIR):
+    return os.listdir(ATOMIC_TABLES_DIR)
+
+def load_atomic_table(_filename, path=ATOMIC_TABLES_DIR):
+    filepath = os.path.join(path, _filename)
+    _f = open(filepath, "rb")
+    atomic_table = msgpack.unpackb(_f.read())
+    _f.close()
+    return atomic_table
+
+def load_random_atomic_table():
+    file_list = get_atomic_file_list(path=ATOMIC_TABLES_DIR)
+    _filename = random.choice(file_list)
+    _id = _filename.split(".")[0]
+    atomic_table = load_atomic_table(_filename, path=ATOMIC_TABLES_DIR)
+    return (_id, atomic_table)
