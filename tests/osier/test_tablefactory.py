@@ -5,7 +5,7 @@ import random
 
 from osier.tablefactory import get_table_list, get_one_table, \
     get_random_table, load_atomic_tables, load_random_atomic_table, \
-    load_atomic_tables_lazy
+    load_atomic_tables_lazy, get_atomic_table, get_atomic_table_parent_id
 from osier.atomizer import generate_atomic_table_id
 
 LIST_FIRST_ITEM = "001351a2-73fd-4550-be6c-601c98392acb"
@@ -13,6 +13,8 @@ LIST_LAST_ITEM = "fff5d9c0-ea24-4d2e-a48d-a97e6b11ab9d"
 
 ONE_HEADER = ['label', 'character']
 ONE_DATA = [['label', 'character'], ['Dinagat bushy-tailed cloud rat', 'brute'], ['Dinagat gymnure', 'object'], ['Eastern red bat', 'object'], ['Fairway (horse)', 'equine'], ['Flares (horse)', 'horse']]
+
+ATOMIC_TABLE_ID = "35bf0edce0184a9b14e9a3f65047e94c"
 
 def test_get_table_list():
     table_list = get_table_list()
@@ -60,3 +62,12 @@ def test_load_atomic_tables_lazy():
         _ID = generate_atomic_table_id(atomic_table)
         assert _ID == _id
         break
+
+def test_get_atomic_table():
+    atomic_table = get_atomic_table(ATOMIC_TABLE_ID)
+    assert len(atomic_table[0]) == len(atomic_table[1])
+    assert len(atomic_table) == 2
+
+def test_get_atomic_table_parent_id():
+    table_parent = get_atomic_table_parent_id(ATOMIC_TABLE_ID)
+    assert table_parent == "b320a106-f5df-41ce-a57d-8852fb06edb8"

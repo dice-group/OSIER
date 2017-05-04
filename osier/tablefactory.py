@@ -4,9 +4,10 @@ import random
 import requests
 import os
 import msgpack
+import subprocess
 
 from osier.table import Table
-from osier.pathes import ATOMIC_TABLES_DIR
+from osier.pathes import ATOMIC_TABLES_DIR, ATOMIC_TABLES_INDEX
 
 OSIER_DATA_ENDPOINT = os.environ.get("OSIER_DATA_ENDPOINT", "http://localhost")
 TABLE_LIST_URI = OSIER_DATA_ENDPOINT + "/table/list"
@@ -44,6 +45,16 @@ def load_atomic_tables_lazy():
             atomic_table = load_atomic_table(_filename, path=ATOMIC_TABLES_DIR)
             _id = _filename.split(".")[0]
             yield (_id, atomic_table)
+
+def get_atomic_table(_id, path=ATOMIC_TABLES_DIR):
+    filename = os.path.join(path, "%s.table" % _id)
+    table = load_atomic_table(filename)
+    return table
+
+def get_atomic_table_parent_id(_id):
+    cmd = "grep %s %s" % (_id, ATOMIC_TABLES_INDEX,)
+    stdoutdata = subprocess.getoutput(cmd)
+    return stdoutdata.split(",")[0]
 
 def get_atomic_file_list(path=ATOMIC_TABLES_DIR):
     return os.listdir(ATOMIC_TABLES_DIR)

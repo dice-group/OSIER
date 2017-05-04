@@ -1,0 +1,28 @@
+#!/usr/bin/env python
+
+import pickle
+import os
+
+from osier.tablefactory import load_atomic_tables_lazy
+from osier.join import get_top_hash
+from osier.pathes import ATOMIC_TABLES_TOP_HASHES
+
+join_candidates = {}
+
+if os.path.exists(ATOMIC_TABLES_TOP_HASHES):
+    _f = open(ATOMIC_TABLES_TOP_HASHES, "rb")
+    join_candidates = pickle.load(_f)
+    _f.close()
+else:
+    for _id, atomic_table in load_atomic_tables_lazy():
+        if not isinstance(atomic_table[0], list):
+            continue
+        _hash = get_top_hash(atomic_table)
+        if not _hash in join_candidates:
+            join_candidates[_hash] = []
+        join_candidates[_hash].append(_id)
+    _f = open(ATOMIC_TABLES_TOP_HASHES, 'wb')
+    pickle.dump(join_candidates, _f)
+    _f.close()
+
+print(join_candidates)

@@ -5,12 +5,12 @@ import os
 
 from osier.tablefactory import load_atomic_tables_lazy
 from osier.join import get_top_hash
-from osier.pathes import ATOMIC_TABLES_TOP_HASHES
+from osier.pathes import ATOMIC_TABLES_TOP_HASHES_SENSE_VECTORS
 
 join_candidates = {}
 
 if os.path.exists(ATOMIC_TABLES_TOP_HASHES):
-    _f = open(ATOMIC_TABLES_TOP_HASHES, "rb")
+    _f = open(ATOMIC_TABLES_TOP_HASHES_SENSE_VECTORS, "rb")
     join_candidates = pickle.load(_f)
     _f.close()
 else:
@@ -25,4 +25,4 @@ else:
     pickle.dump(join_candidates, _f)
     _f.close()
 
-import ipdb; ipdb.set_trace()
+print(join_candidates)

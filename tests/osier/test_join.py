@@ -1,8 +1,10 @@
+import pickle
 import numpy
 
+from osier.pathes import ATOMIC_TABLES_TOP_HASHES
 from osier.join import vectorize_atomic_table, get_hash_values, \
-    get_top_hash
-from osier.tablefactory import load_random_atomic_table
+    get_top_hash, join_tables
+from osier.tablefactory import load_random_atomic_table, get_atomic_table
 
 def test_vectorize_atomic_table():
     while True:
@@ -30,3 +32,17 @@ def test_get_top_hash():
             break
     _hash = get_top_hash(atomic_table)
     assert isinstance(_hash, numpy.uint64)
+
+
+TOP_HASH = 5227332
+def test_join_tables():
+    # get join candidates
+    _f = open(ATOMIC_TABLES_TOP_HASHES, "rb")
+    join_candidates = pickle.load(_f)
+    _f.close()
+    table_ids = join_candidates[TOP_HASH]
+    tables = []
+    for table_id in table_ids:
+        table = get_atomic_table(table_id)
+        tables.append(table)
+    import ipdb; ipdb.set_trace()
