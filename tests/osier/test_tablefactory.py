@@ -5,7 +5,8 @@ import random
 
 from osier.tablefactory import get_table_list, get_one_table, \
     get_random_table, load_atomic_tables, load_random_atomic_table, \
-    load_atomic_tables_lazy, get_atomic_table, get_atomic_table_parent_id
+    load_atomic_tables_lazy, get_atomic_table, get_atomic_table_parent_id, \
+    get_table_group_by_hash, load_table_groups_lazy
 from osier.atomizer import generate_atomic_table_id
 
 LIST_FIRST_ITEM = "001351a2-73fd-4550-be6c-601c98392acb"
@@ -71,3 +72,15 @@ def test_get_atomic_table():
 def test_get_atomic_table_parent_id():
     table_parent = get_atomic_table_parent_id(ATOMIC_TABLE_ID)
     assert table_parent == "b320a106-f5df-41ce-a57d-8852fb06edb8"
+
+
+PLACES_HASH = 126944
+def test_get_table_group_by_hash():
+    tables = get_table_group_by_hash(PLACES_HASH, vectorization_type="lemmatize")
+    assert len(tables) > 3
+
+
+def test_load_table_groups_lazy():
+    for table_group in load_table_groups_lazy(vectorization_type="lemmatize"):
+        assert len(table_group) > 2
+        break

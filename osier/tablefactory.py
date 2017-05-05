@@ -5,9 +5,11 @@ import requests
 import os
 import msgpack
 import subprocess
+import pickle
 
 from osier.table import Table
-from osier.pathes import ATOMIC_TABLES_DIR, ATOMIC_TABLES_INDEX
+from osier.pathes import ATOMIC_TABLES_DIR, ATOMIC_TABLES_INDEX, \
+    ATOMIC_TABLES_TOP_HASHES_SIMPLE, ATOMIC_TABLES_TOP_HASHES_LEMMATIZE
 
 OSIER_DATA_ENDPOINT = os.environ.get("OSIER_DATA_ENDPOINT", "http://localhost")
 TABLE_LIST_URI = OSIER_DATA_ENDPOINT + "/table/list"
@@ -72,3 +74,31 @@ def load_random_atomic_table():
     _id = _filename.split(".")[0]
     atomic_table = load_atomic_table(_filename, path=ATOMIC_TABLES_DIR)
     return (_id, atomic_table)
+
+def get_table_groups(vectorization_type="simple"):
+    if vectorization_type == "simple":
+        _cache = ATOMIC_TABLES_TOP_HASHES_SIMPLE
+    elif vectorization_type == "lemmatize":
+        _cache = ATOMIC_TABLES_TOP_HASHES_LEMMATIZE
+
+    _f = open(_cache, "rb")
+    table_groups = pickle.load(_f)
+    _f.close()
+    return table_groups
+
+def get_table_group_by_hash(_hash, vectorization_type="simple"):
+    table_groups = get_table_groups(vectorization_type=vectorization_type)
+    return get_tables_by_hash(_hash, table_groups)
+
+def get_tables_by_hash(_hash, table_groups):
+    table_ids = table_groups[_hash]
+    tables = []
+    for table_id in table_ids:
+        table = get_atomic_table(table_id)
+        tables.append(table)
+    return tables
+
+def load_table_groups_lazy(vectorization_type="simple"):
+    table_groups = get_table_groups(vectorization_type=vectorization_type)
+    for _hash in table_groups:
+        yield get_tables_by_hash(_hash, table_groups)
