@@ -81,6 +81,6 @@ def test_get_table_group_by_hash():
 
 
 def test_load_table_groups_lazy():
-    for table_group in load_table_groups_lazy(vectorization_type="lemmatize"):
+    for (_hash, table_group) in load_table_groups_lazy(vectorization_type="lemmatize"):
         assert len(table_group) > 2
         break

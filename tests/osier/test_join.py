@@ -169,3 +169,6 @@ def test_deduplicate_table():
 def test_join_tables():
     table = join_tables(TEST_TABLES)
     assert table == DEDUPLICATED_TABLE
+
+# TODO: fix this stuff
+PROBLEMATIC_HASH = 333147

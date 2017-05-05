@@ -103,11 +103,10 @@ def join_two_rows(row_a, row_b):
 
 def linearize_table(table):
     rows = []
-    table_copy = copy.deepcopy(table)
-    while len(table_copy[0]) > 0:
+    for i in range(0, len(table[0])):
         row = []
-        for col in table_copy:
-            row.append(col.pop(0))
+        for col in table:
+            row.append(col[i])
         rows.append(row)
     return rows
 

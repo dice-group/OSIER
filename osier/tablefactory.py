@@ -101,4 +101,4 @@ def get_tables_by_hash(_hash, table_groups):
 def load_table_groups_lazy(vectorization_type="simple"):
     table_groups = get_table_groups(vectorization_type=vectorization_type)
     for _hash in table_groups:
-        yield get_tables_by_hash(_hash, table_groups)
+        yield (_hash, get_tables_by_hash(_hash, table_groups))
