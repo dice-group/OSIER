@@ -10,8 +10,9 @@ from osier.join import vectorize_atomic_table, get_hash_values, \
     lemmatize_atomic_table, get_atomic_table_header, squash_headers, \
     join_tables_by_subject_column, align_size_of_virtual_table, \
     linearize_table, deduplicate_table, join_two_rows, \
-    join_tables
-from osier.tablefactory import load_random_atomic_table, get_atomic_table
+    join_tables, columnize_table
+from osier.tablefactory import load_random_atomic_table, get_atomic_table, \
+    get_table_group_by_hash
 
 def test_vectorize_atomic_table():
     while True:
@@ -170,5 +171,18 @@ def test_join_tables():
     table = join_tables(TEST_TABLES)
     assert table == DEDUPLICATED_TABLE
 
-# TODO: fix this stuff
-PROBLEMATIC_HASH = 333147
+#PROBLEMATIC_HASH = 163757
+PROBLEMATIC_HASH = 23654
+def test_join_tables_by_hash():
+    tables = get_table_group_by_hash(PROBLEMATIC_HASH, vectorization_type="lemmatize")
+    joined_table = join_tables_by_subject_column(tables)
+    col_len = len(joined_table[0])
+    for col in joined_table:
+        assert len(col) == col_len
+    dedup_table = deduplicate_table(joined_table)
+
+
+def test_columnize_table():
+    col_table = columnize_table(DEDUPLICATED_TABLE)
+    assert len(col_table) == 3
+    assert len(col_table[0]) == len(col_table[1])

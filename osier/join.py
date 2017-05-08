@@ -8,8 +8,10 @@ def vectorize_atomic_table(atomic_table):
     return vector
 
 
-def lemmatize_column(column):
+def lemmatize_column(column, rows=None):
     vector = []
+    if rows:
+        column = column[:rows]
     for item in column:
         vector += get_lemmas_simple(item)
     return vector
@@ -20,6 +22,15 @@ def lemmatize_atomic_table(atomic_table):
              lemmatize_column(atomic_table[1])
     return vector
 
+def lemmatize_table(table, rows=None):
+    vector = []
+    if rows:
+        table = table[:rows]
+    for row in table:
+        for item in row:
+            if item:
+                vector += get_lemmas_simple(item)
+    return vector
 
 def get_hash_values(atomic_table, vectorization_type="simple"):
     table_vector = []
@@ -72,7 +83,11 @@ def deduplicate_table(joined_table):
     table_header = linear_table[0]
     deduplicated_table.append(table_header)
 
-    table_data = linear_table[1:]
+    # TODO: generate label if missing
+    table_data = []
+    for row in linear_table[1:]:
+        if row[0]:
+            table_data.append(row)
     table_data = sorted(table_data, key=lambda x: x[0])
     prev_row = table_data.pop(0)
     while len(table_data) > 0:
@@ -110,20 +125,28 @@ def linearize_table(table):
         rows.append(row)
     return rows
 
+def columnize_table(table):
+    cols = []
+    for i in range(0, len(table[0])):
+        col = []
+        for row in table:
+            col.append(row[i])
+        cols.append(col)
+    return cols
 
 def align_size_of_virtual_table(virtual_table):
-    prev_length = None
     virtual_header = []
     for _header_item in virtual_table.keys():
         _header_tuple = (_header_item, len(virtual_table[_header_item]))
         virtual_header.append(_header_tuple)
     virtual_header = sorted(virtual_header, key=lambda x: x[1], reverse=True)
+    prev_length = None
     for (_key, length) in virtual_header:
         current_length = len(virtual_table[_key])
         if prev_length:
             if current_length < prev_length:
                 virtual_table[_key] += [None]*(prev_length - current_length)
-        prev_length = current_length
+        prev_length = len(virtual_table[_key])
     return virtual_table
 
 
