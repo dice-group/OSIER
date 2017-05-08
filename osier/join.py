@@ -13,7 +13,8 @@ def lemmatize_column(column, rows=None):
     if rows:
         column = column[:rows]
     for item in column:
-        vector += get_lemmas_simple(item)
+        if item:
+            vector += get_lemmas_simple(item)
     return vector
 
 

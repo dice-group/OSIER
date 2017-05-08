@@ -17,3 +17,5 @@ def test_infer_column_name():
     col_table = columnize_table(joined_table)
     column_name = infer_column_name(col_table[0])
     assert column_name == b"label"
+    column_name = infer_column_name(col_table[1])
+    assert column_name == b"place"
