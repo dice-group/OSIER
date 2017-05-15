@@ -6,8 +6,8 @@ import random
 
 from osier.pathes import ATOMIC_TABLES_TOP_HASHES_LEMMATIZE
 from osier.join import vectorize_atomic_table, get_hash_values, \
-    get_top_hash, join_tables_by_subject_column, lemmatize_column, \
-    lemmatize_atomic_table, get_atomic_table_header, squash_headers, \
+    get_top_hash, join_tables_by_subject_column, \
+    get_atomic_table_header, squash_headers, \
     join_tables_by_subject_column, align_size_of_virtual_table, \
     linearize_table, deduplicate_table, join_two_rows, \
     join_tables, columnize_table
@@ -45,21 +45,6 @@ def test_get_top_hash():
     _hash_lemmatize = get_top_hash(atomic_table, vectorization_type="lemmatize")
     assert isinstance(_hash_simple, numpy.uint64)
     assert isinstance(_hash_lemmatize, numpy.uint64)
-
-COLUMN_A = [b'label', b'The Moral Maze', b'ThLeVinyl Cafe', b'The Debaters', b'A Way with Words', b'America Abroad']
-def test_lemmatize_column():
-    vector = lemmatize_column(COLUMN_A)
-    assert len(vector) > len(COLUMN_A)
-    assert b'label' in vector
-
-def test_lemmatize_atomic_table():
-    while True:
-        (atomic_table_id, atomic_table) = load_random_atomic_table()
-        if isinstance(atomic_table[0], list):
-            break
-    vector = lemmatize_atomic_table(atomic_table)
-    assert len(vector) > len(atomic_table[0]) + len(atomic_table[1])
-
 
 TEST_TABLES = [
     [

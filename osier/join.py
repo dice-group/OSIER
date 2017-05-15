@@ -1,37 +1,12 @@
 import copy
 
 from datasketch.minhash import MinHash
-from osier.babelnet import get_lemmas_simple
+from osier.lemmatize import lemmatize_atomic_table
 
 def vectorize_atomic_table(atomic_table):
     vector = atomic_table[0] + atomic_table[1]
     return vector
 
-
-def lemmatize_column(column, rows=None):
-    vector = []
-    if rows:
-        column = column[:rows]
-    for item in column:
-        if item:
-            vector += get_lemmas_simple(item)
-    return vector
-
-
-def lemmatize_atomic_table(atomic_table):
-    vector = lemmatize_column(atomic_table[0]) +\
-             lemmatize_column(atomic_table[1])
-    return vector
-
-def lemmatize_table(table, rows=None):
-    vector = []
-    if rows:
-        table = table[:rows]
-    for row in table:
-        for item in row:
-            if item:
-                vector += get_lemmas_simple(item)
-    return vector
 
 def get_hash_values(atomic_table, vectorization_type="simple"):
     table_vector = []
@@ -122,7 +97,8 @@ def linearize_table(table):
     for i in range(0, len(table[0])):
         row = []
         for col in table:
-            row.append(col[i])
+            if col:
+                row.append(col[i])
         rows.append(row)
     return rows
 
@@ -131,7 +107,8 @@ def columnize_table(table):
     for i in range(0, len(table[0])):
         col = []
         for row in table:
-            col.append(row[i])
+            if row:
+                col.append(row[i])
         cols.append(col)
     return cols
 

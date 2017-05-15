@@ -1,12 +1,22 @@
-from statistics import mode
+from scipy.stats import mode
 
-from osier.join import lemmatize_table, lemmatize_column
+from osier.lemmatize import lemmatize_table, lemmatize_column
 
-def infer_table_class(table, rows=30):
+def infer_table_class(table, rows=30, skip_header=False):
     """Simply returning a mode of a lemma vector."""
+    if skip_header:
+        table = table[1:]
     lemma_vector = lemmatize_table(table, rows=rows)
-    return mode(lemma_vector)
+    if lemma_vector:
+        return mode(lemma_vector).mode.item()
+    else:
+        return b""
 
-def infer_column_name(column, rows=None):
+def infer_column_name(column, rows=30, skip_header=False):
+    if skip_header:
+        column = column[1:]
     lemma_vector = lemmatize_column(column, rows=rows)
-    return mode(lemma_vector)
+    if lemma_vector:
+        return mode(lemma_vector).mode.item()
+    else:
+        return b""
