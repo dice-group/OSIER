@@ -1,4 +1,4 @@
-from osier.babelnet import get_lemmas_simple
+from osier.babelnet.api import get_lemmas_simple
 
 def lemmatize_column(column, rows=None, skip_header=False):
     vector = []

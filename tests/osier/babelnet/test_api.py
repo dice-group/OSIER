@@ -143,7 +143,6 @@ def test_get_synset_translation():
     translations = get_synset_translation(WORD_1)
     assert 'WNTR:JA:大_都_市_。_0.42857_3_7 WNTR:ES:metrópoli_0.85714_6_7' in translations
 
-
 @raises(requests.exceptions.HTTPError)
 def test_empty_request_lemmas_simple():
     lemmas = get_lemmas_simple(None)
