@@ -1,7 +1,9 @@
 from osier.tablefactory import get_table_group_by_hash
-from osier.infer import infer_table_class, infer_column_name, get_top_n_terms
+from osier.infer import infer_table_class, infer_column_name, get_top_n_terms, \
+    infer_table_class_by_category
 from osier.join import join_tables, columnize_table
 from osier.lemmatize import lemmatize_table, lemmatize_column
+from osier.categorize import categorize_table
 
 EXAMPLE_HASH = 126944
 def test_infer_table_class():
@@ -26,8 +28,9 @@ PROBLEMATIC_HASH = 123927
 def test_infer():
     tables = get_table_group_by_hash(PROBLEMATIC_HASH, vectorization_type="lemmatize")
     joined_table = join_tables(tables)
-    _class = infer_table_class(joined_table, rows=5)
-    #print(_class)
+    _class = infer_table_class(joined_table, rows=5, skip_header=True)
+    import ipdb; ipdb.set_trace()
+    print(_class)
 
 CARDINALS_HASH = 18433
 def test_infer_cardinals():
@@ -36,6 +39,13 @@ def test_infer_cardinals():
     lemmas = lemmatize_table(joined_table)
     table_class = infer_table_class(joined_table, skip_header=True)
     assert table_class == "cardinal"
+
+PORN_ACTORS_HASH = 37891
+def test_infer_porn_actors():
+    tables = get_table_group_by_hash(PORN_ACTORS_HASH, vectorization_type="lemmatize")
+    joined_table = join_tables(tables)
+    category = infer_table_class_by_category(joined_table, skip_header=True)
+    assert category == b"entertainment_occupations"
 
 def test_get_top_n_terms():
     from collections import Counter

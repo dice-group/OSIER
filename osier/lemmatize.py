@@ -11,7 +11,6 @@ def lemmatize_column(column, rows=None, skip_header=False):
             vector += get_lemmas_simple(item)
     return vector
 
-
 def lemmatize_atomic_table(atomic_table, skip_header=False):
     vector = lemmatize_column(atomic_table[0], skip_header=skip_header) +\
              lemmatize_column(atomic_table[1], skip_header=skip_header)

@@ -1,8 +1,8 @@
 import requests
 import json
 
-ENDPOINT = "http://babelnet.aksw.org"
-#ENDPOINT = "http://localhost:4567"
+#ENDPOINT = "http://babelnet.aksw.org"
+ENDPOINT = "http://localhost:4567"
 
 def get_most_specific_term(terms):
     payload = json.dumps(terms)
@@ -47,6 +47,9 @@ def get_synset_pos(word):
 
 def get_synset_category(word):
     return _request(word, "/synset/category")
+
+def get_synset_category_with_super(word):
+    return _request(word, "/synset/category/withsuper")
 
 def get_synset_compound(word):
     return _request(word, "/synset/compound")

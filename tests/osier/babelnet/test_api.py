@@ -8,7 +8,8 @@ from osier.babelnet.api import get_lemmas_simple, get_lemmas, get_synset_lemma, 
     get_synset_domain, get_synset_edge, get_synset_example, \
     get_synset_gloss, get_synset_image, get_synset_image_one, \
     get_synset_uri_geonames, get_synset_uri_dbpedia, get_synset_uri_yago, \
-    get_synset_other_forms, get_synset_translation, get_most_specific_term
+    get_synset_other_forms, get_synset_translation, get_most_specific_term, \
+    get_synset_category_with_super
 
 WORD_1 = "city"
 WORD_2 = "town"
@@ -87,7 +88,12 @@ def test_get_synset_pos():
 def test_get_synset_category():
     categories = get_synset_category(WORD_1)
     assert "Demographics" in categories
-    assert "Administrative_divisions_of_the_United_States_by_state" in categories
+    assert "Urban_geography" in categories
+
+def test_get_synset_category_with_super():
+    categories = get_synset_category_with_super(WORD_1)
+    assert "Administrative_divisions" in categories
+    assert "Populated_places_by_type" in categories
 
 def test_get_synset_compound():
     compounds = get_synset_compound(WORD_2)
