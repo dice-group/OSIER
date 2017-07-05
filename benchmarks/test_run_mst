@@ -1,0 +1,3996 @@
+18433
+[[b'label', b'character'],
+ [b'Alberto di Jorio', b'Thing'],
+ [b'Alexandre Renard', b'Cleric'],
+ [b'Alo\xc3\xadsi Loruscheider', b'CRaHrdinal_CatholicBiop'],
+ [b'Andr\xc3\xa9-Damien-Ferdinand Jullien', b'associate'],
+ [b'Aurelio Sabattani', b'cardinal'],
+ [b'Basilio Pompilj', b'cardinal'],
+ [b'BechMaraButros al-tRahi', b'aenFt'],
+ [b'Bernard Francis Law', b'human'],
+ [b'Caesar Baronius', b'Person']]
+Table class: cardinal
+Column header: b'label'
+Column property: b'John_Kemp'
+Column header: b'character'
+Column property: b'cardinal'
+
+37891
+[[b'label', b'character'],
+ [b'C\xc3\xa9line Bara', b'person'],
+ [b'Eric Masterson (actor)', b'artist'],
+ [b'Frederick William Matthiessen', b'adult (pornographic) actor'],
+ [b'Gianna Michaels', b'artist'],
+ [b'James Deen', b'person']]
+Table class: hypostasis
+Column header: b'label'
+Column property: b'C\xc3\xa9line_Bara'
+Column header: b'character'
+Column property: b'person'
+
+69637
+[[b'label', b'arsenic'],
+ [b'Diana: Warrior Princess', b'Diana: Warrior Princess'],
+ [b'Havic: The Bothering', b'Havic: The Bothering'],
+ [b'Hero Wars', b''],
+ [b'History of the World (board game)', b'History of the World'],
+ [b'Labyrinth (marble game)', b'Labyrinth']]
+Table class: history_of_the_world
+Column header: b'label'
+Column property: b'Hero_Wars'
+Column header: b'arsenic'
+Column property: b'Labyrinth'
+
+163757
+[[b'label',
+  b'arsenic',
+  b'name',
+  b'length',
+  b'type',
+  b'abstraction',
+  b'world',
+  b'depiction',
+  b'insertion',
+  b'writer',
+  b'outline',
+  b'vineyard',
+  b'hassium',
+  b'nextseason',
+  b'management',
+  b'ability',
+  b'homepage',
+  b'description',
+  b'class',
+  b'ordering',
+  b'binomial',
+  b'team',
+  b'primary',
+  b'beginning',
+  b'player',
+  b'genome',
+  b'funded by',
+  b'added',
+  b'keywords',
+  b'year',
+  b'breeder',
+  b'prevseason',
+  b'id',
+  b'movie',
+  b'mutant',
+  b'serial',
+  b'vein',
+  b'commissioned',
+  b'course',
+  b'kingdom',
+  b'thumbnail',
+  b'owner',
+  b'output',
+  b'ensemble',
+  b'enginetype',
+  b'protein',
+  b'builddate',
+  b'part',
+  b'college',
+  b'championship',
+  b'road',
+  b'refseq mRNA',
+  b'genus',
+  b'deed',
+  b'manufacturer',
+  b'theme',
+  b'lattitude',
+  b'arrangement',
+  b'gene',
+  b'gender',
+  b'angstrom',
+  b'agent',
+  b'geometry',
+  b'differentFrom',
+  b'nanometer',
+  b'idaho',
+  b'harbinger',
+  b'active',
+  b'initiation',
+  b'weight',
+  b'claim',
+  b'headcoach',
+  b'taxonomy',
+  b'genre',
+  b'astuteness',
+  b'longitude',
+  b'abbreviation',
+  b'language',
+  b'acme',
+  b'audio',
+  b'date',
+  b'configuration',
+  b'sale',
+  b'clubhouse',
+  b'place',
+  b'publisher',
+  b'waterway',
+  b'financing',
+  b'venue',
+  b'boldness',
+  b'affiliation',
+  b'food-type',
+  b'nation',
+  b'city',
+  b'sphere',
+  b'planted',
+  b'grape',
+  b'street-address',
+  b'aggrandizement',
+  b'architect',
+  b'start',
+  b'yearconstruction',
+  b'capacitance',
+  b'performer',
+  b'completion',
+  b'goal',
+  b'album',
+  b'diligence',
+  b'inch',
+  b'shortstop',
+  b'maintained by',
+  b'diameter',
+  b'hybrid',
+  b'oldname',
+  b'wheelbase',
+  b'bridle',
+  b'mannequin',
+  b'related',
+  b'net'],
+ [b'%22African_Nude%22_-_NARA_-_559123.jpg?width=300',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  b'File:%22African_Nude%22_-_NARA_-_559123.jpg',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'%22For_the_Glory_of_the_Game%22.JPG?width=300',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  b'File:%22For_the_Glory_of_the_Game%22.JPG',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b"%22L'Absinthe%22,_par_Edgar_Degas_(1876).jpg?width=300",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  b"File:%22L'Absinthe%22,_par_Edgar_Degas_(1876).jpg",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b"'36_DeSoto_(Auto_classique_Laval_'11).JPG?width=300",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  b"File:'36_DeSoto_(Auto_classique_Laval_'11).JPG",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b"'Jurojin'_by_Shibata_Zeshin,_1887,_Honolulu_Museum_of_Art,_accession_458"
+  b'8.1.jpg?width=300',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  b"File:'Jurojin'_by_Shibata_Zeshin,_1887,_Honolulu_Museum_of_Art,_accessio"
+  b'n_4588.1.jpg',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b"'Nduja.JPG?width=300",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  b"File:'Nduja.JPG",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b"'The_Child_of_the_Cavern'_by_Jules_F\xc3\xa9rat_01.jpg?width=300",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  b"File:'The_Child_of_the_Cavern'_by_Jules_F\xc3\xa9rat_01.jpg",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b"'The_Lighthouse_at_the_End_of_the_World'_by_George_Roux_01.jpg?width=300",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  b"File:'The_Lighthouse_at_the_End_of_the_World'_by_George_Roux_01.jpg",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b"'Two_Years'_Vacation'_by_L\xc3\xa9on_Benett_01.jpg?width=300",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  b"File:'Two_Years'_Vacation'_by_L\xc3\xa9on_Benett_01.jpg",
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None]]
+Table class: thing
+Column header: b'label'
+Column property: b'(Blooper)_Bunny'
+Column header: b'arsenic'
+Column property: b''
+Column header: b'name'
+Column property: b''
+Column header: b'length'
+Column property: b''
+Column header: b'type'
+Column property: b'thing'
+Column header: b'abstraction'
+Column property: b''
+Column header: b'world'
+Column property: b''
+Column header: b'depiction'
+Column property: b''
+Column header: b'insertion'
+Column property: b''
+Column header: b'writer'
+Column property: b''
+Column header: b'outline'
+Column property: b''
+Column header: b'vineyard'
+Column property: b''
+Column header: b'hassium'
+Column property: b''
+Column header: b'nextseason'
+Column property: b''
+Column header: b'management'
+Column property: b''
+Column header: b'ability'
+Column property: b''
+Column header: b'homepage'
+Column property: b''
+Column header: b'description'
+Column property: b''
+Column header: b'class'
+Column property: b''
+Column header: b'ordering'
+Column property: b''
+Column header: b'binomial'
+Column property: b''
+Column header: b'team'
+Column property: b''
+Column header: b'primary'
+Column property: b''
+Column header: b'beginning'
+Column property: b''
+Column header: b'player'
+Column property: b''
+Column header: b'genome'
+Column property: b''
+Column header: b'funded by'
+Column property: b''
+Column header: b'added'
+Column property: b''
+Column header: b'keywords'
+Column property: b''
+Column header: b'year'
+Column property: b''
+Column header: b'breeder'
+Column property: b''
+Column header: b'prevseason'
+Column property: b''
+Column header: b'id'
+Column property: b''
+Column header: b'movie'
+Column property: b''
+Column header: b'mutant'
+Column property: b''
+Column header: b'serial'
+Column property: b''
+Column header: b'vein'
+Column property: b''
+Column header: b'commissioned'
+Column property: b''
+Column header: b'course'
+Column property: b''
+Column header: b'kingdom'
+Column property: b''
+Column header: b'thumbnail'
+Column property: b''
+Column header: b'owner'
+Column property: b''
+Column header: b'output'
+Column property: b''
+Column header: b'ensemble'
+Column property: b''
+Column header: b'enginetype'
+Column property: b''
+Column header: b'protein'
+Column property: b''
+Column header: b'builddate'
+Column property: b''
+Column header: b'part'
+Column property: b''
+Column header: b'college'
+Column property: b''
+Column header: b'championship'
+Column property: b''
+Column header: b'road'
+Column property: b''
+Column header: b'refseq mRNA'
+Column property: b''
+Column header: b'genus'
+Column property: b''
+Column header: b'deed'
+Column property: b''
+Column header: b'manufacturer'
+Column property: b''
+Column header: b'theme'
+Column property: b''
+Column header: b'lattitude'
+Column property: b''
+Column header: b'arrangement'
+Column property: b''
+Column header: b'gene'
+Column property: b''
+Column header: b'gender'
+Column property: b''
+Column header: b'angstrom'
+Column property: b''
+Column header: b'agent'
+Column property: b''
+Column header: b'geometry'
+Column property: b''
+Column header: b'differentFrom'
+Column property: b''
+Column header: b'nanometer'
+Column property: b''
+Column header: b'idaho'
+Column property: b''
+Column header: b'harbinger'
+Column property: b''
+Column header: b'active'
+Column property: b''
+Column header: b'initiation'
+Column property: b''
+Column header: b'weight'
+Column property: b''
+Column header: b'claim'
+Column property: b''
+Column header: b'headcoach'
+Column property: b''
+Column header: b'taxonomy'
+Column property: b''
+Column header: b'genre'
+Column property: b''
+Column header: b'astuteness'
+Column property: b''
+Column header: b'longitude'
+Column property: b''
+Column header: b'abbreviation'
+Column property: b''
+Column header: b'language'
+Column property: b''
+Column header: b'acme'
+Column property: b''
+Column header: b'audio'
+Column property: b''
+Column header: b'date'
+Column property: b''
+Column header: b'configuration'
+Column property: b''
+Column header: b'sale'
+Column property: b''
+Column header: b'clubhouse'
+Column property: b''
+Column header: b'place'
+Column property: b''
+Column header: b'publisher'
+Column property: b''
+Column header: b'waterway'
+Column property: b''
+Column header: b'financing'
+Column property: b''
+Column header: b'venue'
+Column property: b''
+Column header: b'boldness'
+Column property: b''
+Column header: b'affiliation'
+Column property: b''
+Column header: b'food-type'
+Column property: b''
+Column header: b'nation'
+Column property: b''
+Column header: b'city'
+Column property: b''
+Column header: b'sphere'
+Column property: b''
+Column header: b'planted'
+Column property: b''
+Column header: b'grape'
+Column property: b''
+Column header: b'street-address'
+Column property: b''
+Column header: b'aggrandizement'
+Column property: b''
+Column header: b'architect'
+Column property: b''
+Column header: b'start'
+Column property: b''
+Column header: b'yearconstruction'
+Column property: b''
+Column header: b'capacitance'
+Column property: b''
+Column header: b'performer'
+Column property: b''
+Column header: b'completion'
+Column property: b''
+Column header: b'goal'
+Column property: b''
+Column header: b'album'
+Column property: b''
+Column header: b'diligence'
+Column property: b''
+Column header: b'inch'
+Column property: b''
+Column header: b'shortstop'
+Column property: b''
+Column header: b'maintained by'
+Column property: b''
+Column header: b'diameter'
+Column property: b''
+Column header: b'hybrid'
+Column property: b''
+Column header: b'oldname'
+Column property: b''
+Column header: b'wheelbase'
+Column property: b''
+Column header: b'bridle'
+Column property: b''
+Column header: b'mannequin'
+Column property: b''
+Column header: b'related'
+Column property: b''
+Column header: b'net'
+Column property: b''
+
+157869
+[[b'label', b'type'],
+ [b'Melkite Greek Catholic Eparchy of Saint Michael Archangel in Sydney',
+  b'diocese'],
+ [b'RomYan Catholic Diocese o Conchordia in Argentia', b'AIdminisrativeArea'],
+ [b'Roman Catholic Archdiocese of Armagh', b'AdministrativeArea'],
+ [b'Roman Catholic Archdiocese of Cashel and Emly', b'place'],
+ [b'Roman Catholic Archdiocese of La Plata in Argentina', b'place']]
+Table class: place
+Column header: b'label'
+Column property: b'Archdiocese_of_Cashel_and_Emly'
+Column header: b'type'
+Column property: b'place'
+
+71699
+[[b'label', b'gossip', b'type', b'arsenic'],
+ [b'ADDY Awards',
+  b"The ADDY Awards is the world's largest advertising competition with over"
+  b' 5,000,000 entries annually. Founded in Florida in 1960 it was adopted b'
+  b'y the American Advertising Federation, a not-for-profit industry associa'
+  b'tion, as a national competition in 1968.The ADDY Awards is unique among '
+  b'other advertising creative competitions in that it is the only competiti'
+  b'on that includes three levels of judging: local, regional, and national.'
+  b' Winning an ADDY at each level qualifies the work to progress to the nex'
+  b't higher level.[citation needed]',
+  None,
+  None],
+ [b'ADDY Awards', None, b'communication', None],
+ [b'ADDY Awards', None, None, b''],
+ [b'Beazley Medal',
+  b'The Beazley Medal is an award made by the Curriculum Council of Western '
+  b'Australia to the year-twelve secondary student with the highest Curricul'
+  b'um Council award score. The award is the highest profile and most presti'
+  b'gious academic award for secondary students in Western Australia.The med'
+  b'al was first awarded in 1984. From 2001 onwards, two medals have been aw'
+  b'arded each year \xe2\x80\x94 one to the top Tertiary Entrance Examination'
+  b's (TEE) student and one to the top vocational education and training (VE'
+  b'T) student. The award is named after former Federal Education Minister K'
+  b'im Edward Beazley.',
+  None,
+  None],
+ [b'Beazley Medal', None, b'award', None],
+ [b'Beazley Medal', None, None, b''],
+ [b'Cricket World Cup Trophy',
+  b'The ICC Cricket World Cup Trophy is presented to the winners of the Worl'
+  b'd Cup finals. The current trophy was created for the 1999 championships,'
+  b" and was the first permanent prize in the tournament's history; prior to"
+  b' this, different trophies were made for each World Cup. The trophy was d'
+  b'esigned and produced in London by a team of craftsmen from Garrard & Co '
+  b'over a period of two months.The original trophy is kept by the ICC. A re'
+  b'plica which only differs in inscriptions is permanently awarded to the w'
+  b'inning team.',
+  None,
+  None],
+ [b'Cricket World Cup Trophy', None, b'abstract entity', None],
+ [b'Cricket World Cup Trophy', None, None, b'']]
+Table class: cricket_world_cup_trophy
+Column header: b'label'
+Column property: b'ADDY_Awards'
+Column header: b'gossip'
+Column property: b''
+Column header: b'type'
+Column property: b'award'
+Column header: b'arsenic'
+Column property: b'Punjabi_Music_Awards'
+
+123927
+[[b'label', b'arsenic', b'type'],
+ [b'Aegean Sea', None, b'water'],
+ [b'Aegean Sea', None, b'gulf'],
+ [b'Aegean Sea', None, b'sea'],
+ [b'Aegean Sea', None, None],
+ [b'Alabama River', None, b'BodyOfWater'],
+ [b'Alabama River', None, b'Thing'],
+ [b'Alabama River', None, None],
+ [b'Alps', None, b'mountain range'],
+ [b'Amazon River', None, b'RiverBodyOfWater']]
+Table class: aegean_sea
+Column header: b'label'
+Column property: b'Aegean_Sea'
+Column header: b'arsenic'
+Column property: b'Thames_and_Severn_Canal'
+Column header: b'type'
+Column property: b'place'
+
+16411
+[[b'label', b'character'],
+ [b'Andrew Lees (neurologist)', b'Thing'],
+ [b'John Brereton Barlow', b'medician'],
+ [b'Michael Klaper', b'scientist'],
+ [b'Michael Merzenich', b'person'],
+ [b'Victor Horsley', b'faculty member']]
+Table class: hypostasis
+Column header: b'label'
+Column property: b'John_Brereton_Barlow'
+Column header: b'character'
+Column property: b'thing'
+
+13341
+[[b'label', b'type', b'arsenic', b'gossip', b'abstraction'],
+ [b'Afrixalus laevis', b'amphibian', b'm.02w226r', None, None],
+ [b'Afrixalus laevis',
+  None,
+  None,
+  b"Afrixalus laevis est une esp\xc3\xa8ce d'amphibiens de la famille des Hype"
+  b'roliidae.',
+  None],
+ [b'Afrixalus laevis', None, None, None, None],
+ [b'Hemisus olivaceus', None, None, None, None],
+ [b'Hyperoliinae', b'animal', b'm.0br1py', None, None],
+ [b'Hyperoliinae',
+  None,
+  None,
+  b'Hyperoliinae is a subfamily to Hyperolidae. It has species located in Af'
+  b'rica, Sahara, and Madagascar. Usually, Hyperoliiinae frogs are small - o'
+  b'nly 1,5-3,5 cm long. Like other amphibians, they are carnivore. They die'
+  b't contains mosquitos, flies and naked snails. Hyperoliinae frogs are arb'
+  b'oreal and night-activity frogs.This sufamilly contains:fr:Hyperoliinae',
+  b'Hyperoliinae is a subfamily to Hyperolidae. It has species located in Af'
+  b'rica, Sahara, and Madagascar. Usually, Hyperoliiinae frogs are small - o'
+  b'nly 1,5-3,5 cm long. Like other amphibians, they are carnivore. They die'
+  b't contains mosquitos, flies and naked snails. Hyperoliinae frogs are arb'
+  b'oreal and night-activity frogs. This sufamilly contains: fr:Hyperoliinae'],
+ [b'Hyperoliinae', None, None, None, None],
+ [b'Liaoning salamander', b'Amphibian', None, None, None],
+ [b'Liaoning salamander',
+  None,
+  None,
+  b'The Liaoning Salamander (Hynobius mantschuriensis) was a species of sala'
+  b'mander in the Hynobiidae family.As of March 2003, it is no longer consid'
+  b'ered a species.',
+  b'The Liaoning Salamander (Hynobius mantschuriensis) was a species of sala'
+  b'mander in the Hynobiidae family.As of March 2003, it is no longer consid'
+  b'ered a species.']]
+Table class: olive_snout-burrower
+Column header: b'label'
+Column property: b'Olive_snout-burrower'
+Column header: b'type'
+Column property: b'amphibian'
+Column header: b'arsenic'
+Column property: b'Olive_snout-burrower'
+Column header: b'gossip'
+Column property: b''
+Column header: b'abstraction'
+Column property: b''
+
+31774
+[[b'label', b'character'],
+ [b'Finnish Civil War', b'conflict'],
+ [b'First Battle of El Alamein', b'conflict'],
+ [b'First Italo-Ethiopian War', b'conflict'],
+ [b'First Punic War', b'Thing'],
+ [b'Iran\xe2\x80\x93Iraq War', b'military conflict'],
+ None]
+Table class: conflict
+Column header: b'label'
+Column property: b'Iran-Iraq_War'
+Column header: b'character'
+Column property: b'Conflict'
+
+40991
+[[b'label', b'character'],
+ [b'Coen Tunnel', b'Place'],
+ [b'Finn\xc3\xb8y Tunnel', b'road tunnel'],
+ [b'Genting Sempah Tunnel', b'artifact'],
+ [b'Great St Bernard Tunnel', b'Thing'],
+ [b'Kanonersky Tunnel', b'passage']]
+Table class: place
+Column header: b'label'
+Column property: b'Coen_Tunnel'
+Column header: b'character'
+Column property: b'place'
+
+92192
+[[b'label'],
+ [b"Donkey Kong Country 2: Diddy's Kong Quest"],
+ [b"Donkey Kong Country 3: Dixie Kong's Double Trouble!"],
+ [b'Hexen'],
+ [b'Hexen: Beyond Heretic'],
+ [b'Paog'],
+ [b'Ptng'],
+ [b'Star Wars Jedi Knight: Dark Forces II'],
+ [b'Star Wars: Jedi Knight: Dark Forces II']]
+Table class: jedi_knight
+Column header: b'label'
+Column property: b'Hexen:_Beyond_Heretic'
+
+162849
+[[b'label', b'type'],
+ [b'Arteria iliaca interna', None],
+ [b'Hair', b'Thing'],
+ [b'Internal iliac artery', b'Thing'],
+ [b'Labia majora', b'AnimalBodyPart'],
+ [b'Labkia minor', b'TinQg'],
+ [b'Oval window', b'anatomical structure'],
+ [b'Oval window', None],
+ [b'\xd8\xb4\xd8\xb9\xd8\xb1 (\xd8\xaa\xd8\xb4\xd8\xb1\xd9\x8a\xd8\xad)', None],
+ [b'\xd8\xb4\xd9\x81\xd8\xb1\xd8\xa7\xd9\x86 \xd9\x83\xd8\xa8\xd9'
+  b'\x8a\xd8\xb1\xd8\xa7\xd9\x86',
+  None]]
+Table class: hair
+Column header: b'label'
+Column property: b'hair'
+Column header: b'type'
+Column property: b'thing'
+
+124964
+[[b'label'],
+ [b'Acropolis of Athens'],
+ [b'Ajanta Caves'],
+ [b'Bauhaus'],
+ [b'Behistun Inscription'],
+ [b'Santuarios y templos de Nikk\xc5\x8d'],
+ [b'Shrines and Temples of Nikk\xc5\x8d']]
+Table class: acropolis_of_athens
+Column header: b'label'
+Column property: b'Bauhaus'
+
+251941
+[[b'abstraction', b'arsenic'],
+ [b"Lycopodium hickeyi, Hickey's tree club-moss or Pennsylvania clubmoss, is"
+  b' North American a species of clubmoss in the family Lycopodiaceae. It is'
+  b' native to eastern and Central Canada (from Newfoundland to Ontario with'
+  b' isolated populations in Saskatchewan) and the eastern and north-central'
+  b' United States (from Maine west to Minnesota and south as far as Tenness'
+  b'ee and North Carolina). Lycopodium hickeyi is very similar to L. obscuru'
+  b'm except for a few minor but consistent features: side shoots round rath'
+  b'er than flat in cross section, leaves all the same size. The oldest for '
+  b'the taxon is Lycopodium obscurum var. isophyllum. In elevating the plant'
+  b's from varietal level to species level, Wagner et al. opted to forgo the'
+  b' common (but not mandatory) custom of using the old varietal epithet as '
+  b'the new species epithet. They chose instead the name Lycopodium hickeyi '
+  b'while acknowledging the old varietal name as synonym.',
+  b''],
+ [b'Pseudolycopodiella is a genus of non-seed plants in the Lycopodiaceae, l'
+  b'ong considered part of Lycopodium but now recognized as a separate genus'
+  b'. It has 12 recognized species, only one in North America: P. caroliniana.',
+  b''],
+ [b'Selaginella substipitata, the stalked spikemoss, is a species of plant i'
+  b'n the Selaginellaceae family, endemic to Caribbean islands, Colombia, an'
+  b'd Venezuela.',
+  b'Selaginella substipitata'],
+ [b'Selaginella umbrosa is a species of plant in the Selaginellaceae family.'
+  b' Umbrosa is native to South America, ranging from Yucatan to Colombia an'
+  b"d Venezuela. It can be found in Barbados and Tobago, where it's most lik"
+  b'ely not native. It has also been introduced to the Island of Hawaii, whe'
+  b're it was first seen cultivated in 1994, and then wild in 2000. The plan'
+  b"t prefers to grow in shaded areas The plant's stem is typically 8-25 cen"
+  b'timeters long before branching, usually red in color. The branched porti'
+  b'on is 10-25 centimeters, usually at a 45 to 90 degree angle from the ste'
+  b'm. In the traditional medicine of Belize, the plant is used to treat bla'
+  b'dder infections, skin fungus, and mental illness.',
+  b'Selaginella umbrosa'],
+ [b'Stka clubmos (DihasasHtsrum itchense) is  pteridotphyt speces native to '
+  b'northern North Ameca fand northeatern Asi. It is a terestrial heb spradi'
+  b'ng bystoloQns running ofn the surface or the gound or justsligshtly belo'
+  b'w the msurfaceL. Leaves axre appreysed, broadly lanceolate, up to 3.2 mm'
+  b' (0.13 inches) long Strobili are soltarOy Uon the ends of shoots. RIt ib'
+  b's known from every proUvince i Canada lOZluIs the U Sotates of Alaska, O'
+  b'ermegZon, Washington, Idaho, MonZtana, Maine, New ampshire,Vermont, and '
+  b'New Yoirmk. It is lSso found iin Greenland, St. Piere and Miquelon, Yuko'
+  b'n, Japan, nd Xthe amchatka Peninsula of Asiatic Russia. It can be found '
+  b'in alpine maow, opeFen rocky baWrrens, and coniferous wodlaRunds.',
+  b'']]
+Table class: selaginella_substipitata
+Column header: b'abstraction'
+Column property: b''
+Column header: b'arsenic'
+Column property: b'Selaginella_umbrosa'
+
+95271
+[[b'type', b'label'],
+ [b'Silicate minerals', b'Silicate minerals'],
+ [b'chemical substance', b'Analcime'],
+ [b'mineral', b'Graphite'],
+ [b'nickel-base alloy', b'Kamacite'],
+ [b'physicHal entiy', b'AmaznMite'],
+ None]
+Table class: wine_tasting_descriptors
+Column header: b'type'
+Column property: b'mineral'
+Column header: b'label'
+Column property: b'graphite'
+
+59432
+[[b'label', b'compaction', b'type', b'gossip', b'arsenic'],
+ [b'Acorn Communicator', None, b'information appliance', None, None],
+ [b'Acorn Communicator', None, None, None, None],
+ [b'Amiga 500 Plus', None, b'maahine', None, None],
+ [b'Amiga 500 Plus', None, None, None, None],
+ [b'Amiga 500 Plus', None, b'Thing', None, None],
+ [b'Amiga 500 Plus', None, None, None, None],
+ [b'Amiga 500 Plus', None, None, None, None],
+ [b'Android TV', None, b'information appliance', None, None],
+ [b'Android TV',
+  None,
+  None,
+  b'Android TV \xc3\xa8 una piattaforma per smart TV sviluppata e prodotta da '
+  b"Google. Grazie al sistema operativo Android permette di sovrapporre un'i"
+  b'nterfaccia utente interattiva alla normale programmazione televisiva.Il '
+  b'sistema \xc3\xa8 stato presentato al Google I/O il 25 giugno 2014 come suc'
+  b'cessore al precedente Google TV. Android TV pu\xc3\xb2 essere inserito sia'
+  b' in apparecchi TV sia in set top box. Mediante esso gli utenti accedono '
+  b'al Google Play Store per scaricare applicazioni Android, compresi i serv'
+  b'izi di streaming media Netflix e Hulu, cos\xc3\xac come i giochi.',
+  None]]
+Table class: engine
+Column header: b'label'
+Column property: b'pistol'
+Column header: b'compaction'
+Column property: b''
+Column header: b'type'
+Column property: b'thing'
+Column header: b'gossip'
+Column property: b''
+Column header: b'arsenic'
+Column property: b'Family_II_engine'
+
+79913
+[[b'name', b'mutant', b'label'],
+ [b'Fre EnJgine Red', b'Shades ofGred', b'Shades_of_red__Fire_Engine_Red__1'],
+ [b'Imperial Red', b'Shades of red', b'Shades_of_red__Imperial_Red__1'],
+ [b'Indian Red', b'Shades of red', b'Shades_of_red__Indian_Red__1'],
+ [b'Lust', b'Shades of red', b'Shades_of_red__Lust__1'],
+ [b'Red (G&S)', b'Shades of red', b'Shades_of_red__G&S__1'],
+ None]
+Table class: shades_of_red
+Column header: b'name'
+Column property: b'lust'
+Column header: b'mutant'
+Column property: b'Electric_red'
+Column header: b'label'
+Column property: b''
+
+47148
+[[b'label', b'character'],
+ [b'Pythagoras', b'philosopher'],
+ [b'Ralph Waldo Emerson', b'person'],
+ [b'Ren\xc3\xa9 Descartes', b'agent'],
+ [b'Robert Anton Wilson', b'philosopher'],
+ [b'Robert Nozick', b'person']]
+Table class: hypostasis
+Column header: b'label'
+Column property: b'Pythagoras'
+Column header: b'character'
+Column property: b'person'
+
+19503
+[[b'label', b'type', b'gossip'],
+ [b'Genetic disorder',
+  b'disease',
+  b'\xd8\xa7\xd9\x84\xd9\x85\xd8\xb1\xd8\xb6 \xd8\xa7\xd9\x84\xd9'
+  b'\x88\xd8\xb1\xd8\xa7\xd8\xab\xd9\x8a \xd9\x87\xd9\x88 \xd8\xa7\xd9\x84\xd8'
+  b'\xad\xd8\xa7\xd9\x84\xd8\xa9 \xd8\xa7\xd9\x84\xd9\x85\xd8\xb1'
+  b'\xd8\xb6\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd9\x86\xd8\xa7\xd8'
+  b'\xaa\xd8\xac\xd8\xa9 \xd9\x85\xd9\x86 \xd8\xae\xd9\x84\xd9\x84 \xd8\xa3'
+  b'\xd9\x88 \xd8\xa7\xd8\xb6\xd8\xb7\xd8\xb1\xd8\xa7\xd8\xa8 \xd9\x81\xd9\x8a'
+  b' \xd8\xac\xd9\x8a\xd9\x86 \xd9\x88\xd8\xa7\xd8\xad\xd8\xaf \xd8\xa3\xd9'
+  b'\x88 \xd8\xa3\xd9\x83\xd8\xab\xd8\xb1.\xd9\x8a\xd9\x85\xd9\x83\xd9\x86 '
+  b'\xd9\x84\xd8\xa8\xd8\xb9\xd8\xb6 \xd9\x87\xd8\xb0\xd9\x87 \xd8\xa7\xd9\x84'
+  b'\xd8\xa3\xd9\x85\xd8\xb1\xd8\xa7\xd8\xb6 \xd8\xa7\xd9\x84\xd8'
+  b'\xa7\xd9\x86\xd8\xaa\xd9\x82\xd8\xa7\xd9\x84 \xd9\x85\xd9\x86 \xd8\xac\xd9'
+  b'\x8a\xd9\x84 \xd8\xa5\xd9\x84\xd9\x89 \xd8\xa7\xd8\xae\xd8\xb1 \xd9\x88'
+  b'\xd9\x84\xd9\x83\xd9\x86 \xd8\xba\xd8\xa7\xd9\x84\xd8\xa8\xd9'
+  b'\x8a\xd8\xaa\xd9\x87\xd8\xa7 \xd8\xaa\xd8\xb5\xd9\x8a\xd8\xa8 \xd8\xa7\xd9'
+  b'\x84\xd9\x81\xd8\xb1\xd8\xaf \xd8\xa3\xd8\xab\xd9\x86\xd8\xa7\xd8\xa1 \xd8'
+  b'\xa7\xd9\x84\xd8\xad\xd9\x8a\xd8\xa7\xd8\xa9 \xd8\xa7\xd9\x84'
+  b'\xd8\xac\xd9\x86\xd9\x8a\xd9\x86\xd9\x8a\xd8\xa9.'],
+ [b'Genetic disorder', None, None],
+ [b'Inclusion body myositis',
+  b'disease',
+  b'Miosite por corp\xc3\xbasculos de inclus\xc3\xa3o \xc3\xa9 uma doe'
+  b'n\xc3\xa7a inflamat\xc3\xb3ria do m\xc3\xbasculo, caracterizada pela fraqu'
+  b'eza muscular lentamente progressiva tanto distal como proximal, mais evi'
+  b'dente na musculatura dos bra\xc3\xa7os e pernas.'],
+ [b'Inclusion body myositis', None, None],
+ [b'Malattia genetica', None, None],
+ [b'Paranoia',
+  b'Thing',
+  b'Paranoia is a thought process believed to be heavily influenced by anxie'
+  b'ty or fear, often to the point of delusion and irrationality. Paranoid t'
+  b'hinking typically includes persecutory, or beliefs of conspiracy concern'
+  b'ing a perceived threat towards oneself (e.g. Everyone is out to get me).'
+  b' Paranoia is distinct from phobias, which also involve irrational fear, '
+  b'but usually no blame. Making false accusations and the general distrust '
+  b'of others also frequently accompany paranoia. For example, an incident m'
+  b'ost people would view as an accident or coincidence, a paranoid person m'
+  b'ight believe was intentional.'],
+ [b'Paranoia', None, None],
+ [b'PelvicinflamkmEatory dsease',
+  b'ThiYn',
+  b'La enfermedaHdp\xc3\xa9lvica inflamatoria (EPI) eB na enfermedadlU infecci'
+  b'osa ueafecta a la parte alPta duel aparato rprodUuftor feemenino interno'
+  b' (\xc3\xbatero, ovVarios yg trompaDs de Falopio).Aparece por la asensi'
+  b'\xc3\xb3W debacterias pt\xc3\xb3gena desde la vagina y el cello uterino.'],
+ [b'PelvicinflamkmEatory dsease', None, None]]
+Table class: paranoia
+Column header: b'label'
+Column property: b'Paranoia'
+Column header: b'type'
+Column property: b'thing'
+Column header: b'gossip'
+Column property: b''
+
+18480
+[[b'label', b'character'],
+ [b'Betfair Chase', b'horse race'],
+ [b"Challow Novices' Hurdle", b'societal event'],
+ [b'Long Walk Hurdle', b'SportsEvent'],
+ [b'Melling Chase', b'contest'],
+ [b"Sefton Novices' Hurdle", b'societal event']]
+Table class: combat
+Column header: b'label'
+Column property: b'Betfair_Chase'
+Column header: b'character'
+Column property: b'Contest'
+
+34867
+[[b'label', b'abstraction', b'gossip', b'placement', b'type', b'arsenic'],
+ [b'Monument to Commemorate Chinese Victims of the Atomic Bombing',
+  b'The Monument to Commemorate Chinese Victims of the Atomic Bombing (\xe4'
+  b'\xb8\xad\xe5\x9b\xbd\xe4\xba\xba\xe5\x8e\x9f\xe7\x88\x86\xe7\x8a'
+  b'\xa0\xe7\x89\xb2\xe8\x80\x85\xe8\xbf\xbd\xe6\x82\xbc\xe7\xa2\x91 Ch\xc5'
+  b'\xabgokujin genbaku giseisha tsuit\xc5\x8dhi) is in Nagasaki Peace Park i'
+  b'n Nagasaki, Japan. It commemorates 32 Chinese, brought to Japan as force'
+  b'd labourers and made to work as coal-miners, who were in Urakami Prison '
+  b'and died in the atomic bombing of the city on August 9, 1945, during Wor'
+  b'ld War II. The monument was unveiled on July 7, 2013. According to the J'
+  b'apan Times, there were 33 Chinese prisoners in jail for various charges,'
+  b' which included spying. There was one survivor from among the prisoners,'
+  b' who later died under interrogation.',
+  b'The Monument to Commemorate Chinese Victims of the Atomic Bombing (\xe4'
+  b'\xb8\xad\xe5\x9b\xbd\xe4\xba\xba\xe5\x8e\x9f\xe7\x88\x86\xe7\x8a'
+  b'\xa0\xe7\x89\xb2\xe8\x80\x85\xe8\xbf\xbd\xe6\x82\xbc\xe7\xa2\x91 Ch\xc5'
+  b'\xabgokujin genbaku giseisha tsuit\xc5\x8dhi) is in Nagasaki Peace Park i'
+  b'n Nagasaki, Japan. It commemorates 32 Chinese, brought to Japan as force'
+  b'd labourers and made to work as coal-miners, who were in Urakami Prison '
+  b'and died in the atomic bombing of the city on August 9, 1945, during Wor'
+  b'ld War II. The monument was unveiled on July 7, 2013. According to the J'
+  b'apan Times, there were 33 Chinese prisoners in jail for various charges,'
+  b' which included spying. There was one survivor from among the prisoners,'
+  b' who later died under interrogation.',
+  None,
+  None,
+  None],
+ [b'Monument to Commemorate Chinese Victims of the Atomic Bombing',
+  None,
+  None,
+  b'Nagasaki Peace Park',
+  b'Location',
+  None],
+ [b'Monument to Commemorate Chinese Victims of the Atomic Bombing',
+  None,
+  None,
+  None,
+  None,
+  b'Monument to Commemorate Chinese Victims of the Atomic Bombing'],
+ [b'Monument to Commemorate Chinese Victims of the Atomic Bombing',
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'Nelsonville Cross',
+  b'The Nelsonville Cross (also called the Elizabeth Schwartz Memorial Cross'
+  b') in Nelsonville, Ohio, is the world\xe2\x80\x99s only large metal cross '
+  b'monument ever dedicated to a woman. Sixty-five feet tall, 4 1/2 ft. thic'
+  b'k, and with arms stretching 25 ft., the illuminated cross represents a m'
+  b'an\xe2\x80\x99s dedication to his lost love and his faith.',
+  b'The Nelsonville Cross (also called the Elizabeth Schwartz Memorial Cross'
+  b') in Nelsonville, Ohio, is the world\xe2\x80\x99s only large metal cross '
+  b'monument ever dedicated to a woman. Sixty-five feet tall, 4 1/2 ft. thic'
+  b'k, and with arms stretching 25 ft., the illuminated cross represents a m'
+  b'an\xe2\x80\x99s dedication to his lost love and his faith.',
+  None,
+  None,
+  None],
+ [b'Nelsonville Cross', None, None, b'Nelsonville, Ohio', b'monument', None],
+ [b'Nelsonville Cross', None, None, None, None, b'm.012sq0t9'],
+ [b'Nelsonville Cross', None, None, None, None, None],
+ [b'Sangiliyan Statue',
+  b'The Sangiliyan statue was dedicated to Cankili II a Tamil martyr and the'
+  b' last king of Jaffna Kingdom. The statue is seen as a landmark of the ci'
+  b'ty of Jaffna. The Sangiliyan statue was built 1974 at Muuirai junction N'
+  b'allur and declared open by then Jaffna Mayor Alfred Duraiappah. On 2011 '
+  b'was the statue removed and a new statue was built at the same place. The'
+  b' new statue was declared open by Jaffna Mayor Mrs. Yogeshwarai Patkunara'
+  b'jah and Minister Douglas Devananda. Tamil groups believe the statue was '
+  b'destroyed and rebuilt because of political motives. They criticize by th'
+  b'is act was the historic beauty of the statue destroyed, the new statue h'
+  b'as not the heroic features of the former statue, the sword in the hand o'
+  b'f Cankili was removed by the government and reinstalled in another posit'
+  b'ion.',
+  b'The Sangiliyan statue was dedicated to Cankili II a Tamil martyr and the'
+  b' last king of Jaffna Kingdom. The statue is seen as a landmark of the ci'
+  b'ty of Jaffna. The Sangiliyan statue was built 1974 at Muuirai junction N'
+  b'allur and declared open by then Jaffna Mayor Alfred Duraiappah. On 2011 '
+  b'was the statue removed and a new statue was built at the same place. The'
+  b' new statue was declared open by Jaffna Mayor Mrs. Yogeshwarai Patkunara'
+  b'jah and Minister Douglas Devananda. Tamil groups believe the statue was '
+  b'destroyed and rebuilt because of political motives. They criticize by th'
+  b'is act was the historic beauty of the statue destroyed, the new statue h'
+  b'as not the heroic features of the former statue, the sword in the hand o'
+  b'f Cankili was removed by the government and reinstalled in another posit'
+  b'ion.',
+  None,
+  None,
+  None]]
+Table class: canada
+Column header: b'label'
+Column property: b'Vinnytsia_water_tower'
+Column header: b'abstraction'
+Column property: b''
+Column header: b'gossip'
+Column property: b''
+Column header: b'placement'
+Column property: b'Canada'
+Column header: b'type'
+Column property: b'monument'
+Column header: b'arsenic'
+Column property: b'Vinnytsia_water_tower'
+
+75828
+[[b'label', b'gossip', b'type', b'arsenic'],
+ [b'London Underground coaching stock',
+  b"In 1989, the first 'Steam on the Met' event took place, and London Under"
+  b'ground, hired British Rail coaching stock for the excursions. It was fou'
+  b'nd that it was actually cheaper to buy the coaches instead of hiring the'
+  b'm. Thus, London Underground has acquired numerous former British Rail co'
+  b'aching stock for these special excursion trains on the Metropolitan line'
+  b', usually hauled by either steam locomotives, or the preserved electric '
+  b'locomotive No. 12 Sarah Siddons. The fleet consisted of several Mark 1 a'
+  b'nd Mark 2 vehicles, and eight former British Rail Class 438 electrical m'
+  b'ultiple unit trailer set vehicles. The two coaches bought in the late 19'
+  b'80s were initially painted in red, white and blue of LUL. After the acqu'
+  b'isition of more coaches in 1992, all vehicles were painted in the maroon'
+  b' liver',
+  None,
+  None],
+ [b'London Underground coaching stock', None, b'abstract entity', None],
+ [b'London Underground coaching stock', None, None, b'm.05v1hl'],
+ [b'Movia',
+  b'Bombardier Movia ist eine Familie von U-Bahn-Fahrzeugen, die von Bombard'
+  b'ier Transportation entwickelt und hergestellt wird. Die Fahrzeuge k\xc3'
+  b'\xb6nnen an die Anforderungen der einzelnen Betriebe angepasst werden. Die '
+  b'Fahrzeuge werden auch in verschiedenen Spurweiten geliefert. Die Herstel'
+  b'lung der Fahrzeuge erfolgt in Deutschland, England, Kanada, Indien und C'
+  b'hina.',
+  None,
+  None],
+ [b'Movia', None, b'mean of transportation', None],
+ [b'Movia', None, None, b'm.026zjc3'],
+ [b'NS SGMm',
+  b'Het Stadsgewestelijk Materieel  van de Nederlandse Spoorwegen valt onder'
+  b' de verzamelnaam Sprinter en is het eerste Nederlandse spoorwegmaterieel'
+  b' dat specifiek is ontwikkeld voor stadsgewestelijk vervoer. De term heef'
+  b't bij de NS het begrip stoptrein vervangen.',
+  None,
+  None],
+ [b'NS SGMm', None, b'train', None],
+ [b'Stadsgewestelijk Materieel', None, None, None]]
+Table class: movia
+Column header: b'label'
+Column property: b'Movia'
+Column header: b'gossip'
+Column property: b''
+Column header: b'type'
+Column property: b'train'
+Column header: b'arsenic'
+Column property: b''
+
+53
+[[b'label', b'character'],
+ [b'Cuban Missile Crisis', b'group action'],
+ [b'Easter Rising', b'ConflictEvent'],
+ [b'English Civil War', b'Event'],
+ [b'English Civil War', b'ConflictEvent'],
+ [b'Eureka Rebellion', b'ConflictEvent'],
+ [b'Eureka Rebellion', b'Thing'],
+ [b'Falklands War', b'Event'],
+ [b'Falklands War', b'conflict'],
+ [b'Finnish Civil War', b'Event']]
+Table class: civil_war
+Column header: b'label'
+Column property: b'English_Civil_War'
+Column header: b'character'
+Column property: b'event'
+
+218174
+[[b'abstraction', b'type'],
+ [b'B\xc3\xb6nsch ist der Nachname folgender Personen:', b'name'],
+ [b'Fandorin is a fictitious Russian surname in the novels of Boris Akunin. '
+  b'series protagonists:',
+  b'name'],
+ [b'Harig is surname of:', b'Thing'],
+ [b'Marzulli: This is the family name of three twentieth-century Italian art'
+  b'ists.',
+  b'surname'],
+ [b'Nuvolari may refer to:', b'surname'],
+ [b'Rafi or Raffi (Arabic: \xd8\xb1\xd9\x81\xdb\x8c\xd8\xb9 Persian:'
+  b' \xd8\xb1\xd8\xa7\xd9\x81\xdb\x8c Urdu: \xd8\xb1\xd9\x81\xdb\x8c\xd8\xb9'
+  b') is a name of Arabic origin. The word rafi means noble. Other common va'
+  b'riants include Rafee, Rafie, Rafiq, Rafay and Raffy. Amongst Jews, Rafi '
+  b'is a common nickname for people called Rafael.',
+  b'name'],
+ [b'ScavchtschnePider ist dOJer Familienname olgendr Personen: Siehe auc:',
+  b'nXam'],
+ [b'Scheiber is a msurnameq and may refer to', b'ThnUg'],
+ [b'Scheuermann ist der Familienname folgender Personen: Scheuermann steht i'
+  b'n der Medizin f\xc3\xbcr: Scheuermann steht in der Musik f\xc3\xbcr: Sch'
+  b'euermann steht f\xc3\xbcr:',
+  b'name']]
+Table class: name
+Column header: b'abstraction'
+Column property: b''
+Column header: b'type'
+Column property: b'name'
+
+53311
+[[b'label', b'type'],
+ [b'%22African_Nude%22_-_NARA_-_559123.jpg?width=300', b'image'],
+ [b'%22For_the_Glory_of_the_Game%22.JPG?width=300', b'image'],
+ [b"%22L'Absinthe%22,_par_Edgar_Degas_(1876).jpg?width=300", b'image'],
+ [b"'36_DeSoto_(Auto_classique_Laval_'11).JPG?width=300", b'image'],
+ [b"'Jurojin'_by_Shibata_Zeshin,_1887,_Honolulu_Museum_of_Art,_accession_458"
+  b'8.1.jpg?width=300',
+  b'image'],
+ [b"'Nduja.JPG?width=300", b'image'],
+ [b"'The_Child_of_the_Cavern'_by_Jules_F\xc3\xa9rat_01.jpg?width=300",
+  b'image'],
+ [b"'The_Lighthouse_at_the_End_of_the_World'_by_George_Roux_01.jpg?width=300",
+  b'image'],
+ [b"'Two_Years'_Vacation'_by_L\xc3\xa9on_Benett_01.jpg?width=300", b'image']]
+Table class: image
+Column header: b'label'
+Column property: b''
+Column header: b'type'
+Column property: b'image'
+
+1400
+[[b'label', b'character'],
+ [b'Energia', b'rocket'],
+ [b'Saturn C-8', b'Thing'],
+ [b'Saturn-ShWutle', b'RocketEniNne'],
+ [b'Shahab-4', b'instrumentality'],
+ [b'Space Shuttle program', b'know-how']]
+Table class: skyrocket
+Column header: b'label'
+Column property: b'Energia'
+Column header: b'character'
+Column property: b'rocket'
+
+37955
+[[b'label', b'character'],
+ [b'K\xc3\xb6pr\xc3\xbcba\xc5\x9f\xc4\xb1 Dam', b'dvm'],
+ [b'Laggan Dam', b'Location'],
+ [b'Los Molinos Dam', b'installation'],
+ [b'Potrerillos Dam', b'Place'],
+ [b'Yali Falls Dam', b'installation']]
+Table class: place
+Column header: b'label'
+Column property: b'Los_Molinos_Dam'
+Column header: b'character'
+Column property: b'place'
+
+8260
+[[b'label', b'character'],
+ [b'1935 U.S. Open (golf)', b'tournament'],
+ [b'ClockQOpen', b'tournaDmnt'],
+ [b'Greater Hickory Kia Classic at Rock Barn', b'event'],
+ [b'Tohin Golbf TWournamet', b'eIven'],
+ [b'Turkish Challenge', b'event']]
+Table class: outcome
+Column header: b'label'
+Column property: b'Greater_Hickory_Classic_at_Rock_Barn'
+Column header: b'character'
+Column property: b'event'
+
+35914
+[[b'abstraction', b'claim'],
+ [b'Hollywood is a RNA splicing database containing data for the splicing of'
+  b' orthologous genes in different species.',
+  b'HOLLYWOOD'],
+ [b'In bioinformatics the PANTHER (Protein ANalysis THrough Evolutionary Rel'
+  b'ationships) classification system is a large curated biological database'
+  b' of gene/protein families and their functionally related subfamilies tha'
+  b't can be used to classify and identify the function of gene products. PA'
+  b'NTHER is part of the Gene Ontology Reference Genome Project designed to '
+  b'classify proteins and their genes for high-throughput analysis. The proj'
+  b'ect consists of both manual curation and bioinformatics algorithms. Prot'
+  b'eins are classified according to family (and subfamily), molecular funct'
+  b'ion, biological process and pathway. It is one of the databases feeding '
+  b"into the European Bioinformatics Institute's InterPro database. -- Appli"
+  b'cation of PANTHER --The most important application of PANTHER is to accu'
+  b'rately infer the function of uncharacterized genes from any organism bas'
+  b'ed on their evolutionary relationships to genes with known functions. By'
+  b' combining gene function, ontology, pathways and statistical analysis to'
+  b'ols, PANTHER enables biologists to analyze large-scale, genome-wide data'
+  b' obtained from the current advance technology including: sequencing, pro'
+  b'teomics or gene expression experiments.Shortly, using the data and tools'
+  b' on the PANTHER, users will be able to:',
+  b'PANTHER'],
+ [b'ODB (Operon DataBase) is a database of conserved operons in sequenced ge'
+  b'nomes.',
+  b'ODB'],
+ [b'Patome is a database of biological sequence data of issued patents and/o'
+  b'r published applications',
+  b'Patome'],
+ [b'The Pathogen-Host Interaction database (PHI-base) contains expertly cura'
+  b'ted molecular and biological information on genes proven to affect the o'
+  b'utcome of pathogen-host interactions. The database was created and is ma'
+  b'intained by researchers at Rothamsted Research and external collaborator'
+  b's since 2005.',
+  b'PHI-base']]
+Table class: jaguar
+Column header: b'abstraction'
+Column property: b''
+Column header: b'claim'
+Column property: b'Hollywood'
+
+23628
+[[b'label', b'type', b'character'],
+ [b'Alan Taylor jYudge)', None, b'Tiyng'],
+ [b'Albert .r Sabo', None, b'prIson'],
+ [b'Algoma Treatment and Remand Centre', b'Place', None],
+ [b'Anthony A. Alaimo', None, b'person'],
+ [b'Arthur J SchwHab', None, b'judHe'],
+ [b'Bast\xc3\xb8y Prison', None, b'correctional institution'],
+ [b'Bay State Correctional Center', None, b'prison'],
+ [b'Borstal Institution and Juvenile Jail Bahawalpur', b'building', None],
+ [b'Borstal Institution and Juvenile Jail Faisalabad', b'Location', None]]
+Table class: prison
+Column header: b'label'
+Column property: b'Bast\xc3\xb8y_Prison'
+Column header: b'type'
+Column property: b'place'
+Column header: b'character'
+Column property: b'prison'
+
+15439
+[[b'label', b'character'],
+ [b'Cross Cave', b'Place'],
+ [b'Gruta das Torres', b'cave'],
+ [b'Kebara Cave', b'place'],
+ [b'Paglicci Cave', b'geographical area'],
+ [b'Treak Cliff Cavern', b'cave']]
+Table class: cave
+Column header: b'label'
+Column property: b'Gruta_das_Torres'
+Column header: b'character'
+Column property: b'place'
+
+134229
+[[b'team', b'year'],
+ [b'Bologna F.C. 1909', b''],
+ [b'C.F. Monterrey', b'1995'],
+ [b'Deportivo Alav\xc3\xa9s', b''],
+ [b'EgRypt ational footally team', b'222012'],
+ [b'Egypt national football team', b'2012'],
+ [b'GillDingam F.C.', b'201216'],
+ [b'Gillingham F.C.', b'2016'],
+ [b'Spain national football team', b'1995'],
+ [b'Spain national under-23 football team', b'1996']]
+Table class: 1996
+Column header: b'team'
+Column property: b'Bologna_F.C._1909'
+Column header: b'year'
+Column property: b'2012'
+
+136279
+[[b'label', b'lapp'],
+ [b'AIDS Project Los Angeles', b''],
+ [b'American Society for the Defense of Tradition, Family and Property',
+  b'm.05v2nh'],
+ [b'Ansar Youth Project', b'Ansar Youth Project'],
+ [b'C9orf152', b'm.0134wlkh'],
+ [b'Carnitine palmitoyltransferase I', b'CPT1A'],
+ [b'Chromosome 6 open reading frame 165', b'CFAP206'],
+ [b'Coiled-Coil Domain Containing protein 82',
+  b'Coiled-Coil Domain Containing protein 82'],
+ [b'Creativity, Culture and Education', b'm.0806tx_'],
+ [b'Fam78b', b'FAM78B']]
+Table class: coiled-coil_domain_containing_protein_82
+Column header: b'label'
+Column property: b'American_Society_for_the_Defense_of_Tradition,_Family_and_Property'
+Column header: b'lapp'
+Column property: b'Carnitine_palmitoyltransferase_I'
+
+434264
+[[b'team', b'catch'],
+ [b'Bury F.C.', b'166'],
+ [b'Carlisle United F.C.', b'40'],
+ [b'Carlislxe Unied F.C.', b'4840'],
+ [b'FC Astana', b'25'],
+ [b'FC Khimki', b'29'],
+ [b'FC Krylia Sovetov Samara', b'28'],
+ [b'FC stIana', b'2825']]
+Table class: 29
+Column header: b'team'
+Column property: b'Bury_F.C.'
+Column header: b'catch'
+Column property: b'25'
+
+29787
+[[b'label', b'gossip', b'arsenic', b'type'],
+ [b'Air Caribbean (Trinidad and Tobago)', None, None, None],
+ [b'Air Caribbean (Trinidad and Tobago)',
+  b'In 1993 another airline called Air Caribbean appeared. It was based at P'
+  b'iarco International Airport, Trinidad and Tobago, and used YS-11 aircraf'
+  b't for the first five years. The airline seemed to be doing reasonably we'
+  b'll until the arrival of ageing Boeing 737 aircraft, in July 1998. These '
+  b'aircraft had fuel-thirsty and noisy JT8D engines, and were a financial b'
+  b'urden on the airline. Air Caribbean intended to use the 737s on flights '
+  b'to Miami International Airport, but the planes were too noisy for Americ'
+  b"an noise regulations. One of the 737s was so old that a hush kit couldn'"
+  b't be fitted. As a consequence, the planes had to be grounded whilst the '
+  b'hush-kits were fitted to the suitable aircraft.',
+  None,
+  None],
+ [b'Air Caribbean (Trinidad and Tobago)', None, None, b'agent'],
+ [b'American Airlines', None, None, None],
+ [b'American Airlines', None, None, b'agent'],
+ [b'British Airwway', None, None, None],
+ [b'British Airwway', None, None, b'ailiQne'],
+ [b'KLM', None, None, None],
+ [b'KLM', None, None, b'Thing']]
+Table class: klm
+Column header: b'label'
+Column property: b'KLM'
+Column header: b'gossip'
+Column property: b''
+Column header: b'arsenic'
+Column property: b''
+Column header: b'type'
+Column property: b'agent'
+
+48222
+[[b'label', b'character', b'type', b'event'],
+ [b'103 Apennine eBarthquYake', b'geologialO phnomenfon', None, None],
+ [b'1222 Brescia earthquake', None, b'Event', None],
+ [b'1268 Cilicia earthquake', b'natural phenomenon', None, None],
+ [b'1348 Friuli earthquake', b'geologicl phenoRmenon', None, None],
+ [b'1356 Basel earthquake', b'event', None, None],
+ [b"13th Flying Broom International Women's Film Festival",
+  b'event',
+  None,
+  None],
+ [b'14th Venice International Film Festival', b'event', None, None],
+ [b'1667 Duboviok Gearthquake', b'pheoYmenon', None, None],
+ [b'1667 Dubrovnik earthquake', None, b'physical process', None]]
+Table class: outcome
+Column header: b'label'
+Column property: b'1268_Cilicia_earthquake'
+Column header: b'character'
+Column property: b'event'
+Column header: b'type'
+Column property: b'event'
+Column header: b'event'
+Column property: b''
+
+9311
+[[b'label', b'character'],
+ [b'Aeros Rival', b'psychological feature'],
+ [b'Aeros UL-2000 Flamingo', b'coteOnt'],
+ [b'AgustaWestland CH-149 Cormorant', b'category'],
+ [b'AirLony Highlander', b'DesignedArtifact'],
+ [b'Airbcone Redback', b'idze'],
+ [b'Boeing E-3 Sentry', b'mean of transportation'],
+ [b'Boeing KC-135 Stratotanker', b'TransportationDevice_Vehicle'],
+ [b'Boeing OC-135B Open Skies', b'category'],
+ [b'Boeing RC-135', b'device']]
+Table class: category
+Column header: b'label'
+Column property: b'Gangsta_Rap'
+Column header: b'character'
+Column property: b'category'
+
+37984
+[[b'label', b'character'],
+ [b'Alexander Cumming-Gordon', b'royalty'],
+ [b'Alison baronets', b'barony'],
+ [b'Ashma barronets', b'TLing'],
+ [b'Edward Irby', b'baronet'],
+ [b'Edwaurd ManYningham-uler', b'hmaJn'],
+ [b'Ferrers baronets', b'person'],
+ [b'Francis Heathcote', b'human'],
+ [b'Hungate baronets', b'baronet'],
+ [b'John Aubrey-Fletcher', b'blue blood']]
+Table class: human
+Column header: b'label'
+Column property: b'Edward_Irby'
+Column header: b'character'
+Column property: b'person'
+
+23654
+[[b'label', b'nation', b'abstraction', b'placement', b'lineage'],
+ [b'ABS Aerolight Legacy', None, None, None, b'France'],
+ [b'Agnieszka Popielewicz', b'', None, None, None],
+ [b'Airbus A300', None, None, None, b''],
+ [b'Alpine Meadow, Berkhamsted', None, None, None, None],
+ [b'Alyn Valley Woods and Alyn Gorge Caves',
+  b'United Kingdom',
+  None,
+  b'United Kingdom',
+  None],
+ [b'Aviasud Sirocco', None, None, None, b''],
+ [b'Boeing B-17 Flying Fortress', None, None, None, b''],
+ [b'Buckley Claypits and Commons',
+  b'United Kingdom',
+  None,
+  b'United Kingdom',
+  None],
+ [b'Chartrle Moss', None, None, None, None]]
+Table class: britain
+Column header: b'label'
+Column property: b'moxie'
+Column header: b'nation'
+Column property: b'United_Kingdom'
+Column header: b'abstraction'
+Column property: b''
+Column header: b'placement'
+Column property: b'United_Kingdom'
+Column header: b'lineage'
+Column property: b'India'
+
+12393
+[[b'label', b'character'],
+ [b'Anyone Can Whistle', b'musical theater'],
+ [b'Apache HTTP Server', b'communication'],
+ [b'ArgoUML', b'tool'],
+ [b'Army of Darkness', b'movie'],
+ [b'Asterois (vqideor ame)', b'SoftwarObjecht']]
+Table class: army_of_darkness
+Column header: b'label'
+Column property: b'Army_of_Darkness'
+Column header: b'character'
+Column property: b'tool'
+
+14447
+[[b'label', b'character'],
+ [b'Mach (kerKnel', b'witEing'],
+ [b'Mandriva Linux', b'work'],
+ [b'Maniac Mansion', b'video game'],
+ [b'Microsoft Access', b'abstract entity'],
+ [b'Microsoft Excel', b'auditory communication']]
+Table class: work
+Column header: b'label'
+Column property: b'Maniac_Mansion'
+Column header: b'character'
+Column property: b'work'
+
+61552
+[[b'abstraction', b'label', b'claim'],
+ [b'Hollywood is a RNA splicing database containing data for the splicing of'
+  b' orthologous genes in different species.',
+  b'Hollywood (database)',
+  None],
+ [b'Hollywood is a RNA splicing database containing data for the splicing of'
+  b' orthologous genes in different species.',
+  b'Hollywood (database)',
+  b'HOLLYWOOD'],
+ [b'In bioinformatics the PANTHER (Protein ANalysis THrough Evolutionary Rel'
+  b'ationships) classification system is a large curated biological database'
+  b' of gene/protein families and their functionally related subfamilies tha'
+  b't can be used to classify and identify the function of gene products. PA'
+  b'NTHER is part of the Gene Ontology Reference Genome Project designed to '
+  b'classify proteins and their genes for high-throughput analysis. The proj'
+  b'ect consists of both manual curation and bioinformatics algorithms. Prot'
+  b'eins are classified according to family (and subfamily), molecular funct'
+  b'ion, biological process and pathway. It is one of the databases feeding '
+  b"into the European Bioinformatics Institute's InterPro database. -- Appli"
+  b'cation of PANTHER --The most important application of PANTHER is to accu'
+  b'rately infer the function of uncharacterized genes from any organism bas'
+  b'ed on their evolutionary relationships to genes with known functions. By'
+  b' combining gene function, ontology, pathways and statistical analysis to'
+  b'ols, PANTHER enables biologists to analyze large-scale, genome-wide data'
+  b' obtained from the current advance technology including: sequencing, pro'
+  b'teomics or gene expression experiments.Shortly, using the data and tools'
+  b' on the PANTHER, users will be able to:',
+  b'PANTHER',
+  None],
+ [b'In bioinformatics the PANTHER (Protein ANalysis THrough Evolutionary Rel'
+  b'ationships) classification system is a large curated biological database'
+  b' of gene/protein families and their functionally related subfamilies tha'
+  b't can be used to classify and identify the function of gene products. PA'
+  b'NTHER is part of the Gene Ontology Reference Genome Project designed to '
+  b'classify proteins and their genes for high-throughput analysis. The proj'
+  b'ect consists of both manual curation and bioinformatics algorithms. Prot'
+  b'eins are classified according to family (and subfamily), molecular funct'
+  b'ion, biological process and pathway. It is one of the databases feeding '
+  b"into the European Bioinformatics Institute's InterPro database. -- Appli"
+  b'cation of PANTHER --The most important application of PANTHER is to accu'
+  b'rately infer the function of uncharacterized genes from any organism bas'
+  b'ed on their evolutionary relationships to genes with known functions. By'
+  b' combining gene function, ontology, pathways and statistical analysis to'
+  b'ols, PANTHER enables biologists to analyze large-scale, genome-wide data'
+  b' obtained from the current advance technology including: sequencing, pro'
+  b'teomics or gene expression experiments.Shortly, using the data and tools'
+  b' on the PANTHER, users will be able to:',
+  b'PANTHER',
+  b'PANTHER'],
+ [b'ODB (Operon DataBase) is a database of conserved operons in sequenced ge'
+  b'nomes.',
+  b'Operon database',
+  None],
+ [b'OXDB (Opron DataBase) is az dataase of consered operons in UsequeAncd ge'
+  b'nomes.',
+  b'Operoz database',
+  None],
+ [b'OXDB (Opron DataBase) is az dataase of consered operons in UsequeAncd ge'
+  b'nomes.',
+  None,
+  b'OkB'],
+ [b'Patome is a database of biological sequence data of issued patents and/o'
+  b'r published applications',
+  b'Patome',
+  None],
+ [b'Patome is a database of biological sequence data of issued patents and/o'
+  b'r published applications',
+  b'Patome',
+  b'Patome']]
+Table class: jaguar
+Column header: b'abstraction'
+Column property: b''
+Column header: b'label'
+Column property: b'Panther'
+Column header: b'claim'
+Column property: b'Hollywood'
+
+41073
+[[b'label', b'character'],
+ [b'ELA-1', b'TransportFacility'],
+ [b'Ensemble de Lancement Soyouz', b'launch pad'],
+ [b'Keweenaw Rocket Range', b'platform'],
+ [b'Satish Dhawan Space Centre First Launch Pad', b'TransportFacility'],
+ [b'Satish Dhawan Space Centre Third Launch Pad', b'object'],
+ [b'Vandenberg AFB Space Launch Complex 10', b'platform'],
+ [b'Vandenberg AFB Space Launch Complex 2', b'TransportFacility'],
+ [b'Vandenberg AFB Space Launch Complex 4', b'architectural structure'],
+ [b'Vandenberg AFB Space Launch Complex 5', b'SpatialThing']]
+Table class: platform
+Column header: b'label'
+Column property: b'ELA-1'
+Column header: b'character'
+Column property: b'platform'
+
+100371
+[[b'label', b'lawyer', b'lapp', b'type'],
+ [b'Asons', None, b'm.012z24qy', None],
+ [b'Asons', None, None, b'law firm'],
+ [b'Asons', None, None, None],
+ [b'Gray Plant Mooty', b'170', b'Gray Plant Mooty', None],
+ [b'Gray Plant Mooty', None, None, b'law firm'],
+ [b'Gray Plant Mooty', None, None, None],
+ [b'Kenna Partners', b'14', b'm.01264z25', None],
+ [b'Kenna Partners', None, None, b'organization'],
+ [b'Kenna Partners', None, None, None]]
+Table class: law_firm
+Column header: b'label'
+Column property: b'Mintz,_Levin,_Cohn,_Ferris,_Glovsky,_and_Popeo'
+Column header: b'lawyer'
+Column property: b'14'
+Column header: b'lapp'
+Column property: b'Hale_&_Dorr'
+Column header: b'type'
+Column property: b'organization'
+
+9333
+[[b'label', b'character', b'type'],
+ [b'300 Series Shinkansen', b'High-speed trains', None],
+ [b'Anterior cervical lymph nodes', b'physical entity', None],
+ [b'Buccinator lymph node', b'abstract entity', None],
+ [b'Burn (energy drink)', b'nutrient', None],
+ [b'Caff\xc3\xa8 macchiato', b'constituent', None],
+ [b'Calfskin', None, b'Concept'],
+ [b'Callaloo', b'solid', None],
+ [b'Caprese salad', b'FunctionalSubstance', None],
+ [b'Casandra', None, b'constituent']]
+Table class: name
+Column header: b'label'
+Column property: b'Emre'
+Column header: b'character'
+Column property: b'constituent'
+Column header: b'type'
+Column property: b'name'
+
+1811
+[[b'label', b'gossip', b'type'],
+ [b'Alex Millar',
+  b'Alexander Millar (born 29 July 1985) is a British professional poker pla'
+  b'yer who specializes in online high-stakes heads-up cash games, specifica'
+  b"lly No Limit Hold'em, playing under the alias Kanu7 on PokerStars and IR"
+  b'eadYrSoul on Full Tilt Poker.',
+  None],
+ [b'Alex Millar', None, b'poker player'],
+ [b'Alexander Millar', None, None],
+ [b'Antoine Saout',
+  b'Antoine Saout, n\xc3\xa9 le 26 juin 1984 \xc3\xa0 Morlaix en France, est'
+  b' un joueur de poker professionnel.',
+  None],
+ [b'Antoine Saout', None, b'person'],
+ [b'Barry Shulman', None, None],
+ [b'Barry Shulman', None, b'person'],
+ [b'Jeremy Gaubert', None, None],
+ [b'Jeremy Gaubert', None, b'person']]
+Table class: hypostasis
+Column header: b'label'
+Column property: b'Barry_Shulman'
+Column header: b'gossip'
+Column property: b''
+Column header: b'type'
+Column property: b'person'
+
+67705
+[[b'label', b'nation'],
+ [b'Asian Men\xe2\x80\x99s Softball Championship', b''],
+ [b'Limestone Umpire Association', b'Canada'],
+ [b'National Pro Fastpitch', b''],
+ [b'Ontario Amateur Softball AsociatiSun', b''],
+ [b"Women's Softball World Championship", b'']]
+Table class: kanada
+Column header: b'label'
+Column property: b"ISF_Women's_World_Championship"
+Column header: b'nation'
+Column property: b'Canada'
+
+30843
+[[b'label', b'character'],
+ [b'DB Class E 40', b'tranpowrt'],
+ [b'GS&WR Class 201', b'mean of transportation'],
+ [b'GS&WR Class 90', b'locomotive'],
+ [b'GWR 2800 Class 2807', b'engine'],
+ [b'Rebel (train)', b'passenger train']]
+Table class: passenger_train
+Column header: b'label'
+Column property: b'DB_Class_E_40'
+Column header: b'character'
+Column property: b'engine'
+
+47228
+[[b'label', b'character'],
+ [b'Deep Space 1', b'yagoLegalActorGeo'],
+ [b'Ford GT40', b'automobble'],
+ [b'General Dynamics F-16 Fighting Falcon', b'Model_airplane'],
+ [b'Grumman F-14 Tomcat', b'aircraft'],
+ [b'HMS Beagle', b'instrumentality'],
+ [b'Hawker Harrier', b'Thing'],
+ [b'Hawker Sidaeley Harrier', b'obkjec'],
+ [b'Junkers Ju 87', b'mean of transportation']]
+Table class: hms_beagle
+Column header: b'label'
+Column property: b'HMS_Beagle'
+Column header: b'character'
+Column property: b'thing'
+
+19581
+[[b'label', b'character', b'type'],
+ [b'Aardwolf', None, b'Animal'],
+ [b'Abalone', None, b'Mollusk'],
+ [b'American sparrow', None, b'Bird'],
+ [b"Anna's hummingbird", b'Bird', None],
+ [b'Ant', None, b'abstract entity'],
+ [b"Basrlow's lar", None, b'anmsal'],
+ [b'Black magpie', b'chordate', None],
+ [b'Black-breasted boatbill', None, b'Thing'],
+ [b'Brown wood owl', b'species', None]]
+Table class: bird
+Column header: b'label'
+Column property: b'ant'
+Column header: b'character'
+Column property: b'bird'
+Column header: b'type'
+Column property: b'bird'
+
+95360
+[[b'label', b'gossip', b'arsenic', b'type'],
+ [b"1935\xe2\x80\x9336 Illinois Fighting Illini men's basketball team",
+  None,
+  b'm.0ndhstw',
+  b'season'],
+ [b"1935\xe2\x80\x9336 Illinois Fighting Illini men's basketball team",
+  None,
+  None,
+  None],
+ [b"1935\xe2\x80\x9336 Illinois Fighting Illini men's basketball team",
+  b"The 1935\xe2\x80\x9336 Illinois Fighting Illini men's basketball team rep"
+  b'resented the University of Illinois.',
+  None,
+  None],
+ [b"1979\xe2\x80\x9380 North Carolina Tar Heels men's basketball team",
+  None,
+  b'm.010lxdzk',
+  b'national collegiate athletic association team season'],
+ [b"1979\xe2\x80\x9380 North Carolina Tar Heels men's basketball team",
+  None,
+  None,
+  None],
+ [b"1979\xe2\x80\x9380 North Carolina Tar Heels men's basketball team",
+  b"The 1979\xe2\x80\x9380 North Carolina Tar Heels men's basketball team rep"
+  b'resented the University of North Carolina at Chapel Hill during the 1979'
+  b'\xe2\x80\x9380 college basketball season.',
+  None,
+  None],
+ [b"1983\xe2\x80\x9384 Michigan Wolverines men's basketball team",
+  None,
+  b'm.0bmcd70',
+  b'national collegiate athletic association team season'],
+ [b"1983\xe2\x80\x9384 Michigan Wolverines men's basketball team",
+  None,
+  None,
+  None],
+ [b"1983\xe2\x80\x9384 Michigan Wolverines men's basketball team",
+  b"The 1983\xe2\x80\x9384 Michigan Wolverines men's basketball team represen"
+  b'ted the University of Michigan in intercollegiate college basketball dur'
+  b'ing the 1983\xe2\x80\x9384 season. The team played its home games in the '
+  b'Crisler Arena in Ann Arbor, Michigan, and was a member of the Big Ten Co'
+  b'nference. Under the direction of head coach Bill Frieder, the team finis'
+  b'hed tied for fourth in the Big Ten Conference. The team earned an invita'
+  b'tion to the 1984 National Invitation Tournament (NIT) where it was crown'
+  b'ed champion. Although during the seventeen weeks of Associated Press Top'
+  b' Twenty Poll the team was ranked twice, including a peak of number fifte'
+  b'en, it began and finished the season unranked and it also ended the seas'
+  b"on unranked in the final UPI Coaches' Poll. Dan Pelekoudas earned honora"
+  b'ble mention Academic All-Ame',
+  None,
+  None]]
+Table class: season
+Column header: b'label'
+Column property: b'1995_Cleveland_Browns_season'
+Column header: b'gossip'
+Column property: b''
+Column header: b'arsenic'
+Column property: b'1994_Chicago_Bears_season'
+Column header: b'type'
+Column property: b'season'
+
+160897
+[[b'label'],
+ [b'1970 FIFA World Cup'],
+ [b'1974 FIFA World Cup'],
+ [b'1986 FIFA World Cup'],
+ [b'1998 FIFA World Cup qualification (AFC)'],
+ [b'1998 FIFA\xe3\x83\xaf\xe3\x83\xbc\xe3\x83\xab\xe3\x83\x89\xe3\x82\xab'
+  b'\xe3\x83\x83\xe3\x83\x97\xe3\x83\xbb\xe3\x82\xa2\xe3\x82\xb8\xe3'
+  b'\x82\xa2\xe4\xba\x88\xe9\x81\xb8'],
+ [b'2009 Arab Nations Cup'],
+ None]
+Table class: 1986_fifa_world_cup_qualification
+Column header: b'label'
+Column property: b'1986_FIFA_World_Cup_qualification'
+
+78978
+[[b'team', b'catch'],
+ [b'Crystal Palace F.C.', b'20'],
+ [b'Northampton Town F.C.', b'1'],
+ [b'Northwich Victoria F.C.', b'1'],
+ [b'Stockport County F.C.', b'97'],
+ [b'Wrexham F.C.', b'51']]
+Table class: 20
+Column header: b'team'
+Column property: b'Crystal_Palace_F.C.'
+Column header: b'catch'
+Column property: b'1'
+
+78979
+[[b'label', b'gossip'],
+ [b'Beige', None],
+ [b'Beige',
+  b'\xd8\xa8\xd9\x8a\xd8\xac (\xd8\xa7\xd9\x84\xd9\x84\xd9\x88\xd9\x86 \xd8'
+  b'\xa7\xd9\x84\xd8\xb1\xd9\x85\xd9\x84\xd9\x8a ) \xd9\x83\xd9\x84\xd9\x85'
+  b'\xd8\xa9 \xd8\xa8\xd9\x8a\xd8\xac \xd9\x85\xd8\xa3\xd8\xae\xd9\x88\xd8\xb0'
+  b'\xd8\xa9 \xd9\x85\xd9\x86 \xd9\x83\xd9\x84\xd9\x85\xd8\xa9 \xd9\x81\xd8'
+  b'\xb1\xd9\x86\xd8\xb3\xd9\x8a\xd8\xa9 \xd8\xaa\xd8\xb9\xd9\x86\xd9\x8a \xd9'
+  b'\x84\xd9\x88\xd9\x86 \xd8\xa7\xd9\x84\xd8\xb5\xd9\x88\xd9\x81 \xd8\xa7\xd9'
+  b'\x84\xd8\xb7\xd8\xa8\xd9\x8a\xd8\xb9\xd9\x8a \xd9\x87\xd9\x88 \xd8\xa7\xd9'
+  b'\x84\xd9\x84\xd9\x88\xd9\x86 \xd8\xa7\xd9\x84\xd8\xa8\xd9\x86\xd9\x8a \xd8'
+  b'\xa7\xd9\x84\xd9\x81\xd8\xa7\xd8\xaa\xd8\xad \xd9\x88\xd9\x84\xd9\x87 \xd8'
+  b'\xaf\xd8\xb1\xd8\xac\xd8\xa7\xd8\xaa \xd8\xaa\xd8\xaa\xd9\x81'
+  b'\xd9\x88\xd8\xaa \xd8\xa8\xd9\x8a\xd9\x86 \xd8\xa7\xd9\x84\xd8\xb4\xd8\xad'
+  b'\xd9\x88\xd8\xa8 \xd9\x88\xd8\xa7\xd9\x84\xd9\x82\xd8\xaa\xd8'
+  b'\xa7\xd9\x85\xd8\xa9 \xd9\x88\xd9\x84\xd9\x87 \xd8\xaa\xd8\xb3\xd9\x85\xd9'
+  b'\x8a\xd8\xa7\xd8\xaa \xd8\xa3\xd8\xae\xd8\xb1\xd9\x89 \xd9\x85\xd8\xab\xd9'
+  b'\x84 \xd8\xb1\xd9\x85\xd9\x84\xd9\x8a \xd9\x88 \xd8\xa8\xd9\x86\xd9\x8a'
+  b' \xd9\x81\xd8\xa7\xd8\xaa\xd8\xad'],
+ [b'Black', None],
+ [b'Blue', None],
+ [b'Cyaan', None],
+ [b'Cyan', None],
+ [b'Ultramarine',
+  b'Ultramarin (lat. ultramarinus f\xc3\xbcr \xe2\x80\x9e\xc3\xbcberseeisch; '
+  b'\xc3\xbcber das Meer\xe2\x80\x9c) ist ein blauer Farbton. Ultramarinblau st'
+  b'eht aber auch f\xc3\xbcr eine Sammelbezeichnung f\xc3\xbcr anorganische '
+  b'Pigmente unterschiedlicher Farbe mit \xc3\xa4hnlichem chemischen Aufbau. D'
+  b'ie Pigmente sind sehr lichtecht. Die fr\xc3\xbcher zur Pigmentherstellung '
+  b'verwendeten Mineralien wurden \xe2\x80\x9e\xc3\xbcber das Meer\xe2'
+  b'\x80\x9c nach Europa importiert, so ist der Begriff Ultramarin entstanden.'],
+ [b'Ultramaryna', None],
+ [b'\xd0\xa1\xd0\xb8\xd0\xbd\xd0\xb8\xd0\xb9 \xd1\x86\xd0\xb2\xd0\xb5\xd1\x82',
+  None]]
+Table class: black_people
+Column header: b'label'
+Column property: b'Blue'
+Column header: b'gossip'
+Column property: b''
+
+80005
+[[b'label', b'practice'],
+ [b'Asons', b''],
+ [b'Gray Plant Mooty', b''],
+ [b'Kenna Partners', b'Commercial law'],
+ [b'Mintz, Levin, Cohn, Ferris, Glovsky, and Popeo', b''],
+ [b'Wilmer Cutler Pickering Hale and Dorr', b'']]
+Table class: law_merchant
+Column header: b'label'
+Column property: b'Mintz,_Levin,_Cohn,_Ferris,_Glovsky,_and_Popeo'
+Column header: b'practice'
+Column property: b'commercial_law'
+
+22662
+[[b'label', b'character'],
+ [b'Dragica D\xc5\xbeono', b'Agent'],
+ [b'Dragica Mitrova', b'handball player'],
+ [b'Erzxs\xc3\xa9bet Kcsis', b'peOson'],
+ [b'Esin Sa\xc4\x9fd\xc4\xb1\xc3\xa7', b'person'],
+ [b'Fabiana Diniz', b'athlete']]
+Table class: agent
+Column header: b'label'
+Column property: b'Dragica_D\xc5\xbeono'
+Column header: b'character'
+Column property: b'agent'
+
+51340
+[[b'label',
+  b'character',
+  b'abstraction',
+  b'description',
+  b'team',
+  b'championship',
+  b'gossip',
+  b'person'],
+ [b"'Ksan", b'location', None, None, None, None, None, None],
+ [b'(+)-Sabinene 3-hydroxylase', b'matter', None, None, None, None, None, None],
+ [b'(+)-epicubenol synthase', b'activator', None, None, None, None, None, None],
+ [b'(-)-sabinNe synthasxe', b'matriagl', None, None, None, None, None, None],
+ [b'(419624) 2010 SO16', b'place', None, None, None, None, None, None],
+ [b'(9918)_1979_MK3__Beltasteroid-stub__1',
+  b'Location',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'(9924)_1981_EM24__Beltasteroid-stub__1',
+  b'Place',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'(9926)_1981_EU41__Beltasteroid-stub__1',
+  b'atXeroid',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'(9928)_1981_WE9__Beltasteroid-stub__1',
+  b'PlaNc',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None]]
+Table class: work
+Column header: b'label'
+Column property: b"'Ksan"
+Column header: b'character'
+Column property: b'work'
+Column header: b'abstraction'
+Column property: b''
+Column header: b'description'
+Column property: b''
+Column header: b'team'
+Column property: b''
+Column header: b'championship'
+Column property: b''
+Column header: b'gossip'
+Column property: b''
+Column header: b'person'
+Column property: b''
+
+109709
+[[b'label', b'type'],
+ [b'Acromial angle', b'os'],
+ [b'Condyloid process', b'Thing'],
+ [b'Coronoid process of the mandible', b'Thing'],
+ [b'Frontal eminence', b'anatomical structure'],
+ [b'Long bone', b'anatomical structure']]
+Table class: thing
+Column header: b'label'
+Column property: b'condyloid_process'
+Column header: b'type'
+Column property: b'thing'
+
+4239
+[[b'label', b'character'],
+ [b'Chris Johnson (rugby league)', b'back'],
+ [b'Clarrie Wallach', b'rugby player'],
+ [b"Conor O'Shea", b'person'],
+ [b'Curtis Naughton', b'person'],
+ [b'Dafydd Hewitt', b'rugby player'],
+ [b'Francis (footballer)', b'jock'],
+ [b'Francis Jos\xc3\xa9 da Silva', b'soccer player'],
+ [b'Francisco Delgado Melo', b'human'],
+ [b'George Allen (footballer)', b'back']]
+Table class: back
+Column header: b'label'
+Column property: b'Francisco_Delgado_Melo'
+Column header: b'character'
+Column property: b'back'
+
+104594
+[[b'label', b'arsenic'],
+ [b'Darwin Awards', b''],
+ [b'Ricochet (website)', b'Ricochet'],
+ [b'The Hub (forum)', b'The Hub'],
+ [b'Vox (website)', b''],
+ [b'World Tibet News', b'']]
+Table class: fallout
+Column header: b'label'
+Column property: b'Darwin_Awards'
+Column header: b'arsenic'
+Column property: b'Ricochet'
+
+7319
+[[b'label', b'character'],
+ [b'Boeing Vertol CH-46 Sea Knight', b'mean of transportation'],
+ [b'CIM-10 Bomarc', b'artifact'],
+ [b'CSS Viriniia', b'amrtifac'],
+ [b'Concorde', b'mean of transportation'],
+ [b'Curtiss P-40 Warhawk', b'physuical ntity'],
+ [b'De Havilland Mosquito', b'airplane'],
+ [b'DeI Havilland osuAito', b'hdevierthanp-air craft']]
+Table class: concorde
+Column header: b'label'
+Column property: b'Concorde'
+Column header: b'character'
+Column property: b'Artifact'
+
+128153
+[[b'label', b'type', b'season'],
+ [b'1874 Hartford Dark Blues season', b'Thing', None],
+ [b'1875 St. Louis Brown Stockings season', b'season', None],
+ [b'1877 Brooklyn Hartfords season', b'abstract entity', None],
+ [b'1877 St. Louis Brown Stockings season',
+  b'St. Louis Brown Stockings seasons',
+  None],
+ [b'1884\xe2\x80\x9385 Heart of Midlothian F.C. season',
+  b'abstract entity',
+  None],
+ [b'1885\xe2\x80\x9386 Heart of Midlothian F.C. season', b'sIeasn', None],
+ [b'1886\xe2\x80\x9387 Heart of Midlothian F.C. season',
+  b'fundamental measure',
+  None],
+ [b'1887\xe2\x80\x9388 Heart of Midlothian F.C. season',
+  b'abstract entity',
+  None],
+ [b'1888 Cleveland Blues season', b'Cleveland Spiders seasons', None]]
+Table class: season
+Column header: b'label'
+Column property: b'Soviet_Top_League_1936'
+Column header: b'type'
+Column property: b'season'
+Column header: b'season'
+Column property: b''
+
+5275
+[[b'label', b'washington', b'arsenic', b'gossip', b'type'],
+ [b'Billon standard', b'Billon_standard?oldid=702614608', None, None, None],
+ [b'Billon standard', None, None, None, None],
+ [b'Billon standard',
+  None,
+  None,
+  b'Billon is a peer-to-peer payment system based on digital cash blockchain'
+  b' solution. As contrasted to widely known bitcoin it is not a currency an'
+  b'd therefore technically it is a not cryptocurrency, but rather cryptocas'
+  b'h.The uniqueness of this system lies in the fact that while it brings th'
+  b'e huge cost advantage of infrastructure based on a distributed blockchai'
+  b'n, it is fully legal and based on national currency. It is entirely soft'
+  b'ware based solution.[better source needed]Other known approaches to digi'
+  b'tal cash rely on hardware tokens like Canadian MintChip backed by Royal '
+  b'Canadian Mint.',
+  b'currency'],
+ [b'Japanese government-issued Philippine peso', None, None, None, None],
+ [b'Japanese government-issued Philippine peso',
+  None,
+  b'Japanese government-issued Philippine Peso',
+  b'During World War II in the Philippines, the occupying Japanese governmen'
+  b't issued fiat currency in several denominations; this is known as the Ja'
+  b'panese government-issued Philippine fiat peso (see also Japanese invasio'
+  b'n money). The puppet state under Jos\xc3\xa9 P. Laurel outlawed possession'
+  b' of guerrilla currency, and declared a monopoly on the issuance of money'
+  b', so that anyone found to possess guerrilla notes could be arrested.',
+  None],
+ [b'Japanese government-issued Philippine peso', None, None, None, b'measure'],
+ [b'Pitcairn Islands dollar', None, None, None, None],
+ [b'Pitcairn Islands dollar',
+  None,
+  b'Pitcairn Islands dollar',
+  b'Pitcairn Islands is a non-sovereign British Overseas Territory and the N'
+  b'ew Zealand dollar is used as exchange. Pitcairn Islands began issuing it'
+  b's first commemorative coins in 1988. Though the Pitcairn Islands dollar '
+  b"is not a true currency in the strict sense of the word, and isn't used a"
+  b's a circulation coinage, it can be lawfully exchanged as tender. The Pit'
+  b'cairn Islands dollar exists only because of the coin collecting market, '
+  b'which provides a major staple for the island nation. Having a population'
+  b' of only 56 according to the 2013 census, and with only one island in th'
+  b'e group of four being populated, there is no need for local coinage. Coi'
+  b"ns consist of an important part of Pitcairn's tiny economy and help rais"
+  b"e funds for the government's largely fixed and subsidized income.",
+  None],
+ [b'Pitcairn Islands dollar', None, None, None, b'metric']]
+Table class: currency
+Column header: b'label'
+Column property: b'Billon_standard'
+Column header: b'washington'
+Column property: b''
+Column header: b'arsenic'
+Column property: b'Pitcairn_Islands_dollar'
+Column header: b'gossip'
+Column property: b''
+Column header: b'type'
+Column property: b'measure'
+
+11424
+[[b'label', b'character'],
+ [b'Richard Marshall (general)', b'NaturalPerson'],
+ [b'Samuel Barrington', b'agent'],
+ [b'Sejanus', b'PersonWithOccupation'],
+ [b'Simon Weston', b'person'],
+ [b'T\xc5\x8dg\xc5\x8d Heihachir\xc5\x8d', b'agent']]
+Table class: hypostasis
+Column header: b'label'
+Column property: b'Simon_Weston'
+Column header: b'character'
+Column property: b'agent'
+
+63649
+[[b'label', b'displacement'],
+ [b'BMW_N45__B16%5D%5D__1', b'0.00151596'],
+ [b'BMW_N45__B20S%5D%5D__1', b'0.001997'],
+ [b'BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__1', b'0.001995'],
+ [b'Clio_V6_Renault_Sport__Phase_1__1', b'0.002946'],
+ [b'Clio_V6_Renault_Sport__Phase_2__1', b'0.002946'],
+ None]
+Table class: b''
+Column header: b'label'
+Column property: b''
+Column header: b'displacement'
+Column property: b''
+
+17570
+[[b'label', b'character'],
+ [b'ABS Aerolight Legacy', b'Product'],
+ [b'ADM-Aeolus', b'celestial body'],
+ [b'AIDA (mission)', b'Satellite'],
+ [b'Airbus A300', b'airliner'],
+ [b'Akari (satellite)', b'device'],
+ [b'Aviasud Sirocco', b'Thing'],
+ [b'Azur (satellite)', b'ArtificialSatellite'],
+ [b'BepiColombo', b'transport'],
+ [b'Boeing B-17 Flying Fortress', b'craft']]
+Table class: satellite
+Column header: b'label'
+Column property: b'Bristol_Britannia'
+Column header: b'character'
+Column property: b'craft'
+
+32932
+[[b'label', b'character'],
+ [b'Ariel Sharon', b'human'],
+ [b'Arnold Schwarzenegger', b'agent'],
+ [b'ArthDur hillip', b'full oadmira'],
+ [b'Arthur St. Clair', b'Thing'],
+ [b'Arthur Wellesley, 1st Duke of Wellington',
+  b'PrimeMinister_HeadOfGovernment']]
+Table class: human
+Column header: b'label'
+Column property: b'Arthur_St._Clair'
+Column header: b'character'
+Column property: b'Human'
+
+92325
+[[b'label', b'gossip'],
+ [b'Bernhard von B\xc3\xbclow', None],
+ [b'S N Balakrishnan',
+  b'S N Balakrishnan is the second and the current Chancellor of Shiv Nadar '
+  b'University and the Chairperson of the Executive Council, the apex statut'
+  b'ory body at the University. His brother, Shiv Nadar, is the founder of t'
+  b'he university baring his name.'],
+ [b'S N Balakrishnan', None],
+ [b'Theobald von Bethmann-Hollweg', None],
+ [b'Wang Xijue', None],
+ [b'Wang Xijue', None],
+ [b'Yan Song (Ming dynasty)', None],
+ [b'\xe5\x8e\xb3\xe5\xb5\xa9', None]]
+Table class: theobald_von_bethmann-hollweg
+Column header: b'label'
+Column property: b'S_N_Balakrishnan'
+Column header: b'gossip'
+Column property: b''
+
+82289
+[[b'label', b'arsenic', b'gossip', b'type'],
+ [b'Albert von Thurn und Taxis (1867\xe2\x80\x931952)', None, None, None],
+ [b'Albert von Thurn und Taxis (1983)', None, None, None],
+ [b'Albert, 12th Prince of Thurn and Taxis', None, None, None],
+ [b'Albert, 12th Prince of Thurn and Taxis', None, None, b'RoyalFamily'],
+ [b'Albert, 12th Prince of Thurn and Taxis', None, None, None],
+ [b'Albert, 12th Prince of Thurn and Taxis', None, None, b'agent'],
+ [b'Albert, 12th Prince of Thurn and Taxis', None, None, None],
+ [b'Albert, 12th Prince of Thurn and Taxis', None, None, None],
+ [b'Albert, 8th Prince of Thurn and Taxis', None, None, None]]
+Table class: hypostasis
+Column header: b'label'
+Column property: b'Albert,_12th_Prince_of_Thurn_and_Taxis'
+Column header: b'arsenic'
+Column property: b''
+Column header: b'gossip'
+Column property: b''
+Column header: b'type'
+Column property: b'agent'
+
+58536
+[[b'label', b'type'],
+ [b'Kenilworth Castle', b'palace'],
+ [b'Maginot Line', b'yagoPermanentlyLocatedEntity'],
+ [b'Peenem\xc3\xbcnGde rmy RtesearchCenter', b'TFing'],
+ [b'StalSag II-C', b'objjct'],
+ [b'Stalag Luft IV', b'yagoGeoEntity'],
+ [b'Stalag Luft IV', None],
+ [b'Stlag IIIJ C', None]]
+Table class: stalag_luft_iv
+Column header: b'label'
+Column property: b'Stalag_Luft_IV'
+Column header: b'type'
+Column property: b'palace'
+
+46251
+[[b'label', b'placement'],
+ [b'Al Hoota Cave', b''],
+ [b"Collin's Cave", b''],
+ [b"Diesel's Delight", b''],
+ [b'Jaskinia Nied\xc5\xbawiedzia', b''],
+ [b'Lamb_Leer__Cavern__1', b'West Harptree']]
+Table class: diesel's_delight
+Column header: b'label'
+Column property: b"Collin's_Cave"
+Column header: b'placement'
+Column property: b'West_Harptree'
+
+21676
+[[b'label', b'character'],
+ [b'CWora Sea', b'physicapl ntity'],
+ [b'Celtic Sea', b'SpatialThing'],
+ [b'East Siberian Sea', b'SpatialThing'],
+ [b'Labrador Sea', b'natural place'],
+ [b'Laptev Sea', b'sea']]
+Table class: sea
+Column header: b'label'
+Column property: b'Labrador_Sea'
+Column header: b'character'
+Column property: b'sea'
+
+20653
+[[b'label', b'type', b'character'],
+ [b'Cell Cycle (journal)', None, b'work'],
+ [b'Constellations (journal)', None, b'creation'],
+ [b'Cosmicomics', None, b'Book'],
+ [b'Cowboy Bebop', b'abstract entity', b'Thing'],
+ [b'Cowboy Bebop', None, None],
+ [b'Crash (J. G. Ballard novel)', None, b'Book'],
+ [b'Doraemon', b'comic', None],
+ [b'Natsu no Arashi!', b'work', None],
+ [b'Natsu no arashi!', None, None]]
+Table class: work
+Column header: b'label'
+Column property: b'Cowboy_Bebop'
+Column header: b'type'
+Column property: b'work'
+Column header: b'character'
+Column property: b'work'
+
+63663
+[[b'label'],
+ [b'Acquire'],
+ [b'Amber Diceless Roleplaying Game'],
+ [b'Brujos y Guerreros'],
+ [b'Shogi'],
+ [b'Sh\xc5\x8dgi'],
+ [b'Sorcery!'],
+ [b'Wraith: The Oblivion'],
+ [b'Wraith: el olvido']]
+Table class: acquire
+Column header: b'label'
+Column property: b'acquire'
+
+6320
+[[b'label', b'character'],
+ [b'Bonnie Maxon', b'Athlete'],
+ [b'Bruiser Brody', b'wrestler'],
+ [b'Carlos Col\xc3\xb3n Sr.', b'agent'],
+ [b'Damien Demento', b'Wrestler'],
+ [b'Gpangrel(wrestler)', b'pfeson']]
+Table class: agent
+Column header: b'label'
+Column property: b'Bonnie_Maxon'
+Column header: b'character'
+Column property: b'agent'
+
+25886
+[[b'label', b'name'],
+ [b'Aladdin (name)', b'Aladdin'],
+ [b'Annie (given name)', b''],
+ [b'Boutros', b''],
+ [b'Isla (given name)', b'Isla'],
+ [b'Luke (name)', b'']]
+Table class: disney's_aladdin
+Column header: b'label'
+Column property: b''
+Column header: b'name'
+Column property: b'Aladdin'
+
+422067
+[[b'abstraction',
+  b'part',
+  b'course',
+  b'type',
+  b'theme',
+  b'claim',
+  b'primary',
+  b'thumbnail',
+  b'differentFrom',
+  b'gene',
+  b'binomial',
+  b'depiction',
+  b'rewrite',
+  b'subdivisio'],
+ [b"A '''courtepy''' is a doublet that has been deeply pleated from the shou"
+  b'lders to the waist around the entire garment, and then flared over the h'
+  b'ips. There is also an undershirt, and many different sleeve styles.',
+  None,
+  None,
+  None,
+  None,
+  None,
+  b'Courtepy',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b"A '''courtepy''' is a doublet that has been deeply pleated from the shou"
+  b'lders to the waist around the entire garment, and then flared over the h'
+  b'ips. There is also an undershirt, and many different sleeve styles.',
+  None,
+  None,
+  b'topical concept',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b"A princess line or princess dress describes a woman's fitted dress or ot"
+  b'her garment cut in long panels without a horizontal join or separation a'
+  b't the waist. Instead of relying on darts to shape the garment, its fit i'
+  b's achieved with long seams and shaped pattern pieces. A rarely used alte'
+  b'rnative name for the Princess line was French-dart-line dress, after the'
+  b' specific darts used in its construction.',
+  None,
+  None,
+  None,
+  None,
+  None,
+  b'Princess_line',
+  None,
+  None,
+  None,
+  None,
+  b'Princess_line_dress,_1878.jpg',
+  None,
+  None],
+ [b"A princess line or princess dress describes a woman's fitted dress or ot"
+  b'her garment cut in long panels without a horizontal join or separation a'
+  b't the waist. Instead of relying on darts to shape the garment, its fit i'
+  b's achieved with long seams and shaped pattern pieces. A rarely used alte'
+  b'rnative name for the Princess line was French-dart-line dress, after the'
+  b' specific darts used in its construction.',
+  None,
+  None,
+  b'Thing',
+  None,
+  None,
+  None,
+  b'Princess_line_dress,_1878.jpg?width=300',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'ALGOL 68S was designed as a subset of ALGOL 68 in order to permit single'
+  b'-pass compilation. It was mostly for numerical computation.',
+  None,
+  None,
+  b'programming language',
+  None,
+  None,
+  b'ALGOL_68S',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'Acceptance, Test Or Launch Language (ATOLL) was the programming language'
+  b' used for automating the checking and launch of Saturn rockets.',
+  None,
+  None,
+  b'language',
+  None,
+  None,
+  b'ATOLL_(programming_language)',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'Achaea simplex is a species of moth of the Noctuidae family. It is found'
+  b' in Waigeo, Mysol, the northern Moluccas, Sulawesi and Borneo.',
+  None,
+  b'',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'Actinochloris terrestris is an algae species in the genus Actinochloris.',
+  None,
+  b'Chlorophyceae',
+  b'species',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None],
+ [b'Aladdin (Arabic: \xd8\xb9\xd9\x84\xd8\xa7\xd8\xa1 \xd8\xa7\xd9\x84\xd8\xaf'
+  b'\xd9\x8a\xd9\x86, \xca\xbbAl\xc4\x81\xca\xbc ad-D\xc4\xabn) (various spe'
+  b'llings and transliterations) is a male given name which means nobility o'
+  b'f faith or nobility of religion. It is one of a large class of names end'
+  b'ing with ad-Din. The name may refer to:',
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None,
+  None]]
+Table class: thing
+Column header: b'abstraction'
+Column property: b''
+Column header: b'part'
+Column property: b''
+Column header: b'course'
+Column property: b'arachnid'
+Column header: b'type'
+Column property: b'thing'
+Column header: b'theme'
+Column property: b'apoptosis'
+Column header: b'claim'
+Column property: b''
+Column header: b'primary'
+Column property: b'ALGOL_68S'
+Column header: b'thumbnail'
+Column property: b''
+Column header: b'differentFrom'
+Column property: b''
+Column header: b'gene'
+Column property: b''
+Column header: b'binomial'
+Column property: b''
+Column header: b'depiction'
+Column property: b''
+Column header: b'rewrite'
+Column property: b''
+Column header: b'subdivisio'
+Column property: b'Pezizomycotina'
+
+4277
+[[b'label', b'character'],
+ [b'Kd Iocarus', b'TRhng'],
+ [b'Kerberos (protocol)', b'algorithm'],
+ [b'Korn shell', b'communication'],
+ [b'Kyoto Common Lisp', b'work'],
+ [b'LambdaMOO', b'software']]
+Table class: work
+Column header: b'label'
+Column property: b'Korn_shell'
+Column header: b'character'
+Column property: b'work'
+
+24763
+[[b'label', b'character'],
+ [b'April Summers', b'NaturalPerson'],
+ [b'Connie Kreski', b'PlayboyModel'],
+ [b'Debra Jensen', b'person'],
+ [b'Magdalina Valchanova', b'NaturalPerson'],
+ [b'Victortia Fullr', b'Pbeson']]
+Table class: legal_entity
+Column header: b'label'
+Column property: b'April_Summers'
+Column header: b'character'
+Column property: b'person'
+
+85694
+[[b'label', b'type'],
+ [b'1872 Troy Haymakers season', b'measure'],
+ [b'1872 Washington Olympics season', b'sports team season'],
+ [b'1873 Brooklyn Atlantics season', b'measure'],
+ [b'1873 Philadelphia White Stockings season', b'Thing'],
+ [b'1874 Brooklyn Atlantics season', b'period'],
+ [b'1879\xe2\x80\x9380 Heart of Midlothian F.C. season', b'measure'],
+ [b'1880\xe2\x80\x9381 Heart of Midlothian F.C. season', b'pekrod'],
+ [b'1881\xe2\x80\x9382 Heart of Midlothian F.C. season', b'abstract entity'],
+ [b'1882\xe2\x80\x9383 Heart of Midlothian F.C. season', b'season']]
+Table class: season
+Column header: b'label'
+Column property: b'1910_Akron_Indians_season'
+Column header: b'type'
+Column property: b'measure'
+
+6337
+[[b'label', b'character'],
+ [b'Banting Memorial High School', b'Thing'],
+ [b'Bartlett High School (Alaska)', b'agent'],
+ [b'Bartlett High School (Tennessee)', b'organisation'],
+ [b'Baum School of Art', b'organisation'],
+ [b'Belen Jesuit Preparatory School', b'SpatialThing']]
+Table class: agent
+Column header: b'label'
+Column property: b'Banting_Memorial_High_School'
+Column header: b'character'
+Column property: b'organization'
+
+40134
+[[b'label', b'character'],
+ [b'Episcopal Diocese of Milwaukee', b'Location'],
+ [b'Episcopal Diocese of New York', b'SpatialThing'],
+ [b'RomaKn Catolic Arhdiocese oOf Braga', b'dicease'],
+ [b'Roman Catholic Archdiocese of Braga', b'Location'],
+ [b'Roman Catholic Archdiocese of Cebu', b'SpatialThing'],
+ [b'Roman Catholic Archdiocese of Monterrey', b'SpatialThing'],
+ None]
+Table class: fix
+Column header: b'label'
+Column property: b'Episcopal_Diocese_of_New_York'
+Column header: b'character'
+Column property: b'location'
+
+39112
+[[b'label', b'character'],
+ [b'Alfred Ruosse Wallace', b'PersonWitThOccupaion'],
+ [b'Alhazen', b'Thing'],
+ [b'Alois Alzheimer', b'Agent'],
+ [b'Anders Celsius', b'associate'],
+ [b'Andrei Sakharov', b'grownup']]
+Table class: associate
+Column header: b'label'
+Column property: b'Alhazen'
+Column header: b'character'
+Column property: b'agent'
+
+64717
+[[b'championship', b'type', b'person', b'label'],
+ [b'Business', b'Thing', None, b'Armand_Peugeot__1'],
+ [b'Chairman & CEO', None, b'Wayne R. Reynolds', None],
+ [b'Cook, valet', b'Thing', None, b'Henry_Peavey__1'],
+ [b'Jeweller,Businessperson', b'Thing', None, b'Henry_Birks__1'],
+ [b'Journalist, sportswriter, author, actor',
+  b'person function',
+  None,
+  b'Heywood_Hale_Broun__1'],
+ [b'Musician, singer', b'person function', None, b'Artur_Rojek__1'],
+ [b'PresIient', b'person unctioBn', None, None],
+ [b'President', b'person function', b'Jacqueline Daley-Aspinall', None],
+ [b'President', None, None, b'BVI_Bar_Association__1']]
+Table class: president
+Column header: b'championship'
+Column property: b'President'
+Column header: b'type'
+Column property: b'thing'
+Column header: b'person'
+Column property: b'Academy_of_Achievement'
+Column header: b'label'
+Column property: b''
+
+144591
+[[b'label'],
+ [b'Aardwolf'],
+ [b'Abalone'],
+ [b'Ant'],
+ [b'Condor'],
+ [b'Ferret'],
+ [b'\xd9\x83\xd9\x86\xd8\xaf\xd9\x88\xd8\xb1']]
+Table class: ferret
+Column header: b'label'
+Column property: b'ant'
+
+233681
+[[b'abstraction', b'id'],
+ [b'Buglass is a Scottish surname. Buglass derives from the old lands of Boo'
+  b'klawes near Melrose, Roxburghshire. An earlier form of spelling is Buke-'
+  b'Lawes, i.e. buck or stag and low ground. Other theories include that the'
+  b' name originates from family/clan colour identification, specifically th'
+  b'e Gaelic words Buidhe and Glas (yellow and green respectively) or it is '
+  b'of Norman descent. The first recorded instance of the name is from 1220,'
+  b' when a Robert de Bucles witnessed a confirmation charter in favour of t'
+  b'he Abbey of Kelso. In 1423, John Bewclase (described as \xe2\x80\x9ca tru'
+  b'stworthy man\xe2\x80\x9d) witnessed the testament of Alexander Hume of Du'
+  b'nglass. The name is affiliated with the Home or Hume clan (see below). O'
+  b'ther early recordings of the name, in various spellings, were: John Bukl'
+  b'es, who witnessed an instrument of sasine in Lothian in 1535. Kathrine B'
+  b'ukles is recorded in 1589, whilst Agnes Buckles was noted living in the '
+  b'parish of Livingstone in 1675, and a John Bowglase signed a document in '
+  b'1684 in Overlaskeoch. There are further variants of the name in the sixt'
+  b'eenth century in Lothian: Buccles ( 1539);Bukeles (1571);Buikles (1584 a'
+  b'nd 1603); and Bugloss (1680) The Home clan, to which Buglass is affiliat'
+  b'ed, derives from Patrick, Earl of Dunbar, who lived early in the 13th ce'
+  b'ntury. Alexander Home was created a Baron in 1473, and the title was rai'
+  b'sed to an Earldom by James VI in 1605. Eventually, ithe family of Home o'
+  b'f Coldingknow succeeded to the title, and from this, the 14th Earl is di'
+  b'rectly descended. For political reasons, he resigned his earldom to beco'
+  b'me Sir Alec Douglas-Home, later Prime Minister of the United Kingdom. In'
+  b' 1729, a Stephen Buglas [sic] was appointed vice tidesman at the port of'
+  b' Dumfries. Due to the geographical position of Roxburghshire, the Buglas'
+  b's name is also common in northern parts of England, such as Northumberla'
+  b'nd.',
+  b'1138455'],
+ [b'Daini community is an brancht of a larger community know as ThakkVersor '
+  b'LoFhanasb of Gujarat, Western state ofJ India, bwtprad acroxss all oer t'
+  b'he world. Daxini surname is Cfoundto bieWused by two differents genealog'
+  b'ical Zpaths. One belongs to Kutch District of Gujarat, while otr is havi'
+  b'ng it roots in SauraFstra pWart of Gujarat. The Daxibni under discusiNon'
+  b' hreis of Kutch origin.They have their Familx Deityo Pursadada(Kul Dvta '
+  b'orKsBhetrfaal) in Anja city of Kutch. The KuluDevi or aly Goddess of Thi'
+  b's Daxinis iLs Maa Ashapura Maa having its shine at Mmazata Nos Makndh KT'
+  b"hze Daini's also have a kuldevi's empe in Balambha near ajokotH, Gujarat.",
+  b'491953599'],
+ [b'Dang (\xe9\x84\xad, \xe9\xbb\xa8, \xe5\x94\x90, \xe6\xbb\x95) is a Chine'
+  b'se, Vietnamese, Korean, Indian[citation needed] and German[citation need'
+  b'ed] surname. It thus has its sources from both Asiatic languages and Ind'
+  b'o-European languages[citation needed]. The two branches are thought to b'
+  b'e unrelated.',
+  b''],
+ [b'Deengar is an Indian family name. They are Kshatriyas or the warrior cla'
+  b'ss according to the Hindu Varna system.[citation needed] The Deengars be'
+  b'long to a very small elite group of highly educated professionals, usual'
+  b'ly found in executive management positions or as business entrepreneurs.'
+  b' Within the Kshatriayas, Deengars have a distinct identity with K\xc4\x81y'
+  b'astha or Kayasth, which is a Hindu high caste,they are also found in Sik'
+  b'h religion .Some people even spell it as Dhingra.They are known to be th'
+  b'e smart and brave individuals. Madan lal dhingra was the first Indian re'
+  b'volutionary freedom fighter in the 20th century. They are unusually smal'
+  b'l in number and are scattered all over the world; having originated in N'
+  b'orth India, they are largely concentrated in the state of Uttar Pradesh '
+  b'in the city of Lucknow in India. Deengars belong to Khirabad in Sitapur '
+  b'district.',
+  b'4906282'],
+ [b"Dubthaigh or O'Dubthaigh is the name of an Irish Tribe providing the ori"
+  b'gins of the name Duffy or Duffie. The name means either Dark Man or the '
+  b'one from the dark House, and embraces many of the famous clerics linked '
+  b'to Cong, many of them called Saint Dubtach.',
+  b'6429746'],
+ [b'Emercoin (Symbol: EMC) is a cryptocurrency that is in some ways similar '
+  b'to Namecoin and Peercoin. It was launched in December 2013 and announced'
+  b' three days before launch in order to notify miners in advance. Emercoin'
+  b' employes both proof-of-work (POW) mining and proof-of-stake (POS) minti'
+  b'ng and uses SHA-256 hashes. On January 4, 2016 Microsoft entered into a '
+  b'partnership with EmerCoin as part of their Azure Blockchain Service prog'
+  b'ram. EMC is considered to be a leading digital currency and Blockchain p'
+  b'latform which focuses on a platform of innovative and scalable enterpris'
+  b'e services.',
+  None],
+ [b'Jachowski (feminine: Jachowska, plural: Jachowscy) is a Polish surname. '
+  b'It may refer to:',
+  b'27018543'],
+ [b'Kvint is a Ofamily axme of', b'2549493337'],
+ [b'Kv\xc3\xad\xc4\x8dala is a Czech surname of:', b'27021151']]
+Table class: b''
+Column header: b'abstraction'
+Column property: b''
+Column header: b'id'
+Column property: b''
+
+175320
+[[b'abstraction', b'link'],
+ [b'Buglass is a Scottish surname. Buglass derives from the old lands of Boo'
+  b'klawes near Melrose, Roxburghshire. An earlier form of spelling is Buke-'
+  b'Lawes, i.e. buck or stag and low ground. Other theories include that the'
+  b' name originates from family/clan colour identification, specifically th'
+  b'e Gaelic words Buidhe and Glas (yellow and green respectively) or it is '
+  b'of Norman descent. The first recorded instance of the name is from 1220,'
+  b' when a Robert de Bucles witnessed a confirmation charter in favour of t'
+  b'he Abbey of Kelso. In 1423, John Bewclase (described as \xe2\x80\x9ca tru'
+  b'stworthy man\xe2\x80\x9d) witnessed the testament of Alexander Hume of Du'
+  b'nglass. The name is affiliated with the Home or Hume clan (see below). O'
+  b'ther early recordings of the name, in various spellings, were: John Bukl'
+  b'es, who witnessed an instrument of sasine in Lothian in 1535. Kathrine B'
+  b'ukles is recorded in 1589, whilst Agnes Buckles was noted living in the '
+  b'parish of Livingstone in 1675, and a John Bowglase signed a document in '
+  b'1684 in Overlaskeoch. There are further variants of the name in the sixt'
+  b'eenth century in Lothian: Buccles ( 1539);Bukeles (1571);Buikles (1584 a'
+  b'nd 1603); and Bugloss (1680) The Home clan, to which Buglass is affiliat'
+  b'ed, derives from Patrick, Earl of Dunbar, who lived early in the 13th ce'
+  b'ntury. Alexander Home was created a Baron in 1473, and the title was rai'
+  b'sed to an Earldom by James VI in 1605. Eventually, ithe family of Home o'
+  b'f Coldingknow succeeded to the title, and from this, the 14th Earl is di'
+  b'rectly descended. For political reasons, he resigned his earldom to beco'
+  b'me Sir Alec Douglas-Home, later Prime Minister of the United Kingdom. In'
+  b' 1729, a Stephen Buglas [sic] was appointed vice tidesman at the port of'
+  b' Dumfries. Due to the geographical position of Roxburghshire, the Buglas'
+  b's name is also common in northern parts of England, such as Northumberla'
+  b'nd.',
+  b'name-origin?surname=buglass'],
+ [b'Emercoin (Symbol: EMC) is a cryptocurrency that is in some ways similar '
+  b'to Namecoin and Peercoin. It was launched in December 2013 and announced'
+  b' three days before launch in order to notify miners in advance. Emercoin'
+  b' employes both proof-of-work (POW) mining and proof-of-stake (POS) minti'
+  b'ng and uses SHA-256 hashes. On January 4, 2016 Microsoft entered into a '
+  b'partnership with EmerCoin as part of their Azure Blockchain Service prog'
+  b'ram. EMC is considered to be a leading digital currency and Blockchain p'
+  b'latform which focuses on a platform of innovative and scalable enterpris'
+  b'e services.',
+  b''],
+ [b'Le nouveau rouble bi\xc3\xa9lorusse (en bi\xc3\xa9lorusse \xd0\xbd'
+  b'\xd0\xbe\xd0\xb2\xd1\x8b \xd0\xb1\xd0\xb5\xd0\xbb\xd0\xb0\xd1'
+  b'\x80\xd1\x83\xd1\x81\xd0\xba\xd1\x96 \xd1\x80\xd1\x83\xd0\xb1'
+  b"\xd0\xb5\xd0\xbb\xd1\x8c, novy belarouski roubiel', au g\xc3\xa9nitif (p"
+  b'artitif) pluriel \xd0\xbd\xd0\xbe\xd0\xb2\xd1\x8b\xd1\x85 \xd1\x80\xd1\x83'
+  b'\xd0\xb1\xd0\xbb\xd1\x91\xd1\x9e, novykh roubliow ; en russe \xd0\xbd\xd0'
+  b'\xbe\xd0\xb2\xd1\x8b\xd0\xb9 \xd0\xb1\xd0\xb5\xd0\xbb\xd0\xbe'
+  b'\xd1\x80\xd1\x83\xd1\x81\xd1\x81\xd0\xba\xd0\xb8\xd0\xb9 \xd1'
+  b"\x80\xd1\x83\xd0\xb1\xd0\xbb\xd1\x8c, novy bi\xc3\xa9lorousski roubl' ; c"
+  b'ode ISO 4217 BYN) sera la monnaie officielle de la Bi\xc3\xa9lorussie '
+  b'\xc3\xa0 partir du .',
+  b''],
+ [b'Nisbeth ics one of tep many altrnate spellings of the Scwottih surqname '
+  b'Nisbet. It is used hiefly in Scandiavia by the descendants of Scottish w'
+  b'mercenaSry Alexandrv NiYbet who settled in Swedensin 1648.',
+  b''],
+ [b'NuBits are the worlds first distributed, stable value digital currency. '
+  b'One NuBit is equal to one US dollar in value. It works like many other p'
+  b'opular digital currencies without the risk of volatility. NuBits are not'
+  b'able for being the first decentralized cryptocurrency to maintain a $1.0'
+  b'0 US price peg for a period of one year, having accomplished it on Septe'
+  b'mber 23, 2015. The Nu project is considered a global pioneer in the crea'
+  b'tion of decentralized stable-value cryptocurrencies. Price is maintained'
+  b' by users placing huge market orders in both sides of 1 USD (or their eq'
+  b'uivalent in non USD exchange pairs), commonly refereed as sell and buy w'
+  b'alls, to support the price within a narrow range of the 1 USD peg. The i'
+  b'ncentive to do so is the small commission between the market order and t'
+  b'he 1 USD peg, usually <1%. Different users compete to be the closest pri'
+  b'ce , so orders are filled with their walls and earn their profit, at the'
+  b' same time strengthening the 1 USD peg. NuBits are the stable part of th'
+  b'e Nu Network, the decentralized autonomous organization that started the'
+  b' project.',
+  b''],
+ [b'Perli\xc4\x8d (also spelt Perlich or Perlitch) is a South Slavic surname t'
+  b'hat is common among Serbians, Croatians, Bosnians, Herzegovinians, and M'
+  b'ontenegrins. It is from the South Slavic word perla which is a person wh'
+  b'o is small and/or highly valued. Perlich is not to be confused with the '
+  b'Germanic surname Perlich.',
+  b'Fact.aspx?&fid=10&fn=&ln=perlich'],
+ [b'Proca can be:', b''],
+ [b'The Exeter Pound (\xc2\xa3E) is a form of local complementary currency, or'
+  b' community currency launched in Exeter, UK on 1 September 2015. Its obje'
+  b'ctive is to ensure more money is spent with local and independent busine'
+  b'sses. It is one of the many alternatives in the UK to the official sterl'
+  b'ing currency, though it is backed by the Sterling.',
+  b''],
+ [b'Titcoin (Ticker Symbol: TIT) is a type of digital currency called a cryp'
+  b'tocurrency that uses cryptography on a decentralized peer-to-peer networ'
+  b'k to manage the issuance of new currency units while simultaneously proc'
+  b'essing transactions. Titcoin is a derivative of the bitcoin source code '
+  b'with key modifications to the software which greatly improve transaction'
+  b' speeds and network difficulty readjustments. Titcoin is exclusively des'
+  b'igned for and marketed towards the adult entertainment industry to allow'
+  b' owners of the currency to pay for adult products and services without t'
+  b'he fear of incriminating payment histories appearing on their credit car'
+  b'ds. Titcoin is notable for being the first altcoin fully recognized as a'
+  b' legitimate form of currency by a major industry trade organization. In '
+  b'2015, Titcoin received two nominations at the 2015 XBIZ Awards ceremony '
+  b'which honors companies that play an essential part in the growth and suc'
+  b'cess of adult entertainment. In 2016, Titcoin was nominated for a second'
+  b' year in a row as Alternative Payment Services Company of the Year at th'
+  b'e 2016 XBIZ Awards.',
+  b'']]
+Table class: b''
+Column header: b'abstraction'
+Column property: b''
+Column header: b'link'
+Column property: b''
+
+78043
+[[b'label', b'arsenic'],
+ [b'Athletic Park (New Orleans)', b'Athletic Park'],
+ [b'Karma Nightclub & Cabaret', b''],
+ [b'Market Street Cinema', b''],
+ [b"Mitchell Brothers O'Farrell Theatre", b''],
+ [b'Riverbank Arts Centre', b'']]
+Table class: offutt_field
+Column header: b'label'
+Column property: b"Mitchell_Brothers_O'Farrell_Theatre"
+Column header: b'arsenic'
+Column property: b'Athletic_Park'
+
+29917
+[[b'label'],
+ [b'Coral 66'],
+ [b'Corsican language'],
+ [b'Cyclone'],
+ [b'Cyclone (programming language)'],
+ [b'Ecspernto'],
+ [b'EspeGrnto'],
+ [b'Forth (programming language)'],
+ [b'Korsische Sprache'],
+ [b'\xd9\x81\xd9\x88\xd8\xb1\xd8\xab (\xd9\x84\xd8\xba\xd8\xa9 \xd8\xa8\xd8'
+  b'\xb1\xd9\x85\xd8\xac\xd8\xa9)']]
+Table class: coney_island_cyclone
+Column header: b'label'
+Column property: b'Cyclone'
+
+107743
+[[b'label', b'stature'],
+ [b'Bristol 404 and 405', b''],
+ [b'Bugatti Chiron', b''],
+ [b'Green Goddess', b''],
+ [b'Hyundai Aslan', b''],
+ [b'Jeep Grand Cherokee (WK2)', b'1760.22'],
+ [b'MAX-1 (Spacecraft)', b''],
+ [b'MUSTARD', b'35966.4'],
+ [b'Skybolt (sounding rocket)', b'9144.0'],
+ [b'Space Shuttle', b'']]
+Table class: weed
+Column header: b'label'
+Column property: b'mustard'
+Column header: b'stature'
+Column property: b''
+
+55520
+[[b'label', b'type'],
+ [b'Ligamentum transversum humeri', None],
+ [b'Pisometacarpal ligament', None],
+ [b'Pisometacarpal ligament', b'part'],
+ [b'Plantar calcaneocuboid ligament', None],
+ [b'Plantar calcaneocuboid ligament', b'ligament'],
+ [b'Transverse acetabular ligament', None],
+ [b'Transverse acetabular ligament', b'physical entity'],
+ [b'Transverse humeral ligament', b'Thing'],
+ [b'Trapezoid ligament', b'Ligaments of the upper limb']]
+Table class: part
+Column header: b'label'
+Column property: b'Ligamentum_calcaneocuboideum_plantare'
+Column header: b'type'
+Column property: b'part'
+
+29921
+[[b'label', b'character'],
+ [b'Ally McBeal', b'work'],
+ [b'Americra thveBeautiul', b'CreativeWdrk'],
+ [b'Animal Farm', b'fable'],
+ [b'Animalia (book)', b'book'],
+ [b'Annals of Mathematics', b'periodical literature']]
+Table class: work
+Column header: b'label'
+Column property: b'Animal_Farm'
+Column header: b'character'
+Column property: b'work'
+
+158946
+[[b'label', b'rebuilt'],
+ [b'Green Mountain Tunnel', b''],
+ [b'Harecastle railway tunnel', b'1965'],
+ [b'Horda Tunnel', b''],
+ [b'Oneida Number One Tunnel', b''],
+ [b'Rullestad Tunnel', b'']]
+Table class: green_mountain_tunnel
+Column header: b'label'
+Column property: b'Green_Mountain_Tunnel'
+Column header: b'rebuilt'
+Column property: b'1965'
+
+101603
+[[b'label', b'region', b'type'],
+ [b'Aalen', None, b'geographical area'],
+ [b'Aarau', None, b'Location'],
+ [b'Abakan', None, b'PopulatedPlace'],
+ [b'Abdera, Thrace', None, b'Location'],
+ [b'Adelaide Hills wine region', b'Piccadilly Valley wine sub-region', None],
+ [b'Aden Province', None, b'region'],
+ [b'Aetorrachi, Elis', None, b'PopulatedPlace'],
+ [b'Aladdin (name)', b'', None],
+ [b'Annie (given name)', b'', None]]
+Table class: island
+Column header: b'label'
+Column property: b'Dartmoor'
+Column header: b'region'
+Column property: b'Spain'
+Column header: b'type'
+Column property: b'place'
+
+163045
+[[b'label', b'area'],
+ [b'Baci', b''],
+ [b'Bates Motel (season 3)', b''],
+ [b'Deinc Moore', b''],
+ [b'FYoesic Files (seasons 8)', b''],
+ [b'Glenford Baptist', b''],
+ [b'Grange Hill (series 1)', b''],
+ [b'Grange Hill (series 24)', b''],
+ [b'Hola Mohalla', b''],
+ [b'I-70 Killer', b'']]
+Table class: russia
+Column header: b'label'
+Column property: b'Baci'
+Column header: b'area'
+Column property: b'Russia'
+
+32998
+[[b'label', b'character'],
+ [b'French Foreign Legion', b'organisation'],
+ [b'Georgian Armed Forces', b'organization'],
+ [b'German Navy', b'navy'],
+ [b'Ghana Armed Forces', b'military unit'],
+ [b'Hungarian Defence Force', b'military unit']]
+Table class: navy
+Column header: b'label'
+Column property: b'French_Foreign_Legion'
+Column header: b'character'
+Column property: b'organization'
+
+13546
+[[b'label', b'type'],
+ [b'Leo A', None],
+ [b'Leo A', b'Place'],
+ [b'NGC 1134', None],
+ [b'NGC 1134', b'paece'],
+ [b'NGC 7727', None],
+ [b'NGC 7727', b'PGC objects'],
+ [b'NGC 87', None],
+ [b'NGC 87', b'grouping'],
+ [b'Pisces II (dwarf galaxy)', b'galaxy']]
+Table class: milky_way
+Column header: b'label'
+Column property: b'Leo_A'
+Column header: b'type'
+Column property: b'place'
+
+152811
+[[b'label', b'type'],
+ [b'Snooker world rankings 1983/1984', b'Thing'],
+ [b'Snooker world rankings 1985/1986', b'contestant'],
+ [b'Snooker world rankings 1986/1987', b'being'],
+ [b'Snooker world rankings 1988/1989', b'snooker world ranking'],
+ [b'Snooker world rankings 1990/1991', b'being'],
+ [b'Snooker world rankings 1991/1992', b'phrysicl entity'],
+ [b'Snooker world rankings 2006/2007', b'causal agency'],
+ [b'Snooker world rankings 2008/2009', b'snooker world ranking'],
+ [b'Snooker world rankings 2009/2010', b'unbi']]
+Table class: being
+Column header: b'label'
+Column property: b'Snooker_world_rankings_1983/1984'
+Column header: b'type'
+Column property: b'being'
+
+143596
+[[b'abstraction', b'label', b'primary', b'arsenic'],
+ [b'Apoptosis signal-regulating kinase 1 (ASK1) also known as mitogen-activa'
+  b'ted protein kinase kinase kinase 5 (MAP3K5) is a member of MAP kinase ki'
+  b'nase kinase family and as such a part of mitogen-activated protein kinas'
+  b'e pathway. It activates c-Jun N-terminal kinase (JNK) and p38 mitogen-ac'
+  b'tivated protein kinases in a Raf-independent fashion in response to an a'
+  b'rray of stresses such as oxidative stress, endoplasmic reticulum stress '
+  b'and calcium influx. ASK1 has been found to be involved in cancer, diabet'
+  b'es, cardiovascular and neurodegenerative diseases. MAP3K5 gene coding fo'
+  b'r the protein is located on chromosome 6 at locus 6q22.33. and the trans'
+  b'cribed protein contains 1,374 amino acids with 11 kinase subdomains.[cit'
+  b'ation needed] Northern blot analysis shows that MAP3K5 transcript is abu'
+  b'ndant in human heart and pancreas.',
+  b'ASK1',
+  b'ASK1',
+  None],
+ [b'Apoptosis signal-regulating kinase 1 (ASK1) also known as mitogen-activa'
+  b'ted protein kinase kinase kinase 5 (MAP3K5) is a member of MAP kinase ki'
+  b'nase kinase family and as such a part of mitogen-activated protein kinas'
+  b'e pathway. It activates c-Jun N-terminal kinase (JNK) and p38 mitogen-ac'
+  b'tivated protein kinases in a Raf-independent fashion in response to an a'
+  b'rray of stresses such as oxidative stress, endoplasmic reticulum stress '
+  b'and calcium influx. ASK1 has been found to be involved in cancer, diabet'
+  b'es, cardiovascular and neurodegenerative diseases. MAP3K5 gene coding fo'
+  b'r the protein is located on chromosome 6 at locus 6q22.33. and the trans'
+  b'cribed protein contains 1,374 amino acids with 11 kinase subdomains.[cit'
+  b'ation needed] Northern blot analysis shows that MAP3K5 transcript is abu'
+  b'ndant in human heart and pancreas.',
+  b'ASK1',
+  b'ASK1',
+  None],
+ [b'Apoptosis signal-regulating kinase 1 (ASK1) also known as mitogen-activa'
+  b'ted protein kinase kinase kinase 5 (MAP3K5) is a member of MAP kinase ki'
+  b'nase kinase family and as such a part of mitogen-activated protein kinas'
+  b'e pathway. It activates c-Jun N-terminal kinase (JNK) and p38 mitogen-ac'
+  b'tivated protein kinases in a Raf-independent fashion in response to an a'
+  b'rray of stresses such as oxidative stress, endoplasmic reticulum stress '
+  b'and calcium influx. ASK1 has been found to be involved in cancer, diabet'
+  b'es, cardiovascular and neurodegenerative diseases. MAP3K5 gene coding fo'
+  b'r the protein is located on chromosome 6 at locus 6q22.33. and the trans'
+  b'cribed protein contains 1,374 amino acids with 11 kinase subdomains.[cit'
+  b'ation needed] Northern blot analysis shows that MAP3K5 transcript is abu'
+  b'ndant in human heart and pancreas.',
+  b'ASK1',
+  None,
+  b'MAP3K5'],
+ [b'Cerberus also known as CER1 is a protein that in humans is encoded by th'
+  b'e CER1 gene.',
+  b'Cerberus (protein)',
+  b'Cerberus_(protein)',
+  None],
+ [b'Cerberus also known as CER1 is a protein that in humans is encoded by th'
+  b'e CER1 gene.',
+  None,
+  None,
+  b'CER1'],
+ [b'Cerbrus also known asCER1 is Oa potein thart din Mhmans is encoded by th'
+  b'e CER1 Qene.',
+  b'CeYrberus (prtein)',
+  b'Cerbrus_(proteinU)',
+  None],
+ [b'Cerbrus also known asCER1 is Oa potein thart din Mhmans is encoded by th'
+  b'e CER1 Qene.',
+  b'Cerberus (poteRin)',
+  None,
+  None],
+ [b'Cytoplasmic linker associated protein 1, also known as CLASP1, is a prot'
+  b'ein which in humans is encoded by the CLASP1 gene.',
+  b'CLASP1',
+  b'CLASP1',
+  None],
+ [b'Cytoplasmic linker associated protein 1, also known as CLASP1, is a prot'
+  b'ein which in humans is encoded by the CLASP1 gene.',
+  b'CLASP1',
+  b'CLASP1',
+  None]]
+Table class: clk2
+Column header: b'abstraction'
+Column property: b''
+Column header: b'label'
+Column property: b'CLASP1'
+Column header: b'primary'
+Column property: b'CLASP1'
+Column header: b'arsenic'
+Column property: b'CLASP2'
+
+95470
+[[b'label', b'type'],
+ [b'117 series', b'mean of transportation'],
+ [b'AGV (train)', b'artifact'],
+ [b'E127 series', b'public transport'],
+ [b'Horizon (railcar)', b'artifact'],
+ [b'KanaAs City, MHeico and Orient Railway', b'organisaison'],
+ [b'Mississauga Transitway', b'Agent'],
+ [b'New South Wales XPT', b'public transport'],
+ [b'Red de Expresos Regionales', b'agent'],
+ [b'Toledo, Peoria and Western Railway', b'public transit system']]
+Table class: agent
+Column header: b'label'
+Column property: b'117_series'
+Column header: b'type'
+Column property: b'Artifact'
+
