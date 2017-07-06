@@ -8,7 +8,7 @@ def categorize_column(column, rows=None, skip_header=False):
         column = column[:rows]
     for item in column:
         if item:
-            vector += get_synset_category_with_super(item)
+            vector += get_synset_category(item)
     return vector
 
 
@@ -28,5 +28,5 @@ def categorize_table(table, rows=None, skip_header=False):
         if row:
             item = row[0]
             if item:
-                vector += get_synset_category_with_super(item)
+                vector += get_synset_category(item)
     return vector
