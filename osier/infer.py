@@ -41,6 +41,7 @@ def infer_table_class_mst(lemma_vector):
     lemma_vector = map(lambda x: x.lower(), lemma_vector)
     counted_lemmas = Counter(lemma_vector)
     top_three = get_top_n_terms(counted_lemmas, 3)
+    top_three = list(map(lambda x: x[0].decode("utf-8"), top_three))
     most_specific_term = get_most_specific_term(top_three)
     return most_specific_term
 
@@ -50,7 +51,6 @@ def infer_table_class_mode(lemma_vector):
 #TODO: check if this one works at all with Bytes
 def get_top_n_terms(counter, top_n=3):
     n_terms = counter.most_common()[0:top_n]
-    #n_terms = map(lambda x: x[0].decode("utf-8"), n_terms)
     return list(n_terms)
 
 def infer_column_name(column, rows=30, skip_header=False):

@@ -1,8 +1,8 @@
 import requests
 import json
 
-#ENDPOINT = "http://babelnet.aksw.org"
-ENDPOINT = "http://localhost:4567"
+ENDPOINT = "http://babelnet.aksw.org"
+#ENDPOINT = "http://localhost:4567"
 
 def get_most_specific_term(terms):
     payload = json.dumps(terms)
