@@ -1,6 +1,6 @@
 from osier.tablefactory import get_table_group_by_hash
 from osier.infer import infer_table_class, infer_column_name, get_top_n_terms, \
-    infer_table_class_by_category
+    infer_table_class_by_category, infer_table_properties
 from osier.join import join_tables, columnize_table
 from osier.lemmatize import lemmatize_table, lemmatize_column
 from osier.categorize import categorize_table
@@ -52,3 +52,9 @@ def test_get_top_n_terms():
     counted = Counter(_array)
     top_n = get_top_n_terms(counted)
     assert top_n == [(b'd', 6), (b'a', 3), (b'f', 2)]
+
+def test_infer_table_properties():#table, rows=30, skip_header=False
+    tables = get_table_group_by_hash(EXAMPLE_HASH, vectorization_type="lemmatize")
+    joined_table = join_tables(tables)
+    properties = infer_table_properties(joined_table)
+    assert properties[1] == "http://dbpedia.org/ontology/type"

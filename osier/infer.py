@@ -1,6 +1,9 @@
 from scipy.stats import mode
 from collections import Counter
 
+from taipan.osiertable import OsierTable
+from taipan.recommender.properties.lov import get_table_properties
+
 from osier.lemmatize import lemmatize_table, lemmatize_column
 from osier.categorize import categorize_table
 from osier.babelnet.api import get_most_specific_term
@@ -61,3 +64,11 @@ def infer_column_name(column, rows=30, skip_header=False):
         return mode(lemma_vector).mode.item()
     else:
         return b""
+
+def infer_table_properties(table, rows=30, skip_header=False):
+    if skip_header:
+        table = table[1:]
+    osier_table = OsierTable(table)
+    table_properties = get_table_properties(osier_table)
+    #Return the top matching property
+    return list(map(lambda x: x["properties"][0]["uri"], table_properties))
