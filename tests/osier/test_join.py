@@ -171,3 +171,37 @@ def test_columnize_table():
     col_table = columnize_table(DEDUPLICATED_TABLE)
     assert len(col_table) == 3
     assert len(col_table[0]) == len(col_table[1])
+
+TEST_TABLES = [
+    [
+        [b'label', b'Thames and Severn Canal', b'Blood River', b'Aegean Sea', b'Alabama River', b'Amazon River'],
+        [b'arsenic', b'Thames and Severn Canal', b'', b'', b'', b'']
+    ], [
+        [b'label', b'Annapurna I Main', b'Aegean Sea', b'Alabama River', b'Alps', b'Amazon River'],
+        [b'type', b'natural place', b'water', b'BodyOfWater', b'mountain range', b'RiverBodyOfWater']
+    ], [
+        [b'label', b'Thames and Severn Canal', b'Blood River', b'Aegean Sea', b'Alabama River', b'Amazon River'],
+        [b'type', b'place', b'Location', b'gulf', b'Thing', b'river']
+    ], [
+        [b'label', b'Thames and Severn Canal', b'Blood River', b'Aegean Sea', b'Alabama River', b'Amazon River'],
+        [b'label', b'Thames and Severn Canal', b'Blood River', b'', b'', b'']
+    ], [
+        [b'label', b'Pelican Lagoan', b'Cantabrian Sea', b'Aegean Sea', b'Baltic Sea', b'Blacgk Se'],
+        [b'type', b'SeaBodyqOfater', b'body of water', b'sea', b'BodyOfWater', b'wtDer']
+    ], [
+        [b'label', b'Pelican Lagoan', b'Cantabrian Sea', b'Aegean Sea', b'Baltic Sea', b'Blacgk Se'],
+        [b'label', b'Peliccan Lagoo', b'Cantabrian Sea', b'', b'', b'']
+    ], [
+        [b'label', b'Annapurna I Main', b'Aegean Sea', b'Alabama River', b'Alps', b'Amazon River'],
+        [b'label', b'Annapurna', b'', b'', b'', b'']
+    ], [
+        [b'label', b'Pelican Lagoan', b'Cantabrian Sea', b'Aegean Sea', b'Baltic Sea', b'Blacgk Se'],
+        [b'arsenic', b'', b'', b'', b'', b'']
+    ]
+]
+
+
+def test_join_tables_no_none_rows():
+    joined_table = join_tables_by_subject_column(TEST_TABLES)
+    for row in joined_table:
+        assert row is not None

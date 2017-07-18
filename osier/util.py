@@ -7,4 +7,4 @@ def generate_id(byte_string):
     return hex_digest
 
 def table_bytes_to_utf(table):
-     return [[cell.decode("utf-8") for cell in line] for line in table]
+     return [[cell.decode("utf-8") if cell is not None else "" for cell in line] for line in table]

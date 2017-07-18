@@ -62,7 +62,7 @@ def deduplicate_table(joined_table):
     # TODO: generate label if missing
     table_data = []
     for row in linear_table[1:]:
-        if row[0]:
+        if row and row[0]:
             table_data.append(row)
     table_data = sorted(table_data, key=lambda x: x[0])
     prev_row = table_data.pop(0)
@@ -76,7 +76,8 @@ def deduplicate_table(joined_table):
             else:
                 deduplicated_table.append(prev_row)
         prev_row = row
-    deduplicated_table.append(prev_row)
+    if prev_row:
+        deduplicated_table.append(prev_row)
     return deduplicated_table
 
 
