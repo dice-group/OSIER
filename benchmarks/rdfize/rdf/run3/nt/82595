@@ -1,0 +1,21 @@
+<http://dbpedia.org/resource/List_of_Sonic_the_Hedgehog_video_games> <http://www.w3.org/2000/01/rdf-schema#label> "Sonic the Hedgehog (OVA)" .
+<http://dbpedia.org/resource/Mobile_Suit_Gundam_Alive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Mobile+Suit+Gundam> <http://www.w3.org/2000/01/rdf-schema#label> "Mobile Suit Gundam" .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Zaion%3A+I+Wish+You+Were+Here> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Mobile+Suit+Gundam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Bubblegum+Crisis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/TEXHNOLYZE> <http://www.w3.org/2000/01/rdf-schema#label> "TEXHNOLYZE" .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Texhnolyze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Neon_Genesis_Evangelion_(manga)> <http://www.w3.org/2000/01/rdf-schema#label> "Neon Genesis Evangelion" .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Bubbegaum+Crisis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/List_of_Sonic_the_Hedgehog_video_games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Texhnolyze> <http://www.w3.org/2000/01/rdf-schema#label> "Texhnolyze" .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/I-wish+you+were+here-> <http://www.w3.org/2000/01/rdf-schema#label> "I-wish you were here-" .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Bubbegaum+Crisis> <http://www.w3.org/2000/01/rdf-schema#label> "Bubbegaum Crisis" .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/I-wish+you+were+here-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Mobile_Suit_Gundam_Alive> <http://www.w3.org/2000/01/rdf-schema#label> "Mobile Suit Gundam Wing" .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/TEXHNOLYZE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Zaion%3A+I+Wish+You+Were+Here> <http://www.w3.org/2000/01/rdf-schema#label> "Zaion: I Wish You Were Here" .
+<http://example.org/5f95bb49-d1c5-44ed-ab81-aae25328c4a5/Bubblegum+Crisis> <http://www.w3.org/2000/01/rdf-schema#label> "Bubblegum Crisis" .
+<http://dbpedia.org/resource/Neon_Genesis_Evangelion_(manga)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+

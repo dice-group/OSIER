@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Roberto_Gomes_Júnior> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://dbpedia.org/resource/Roberto_Júlio_de_Figueiredo> <http://dbpedia.org/ontology/humanDevelopmentIndex> "SoccerPlayer" .
+<http://dbpedia.org/resource/Roberto_Orlando_Affonso_Júnior> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Orlando Affonso J\u00FAnior" .
+<http://dbpedia.org/resource/Roberto_Jiménez_Gago> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Roberto_Gomes_Júnior> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Gomes J\u00FAnior" .
+<http://dbpedia.org/resource/Roberto_Orlando_Affonso_Júnior> <http://dbpedia.org/ontology/humanDevelopmentIndex> "association football player" .
+<http://dbpedia.org/resource/Roberto_García_Cabello> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Garc\u00EDa Cabello" .
+<http://dbpedia.org/resource/Roberto_Jiménez_Gago> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Jim\u00E9nez Gago" .
+<http://dbpedia.org/resource/Roberto_García_Cabello> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Roberto_Júlio_de_Figueiredo> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto J\u00FAlio de Figueiredo" .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Jenny_Kropp> <http://dbpedia.org/ontology/playerStatus> "Agent" .
+<http://dbpedia.org/resource/Stefanie_Schwaiger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/84f51863-8b71-4d6d-84ce-10fe22cbdef2/Ja+Scthnider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Stefanie_Schwaiger> <http://dbpedia.org/ontology/playerStatus> "NaturalPerson" .
+<http://dbpedia.org/resource/Igor_Tešić> <http://dbpedia.org/ontology/playerStatus> "causal aYgecy" .
+<http://example.org/84f51863-8b71-4d6d-84ce-10fe22cbdef2/Ja+Scthnider> <http://www.w3.org/2000/01/rdf-schema#label> "Ja Scthnider" .
+<http://dbpedia.org/resource/Jenny_Kropp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Florian_Busch> <http://dbpedia.org/ontology/playerStatus> "volleyball player" .
+<http://dbpedia.org/resource/Igor_Tešić> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Stefanie_Schwaiger> <http://www.w3.org/2000/01/rdf-schema#label> "Stefanie Schwaiger" .
+<http://dbpedia.org/resource/Florian_Busch> <http://www.w3.org/2000/01/rdf-schema#label> "Florian Gosch" .
+<http://dbpedia.org/resource/Florian_Busch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Igor_Tešić> <http://www.w3.org/2000/01/rdf-schema#label> "Igor Te\u0161i\u0107" .
+<http://example.org/84f51863-8b71-4d6d-84ce-10fe22cbdef2/Ja+Scthnider> <http://dbpedia.org/ontology/playerStatus> "AgEnt" .
+<http://dbpedia.org/resource/Jenny_Kropp> <http://www.w3.org/2000/01/rdf-schema#label> "Jenny Kropp" .
+

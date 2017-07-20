@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Green_Goddess_(cocktail)> <http://www.w3.org/2000/01/rdf-schema#label> "Green Goddess" .
+<http://example.org/e06433fa-7447-48d5-92c7-609684f59b96/MUSTARD> <http://www.w3.org/2000/01/rdf-schema#label> "MUSTARD" .
+<http://example.org/e06433fa-7447-48d5-92c7-609684f59b96/Troposphere+%28rocket+family%29> <http://www.w3.org/2000/01/rdf-schema#label> "Troposphere (rocket family)" .
+<http://example.org/e06433fa-7447-48d5-92c7-609684f59b96/Bugatti+Chiron> <http://www.w3.org/2000/01/rdf-schema#label> "Bugatti Chiron" .
+<http://example.org/e06433fa-7447-48d5-92c7-609684f59b96/Bristol+404+and+405> <http://www.w3.org/2000/01/rdf-schema#label> "Bristol 404 and 405" .
+<http://example.org/e06433fa-7447-48d5-92c7-609684f59b96/MAX-1+%28Spacecraft%29> <http://www.w3.org/2000/01/rdf-schema#label> "MAX-1 (Spacecraft)" .
+<http://example.org/e06433fa-7447-48d5-92c7-609684f59b96/Hyundai+Aslan> <http://www.w3.org/2000/01/rdf-schema#label> "Hyundai Aslan" .
+<http://example.org/e06433fa-7447-48d5-92c7-609684f59b96/Jeep+Grand+Cherokee+%28WK2%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jeep Grand Cherokee (WK2)" .
+<http://dbpedia.org/resource/Space_Shuttle_(pinball)> <http://www.w3.org/2000/01/rdf-schema#label> "Space Shuttle" .
+<http://example.org/e06433fa-7447-48d5-92c7-609684f59b96/Skybolt+%28sounding+rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Skybolt (sounding rocket)" .
+

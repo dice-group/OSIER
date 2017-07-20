@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Jer_D._O'Connor> <http://dbpedia.org/ontology/person> "hDuma" .
+<http://dbpedia.org/resource/James_Young_(hurler)> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Jer_D._O'Connor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Jer_Doheny> <http://www.w3.org/2000/01/rdf-schema#label> "Jer Doheny" .
+<http://dbpedia.org/resource/James_Young_(hurler)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Jer_Dwyer> <http://www.w3.org/2000/01/rdf-schema#label> "Jer Dwyer" .
+<http://dbpedia.org/resource/Jer_Doheny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Jer_D._O'Connor> <http://www.w3.org/2000/01/rdf-schema#label> "Jer D. O'Connor" .
+<http://dbpedia.org/resource/Jer_Dwyer> <http://dbpedia.org/ontology/person> "athlete" .
+<http://dbpedia.org/resource/Jer_Collison> <http://www.w3.org/2000/01/rdf-schema#label> "Jer Collison" .
+<http://dbpedia.org/resource/Jer_Collison> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Jer_Collison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Jer_Doheny> <http://dbpedia.org/ontology/person> "Gaelic games player" .
+<http://dbpedia.org/resource/Jer_Dwyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/James_Young_(hurler)> <http://www.w3.org/2000/01/rdf-schema#label> "James Young (hurler)" .
+

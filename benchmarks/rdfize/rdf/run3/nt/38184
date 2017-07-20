@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Burn_(novella)> <http://www.w3.org/2000/01/rdf-schema#label> "Burn" .
+<http://example.org/5763f1f3-a602-4e70-b1aa-576792b8e264/Avascular+necrosis> <http://www.w3.org/2000/01/rdf-schema#label> "Avascular necrosis" .
+<http://example.org/5763f1f3-a602-4e70-b1aa-576792b8e264/Acute+fatty+liver+of+pregnancy> <http://www.w3.org/2000/01/rdf-schema#label> "Acute fatty liver of pregnancy" .
+<http://example.org/5763f1f3-a602-4e70-b1aa-576792b8e264/Alien+hand+syndrome> <http://www.w3.org/2000/01/rdf-schema#label> "Alien hand syndrome" .
+<http://example.org/5763f1f3-a602-4e70-b1aa-576792b8e264/Bulbar+palsy> <http://www.w3.org/2000/01/rdf-schema#label> "Bulbar palsy" .
+

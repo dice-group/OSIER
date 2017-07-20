@@ -1,0 +1,31 @@
+<http://dbpedia.org/resource/Civil_Rights_Memorial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Sacred+Heart+of+Jesus+%28Roxas%2C+Capiz%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sacred Heart of Jesus (Roxas, Capiz)" .
+<http://dbpedia.org/resource/Yar_Muhammad_Kalhoro> <http://www.w3.org/2000/01/rdf-schema#label> "Yar Muhammad Kalhoro" .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Chetiri+Bandere+Monument> <http://www.w3.org/2000/01/rdf-schema#label> "Chetiri Bandere Monument" .
+<http://dbpedia.org/resource/Maisonneuve_Monument> <http://www.w3.org/2000/01/rdf-schema#label> "Maisonneuve Monument" .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/LoyaDty+%28monument%29> <http://www.w3.org/2000/01/rdf-schema#label> "LoyaDty (monument)" .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/William+Wakefield+Memorial> <http://www.w3.org/2000/01/rdf-schema#label> "William Wakefield Memorial" .
+<http://dbpedia.org/resource/Uhuru_Movement> <http://www.w3.org/2000/01/rdf-schema#label> "Uhuru Monument" .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/LoyaDty+%28monument%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Lone+Cedar+Tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Arushca+Declaraionn+onument> <http://www.w3.org/2000/01/rdf-schema#label> "Arushca Declaraionn onument" .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Chetiri+Bandere+Monument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Marco+Zero+%28S%C3%A3o+Paulo%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Arushca+Declaraionn+onument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://dbpedia.org/resource/Civil_Rights_Memorial> <http://www.w3.org/2000/01/rdf-schema#label> "Civil Rights Memorial" .
+<http://dbpedia.org/resource/Yar_Muhammad_Kalhoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/William+Wakefield+Memorial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://dbpedia.org/resource/Uhuru_Movement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Queen+Victoria+Memorial%2C+Lancaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://dbpedia.org/resource/Maisonneuve_Monument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Sacred+Heart+of+Jesus+%28Roxas%2C+Capiz%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Marco+Zero+%28S%C3%A3o+Paulo%29> <http://www.w3.org/2000/01/rdf-schema#label> "Marco Zero (S\u00E3o Paulo)" .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Sandakan+Massacre+Memorial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Lone+Cedar+Tree> <http://www.w3.org/2000/01/rdf-schema#label> "Lone Cedar Tree" .
+<http://dbpedia.org/resource/The_Boilermaker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Westinghouse+Memorial> <http://www.w3.org/2000/01/rdf-schema#label> "Westinghouse Memorial" .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Queen+Victoria+Memorial%2C+Lancaster> <http://www.w3.org/2000/01/rdf-schema#label> "Queen Victoria Memorial, Lancaster" .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Westinghouse+Memorial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://idi.fundacionctic.org/cruzar/turismo#Monumento> .
+<http://example.org/fe5d6f80-dccb-4156-af4b-6e73a9c2aa3a/Sandakan+Massacre+Memorial> <http://www.w3.org/2000/01/rdf-schema#label> "Sandakan Massacre Memorial" .
+<http://dbpedia.org/resource/The_Boilermaker> <http://www.w3.org/2000/01/rdf-schema#label> "The Boilermaker" .
+

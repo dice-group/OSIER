@@ -1,0 +1,11 @@
+<http://example.org/eeaae6cb-55d2-4cbe-b238-6801579aa9d9/Jerusalem+syndrome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OGMS_0000031> .
+<http://example.org/eeaae6cb-55d2-4cbe-b238-6801579aa9d9/Mastocytosis> <http://www.w3.org/2000/01/rdf-schema#label> "Mastocytosis" .
+<http://example.org/eeaae6cb-55d2-4cbe-b238-6801579aa9d9/Jerusalem+syndrome> <http://www.w3.org/2000/01/rdf-schema#label> "Jerusalem syndrome" .
+<http://dbpedia.org/resource/Iron_deficiency_(plant_disorder)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OGMS_0000031> .
+<http://example.org/eeaae6cb-55d2-4cbe-b238-6801579aa9d9/Geneal+pargesis+Wof+the+inane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OGMS_0000031> .
+<http://dbpedia.org/resource/Iron_deficiency_(plant_disorder)> <http://www.w3.org/2000/01/rdf-schema#label> "Iron deficiency" .
+<http://example.org/eeaae6cb-55d2-4cbe-b238-6801579aa9d9/Mastocytosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OGMS_0000031> .
+<http://example.org/eeaae6cb-55d2-4cbe-b238-6801579aa9d9/Mitochondrial+disease> <http://www.w3.org/2000/01/rdf-schema#label> "Mitochondrial disease" .
+<http://example.org/eeaae6cb-55d2-4cbe-b238-6801579aa9d9/Geneal+pargesis+Wof+the+inane> <http://www.w3.org/2000/01/rdf-schema#label> "Geneal pargesis Wof the inane" .
+<http://example.org/eeaae6cb-55d2-4cbe-b238-6801579aa9d9/Mitochondrial+disease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OGMS_0000031> .
+

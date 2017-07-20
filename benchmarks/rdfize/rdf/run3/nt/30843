@@ -1,0 +1,6 @@
+<http://example.org/6fd93f15-f72f-46a8-8b28-5be8761c27d0/GS%26WR+Class+201> <http://www.w3.org/2000/01/rdf-schema#label> "GS&WR Class 201" .
+<http://dbpedia.org/resource/DB_Class_V_80> <http://www.w3.org/2000/01/rdf-schema#label> "DB Class E 40" .
+<http://dbpedia.org/resource/GWR_2800_Class_2807> <http://www.w3.org/2000/01/rdf-schema#label> "GWR 2800 Class 2807" .
+<http://example.org/6fd93f15-f72f-46a8-8b28-5be8761c27d0/GS%26WR+Class+90> <http://www.w3.org/2000/01/rdf-schema#label> "GS&WR Class 90" .
+<http://example.org/6fd93f15-f72f-46a8-8b28-5be8761c27d0/Rebel+%28train%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rebel (train)" .
+

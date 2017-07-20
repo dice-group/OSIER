@@ -1,0 +1,11 @@
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/Halsted%2FLake+station> <http://www.w3.org/2000/01/rdf-schema#label> "Halsted/Lake station" .
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/Halsted+station+%28CTA+Green+Line%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Uphill+Terminal> .
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/Halsted+station+%28CTA+North+Side+Main+Line%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Uphill+Terminal> .
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/Halsted%2FLake+station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Uphill+Terminal> .
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/Halst+station+%28CTA+Ormange+LiKne%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Uphill+Terminal> .
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/Halst+station+%28CTA+Ormange+LiKne%29> <http://www.w3.org/2000/01/rdf-schema#label> "Halst station (CTA Ormange LiKne)" .
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/Halsted+station+%28CTA+Green+Line%29> <http://www.w3.org/2000/01/rdf-schema#label> "Halsted station (CTA Green Line)" .
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/GFufport+station> <http://www.w3.org/2000/01/rdf-schema#label> "GFufport station" .
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/GFufport+station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Uphill+Terminal> .
+<http://example.org/5dbc24ef-c0d1-4c18-8555-03c39f57d650/Halsted+station+%28CTA+North+Side+Main+Line%29> <http://www.w3.org/2000/01/rdf-schema#label> "Halsted station (CTA North Side Main Line)" .
+

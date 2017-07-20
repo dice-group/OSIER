@@ -1,0 +1,226 @@
+<http://dbpedia.org/resource/BMT_Astoria_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Arunachala> <http://dbpedia.org/ontology/formationDate> "Thing" .
+<http://dbpedia.org/resource/Bell_Rock_(Arizona)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Mount_Buller_Alpine_Resort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Rush_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Yawgoo_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Antelope_Valley_(Millard_County)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Juab_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Aubrey_Valley> <http://dbpedia.org/ontology/formationDate> "Location" .
+<http://dbpedia.org/resource/Reiteralm_(Styria)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Treen_Cliff> <http://www.w3.org/2000/01/rdf-schema#label> "Treen Cliff" .
+<http://dbpedia.org/resource/Bernina_Range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/The_Palisades_(Napa_County)> <http://dbpedia.org/ontology/formationDate> "place" .
+<http://dbpedia.org/resource/Angeles_Crest_Highway> <http://dbpedia.org/ontology/formationDate> "elevation" .
+<http://dbpedia.org/resource/Yawgoo_Valley> <http://dbpedia.org/ontology/formationDate> "Place" .
+<http://dbpedia.org/resource/Bohemian_Forest> <http://www.w3.org/2000/01/rdf-schema#label> "Bohemian Forest" .
+<http://dbpedia.org/resource/Blue_Creek_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Creek Valley" .
+<http://dbpedia.org/resource/Cooley_Mountains> <http://www.w3.org/2000/01/rdf-schema#label> "Cooley Mountains" .
+<http://dbpedia.org/resource/Sind_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Sind Valley" .
+<http://dbpedia.org/resource/Dutch_Flat_(Arizona)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Massive_Mountain> <http://www.w3.org/2000/01/rdf-schema#label> "Massive Mountain" .
+<http://dbpedia.org/resource/Tux_Alps> <http://www.w3.org/2000/01/rdf-schema#label> "Tux Alps" .
+<http://dbpedia.org/resource/Bohemian_Forest> <http://dbpedia.org/ontology/formationDate> "natural place" .
+<http://dbpedia.org/resource/Mount_Angeles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Antelope_Valley_(Elko-White_Pine_Counties)> <http://dbpedia.org/ontology/formationDate> "Place" .
+<http://dbpedia.org/resource/Southern_Limestone_Alps> <http://dbpedia.org/ontology/formationDate> "formation" .
+<http://dbpedia.org/resource/Sulphur_Springs_Valley> <http://dbpedia.org/ontology/formationDate> "depression" .
+<http://dbpedia.org/resource/Bernina_Range> <http://www.w3.org/2000/01/rdf-schema#label> "Bernina Range" .
+<http://dbpedia.org/resource/Antelope_Valley_(Elko-White_Pine_Counties)> <http://www.w3.org/2000/01/rdf-schema#label> "Antelope Valley (Elko-White Pine Counties)" .
+<http://dbpedia.org/resource/Goshen_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Goshen Valley" .
+<http://dbpedia.org/resource/Sweetwater_Mountains> <http://www.w3.org/2000/01/rdf-schema#label> "Sweetwater Mountains" .
+<http://dbpedia.org/resource/Clark_Range_(Canada)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Perch_SSSI> <http://www.w3.org/2000/01/rdf-schema#label> "Perch SSSI" .
+<http://dbpedia.org/resource/Aubrey_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/BMT_Astoria_Line> <http://www.w3.org/2000/01/rdf-schema#label> "BMT Astoria Line" .
+<http://dbpedia.org/resource/Clover_Valley_(Nevada)> <http://dbpedia.org/ontology/formationDate> "place" .
+<http://dbpedia.org/resource/BMT_Astoria_Line> <http://dbpedia.org/ontology/formationDate> "infrastructure" .
+<http://dbpedia.org/resource/Curlew_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Curlew Valley" .
+<http://dbpedia.org/resource/Butler_Valley_(Arizona)> <http://www.w3.org/2000/01/rdf-schema#label> "Butler Valley (Arizona)" .
+<http://dbpedia.org/resource/Sifton_Ranges> <http://dbpedia.org/ontology/formationDate> "Thing" .
+<http://dbpedia.org/resource/Sifton_Ranges> <http://www.w3.org/2000/01/rdf-schema#label> "Sifton Ranges" .
+<http://dbpedia.org/resource/Arizona_State_Route_377> <http://dbpedia.org/ontology/formationDate> "architectural structure" .
+<http://example.org/9218e881-3ed1-4c2b-baeb-29814c900c79/Inian+SpAringgs+Valley+%28Neada%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Railroad_Canyon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Antelope_Valley_(Millard_County)> <http://dbpedia.org/ontology/formationDate> "place" .
+<http://dbpedia.org/resource/Tule_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Tule Valley" .
+<http://dbpedia.org/resource/Bonnington_Range> <http://dbpedia.org/ontology/formationDate> "elevation" .
+<http://dbpedia.org/resource/Le_Grammont> <http://www.w3.org/2000/01/rdf-schema#label> "Le Grammont" .
+<http://dbpedia.org/resource/Le_Grammont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Tavascan_Pleta_del_Prat> <http://dbpedia.org/ontology/formationDate> "location" .
+<http://dbpedia.org/resource/Devil_Canyon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Devil_Canyon> <http://dbpedia.org/ontology/formationDate> "valley" .
+<http://dbpedia.org/resource/Railroad_Canyon> <http://www.w3.org/2000/01/rdf-schema#label> "Railroad Canyon" .
+<http://dbpedia.org/resource/Dry_Lake_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Dry Lake Vglley" .
+<http://dbpedia.org/resource/The_Badlands_(California)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Sind_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Soldier_Mountains> <http://dbpedia.org/ontology/formationDate> "Mountain ranges of Idaho" .
+<http://dbpedia.org/resource/Cache_Peak_(Idaho)> <http://dbpedia.org/ontology/formationDate> "elevation" .
+<http://dbpedia.org/resource/Dry_Lake_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Sweetwater_Mountains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/The_Palisades_(Napa_County)> <http://www.w3.org/2000/01/rdf-schema#label> "The Palisades (Napa County)" .
+<http://dbpedia.org/resource/Yawgoo_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Yawgoo Valley" .
+<http://dbpedia.org/resource/Arizona_State_Route_377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Arunachala> <http://www.w3.org/2000/01/rdf-schema#label> "Arunachala" .
+<http://dbpedia.org/resource/Mount_Angeles> <http://dbpedia.org/ontology/formationDate> "Mountain" .
+<http://dbpedia.org/resource/Chalk_Mountains_(Colorado)> <http://www.w3.org/2000/01/rdf-schema#label> "Chalk Mountains (Colorado)" .
+<http://dbpedia.org/resource/Railroad_Canyon> <http://dbpedia.org/ontology/formationDate> "yagoPermanentlyLocatedEntity" .
+<http://example.org/9218e881-3ed1-4c2b-baeb-29814c900c79/ChalSk+ills> <http://dbpedia.org/ontology/formationDate> "objjec" .
+<http://dbpedia.org/resource/Mont_Brome> <http://www.w3.org/2000/01/rdf-schema#label> "Mont Brome" .
+<http://dbpedia.org/resource/Mount_Angeles> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Angeles" .
+<http://dbpedia.org/resource/Devil_Canyon> <http://www.w3.org/2000/01/rdf-schema#label> "Devil Canyon" .
+<http://dbpedia.org/resource/Chalk_Mountains_(Colorado)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Massive_Mountain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Southern_Limestone_Alps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Blue_Creek_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Lolo_Peak> <http://dbpedia.org/ontology/formationDate> "elevation" .
+<http://dbpedia.org/resource/Lulsgate_Quarry> <http://dbpedia.org/ontology/formationDate> "animate thing" .
+<http://dbpedia.org/resource/Sweetwater_Mountains> <http://dbpedia.org/ontology/formationDate> "physical entity" .
+<http://dbpedia.org/resource/Treen_Cliff> <http://dbpedia.org/ontology/formationDate> "construction" .
+<http://dbpedia.org/resource/Tanggula_Mountains> <http://dbpedia.org/ontology/formationDate> "MountainRange" .
+<http://dbpedia.org/resource/Rapa_Valley> <http://dbpedia.org/ontology/formationDate> "object" .
+<http://dbpedia.org/resource/Tavascan_Pleta_del_Prat> <http://www.w3.org/2000/01/rdf-schema#label> "Tavascan Pleta del Prat" .
+<http://dbpedia.org/resource/Goshen_Valley> <http://dbpedia.org/ontology/formationDate> "depression" .
+<http://dbpedia.org/resource/Juab_Valley> <http://dbpedia.org/ontology/formationDate> "natural place" .
+<http://dbpedia.org/resource/Clark_Range_(Canada)> <http://dbpedia.org/ontology/formationDate> "mountain range" .
+<http://dbpedia.org/resource/Britannia_Range_(Canada)> <http://www.w3.org/2000/01/rdf-schema#label> "Britannia Range (Canada)" .
+<http://dbpedia.org/resource/Lulsgate_Quarry> <http://www.w3.org/2000/01/rdf-schema#label> "Lulsgate Quarry" .
+<http://dbpedia.org/resource/San_Juan_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "San Juan Valley" .
+<http://dbpedia.org/resource/Mount_Buller_Alpine_Resort> <http://dbpedia.org/ontology/formationDate> "ski area" .
+<http://dbpedia.org/resource/Strawberry_Panic!> <http://www.w3.org/2000/01/rdf-schema#label> "Strawberry Range" .
+<http://dbpedia.org/resource/Numinbah_Valley> <http://dbpedia.org/ontology/formationDate> "Thing" .
+<http://dbpedia.org/resource/Antelope_Valley_(Eureka_County)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Utah_State_Route_196> <http://www.w3.org/2000/01/rdf-schema#label> "Skull Valley (Utah)" .
+<http://dbpedia.org/resource/Soldier_Mountains> <http://www.w3.org/2000/01/rdf-schema#label> "Soldier Mountains" .
+<http://dbpedia.org/resource/Antelope_Valley_(Lander_County)> <http://www.w3.org/2000/01/rdf-schema#label> "Antelope Valley (Lander County)" .
+<http://dbpedia.org/resource/Britannia_Range_(Canada)> <http://dbpedia.org/ontology/formationDate> "elevation" .
+<http://dbpedia.org/resource/Numinbah_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Bohemian_Forest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Rush_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Rush Valley" .
+<http://dbpedia.org/resource/Britannia_Range_(Canada)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Strawberry_Panic!> <http://dbpedia.org/ontology/formationDate> "Thing" .
+<http://dbpedia.org/resource/Three_Lakes_Valley_(Nevada)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Aiguille_Blanche_de_Peuterey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Treen_Cliff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Clark_Range_(Canada)> <http://www.w3.org/2000/01/rdf-schema#label> "Clark Range (Canada)" .
+<http://dbpedia.org/resource/Beilstein_(Spessart)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Beilstein_(Spessart)> <http://dbpedia.org/ontology/formationDate> "mountain" .
+<http://dbpedia.org/resource/Reiteralm_(Styria)> <http://www.w3.org/2000/01/rdf-schema#label> "Reiteralm (Styria)" .
+<http://dbpedia.org/resource/Antelope_Valley_(Lander_County)> <http://dbpedia.org/ontology/formationDate> "depression" .
+<http://dbpedia.org/resource/Dutch_Flat_(Arizona)> <http://www.w3.org/2000/01/rdf-schema#label> "Dutch Flat (Arizona)" .
+<http://dbpedia.org/resource/Mont_Brome> <http://dbpedia.org/ontology/formationDate> "SpatialThing" .
+<http://dbpedia.org/resource/Reiteralm_(Styria)> <http://dbpedia.org/ontology/formationDate> "elevation" .
+<http://dbpedia.org/resource/Blue_Creek_Valley> <http://dbpedia.org/ontology/formationDate> "yagoPermanentlyLocatedEntity" .
+<http://dbpedia.org/resource/Cache_Peak_(Idaho)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Rush_Valley> <http://dbpedia.org/ontology/formationDate> "valley" .
+<http://dbpedia.org/resource/Beilstein_(Spessart)> <http://www.w3.org/2000/01/rdf-schema#label> "Beilstein (Spessart)" .
+<http://dbpedia.org/resource/Clover_Valley_(Nevada)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Baghdad_Street_(Damascus)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Bernina_Range> <http://dbpedia.org/ontology/formationDate> "mountain range" .
+<http://dbpedia.org/resource/Styx_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Styx Valley" .
+<http://dbpedia.org/resource/Lulsgate_Quarry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://example.org/9218e881-3ed1-4c2b-baeb-29814c900c79/ChalSk+ills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Arnhem_Highway> <http://dbpedia.org/ontology/formationDate> "main road" .
+<http://dbpedia.org/resource/Chalk_Mountain,_Texas> <http://www.w3.org/2000/01/rdf-schema#label> "Chalk Mountains (Texas)" .
+<http://dbpedia.org/resource/Tule_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Mount_Buller_Alpine_Resort> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Buller Alpine Resort" .
+<http://dbpedia.org/resource/Curlew_Valley> <http://dbpedia.org/ontology/formationDate> "formation" .
+<http://dbpedia.org/resource/Goshen_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Antelope_Valley_(Eureka_County)> <http://dbpedia.org/ontology/formationDate> "depression" .
+<http://dbpedia.org/resource/Monterosa_Ski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Baghdad_Street_(Damascus)> <http://dbpedia.org/ontology/formationDate> "Place" .
+<http://dbpedia.org/resource/Rapa_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Rapa Valley" .
+<http://dbpedia.org/resource/Dry_Lake_Valley> <http://dbpedia.org/ontology/formationDate> "objeat" .
+<http://dbpedia.org/resource/Cache_Peak_(Idaho)> <http://www.w3.org/2000/01/rdf-schema#label> "Cache Peak (Idaho)" .
+<http://dbpedia.org/resource/Tavascan_Pleta_del_Prat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Tule_Valley> <http://dbpedia.org/ontology/formationDate> "formation" .
+<http://dbpedia.org/resource/Antelope_Valley_(Eureka_County)> <http://www.w3.org/2000/01/rdf-schema#label> "Antelope Valley (Eureka County)" .
+<http://dbpedia.org/resource/Monterosa_Ski> <http://www.w3.org/2000/01/rdf-schema#label> "Monterosa Ski" .
+<http://dbpedia.org/resource/Biddle_Street,_Yatton> <http://dbpedia.org/ontology/formationDate> "place" .
+<http://dbpedia.org/resource/Chalk_Mountains_(California)> <http://dbpedia.org/ontology/formationDate> "physical entity" .
+<http://dbpedia.org/resource/San_Juan_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Chalk_Mountains_(California)> <http://www.w3.org/2000/01/rdf-schema#label> "Chalk Mountains (California)" .
+<http://dbpedia.org/resource/Dutch_Flat_(Arizona)> <http://dbpedia.org/ontology/formationDate> "place" .
+<http://dbpedia.org/resource/San_Juan_Valley> <http://dbpedia.org/ontology/formationDate> "valley" .
+<http://dbpedia.org/resource/Germany_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Germany Valley" .
+<http://dbpedia.org/resource/Le_Grammont> <http://dbpedia.org/ontology/formationDate> "natural place" .
+<http://dbpedia.org/resource/Dendora_Valley> <http://dbpedia.org/ontology/formationDate> "object" .
+<http://dbpedia.org/resource/Strawberry_Panic!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Butler_Valley_(Arizona)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Sind_Valley> <http://dbpedia.org/ontology/formationDate> "depression" .
+<http://dbpedia.org/resource/Antelope_Valley_(Lander_County)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Numinbah_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Numinbah Valley" .
+<http://dbpedia.org/resource/Chalk_Mountains_(California)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Dendora_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Dendora Valley" .
+<http://dbpedia.org/resource/Rapa_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Angeles_Crest_Highway> <http://www.w3.org/2000/01/rdf-schema#label> "Angeles Forest Highway" .
+<http://dbpedia.org/resource/The_Palisades_(Napa_County)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Germany_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Arunachala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Cooley_Mountains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://example.org/9218e881-3ed1-4c2b-baeb-29814c900c79/Inian+SpAringgs+Valley+%28Neada%29> <http://dbpedia.org/ontology/formationDate> "vhaley" .
+<http://dbpedia.org/resource/Angeles_Crest_Highway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Bell_Rock_(Arizona)> <http://dbpedia.org/ontology/formationDate> "hill" .
+<http://dbpedia.org/resource/Lolo_Peak> <http://www.w3.org/2000/01/rdf-schema#label> "Lolo Peak" .
+<http://dbpedia.org/resource/Antelope_Valley_(Elko-White_Pine_Counties)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://example.org/9218e881-3ed1-4c2b-baeb-29814c900c79/Inian+SpAringgs+Valley+%28Neada%29> <http://www.w3.org/2000/01/rdf-schema#label> "Inian SpAringgs Valley (Neada)" .
+<http://dbpedia.org/resource/Barle_Valley> <http://dbpedia.org/ontology/formationDate> "Thing" .
+<http://dbpedia.org/resource/Chalk_Mountain,_Texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Chalk_Mountains_(Colorado)> <http://dbpedia.org/ontology/formationDate> "Mountain ranges of Colorado" .
+<http://dbpedia.org/resource/Tanggula_Mountains> <http://www.w3.org/2000/01/rdf-schema#label> "Tangra Mountains" .
+<http://dbpedia.org/resource/Upper_Florentine_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Massive_Mountain> <http://dbpedia.org/ontology/formationDate> "physical entity" .
+<http://dbpedia.org/resource/Clover_Valley_(Nevada)> <http://www.w3.org/2000/01/rdf-schema#label> "Clover Valley (Nevada)" .
+<http://dbpedia.org/resource/Juab_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Juab Valley" .
+<http://dbpedia.org/resource/Dendora_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Tux_Alps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Utah_State_Route_196> <http://dbpedia.org/ontology/formationDate> "depression" .
+<http://dbpedia.org/resource/Spenser_Mountains> <http://www.w3.org/2000/01/rdf-schema#label> "Spenser Mountains" .
+<http://dbpedia.org/resource/Upper_Florentine_Valley> <http://dbpedia.org/ontology/formationDate> "depression" .
+<http://dbpedia.org/resource/Germany_Valley> <http://dbpedia.org/ontology/formationDate> "SpatialThing" .
+<http://dbpedia.org/resource/Arnhem_Highway> <http://www.w3.org/2000/01/rdf-schema#label> "Arnhem Highway" .
+<http://dbpedia.org/resource/Monterosa_Ski> <http://dbpedia.org/ontology/formationDate> "Location" .
+<http://dbpedia.org/resource/Cooley_Mountains> <http://dbpedia.org/ontology/formationDate> "Thing" .
+<http://dbpedia.org/resource/Spenser_Mountains> <http://dbpedia.org/ontology/formationDate> "elevation" .
+<http://dbpedia.org/resource/Bell_Rock_(Arizona)> <http://www.w3.org/2000/01/rdf-schema#label> "Bell Rock (Arizona)" .
+<http://dbpedia.org/resource/Styx_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/The_Badlands_(California)> <http://dbpedia.org/ontology/formationDate> "yagoGeoEntity" .
+<http://dbpedia.org/resource/Aubrey_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Aubrey Valley" .
+<http://dbpedia.org/resource/Barle_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Barle Valley" .
+<http://dbpedia.org/resource/Lolo_Peak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Mont_Brome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/San_Bernardino_Valley_(Arizona)> <http://dbpedia.org/ontology/formationDate> "valley" .
+<http://dbpedia.org/resource/Soldier_Mountains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Spenser_Mountains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Tanggula_Mountains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Sulphur_Springs_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Sulphur Springs Valley" .
+<http://dbpedia.org/resource/Biddle_Street,_Yatton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Perch_SSSI> <http://dbpedia.org/ontology/formationDate> "elevation" .
+<http://dbpedia.org/resource/Aiguille_Blanche_de_Peuterey> <http://www.w3.org/2000/01/rdf-schema#label> "Aiguille Blanche de Peuterey" .
+<http://dbpedia.org/resource/San_Bernardino_Valley_(Arizona)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/San_Bernardino_Valley_(Arizona)> <http://www.w3.org/2000/01/rdf-schema#label> "San Bernardino Valley (Arizona)" .
+<http://dbpedia.org/resource/Sifton_Ranges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Styx_Valley> <http://dbpedia.org/ontology/formationDate> "depression" .
+<http://dbpedia.org/resource/Sulphur_Springs_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Three_Lakes_Valley_(Nevada)> <http://www.w3.org/2000/01/rdf-schema#label> "Three Lakes Valley (Nevada)" .
+<http://dbpedia.org/resource/Upper_Florentine_Valley> <http://www.w3.org/2000/01/rdf-schema#label> "Upper Florentine Valley" .
+<http://dbpedia.org/resource/Utah_State_Route_196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Bonnington_Range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Antelope_Valley_(Millard_County)> <http://www.w3.org/2000/01/rdf-schema#label> "Antelope Valley (Millard County)" .
+<http://example.org/9218e881-3ed1-4c2b-baeb-29814c900c79/ChalSk+ills> <http://www.w3.org/2000/01/rdf-schema#label> "ChalSk ills" .
+<http://dbpedia.org/resource/Southern_Limestone_Alps> <http://www.w3.org/2000/01/rdf-schema#label> "Southern Limestone Alps" .
+<http://dbpedia.org/resource/Aiguille_Blanche_de_Peuterey> <http://dbpedia.org/ontology/formationDate> "formation" .
+<http://dbpedia.org/resource/Three_Lakes_Valley_(Nevada)> <http://dbpedia.org/ontology/formationDate> "Location" .
+<http://dbpedia.org/resource/Perch_SSSI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Bonnington_Range> <http://www.w3.org/2000/01/rdf-schema#label> "Bonnington Range" .
+<http://dbpedia.org/resource/Tux_Alps> <http://dbpedia.org/ontology/formationDate> "elevation" .
+<http://dbpedia.org/resource/Biddle_Street,_Yatton> <http://www.w3.org/2000/01/rdf-schema#label> "Biddle Street, Yatton" .
+<http://dbpedia.org/resource/Arnhem_Highway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Chalk_Mountain,_Texas> <http://dbpedia.org/ontology/formationDate> "place" .
+<http://dbpedia.org/resource/The_Badlands_(California)> <http://www.w3.org/2000/01/rdf-schema#label> "The Badlands (California)" .
+<http://dbpedia.org/resource/Barle_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+<http://dbpedia.org/resource/Arizona_State_Route_377> <http://www.w3.org/2000/01/rdf-schema#label> "Arizona State Route 101" .
+<http://dbpedia.org/resource/Baghdad_Street_(Damascus)> <http://www.w3.org/2000/01/rdf-schema#label> "Baghdad Street (Damascus)" .
+<http://dbpedia.org/resource/Butler_Valley_(Arizona)> <http://dbpedia.org/ontology/formationDate> "place" .
+<http://dbpedia.org/resource/Curlew_Valley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://def.seegrid.csiro.au/ontology/om/sam-lite#Elevation> .
+

@@ -1,0 +1,15 @@
+<http://dbpedia.org/resource/Dayton,_Ohio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://example.org/ce0a6d05-bcd2-48ff-b72d-4893deeedb09/Darn%2C+Nortnhern+TerritPory> <http://www.w3.org/2000/01/rdf-schema#label> "Darn, Nortnhern TerritPory" .
+<http://dbpedia.org/resource/Davis,_California> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://example.org/ce0a6d05-bcd2-48ff-b72d-4893deeedb09/Darn%2C+Nortnhern+TerritPory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://dbpedia.org/resource/Dayton,_Ohio> <http://www.w3.org/2000/01/rdf-schema#label> "Dayton, Ohio" .
+<http://dbpedia.org/resource/Darwin,_Northern_Territory> <http://www.w3.org/2000/01/rdf-schema#label> "Darwin, Northern Territory" .
+<http://dbpedia.org/resource/Dartmouth,_Devon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://dbpedia.org/resource/Davenport,_Iowa> <http://www.w3.org/2000/01/rdf-schema#label> "Davenport, Iowa" .
+<http://dbpedia.org/resource/Darwin,_Northern_Territory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://dbpedia.org/resource/Davis,_California> <http://www.w3.org/2000/01/rdf-schema#label> "Davis, California" .
+<http://dbpedia.org/resource/Des_Moines,_Iowa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://dbpedia.org/resource/Des_Moines,_Iowa> <http://www.w3.org/2000/01/rdf-schema#label> "Des Moines, Iowa" .
+<http://dbpedia.org/resource/Davenport,_Iowa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://dbpedia.org/resource/Dartmouth,_Devon> <http://www.w3.org/2000/01/rdf-schema#label> "Dartmouth, Devon" .
+

@@ -1,0 +1,21 @@
+<http://example.org/390c0803-465f-43f8-8600-013f6af36224/McCollum+v.+Board+of+Education> <http://www.w3.org/2000/01/rdf-schema#label> "McCollum v. Board of Education" .
+<http://dbpedia.org/resource/Hannibal> <http://www.w3.org/2000/01/rdf-schema#label> "Hannibal" .
+<http://dbpedia.org/resource/Jeff_Martin_(All_My_Children)> <http://www.w3.org/2000/01/rdf-schema#label> "Jeff Martin (All My Children)" .
+<http://example.org/390c0803-465f-43f8-8600-013f6af36224/Silverman+v.+United+States> <http://www.w3.org/2000/01/rdf-schema#label> "Silverman v. United States" .
+<http://dbpedia.org/resource/Archibald_Acheson,_1st_Viscount_Gosford> <http://www.w3.org/2000/01/rdf-schema#label> "Archibald Acheson, 1st Viscount Gosford" .
+<http://dbpedia.org/resource/Sir_Arthur_Gore,_1st_Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "Sir Arthur Gore, 2nd Baronet" .
+<http://example.org/390c0803-465f-43f8-8600-013f6af36224/SirI+AlexaGnder+Bair%2C+1st+aronet> <http://www.w3.org/2000/01/rdf-schema#label> "SirI AlexaGnder Bair, 1st aronet" .
+<http://dbpedia.org/resource/Isoroku_Yamamoto> <http://www.w3.org/2000/01/rdf-schema#label> "Isoroku Yamamoto" .
+<http://dbpedia.org/resource/Sir_Thomas_Miller,_1st_Baronet_of_Chichester> <http://www.w3.org/2000/01/rdf-schema#label> "Sir Thomas Miller, 1st Baronet, of Chichester" .
+<http://dbpedia.org/resource/John_Black_(Days_of_our_Lives)> <http://www.w3.org/2000/01/rdf-schema#label> "John Black (Days of Our Lives)" .
+<http://dbpedia.org/resource/Jack_Frost_(detective)> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Frost (detective)" .
+<http://dbpedia.org/resource/Jem_Costello> <http://www.w3.org/2000/01/rdf-schema#label> "Jem Costello" .
+<http://dbpedia.org/resource/James_Ford_(One_Life_to_Live)> <http://www.w3.org/2000/01/rdf-schema#label> "James Ford (One Life to Live)" .
+<http://dbpedia.org/resource/J.E.B._Stuart> <http://www.w3.org/2000/01/rdf-schema#label> "J. E. B. Stuart" .
+<http://example.org/390c0803-465f-43f8-8600-013f6af36224/Giglio+v.+United+States> <http://www.w3.org/2000/01/rdf-schema#label> "Giglio v. United States" .
+<http://example.org/390c0803-465f-43f8-8600-013f6af36224/Ricci+v.+DeStefano> <http://www.w3.org/2000/01/rdf-schema#label> "Ricci v. DeStefano" .
+<http://example.org/390c0803-465f-43f8-8600-013f6af36224/Roper+v.+Simmons> <http://www.w3.org/2000/01/rdf-schema#label> "Roper v. Simmons" .
+<http://dbpedia.org/resource/John_Paul_Jones> <http://www.w3.org/2000/01/rdf-schema#label> "John Paul Jones" .
+<http://dbpedia.org/resource/Golding_baronets> <http://www.w3.org/2000/01/rdf-schema#label> "Golding baronets" .
+<http://dbpedia.org/resource/Klaus_Barbie> <http://www.w3.org/2000/01/rdf-schema#label> "Klaus Barbie" .
+

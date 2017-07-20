@@ -1,0 +1,15 @@
+<http://example.org/0c108634-2aa2-4da8-9bd5-0c6000cfd8fe/China+LPGAToSur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://example.org/0c108634-2aa2-4da8-9bd5-0c6000cfd8fe/Chinna+LPA+Tour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://example.org/0c108634-2aa2-4da8-9bd5-0c6000cfd8fe/Ladies+European+Tour+Access+Series> <http://www.w3.org/2000/01/rdf-schema#label> "Ladies European Tour Access Series" .
+<http://example.org/0c108634-2aa2-4da8-9bd5-0c6000cfd8fe/China+LPGAToSur> <http://www.w3.org/2000/01/rdf-schema#label> "China LPGAToSur" .
+<http://dbpedia.org/resource/PGA_European_Tour> <http://www.w3.org/2000/01/rdf-schema#label> "PGA European Tour" .
+<http://example.org/0c108634-2aa2-4da8-9bd5-0c6000cfd8fe/LET+Access+Series> <http://www.w3.org/2000/01/rdf-schema#label> "LET Access Series" .
+<http://example.org/0c108634-2aa2-4da8-9bd5-0c6000cfd8fe/Chinna+LPA+Tour> <http://www.w3.org/2000/01/rdf-schema#label> "Chinna LPA Tour" .
+<http://dbpedia.org/resource/PGA_European_Tour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://example.org/0c108634-2aa2-4da8-9bd5-0c6000cfd8fe/Ladies+European+Tour+Access+Series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://dbpedia.org/resource/National_Golf_Foundation> <http://www.w3.org/2000/01/rdf-schema#label> "National Golf Foundation" .
+<http://dbpedia.org/resource/National_Golf_Foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://dbpedia.org/resource/Ladies_European_Tour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://example.org/0c108634-2aa2-4da8-9bd5-0c6000cfd8fe/LET+Access+Series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://dbpedia.org/resource/Ladies_European_Tour> <http://www.w3.org/2000/01/rdf-schema#label> "Ladies European Tour" .
+

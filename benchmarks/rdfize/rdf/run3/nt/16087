@@ -1,0 +1,11 @@
+<http://example.org/b6a4b625-5726-4e1f-a2b5-d29c75f86ed7/African+wood+owl> <http://www.w3.org/2000/01/rdf-schema#label> "African wood owl" .
+<http://dbpedia.org/resource/Bluebird_Gold_Mine> <http://www.w3.org/2000/01/rdf-schema#label> "Bluebird" .
+<http://example.org/b6a4b625-5726-4e1f-a2b5-d29c75f86ed7/Bernier%27s+teal> <http://www.w3.org/2000/01/rdf-schema#label> "Bernier's teal" .
+<http://example.org/b6a4b625-5726-4e1f-a2b5-d29c75f86ed7/Gibson%27s+albatross> <http://www.w3.org/2000/01/rdf-schema#label> "Gibson's albatross" .
+<http://dbpedia.org/resource/Black_Eagle_(lacrosse)> <http://dbpedia.org/ontology/bird> "eukaryote" .
+<http://example.org/b6a4b625-5726-4e1f-a2b5-d29c75f86ed7/Bernier%27s+teal> <http://dbpedia.org/ontology/bird> "eukaryote" .
+<http://dbpedia.org/resource/Black_Eagle_(lacrosse)> <http://www.w3.org/2000/01/rdf-schema#label> "Black eagle" .
+<http://dbpedia.org/resource/Bluebird_Gold_Mine> <http://dbpedia.org/ontology/bird> "Animal" .
+<http://example.org/b6a4b625-5726-4e1f-a2b5-d29c75f86ed7/African+wood+owl> <http://dbpedia.org/ontology/bird> "bird" .
+<http://example.org/b6a4b625-5726-4e1f-a2b5-d29c75f86ed7/Gibson%27s+albatross> <http://dbpedia.org/ontology/bird> "animal" .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/England_national_football_team> <http://dbpedia.org/ontology/honours> "grouping" .
+<http://dbpedia.org/resource/Detroit_Tigers> <http://dbpedia.org/ontology/honours> "Organization" .
+<http://dbpedia.org/resource/Detroit_Tigers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/England_national_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Detroit_Tigers> <http://www.w3.org/2000/01/rdf-schema#label> "Detroit Tigers" .
+<http://dbpedia.org/resource/Essendon_Football_Club_(VFL)> <http://www.w3.org/2000/01/rdf-schema#label> "Essendon Football Club" .
+<http://dbpedia.org/resource/FC_Den_Bosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Fulham_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Essendon_Football_Club_(VFL)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Essendon_Football_Club_(VFL)> <http://dbpedia.org/ontology/honours> "australian football Team" .
+<http://dbpedia.org/resource/FC_Den_Bosch> <http://dbpedia.org/ontology/honours> "SocialPerson" .
+<http://dbpedia.org/resource/Fulham_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Fulham F.C." .
+<http://dbpedia.org/resource/Fulham_F.C.> <http://dbpedia.org/ontology/honours> "agent" .
+<http://dbpedia.org/resource/FC_Den_Bosch> <http://www.w3.org/2000/01/rdf-schema#label> "FC Den Bosch" .
+<http://dbpedia.org/resource/England_national_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "England national football team" .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Minam_Station> <http://dbpedia.org/ontology/place> "railway station" .
+<http://example.org/30073217-96e8-4372-baee-cd502229304d/Gimhae+National+Museum+Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure> .
+<http://dbpedia.org/resource/Minam_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Minam Station" .
+<http://dbpedia.org/resource/Steinhausen_railway_station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure> .
+<http://dbpedia.org/resource/Minam_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure> .
+<http://example.org/30073217-96e8-4372-baee-cd502229304d/Namsan+Station+%28Busan%29> <http://www.w3.org/2000/01/rdf-schema#label> "Namsan Station (Busan)" .
+<http://example.org/30073217-96e8-4372-baee-cd502229304d/Gimhae+National+Museum+Station> <http://www.w3.org/2000/01/rdf-schema#label> "Gimhae National Museum Station" .
+<http://example.org/30073217-96e8-4372-baee-cd502229304d/Namsan+Station+%28Busan%29> <http://dbpedia.org/ontology/place> "infrastructure" .
+<http://example.org/30073217-96e8-4372-baee-cd502229304d/Dunjeon+Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure> .
+<http://example.org/30073217-96e8-4372-baee-cd502229304d/Gimhae+National+Museum+Station> <http://dbpedia.org/ontology/place> "station" .
+<http://example.org/30073217-96e8-4372-baee-cd502229304d/Dunjeon+Station> <http://dbpedia.org/ontology/place> "Place" .
+<http://example.org/30073217-96e8-4372-baee-cd502229304d/Dunjeon+Station> <http://www.w3.org/2000/01/rdf-schema#label> "Dunjeon Station" .
+<http://dbpedia.org/resource/Steinhausen_railway_station> <http://dbpedia.org/ontology/place> "physical entity" .
+<http://dbpedia.org/resource/Steinhausen_railway_station> <http://www.w3.org/2000/01/rdf-schema#label> "Steinhausen railway station" .
+<http://example.org/30073217-96e8-4372-baee-cd502229304d/Namsan+Station+%28Busan%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure> .
+

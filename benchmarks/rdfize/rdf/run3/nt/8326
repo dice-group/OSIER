@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Sidney_Sussex_College,_Cambridge> <http://www.w3.org/2000/01/rdf-schema#label> "Sidney Sussex College, Cambridge" .
+<http://dbpedia.org/resource/St_Catherine's_College,_Oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Exeter_College,_Oxford> <http://www.w3.org/2000/01/rdf-schema#label> "Exeter College, Oxford" .
+<http://dbpedia.org/resource/St_Catherine's_College,_Oxford> <http://dbpedia.org/ontology/building> "agent" .
+<http://dbpedia.org/resource/St_Mary_Hall,_Oxford> <http://dbpedia.org/ontology/building> "abstract entity" .
+<http://dbpedia.org/resource/Exeter_College,_Oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/St_Catherine's_College,_Oxford> <http://www.w3.org/2000/01/rdf-schema#label> "St Catherine's College, Oxford" .
+<http://dbpedia.org/resource/Gonville_and_Caius_College,_Cambridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Exeter_College,_Oxford> <http://dbpedia.org/ontology/building> "building" .
+<http://dbpedia.org/resource/St_Mary_Hall,_Oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Gonville_and_Caius_College,_Cambridge> <http://dbpedia.org/ontology/building> "organization" .
+<http://dbpedia.org/resource/Sidney_Sussex_College,_Cambridge> <http://dbpedia.org/ontology/building> "EducationalOrganization" .
+<http://dbpedia.org/resource/St_Mary_Hall,_Oxford> <http://www.w3.org/2000/01/rdf-schema#label> "St Mary Hall, Oxford" .
+<http://dbpedia.org/resource/Sidney_Sussex_College,_Cambridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Gonville_and_Caius_College,_Cambridge> <http://www.w3.org/2000/01/rdf-schema#label> "Gonville and Caius College, Cambridge" .
+

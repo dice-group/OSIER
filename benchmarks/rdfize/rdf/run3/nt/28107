@@ -1,0 +1,157 @@
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ADAdivZa> <http://dbpedia.org/ontology/shipLaunch> "cruLis ship" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Trau%2C+schau%2C+wem%21> <http://www.w3.org/2000/01/rdf-schema#label> "Trau, schau, wem!" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Chestnut+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chestnut (color)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rust+%28color%29> <http://dbpedia.org/ontology/shipLaunch> "visual property" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Crokinole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Valday+%28ship%29> <http://www.w3.org/2000/01/rdf-schema#label> "Valday (ship)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Fortuyn+%28ship%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://dbpedia.org/resource/Volleyball_(ball)> <http://dbpedia.org/ontology/shipLaunch> "sport" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Star+Frontiers> <http://dbpedia.org/ontology/shipLaunch> "game" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ARA+Libertad+%28Q-2%29> <http://dbpedia.org/ontology/shipLaunch> "frigaxt" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/HDMS+Najaden+%281811%29> <http://dbpedia.org/ontology/shipLaunch> "feature" .
+<http://dbpedia.org/resource/Triathlon_(heat_pump)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Boyhood%27s+End> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/The+Art+of+Fugue+discography> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Frdeestyleskiing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Floorball> <http://www.w3.org/2000/01/rdf-schema#label> "Floorball" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Frdeestyleskiing> <http://dbpedia.org/ontology/shipLaunch> "spWor" .
+<http://dbpedia.org/resource/Laws_of_rugby_league> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby league nines" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rugby+sevens> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby sevens" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Fortuyn+%28ship%29> <http://dbpedia.org/ontology/shipLaunch> "Thing" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Grimsby-class+sloop> <http://www.w3.org/2000/01/rdf-schema#label> "Grimsby-class sloop" .
+<http://dbpedia.org/resource/Sch%C3%B6pfungsmesse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://dbpedia.org/resource/Cross-country_skiing_at_the_2002_Winter_Olympics> <http://dbpedia.org/ontology/shipLaunch> "sport" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Lavender+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lavender (color)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Star+Frontiers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://dbpedia.org/resource/Laws_of_rugby_league> <http://dbpedia.org/ontology/shipLaunch> "sport" .
+<http://dbpedia.org/resource/Volleyball_(ball)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Chestnut+%28color%29> <http://dbpedia.org/ontology/shipLaunch> "property" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Crokinole> <http://dbpedia.org/ontology/shipLaunch> "activity" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rugby+league+sevens> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby league sevens" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Cue+sports> <http://www.w3.org/2000/01/rdf-schema#label> "Cue sports" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Women%27s+lacrosse> <http://dbpedia.org/ontology/shipLaunch> "Sport" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/RFA+Fort+Victoria+%28A387%29> <http://www.w3.org/2000/01/rdf-schema#label> "RFA Fort Victoria (A387)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ADAdivZa> <http://www.w3.org/2000/01/rdf-schema#label> "ADAdivZa" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Boyhood%27s+End> <http://dbpedia.org/ontology/shipLaunch> "oratorio" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Women%27s+lacrosse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://dbpedia.org/resource/Tug_of_War_(film)> <http://www.w3.org/2000/01/rdf-schema#label> "Tug of war" .
+<http://dbpedia.org/resource/Football_(ball)> <http://dbpedia.org/ontology/shipLaunch> "abstract entity" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Boyhood%27s+End> <http://www.w3.org/2000/01/rdf-schema#label> "Boyhood's End" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Frdeestyleskiing> <http://www.w3.org/2000/01/rdf-schema#label> "Frdeestyleskiing" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Kho+kho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Lavender+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Underwater+rugby> <http://www.w3.org/2000/01/rdf-schema#label> "Underwater rugby" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/SS+Hope> <http://dbpedia.org/ontology/shipLaunch> "ship" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/RuneQuest> <http://www.w3.org/2000/01/rdf-schema#label> "RuneQuest" .
+<http://dbpedia.org/resource/Stock_Car_Racing_(magazine)> <http://dbpedia.org/ontology/shipLaunch> "deed" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Synchronised+swimming> <http://www.w3.org/2000/01/rdf-schema#label> "Synchronised swimming" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Grimsby-class+sloop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Saffron+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Saffron (color)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Synchronised+swimming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Synchronised+swimming> <http://dbpedia.org/ontology/shipLaunch> "sport" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Fortuyn+%28ship%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fortuyn (ship)" .
+<http://dbpedia.org/resource/Eventing> <http://dbpedia.org/ontology/shipLaunch> "psychological feature" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ARA+Presidente+Sarmiento> <http://dbpedia.org/ontology/shipLaunch> "instrumentality" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Kho+kho> <http://www.w3.org/2000/01/rdf-schema#label> "Kho kho" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/SS+Hope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/HDMS+Najaden+%281796%29> <http://dbpedia.org/ontology/shipLaunch> "vocation" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/SS+Hope> <http://www.w3.org/2000/01/rdf-schema#label> "SS Hope" .
+<http://dbpedia.org/resource/Volleyball_(ball)> <http://www.w3.org/2000/01/rdf-schema#label> "Volleyball" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/RFA+Fort+Victoria+%28A387%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rugby+tens> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby tens" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Valday+%28ship%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://dbpedia.org/resource/Triathlon_(heat_pump)> <http://dbpedia.org/ontology/shipLaunch> "activity" .
+<http://dbpedia.org/resource/Laws_of_rugby_league> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/HDMS+Najaden+%281811%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Cross-country+skiing+%28sport%29> <http://dbpedia.org/ontology/shipLaunch> "activity" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rugby+league+sevens> <http://dbpedia.org/ontology/shipLaunch> "activity" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/MV+Morning+Glory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rust+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Heliotrope+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Heliotrope (color)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/HDMS+Najaden+%281796%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Grimsby-class+sloop> <http://dbpedia.org/ontology/shipLaunch> "DesignedArtifact" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Mirny+%28sloop-of-war%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Women%27s+lacrosse> <http://www.w3.org/2000/01/rdf-schema#label> "Women's lacrosse" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ARA+Rosales+%28P-42%29> <http://www.w3.org/2000/01/rdf-schema#label> "ARA Rosales (P-42)" .
+<http://dbpedia.org/resource/Hungarian_Rhapsody_No._6> <http://www.w3.org/2000/01/rdf-schema#label> "Hungarian Rhapsody No. 12" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ARA+Rosales+%28P-42%29> <http://dbpedia.org/ontology/shipLaunch> "feature" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/The+Art+of+Fugue+discography> <http://dbpedia.org/ontology/shipLaunch> "Thing" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Leahy-class+cruiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Valday+%28ship%29> <http://dbpedia.org/ontology/shipLaunch> "noesis" .
+<http://dbpedia.org/resource/Sch%C3%B6pfungsmesse> <http://www.w3.org/2000/01/rdf-schema#label> "Sch\u00F6pfungsmesse" .
+<http://dbpedia.org/resource/Football_(ball)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Mirny+%28sloop-of-war%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mirny (sloop-of-war)" .
+<http://dbpedia.org/resource/Hungarian_Rhapsody_No._6> <http://dbpedia.org/ontology/shipLaunch> "CreativeWork" .
+<http://dbpedia.org/resource/Cross-country_skiing_at_the_2002_Winter_Olympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Floorball> <http://dbpedia.org/ontology/shipLaunch> "activity" .
+<http://dbpedia.org/resource/Sch%C3%B6pfungsmesse> <http://dbpedia.org/ontology/shipLaunch> "property" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Cue+sports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rugby+sevens> <http://dbpedia.org/ontology/shipLaunch> "abstract entity" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Crokinole> <http://www.w3.org/2000/01/rdf-schema#label> "Crokinole" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Disc+golf> <http://www.w3.org/2000/01/rdf-schema#label> "Disc golf" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ARA+Libertad+%28Q-2%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/RuneQuest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Saffron+%28color%29> <http://dbpedia.org/ontology/shipLaunch> "visual property" .
+<http://dbpedia.org/resource/Triathlon_(heat_pump)> <http://www.w3.org/2000/01/rdf-schema#label> "Triathlon" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Long+track+speed+skating> <http://www.w3.org/2000/01/rdf-schema#label> "Long track speed skating" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Leahy-class+cruiser> <http://www.w3.org/2000/01/rdf-schema#label> "Leahy-class cruiser" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Trau%2C+schau%2C+wem%21> <http://dbpedia.org/ontology/shipLaunch> "psychological feature" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Disc+golf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Flyer+%28steamboat%29> <http://www.w3.org/2000/01/rdf-schema#label> "Flyer (steamboat)" .
+<http://dbpedia.org/resource/Combined_driving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ARA+Presidente+Sarmiento> <http://www.w3.org/2000/01/rdf-schema#label> "ARA Presidente Sarmiento" .
+<http://dbpedia.org/resource/Tug_of_War_(film)> <http://dbpedia.org/ontology/shipLaunch> "Activity" .
+<http://dbpedia.org/resource/Dungeons_&_Dragons-related_products> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://dbpedia.org/resource/Football_(ball)> <http://www.w3.org/2000/01/rdf-schema#label> "Canadian football" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ARA+Rosales+%28P-42%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/HDMS+Najaden+%281811%29> <http://www.w3.org/2000/01/rdf-schema#label> "HDMS Najaden (1811)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ARA+Presidente+Sarmiento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/HDMS+Najaden+%281796%29> <http://www.w3.org/2000/01/rdf-schema#label> "HDMS Najaden (1796)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ARA+Libertad+%28Q-2%29> <http://www.w3.org/2000/01/rdf-schema#label> "ARA Libertad (Q-2)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rugby+tens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/MV+Morning+Glory> <http://www.w3.org/2000/01/rdf-schema#label> "MV Morning Glory" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Cross-country+skiing+%28sport%29> <http://www.w3.org/2000/01/rdf-schema#label> "Cross-country skiing (sport)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Underwater+rugby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rugby+sevens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://dbpedia.org/resource/Dungeons_&_Dragons-related_products> <http://dbpedia.org/ontology/shipLaunch> "contest" .
+<http://dbpedia.org/resource/Combined_driving> <http://www.w3.org/2000/01/rdf-schema#label> "ComiAned driving" .
+<http://dbpedia.org/resource/Hungarian_Rhapsody_No._6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Flyer+%28steamboat%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/RuneQuest> <http://dbpedia.org/ontology/shipLaunch> "psychological feature" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Saffron+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Leahy-class+cruiser> <http://dbpedia.org/ontology/shipLaunch> "Ship" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Floorball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Cross-country+skiing+%28sport%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rugby+league+sevens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Trau%2C+schau%2C+wem%21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Chestnut+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Kho+kho> <http://dbpedia.org/ontology/shipLaunch> "abstract entity" .
+<http://dbpedia.org/resource/Tug_of_War_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rust+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rust (color)" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/ADAdivZa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Plunge+for+distance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://dbpedia.org/resource/Stock_Car_Racing_(magazine)> <http://www.w3.org/2000/01/rdf-schema#label> "Stock car racing" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/The+Art+of+Fugue+discography> <http://www.w3.org/2000/01/rdf-schema#label> "The Art of Fugue discography" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Disc+golf> <http://dbpedia.org/ontology/shipLaunch> "activity" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Mirny+%28sloop-of-war%29> <http://dbpedia.org/ontology/shipLaunch> "DesignedArtifact" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Plunge+for+distance> <http://dbpedia.org/ontology/shipLaunch> "activity" .
+<http://dbpedia.org/resource/Dungeons_&_Dragons-related_products> <http://www.w3.org/2000/01/rdf-schema#label> "Dungeons & Dragons" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/RFA+Fort+Victoria+%28A387%29> <http://dbpedia.org/ontology/shipLaunch> "Ship" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Flyer+%28steamboat%29> <http://dbpedia.org/ontology/shipLaunch> "deed" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Rugby+tens> <http://dbpedia.org/ontology/shipLaunch> "activity" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Plunge+for+distance> <http://www.w3.org/2000/01/rdf-schema#label> "Plunge for distance" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/MV+Morning+Glory> <http://dbpedia.org/ontology/shipLaunch> "feature" .
+<http://dbpedia.org/resource/Cross-country_skiing_at_the_2002_Winter_Olympics> <http://www.w3.org/2000/01/rdf-schema#label> "Cross-country skiing" .
+<http://dbpedia.org/resource/Eventing> <http://www.w3.org/2000/01/rdf-schema#label> "Eventing" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Cue+sports> <http://dbpedia.org/ontology/shipLaunch> "activity" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Star+Frontiers> <http://www.w3.org/2000/01/rdf-schema#label> "Star Frontiers" .
+<http://dbpedia.org/resource/Eventing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://dbpedia.org/resource/Stock_Car_Racing_(magazine)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Underwater+rugby> <http://dbpedia.org/ontology/shipLaunch> "event" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Heliotrope+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Heliotrope+%28color%29> <http://dbpedia.org/ontology/shipLaunch> "shadowiness" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Lavender+%28color%29> <http://dbpedia.org/ontology/shipLaunch> "semidarkness" .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Long+track+speed+skating> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .
+<http://example.org/22a55ce0-4d86-4308-8fd8-95186c0f03ec/Long+track+speed+skating> <http://dbpedia.org/ontology/shipLaunch> "event" .
+<http://dbpedia.org/resource/Combined_driving> <http://dbpedia.org/ontology/shipLaunch> "svpot" .
+

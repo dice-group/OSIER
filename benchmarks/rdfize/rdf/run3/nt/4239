@@ -1,0 +1,46 @@
+<http://dbpedia.org/resource/Francis_José_da_Silva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Francis_José_da_Silva> <http://dbpedia.org/ontology/backhand> "soccer player" .
+<http://dbpedia.org/resource/Conor_O'Shea> <http://www.w3.org/2000/01/rdf-schema#label> "Conor O'Shea" .
+<http://dbpedia.org/resource/George_Allen_(footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "George Allen (footballer)" .
+<http://dbpedia.org/resource/Rufus_Gilbert> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus Gilbert" .
+<http://dbpedia.org/resource/Clarrie_Wallach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Curtis_Naughton> <http://www.w3.org/2000/01/rdf-schema#label> "Curtis Naughton" .
+<http://dbpedia.org/resource/Clarrie_Wallach> <http://www.w3.org/2000/01/rdf-schema#label> "Clarrie Wallach" .
+<http://dbpedia.org/resource/Paco_Delgado> <http://dbpedia.org/ontology/backhand> "human" .
+<http://dbpedia.org/resource/Rufus_Gilbert> <http://dbpedia.org/ontology/backhand> "causal agency" .
+<http://dbpedia.org/resource/Rufus_B._Nalley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Steve_Patton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Paco_Delgado> <http://www.w3.org/2000/01/rdf-schema#label> "Francisco Delgado Melo" .
+<http://dbpedia.org/resource/Rufus_B._Nalley> <http://dbpedia.org/ontology/backhand> "Person" .
+<http://dbpedia.org/resource/Francis_José_da_Silva> <http://www.w3.org/2000/01/rdf-schema#label> "Francis Jos\u00E9 da Silva" .
+<http://dbpedia.org/resource/Curtis_Naughton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Sol_Metzger> <http://dbpedia.org/ontology/backhand> "back" .
+<http://dbpedia.org/resource/Dafydd_Hewitt> <http://www.w3.org/2000/01/rdf-schema#label> "Dafydd Hewitt" .
+<http://dbpedia.org/resource/Clarrie_Wallach> <http://dbpedia.org/ontology/backhand> "rugby player" .
+<http://dbpedia.org/resource/Conor_O'Shea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Chris_Johns_(rugby_league)> <http://www.w3.org/2000/01/rdf-schema#label> "Chris Johnson (rugby league)" .
+<http://dbpedia.org/resource/George_Allen_(footballer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Gilberto_da_Silva_Melo> <http://www.w3.org/2000/01/rdf-schema#label> "Gilberto da Silva Melo" .
+<http://dbpedia.org/resource/George_Allen_(footballer)> <http://dbpedia.org/ontology/backhand> "back" .
+<http://dbpedia.org/resource/Francis_(footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "Francis (footballer)" .
+<http://dbpedia.org/resource/Sol_Metzger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Steve_Patton> <http://www.w3.org/2000/01/rdf-schema#label> "Steve Patton" .
+<http://dbpedia.org/resource/Smoke_Laval> <http://dbpedia.org/ontology/backhand> "causal agency" .
+<http://dbpedia.org/resource/Rufus_B._Nalley> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus B. Nalley" .
+<http://dbpedia.org/resource/Gilberto_da_Silva_Melo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Smoke_Laval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Conor_O'Shea> <http://dbpedia.org/ontology/backhand> "person" .
+<http://dbpedia.org/resource/Steve_Patton> <http://dbpedia.org/ontology/backhand> "agent" .
+<http://dbpedia.org/resource/Francis_(footballer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Smoke_Laval> <http://www.w3.org/2000/01/rdf-schema#label> "Smoke Laval" .
+<http://dbpedia.org/resource/Francis_(footballer)> <http://dbpedia.org/ontology/backhand> "jock" .
+<http://dbpedia.org/resource/Gilberto_da_Silva_Melo> <http://dbpedia.org/ontology/backhand> "human" .
+<http://dbpedia.org/resource/Rufus_Gilbert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Chris_Johns_(rugby_league)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Dafydd_Hewitt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Chris_Johns_(rugby_league)> <http://dbpedia.org/ontology/backhand> "back" .
+<http://dbpedia.org/resource/Curtis_Naughton> <http://dbpedia.org/ontology/backhand> "person" .
+<http://dbpedia.org/resource/Paco_Delgado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Back> .
+<http://dbpedia.org/resource/Sol_Metzger> <http://www.w3.org/2000/01/rdf-schema#label> "Sol Metzger" .
+<http://dbpedia.org/resource/Dafydd_Hewitt> <http://dbpedia.org/ontology/backhand> "rugby player" .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Tabatha_Cash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://example.org/86182ccc-8681-481a-9be6-792502ec8685/Frederick+William+Matthiessen> <http://www.w3.org/2000/01/rdf-schema#label> "Frederick William Matthiessen" .
+<http://dbpedia.org/resource/Gianna_Michaels> <http://dbpedia.org/ontology/person> "artist" .
+<http://dbpedia.org/resource/James_Deen> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/86182ccc-8681-481a-9be6-792502ec8685/Frederick+William+Matthiessen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://example.org/86182ccc-8681-481a-9be6-792502ec8685/Frederick+William+Matthiessen> <http://dbpedia.org/ontology/person> "adult (pornographic) actor" .
+<http://dbpedia.org/resource/Tabatha_Cash> <http://www.w3.org/2000/01/rdf-schema#label> "C\u00E9line Bara" .
+<http://dbpedia.org/resource/Gianna_Michaels> <http://www.w3.org/2000/01/rdf-schema#label> "Gianna Michaels" .
+<http://example.org/86182ccc-8681-481a-9be6-792502ec8685/Eric+Masterson+%28actor%29> <http://dbpedia.org/ontology/person> "artist" .
+<http://dbpedia.org/resource/Gianna_Michaels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Tabatha_Cash> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/86182ccc-8681-481a-9be6-792502ec8685/Eric+Masterson+%28actor%29> <http://www.w3.org/2000/01/rdf-schema#label> "Eric Masterson (actor)" .
+<http://example.org/86182ccc-8681-481a-9be6-792502ec8685/Eric+Masterson+%28actor%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/James_Deen> <http://www.w3.org/2000/01/rdf-schema#label> "James Deen" .
+<http://dbpedia.org/resource/James_Deen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+

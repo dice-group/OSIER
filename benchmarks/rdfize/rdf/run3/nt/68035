@@ -1,0 +1,16 @@
+<http://example.org/e57fb62a-8460-467e-971c-ea025b1b5768/Television+Agent%2FNews+Anchor> <http://dbpedia.org/ontology/personFunction> "person function" .
+<http://example.org/e57fb62a-8460-467e-971c-ea025b1b5768/Television+Agent%2FNews+Anchor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/provenance/ns#HumanActor> .
+<http://dbpedia.org/resource/Voice_acting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/provenance/ns#HumanActor> .
+<http://example.org/e57fb62a-8460-467e-971c-ea025b1b5768/priest%2C+poet%2C+non-fiction+writer%2C+mathematician%2C+historian%2C+philosopher%2C+cartographer%2C+and+cosmographer> <http://dbpedia.org/ontology/personFunction> "Thing" .
+<http://example.org/e57fb62a-8460-467e-971c-ea025b1b5768/priest%2C+poet%2C+non-fiction+writer%2C+mathematician%2C+historian%2C+philosopher%2C+cartographer%2C+and+cosmographer> <http://www.w3.org/2000/01/rdf-schema#label> "priest, poet, non-fiction writer, mathematician, historian, philosopher, cartographer, and cosmographer" .
+<http://dbpedia.org/resource/Voice_acting> <http://www.w3.org/2000/01/rdf-schema#label> "Voice actor" .
+<http://dbpedia.org/resource/Voice_acting> <http://dbpedia.org/ontology/personFunction> "person function" .
+<http://dbpedia.org/resource/Actor> <http://dbpedia.org/ontology/personFunction> "person function" .
+<http://example.org/e57fb62a-8460-467e-971c-ea025b1b5768/Animation+director%2C+screenwriter%2C+animator%2C+voice+actor%2C+storyboard+supervisor> <http://dbpedia.org/ontology/personFunction> "Thing" .
+<http://example.org/e57fb62a-8460-467e-971c-ea025b1b5768/Animation+director%2C+screenwriter%2C+animator%2C+voice+actor%2C+storyboard+supervisor> <http://www.w3.org/2000/01/rdf-schema#label> "Animation director, screenwriter, animator, voice actor, storyboard supervisor" .
+<http://example.org/e57fb62a-8460-467e-971c-ea025b1b5768/priest%2C+poet%2C+non-fiction+writer%2C+mathematician%2C+historian%2C+philosopher%2C+cartographer%2C+and+cosmographer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/provenance/ns#HumanActor> .
+<http://dbpedia.org/resource/Actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/provenance/ns#HumanActor> .
+<http://dbpedia.org/resource/Actor> <http://www.w3.org/2000/01/rdf-schema#label> "Actor" .
+<http://example.org/e57fb62a-8460-467e-971c-ea025b1b5768/Television+Agent%2FNews+Anchor> <http://www.w3.org/2000/01/rdf-schema#label> "Television Agent/News Anchor" .
+<http://example.org/e57fb62a-8460-467e-971c-ea025b1b5768/Animation+director%2C+screenwriter%2C+animator%2C+voice+actor%2C+storyboard+supervisor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/provenance/ns#HumanActor> .
+

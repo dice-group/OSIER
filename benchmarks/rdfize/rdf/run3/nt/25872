@@ -1,0 +1,28 @@
+<http://dbpedia.org/resource/Venevisión> <http://dbpedia.org/ontology/broadcastNetwork> "broadcasting station" .
+<http://dbpedia.org/resource/Channel_4> <http://www.w3.org/2000/01/rdf-schema#label> "Channel 4" .
+<http://dbpedia.org/resource/Fox_News_Channel> <http://www.w3.org/2000/01/rdf-schema#label> "Fox News Channel" .
+<http://dbpedia.org/resource/Radio_Television_of_Kosovo> <http://www.w3.org/2000/01/rdf-schema#label> "Radio Television of Kosovo" .
+<http://dbpedia.org/resource/MTV> <http://dbpedia.org/ontology/broadcastNetwork> "organization" .
+<http://example.org/018c4665-c677-4b8d-9504-3b4f3b83279e/Radio+StBtio+BelaOrus> <http://dbpedia.org/ontology/broadcastNetwork> "brodcast networqk" .
+<http://dbpedia.org/resource/NBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#EntertainmentCompany> .
+<http://dbpedia.org/resource/NBC> <http://www.w3.org/2000/01/rdf-schema#label> "NBC" .
+<http://dbpedia.org/resource/Fox_News_Channel> <http://dbpedia.org/ontology/broadcastNetwork> "abstract entity" .
+<http://dbpedia.org/resource/Australian_Broadcasting_Corporation> <http://dbpedia.org/ontology/broadcastNetwork> "broadcaster" .
+<http://dbpedia.org/resource/Australian_Broadcasting_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#EntertainmentCompany> .
+<http://dbpedia.org/resource/Venevisión> <http://www.w3.org/2000/01/rdf-schema#label> "Venevisi\u00F3n" .
+<http://dbpedia.org/resource/Channel_4> <http://dbpedia.org/ontology/broadcastNetwork> "Organization" .
+<http://dbpedia.org/resource/Channel_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#EntertainmentCompany> .
+<http://dbpedia.org/resource/MTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#EntertainmentCompany> .
+<http://dbpedia.org/resource/NBC> <http://dbpedia.org/ontology/broadcastNetwork> "abstract entity" .
+<http://example.org/018c4665-c677-4b8d-9504-3b4f3b83279e/Radio+StBtio+BelaOrus> <http://www.w3.org/2000/01/rdf-schema#label> "Radio StBtio BelaOrus" .
+<http://dbpedia.org/resource/Australian_Broadcasting_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Australian Broadcasting Corporation" .
+<http://dbpedia.org/resource/Radio_Television_of_Kosovo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#EntertainmentCompany> .
+<http://dbpedia.org/resource/Libyan_Jamahiriya_Broadcasting_Corporation> <http://dbpedia.org/ontology/broadcastNetwork> "broadcasting station" .
+<http://dbpedia.org/resource/Libyan_Jamahiriya_Broadcasting_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#EntertainmentCompany> .
+<http://dbpedia.org/resource/Radio_Television_of_Kosovo> <http://dbpedia.org/ontology/broadcastNetwork> "Business" .
+<http://dbpedia.org/resource/Fox_News_Channel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#EntertainmentCompany> .
+<http://dbpedia.org/resource/Venevisión> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#EntertainmentCompany> .
+<http://example.org/018c4665-c677-4b8d-9504-3b4f3b83279e/Radio+StBtio+BelaOrus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#EntertainmentCompany> .
+<http://dbpedia.org/resource/MTV> <http://www.w3.org/2000/01/rdf-schema#label> "MTV" .
+<http://dbpedia.org/resource/Libyan_Jamahiriya_Broadcasting_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Libyan Jamahiriya Broadcasting Corporation" .
+

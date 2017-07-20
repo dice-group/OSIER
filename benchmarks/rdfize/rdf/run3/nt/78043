@@ -1,0 +1,7 @@
+<http://example.org/22d08730-ea39-4b50-a756-135989e026aa/Market+Street+Cinema> <http://www.w3.org/2000/01/rdf-schema#label> "Market Street Cinema" .
+<http://example.org/22d08730-ea39-4b50-a756-135989e026aa/Riverbank+Arts+Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Riverbank Arts Centre" .
+<http://example.org/22d08730-ea39-4b50-a756-135989e026aa/Karma+Nightclub+%26+Cabaret> <http://www.w3.org/2000/01/rdf-schema#label> "Karma Nightclub & Cabaret" .
+<http://example.org/22d08730-ea39-4b50-a756-135989e026aa/Athletic+Park+%28New+Orleans%29> <http://dbpedia.org/ontology/snowParkNumber> "Athletic Park" .
+<http://example.org/22d08730-ea39-4b50-a756-135989e026aa/Athletic+Park+%28New+Orleans%29> <http://www.w3.org/2000/01/rdf-schema#label> "Athletic Park (New Orleans)" .
+<http://dbpedia.org/resource/Mitchell_Brothers_O'Farrell_Theatre> <http://www.w3.org/2000/01/rdf-schema#label> "Mitchell Brothers O'Farrell Theatre" .
+

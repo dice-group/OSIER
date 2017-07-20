@@ -1,0 +1,11 @@
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Sublingual+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Sublingual vein" .
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Drsal+scapzular+vein> <http://dbpedia.org/ontology/vein> "SubclaiaIn vein" .
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Ilieolmbar+vein> <http://dbpedia.org/ontology/vein> "common iliac vein Artery      = iliolumbar artery" .
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Superior+thyroid+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Superior thyroid vein" .
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Superior+thyroid+vein> <http://dbpedia.org/ontology/vein> "Internal jugular vein" .
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Ilieolmbar+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Ilieolmbar vein" .
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Supraorbital+vein> <http://dbpedia.org/ontology/vein> "Angular vein" .
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Drsal+scapzular+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Drsal scapzular vein" .
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Supraorbital+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Supraorbital vein" .
+<http://example.org/79b7a688-77ce-4c51-a671-962c8b3d7d01/Sublingual+vein> <http://dbpedia.org/ontology/vein> "Lingual veins" .
+

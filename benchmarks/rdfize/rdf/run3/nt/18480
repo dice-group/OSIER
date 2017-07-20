@@ -1,0 +1,16 @@
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Melling+Chase> <http://dbpedia.org/ontology/raceHorse> "contest" .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Challow+Novices%27+Hurdle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Combatant> .
+<http://dbpedia.org/resource/Long_Walk_Hurdle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Combatant> .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Sefton+Novices%27+Hurdle> <http://www.w3.org/2000/01/rdf-schema#label> "Sefton Novices' Hurdle" .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Sefton+Novices%27+Hurdle> <http://dbpedia.org/ontology/raceHorse> "societal event" .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Challow+Novices%27+Hurdle> <http://dbpedia.org/ontology/raceHorse> "societal event" .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Melling+Chase> <http://www.w3.org/2000/01/rdf-schema#label> "Melling Chase" .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Sefton+Novices%27+Hurdle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Combatant> .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Betfair+Chase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Combatant> .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Melling+Chase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Combatant> .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Betfair+Chase> <http://www.w3.org/2000/01/rdf-schema#label> "Betfair Chase" .
+<http://dbpedia.org/resource/Long_Walk_Hurdle> <http://www.w3.org/2000/01/rdf-schema#label> "Long Walk Hurdle" .
+<http://dbpedia.org/resource/Long_Walk_Hurdle> <http://dbpedia.org/ontology/raceHorse> "SportsEvent" .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Betfair+Chase> <http://dbpedia.org/ontology/raceHorse> "horse race" .
+<http://example.org/460541fb-71fa-4613-af37-d1f2440a36ba/Challow+Novices%27+Hurdle> <http://www.w3.org/2000/01/rdf-schema#label> "Challow Novices' Hurdle" .
+

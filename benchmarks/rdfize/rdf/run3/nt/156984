@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Annie_and_Clarabel> <http://dbpedia.org/ontology/endDateTime> "Annie and Clarabel" .
+<http://dbpedia.org/resource/Smiley> <http://www.w3.org/2000/01/rdf-schema#label> "Smiley" .
+<http://dbpedia.org/resource/Huey,_Dewey,_and_Louie> <http://www.w3.org/2000/01/rdf-schema#label> "Huey, Dewey, and Louie" .
+<http://dbpedia.org/resource/Barb_Wire> <http://www.w3.org/2000/01/rdf-schema#label> "Barb Wire" .
+<http://dbpedia.org/resource/Batman> <http://www.w3.org/2000/01/rdf-schema#label> "Batman" .
+<http://dbpedia.org/resource/Annie_and_Clarabel> <http://www.w3.org/2000/01/rdf-schema#label> "Annie and Clarabel" .
+

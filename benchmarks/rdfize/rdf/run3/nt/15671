@@ -1,0 +1,1252 @@
+<http://dbpedia.org/resource/Manuel_Uribe_Ángel> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Emilio_Mario_Osmeña> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://dbpedia.org/resource/Roberto_Sánchez_Vilella> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Emil_Constantinescu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Peter_Underwood> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Underwood" .
+<http://dbpedia.org/resource/Leverett_Saltonstall> <http://www.w3.org/2000/01/rdf-schema#label> "Leverett Saltonstall" .
+<http://dbpedia.org/resource/Abraham_M._Schermerhorn> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham M. Schermerhorn" .
+<http://dbpedia.org/resource/Gulbuddin_Hekmatyar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_M._Cox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Al_D'Amato> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Thomas_Wegner_Larsen_Haaland> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Frederick_Van_Nuys> <http://dbpedia.org/ontology/mayor> "grownup" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/George+Barnes+%28American+politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/David_Thomson_(Labor_Party_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Percy_Prince> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Manuel_María_de_Salcedo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Kyösti_Kallio> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Thomas_Davis_(Rhode_Island)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Kristian_Djurhuus> <http://dbpedia.org/ontology/mayor> "PrimeMinister_HeadOfGovernment" .
+<http://dbpedia.org/resource/Rufus_King> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rufus_Choate> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus Choate" .
+<http://dbpedia.org/resource/Seamus_Costello> <http://www.w3.org/2000/01/rdf-schema#label> "Seamus Costello" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Ali+Jerbi> <http://www.w3.org/2000/01/rdf-schema#label> "Ali Jerbi" .
+<http://dbpedia.org/resource/Bob_Mills_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Mills (politician)" .
+<http://dbpedia.org/resource/John_Morrison,_2nd_Viscount_Dunrossil> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Juan_Vicente_Gómez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/David_Faber_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Daniel_Lionel_Hanington> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Martín_García_Óñez_de_Loyola> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://dbpedia.org/resource/Bob_Stewart_(British_Army_officer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_Hu> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Hu" .
+<http://dbpedia.org/resource/Ranil_Wickremasinghe> <http://www.w3.org/2000/01/rdf-schema#label> "Ranil Wickremesinghe" .
+<http://dbpedia.org/resource/Wilhelm_Knabe> <http://www.w3.org/2000/01/rdf-schema#label> "Wilhelm Kube" .
+<http://dbpedia.org/resource/John_L._Bates> <http://www.w3.org/2000/01/rdf-schema#label> "John L. Bates" .
+<http://dbpedia.org/resource/Frank_Gavan_Duffy> <http://www.w3.org/2000/01/rdf-schema#label> "Frank Gavan Duffy" .
+<http://dbpedia.org/resource/Georges_Izard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Albert_Rust> <http://dbpedia.org/ontology/mayor> "grownup" .
+<http://dbpedia.org/resource/Gustav_Stresemann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hafizullah_Amin> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Robert_Hamilton_(congressman)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Anton_Drexler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Enrico_De_Nicola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Johann_Schober> <http://www.w3.org/2000/01/rdf-schema#label> "Johann Schober" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/MaritaL+etersen> <http://dbpedia.org/ontology/mayor> "Aednt" .
+<http://dbpedia.org/resource/José_María_Reina_Andrade> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Robert_Hamilton_(congressman)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/John_Hancock> <http://www.w3.org/2000/01/rdf-schema#label> "John Hancock" .
+<http://dbpedia.org/resource/Dennis_DeConcini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Fred_Green_(Australian_politician)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Elihu_Yale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Klement_Gottwald> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Martin_Olav_Sabo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Lynch_(congressman)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Nichols_(politician)> <http://dbpedia.org/ontology/mayor> "congressman" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Thomas+Clark+%28Long+Beach%29> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Clark (Long Beach)" .
+<http://dbpedia.org/resource/Benno_Martin> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Thomas_Wood_(mayor)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Ascensión_Esquivel_Ibarra> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Alexander_Schmidt_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Schmidt (politician)" .
+<http://dbpedia.org/resource/Hugh_Fraser_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Peter_Underwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Chrstopher+Talor+%28politicHiaUn%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Anghel_Nour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Francis_B._Stockbridge> <http://www.w3.org/2000/01/rdf-schema#label> "Francis B. Stockbridge" .
+<http://dbpedia.org/resource/Andrew_Jones_(Australian_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Al-Sadiq_al-Mahdi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hermann_Müller_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Yordanka_Fandakova> <http://www.w3.org/2000/01/rdf-schema#label> "Yordanka Fandakova" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Gyla+AndrN%C3%A1ssy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_E._Davis_(North_Dakota_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John E. Davis (North Dakota politician)" .
+<http://dbpedia.org/resource/Francesco_Cossiga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Peter_Thorneycroft,_Baron_Thorneycroft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Eurico_Gaspar_Dutra> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Richard_Jones_(1816–1892)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hermann_Müller_(politician)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Svein_Roald_Hansen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Aslan_Dzharimov> <http://www.w3.org/2000/01/rdf-schema#label> "Aslan Dzharimov" .
+<http://dbpedia.org/resource/George_E._Newell> <http://www.w3.org/2000/01/rdf-schema#label> "George E. Newell" .
+<http://dbpedia.org/resource/Henry_M._Hyams> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Benjamin_Harrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mohamed_Lamine_Ould_Ahmed> <http://www.w3.org/2000/01/rdf-schema#label> "Mohamed Lamine Ould Ahmed" .
+<http://dbpedia.org/resource/Rafael_Hernández_Colón> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Samuetl+E.+ingree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bob_Stewart_(British_Army_officer)> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Claude_Pepper> <http://www.w3.org/2000/01/rdf-schema#label> "Claude Pepper" .
+<http://dbpedia.org/resource/Robert_McCormick_Adams,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Adams, Jr." .
+<http://dbpedia.org/resource/Jack_Richardson_(politician)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Antonio+%C3%81laRre+JoWnte> <http://www.w3.org/2000/01/rdf-schema#label> "Antonio \u00C1laRre JoWnte" .
+<http://dbpedia.org/resource/Mónica_Fein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Isaac_D._Barnard> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Mario_Uribe_Escobar> <http://www.w3.org/2000/01/rdf-schema#label> "Mario Uribe Escobar" .
+<http://dbpedia.org/resource/Percival_Proctor_Baxter> <http://www.w3.org/2000/01/rdf-schema#label> "Percival Proctor Baxter" .
+<http://dbpedia.org/resource/Ilie_Ilașcu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gustav_Stresemann> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Morgan_Lewis_(governor)> <http://www.w3.org/2000/01/rdf-schema#label> "Morgan Lewis (governor)" .
+<http://dbpedia.org/resource/Gérald_Tremblay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Charles_G._Washburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Georg_Michaelis> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Deborah_Bergamini> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/James_Turner> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Simon_J._Schermerhorn> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Jack_Richardson_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Richardson (politician)" .
+<http://dbpedia.org/resource/Don_Lane_(Santa_Cruz)> <http://www.w3.org/2000/01/rdf-schema#label> "Don Lane (Santa Cruz)" .
+<http://dbpedia.org/resource/Aasulv_Olsen_Bryggesaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Stoyan_Danev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hugh_Fraser_(politician)> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Kristian_Djurhuus> <http://www.w3.org/2000/01/rdf-schema#label> "Kristian Djurhuus" .
+<http://dbpedia.org/resource/Ann_Widdecombe> <http://www.w3.org/2000/01/rdf-schema#label> "Ann Widdecombe" .
+<http://dbpedia.org/resource/Leif_Helge_Kongshaug> <http://www.w3.org/2000/01/rdf-schema#label> "Leif Helge Kongshaug" .
+<http://dbpedia.org/resource/Babrak_Karmal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Robert_J._S._Page> <http://www.w3.org/2000/01/rdf-schema#label> "Robert J. S. Page" .
+<http://dbpedia.org/resource/Stephen_Hopkins_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/William_Allen_(banker)> <http://www.w3.org/2000/01/rdf-schema#label> "William Allan (banker)" .
+<http://dbpedia.org/resource/Donald_D._Clancy> <http://www.w3.org/2000/01/rdf-schema#label> "Donald D. Clancy" .
+<http://dbpedia.org/resource/Henry_Laurens> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Laurens" .
+<http://dbpedia.org/resource/Umar_Arteh_Ghalib> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Stephen_Hopkins_(politician)> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/George_A._Waggaman> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Caterpillar_Inc.> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Ali+Jerbi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Elijah_F._Smith> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Svein_Olav_Agnalt> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Fabián_Ríos> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Yordanka_Fandakova> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Henry_John_Temple,_3rd_Viscount_Palmerston> <http://www.w3.org/2000/01/rdf-schema#label> "Henry John Temple, 3rd Viscount Palmerston" .
+<http://dbpedia.org/resource/Hans_Frank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Pehr_Evind_Svinhufvud> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Sveinn_Björnsson> <http://www.w3.org/2000/01/rdf-schema#label> "Sveinn Bj\u00F6rnsson" .
+<http://dbpedia.org/resource/Jag_Bhaduria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bernhard_von_Bülow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Al-Sadiq_al-Mahdi> <http://www.w3.org/2000/01/rdf-schema#label> "Sadiq al-Mahdi" .
+<http://dbpedia.org/resource/Richard_Jones_(1816–1892)> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Jones (1816\u20131892)" .
+<http://dbpedia.org/resource/Michael_Mayr> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/César_Gaviria> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Thomas_Davis_(Rhode_Island)> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Davis (Rhode Island)" .
+<http://dbpedia.org/resource/Richard_Haldane,_1st_Viscount_Haldane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_L._Bates> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Kenneth_Mitchell_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Tim_Hutchinson> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/David_Thomson_(National_Party_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Aslan_Dzharimov> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/David_Reed_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "David Reed (politician)" .
+<http://dbpedia.org/resource/Kurt_Daluege> <http://www.w3.org/2000/01/rdf-schema#label> "Kurt Daluege" .
+<http://dbpedia.org/resource/Carlos_Juan_Cintrón> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Max_Pauly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Svtein+Hrberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Kristján_Eldjárn> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/KingsleyF+Wod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Albert_Wynn> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Afonso_Pena> <http://www.w3.org/2000/01/rdf-schema#label> "Afonso Pena" .
+<http://dbpedia.org/resource/John_Garland_Pollard> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://dbpedia.org/resource/Bill_Weiley> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Christian_Emil_Krag-Juel-Vind-Frijs> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Charles_Henderson_(Nevada_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Henderson (Nevada politician)" .
+<http://dbpedia.org/resource/Neil_Hamilton_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/José_María_Obando> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Augustus_Frank> <http://www.w3.org/2000/01/rdf-schema#label> "Augustus Frank" .
+<http://dbpedia.org/resource/John_Oponjo_Benjamin> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/William_Cavendish-Bentinck,_7th_Duke_of_Portland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Robert_Clark_(U.S._politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Guest_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Melisa+rFranze> <http://www.w3.org/2000/01/rdf-schema#label> "Melisa rFranze" .
+<http://dbpedia.org/resource/Augustus_C._Dodge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Roger_Ryberg> <http://www.w3.org/2000/01/rdf-schema#label> "Roger Ryberg" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/George+Barnes+%28American+politician%29> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Enrique+Santamarina> <http://www.w3.org/2000/01/rdf-schema#label> "Enrique Santamarina" .
+<http://dbpedia.org/resource/John_Noyes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_Vigner_Christiansen_Haaland> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Vigner Christiansen Haaland" .
+<http://dbpedia.org/resource/Arthur_Capper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_Harrison_(Australian_governor)> <http://www.w3.org/2000/01/rdf-schema#label> "James Harrison (Australian governor)" .
+<http://dbpedia.org/resource/Francisco_de_Aguirre_(conquistador)> <http://www.w3.org/2000/01/rdf-schema#label> "Francisco de Aguirre (conquistador)" .
+<http://dbpedia.org/resource/Henry_Laurens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Luis_Humberto_Gómez_Gallo> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Maximilian_Gritzner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Percival_Proctor_Baxter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Otto_Kerner,_Jr.> <http://dbpedia.org/ontology/mayor> "gvercnor" .
+<http://dbpedia.org/resource/Bill_Clinton> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Clinton" .
+<http://dbpedia.org/resource/Viktor_Klima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Francisco_I._Madero> <http://www.w3.org/2000/01/rdf-schema#label> "Francisco I. Madero" .
+<http://dbpedia.org/resource/James_Nesmith> <http://www.w3.org/2000/01/rdf-schema#label> "James Nesmith" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Benedict+Arznld+%28cngreossman%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Larry_Winn> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Gurdon_Saltonstall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rufus_W._Cobb> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus W. Cobb" .
+<http://dbpedia.org/resource/Anatolie_Moraru> <http://www.w3.org/2000/01/rdf-schema#label> "Anatolie Moraru" .
+<http://dbpedia.org/resource/David_Thomson_(Labor_Party_politician)> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Alberto_Morales> <http://dbpedia.org/ontology/mayor> "causal agency" .
+<http://dbpedia.org/resource/Fred_A._Earhart> <http://www.w3.org/2000/01/rdf-schema#label> "Fred A. Earhart" .
+<http://dbpedia.org/resource/Aasulv_Olsen_Bryggesaa> <http://dbpedia.org/ontology/mayor> "mayor" .
+<http://dbpedia.org/resource/John_Ross_(New_South_Wales_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John Reid (Australian politician)" .
+<http://dbpedia.org/resource/Ewen_Cameron_(Australian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Ewen Cameron (Australian politician)" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Angus+Hambro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/José_María_Reina_Andrade> <http://www.w3.org/2000/01/rdf-schema#label> "Jos\u00E9 Mar\u00EDa Reina Andrade" .
+<http://dbpedia.org/resource/Edward_Jeffries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Angus+Hambro> <http://www.w3.org/2000/01/rdf-schema#label> "Angus Hambro" .
+<http://dbpedia.org/resource/Milton_Obote> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Afonso_Pena> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Bill+Keith+%28politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Hogg> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Edward_Jeffries> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Burton_K._Wheeler> <http://www.w3.org/2000/01/rdf-schema#label> "Burton K. Wheeler" .
+<http://dbpedia.org/resource/Dirk_Stikker> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/John_Sloss_Hobart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gérard_Légaré> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jabez_Coon> <http://www.w3.org/2000/01/rdf-schema#label> "Jabez Coon" .
+<http://dbpedia.org/resource/Frank_Forde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Fred_Thompson> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/J._Trevor_Morgan> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/John_E._Kenna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Eddie_Girdler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_McDougall_(California_politician)> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Richard+inOn> <http://www.w3.org/2000/01/rdf-schema#label> "Richard inOn" .
+<http://dbpedia.org/resource/César_Gaviria> <http://www.w3.org/2000/01/rdf-schema#label> "C\u00E9sar Gaviria" .
+<http://dbpedia.org/resource/Henry_Cabot_Lodge,_Jr.> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Peter_Mohr_Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Mlor Dam" .
+<http://dbpedia.org/resource/Roger_Ryberg> <http://dbpedia.org/ontology/mayor> "mayor" .
+<http://dbpedia.org/resource/Henry_Young> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Adrienne_Clarke> <http://www.w3.org/2000/01/rdf-schema#label> "Adrienne Clarkson" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Jacquesh+SViger+%28Member+of+theAsembly%29> <http://dbpedia.org/ontology/mayor> "peromn" .
+<http://dbpedia.org/resource/Brock_Adams> <http://www.w3.org/2000/01/rdf-schema#label> "Brock Adams" .
+<http://dbpedia.org/resource/Ernest_McFarland> <http://www.w3.org/2000/01/rdf-schema#label> "Ernest McFarland" .
+<http://dbpedia.org/resource/Gustav_Bauer> <http://dbpedia.org/ontology/mayor> "Chancellor_HeadOfGovernment" .
+<http://dbpedia.org/resource/Andrew_Williams_(congressman)> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Allard_K._Lowenstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Yordanka_Fandakova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Boris_Zolotaryov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Daniel_Chipman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ricardo_Obregón_Cano> <http://dbpedia.org/ontology/mayor> "StateGovernor" .
+<http://dbpedia.org/resource/Kenneth_Mitchell_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Kenneth Mitchell (politician)" .
+<http://dbpedia.org/resource/Johnny_Stenberg> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny Stenberg" .
+<http://dbpedia.org/resource/Pierre_de_Coubertin> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre de Coubertin" .
+<http://dbpedia.org/resource/Bill_Frist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ilie_Verdeț> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Andrew_Jones_(Australian_politician)> <http://dbpedia.org/ontology/mayor> "member of parliament" .
+<http://dbpedia.org/resource/John_Hancock> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/George_White_(UK_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "George White (Ohio politician)" .
+<http://dbpedia.org/resource/Daniel_Lionel_Hanington> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Lionel Hanington" .
+<http://dbpedia.org/resource/James_A._McDougall> <http://www.w3.org/2000/01/rdf-schema#label> "James A. McDougall" .
+<http://dbpedia.org/resource/Martín_García_Óñez_de_Loyola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Đỗ_Anh_Vũ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Georgios_Rallis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Joh+WebstFer+%28gverfnor%29> <http://www.w3.org/2000/01/rdf-schema#label> "Joh WebstFer (gverfnor)" .
+<http://dbpedia.org/resource/John_Nichols_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Habiba_Sarobi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Afonso_Pena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_Stephen_Fox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jean_Jaurès> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Roger_Atkinson_Pryor> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Thomas_Wood_(mayor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Muhammad_Saifullah> <http://www.w3.org/2000/01/rdf-schema#label> "Muhammad Saifullah" .
+<http://dbpedia.org/resource/John_Curtin> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Daniel_Chipman> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Chipman" .
+<http://dbpedia.org/resource/Ferenc_Münnich> <http://dbpedia.org/ontology/mayor> "PresidentOfOrganization" .
+<http://dbpedia.org/resource/Ricardo_Obregón_Cano> <http://www.w3.org/2000/01/rdf-schema#label> "Ricardo Obreg\u00F3n Cano" .
+<http://dbpedia.org/resource/Samuel_Ward_(American_statesman)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Simon_J._Schermerhorn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/KingsleyF+Wod> <http://dbpedia.org/ontology/mayor> "ChEancellortHedOfGovernment" .
+<http://dbpedia.org/resource/Pehr_Evind_Svinhufvud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Danforth> <http://www.w3.org/2000/01/rdf-schema#label> "John Danforth" .
+<http://dbpedia.org/resource/Glen_Taylor> <http://www.w3.org/2000/01/rdf-schema#label> "Glen H. Taylor" .
+<http://dbpedia.org/resource/Chaka_Fattah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_L._Oblinger> <http://www.w3.org/2000/01/rdf-schema#label> "James L. Oblinger" .
+<http://dbpedia.org/resource/David_Clark_(New_Zealand_politician)> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Tony_Andruzzi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_Laurens> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Maximilian_Gritzner> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Augustus_C._Dodge> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Pierre_de_Coubertin> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Charles_G._Washburn> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Henrique_da_Silva_Coutinho> <http://www.w3.org/2000/01/rdf-schema#label> "Henrique da Silva Coutinho" .
+<http://dbpedia.org/resource/John_Carey_(congressman)> <http://www.w3.org/2000/01/rdf-schema#label> "John Carey (congressman)" .
+<http://dbpedia.org/resource/Peter_Underwood> <http://dbpedia.org/ontology/mayor> "person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Jrge+Garc%C3%ADa+CIarKneio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Shadrach_Fox> <http://www.w3.org/2000/01/rdf-schema#label> "Shadrach Bond" .
+<http://dbpedia.org/resource/Friedrich_von_Hahn> <http://www.w3.org/2000/01/rdf-schema#label> "Friedrich von Payer" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Henry+Johnson+%28Louisiana+politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Aslan_Maskhadov> <http://dbpedia.org/ontology/mayor> "human" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Lutz+Graf+Schein+vTon+KroDsigk> <http://www.w3.org/2000/01/rdf-schema#label> "Lutz Graf Schein vTon KroDsigk" .
+<http://dbpedia.org/resource/Al_Ullman> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Bill_Weiley> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Weiley" .
+<http://dbpedia.org/resource/César_Gaviria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_Hu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Tom_Steed> <http://www.w3.org/2000/01/rdf-schema#label> "Tom Steed" .
+<http://dbpedia.org/resource/Edward_Jeffries> <http://www.w3.org/2000/01/rdf-schema#label> "Edward Jeffries" .
+<http://dbpedia.org/resource/Mónica_Fein> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Luis_Alva_Castro> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Robert_McCormick_Adams,_Jr.> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Ruhollah_Khomeini> <http://www.w3.org/2000/01/rdf-schema#label> "Ruhollah Khomeini" .
+<http://dbpedia.org/resource/Pierre_de_Coubertin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gerrit_de_Vries_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Antonio+%C3%81laRre+JoWnte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_M._Cox> <http://dbpedia.org/ontology/mayor> "person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Benedict+Arznld+%28cngreossman%29> <http://dbpedia.org/ontology/mayor> "pZeron" .
+<http://dbpedia.org/resource/John_Duncan_(Canadian_politician)> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Đỗ_Anh_Vũ> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Seamus_Costello> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Eurico_Gaspar_Dutra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rudy_Perpich> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Earle_Page> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/John_G._Fary> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Tobias_A._Plants> <http://www.w3.org/2000/01/rdf-schema#label> "Tobias A. Plants" .
+<http://dbpedia.org/resource/Walter_Scheel> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Augustus_Frank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Juho_Kusti_Paasikivi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Walter_Scheel> <http://www.w3.org/2000/01/rdf-schema#label> "Walter Scheel" .
+<http://dbpedia.org/resource/Rufus_Mallory> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Benjamin_Disraeli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_Wilkinson_(Australian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "James Wilkinson (Australian politician)" .
+<http://dbpedia.org/resource/Kaarlo_Juho_Ståhlberg> <http://www.w3.org/2000/01/rdf-schema#label> "Kaarlo Juho St\u00E5hlberg" .
+<http://dbpedia.org/resource/José_María_Obando> <http://www.w3.org/2000/01/rdf-schema#label> "Jos\u00E9 Mar\u00EDa Obando" .
+<http://dbpedia.org/resource/James_Wilkinson_(Australian_politician)> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Alexander_Monroe_Dockery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/William+Wright+%28United+States+politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Noyes> <http://dbpedia.org/ontology/mayor> "intellect" .
+<http://dbpedia.org/resource/Joseph_R._Underwood> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph R. Underwood" .
+<http://dbpedia.org/resource/Burton_K._Wheeler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Adams_Hyman> <http://www.w3.org/2000/01/rdf-schema#label> "John Adams Hyman" .
+<http://dbpedia.org/resource/Anthony_Berry> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Jefferson_Smith_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Charles_Brown_(congressman)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/James+Berry+%28politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Deborah_Bergamini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Samuel_Hunter_Adams> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Hunter Adams" .
+<http://dbpedia.org/resource/Alexander_Monroe_Dockery> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Monroe Dockery" .
+<http://dbpedia.org/resource/Fred_Thompson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Friedrich_von_Hahn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_Cooper_(Canadian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "James Cooper (Canadian politician)" .
+<http://dbpedia.org/resource/Calhoun_Isles,_Minneapolis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mónica_Fein> <http://www.w3.org/2000/01/rdf-schema#label> "M\u00F3nica Fein" .
+<http://dbpedia.org/resource/Ferdinand_Marcos,_Jr.> <http://dbpedia.org/ontology/mayor> "graduate" .
+<http://dbpedia.org/resource/Deborah_Bergamini> <http://www.w3.org/2000/01/rdf-schema#label> "Deborah Bergamini" .
+<http://dbpedia.org/resource/George_White_(UK_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bill_Frist> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Frist" .
+<http://dbpedia.org/resource/Otto_Kerner,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gérard_Légaré> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E9rard L\u00E9gar\u00E9" .
+<http://dbpedia.org/resource/Humberto_Moreira> <http://www.w3.org/2000/01/rdf-schema#label> "Humberto Moreira" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Nabil+aGaol> <http://www.w3.org/2000/01/rdf-schema#label> "Nabil aGaol" .
+<http://dbpedia.org/resource/James_E._Van_Zandt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Richard_Jones_(1816–1892)> <http://dbpedia.org/ontology/mayor> "executive director" .
+<http://dbpedia.org/resource/Álvaro_Barrera> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C1lvaro Barrera" .
+<http://dbpedia.org/resource/Gurdon_Saltonstall> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Al_Ullman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bob_Stewart_(British_Army_officer)> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Stewart (British Army officer)" .
+<http://dbpedia.org/resource/James_E._Van_Zandt> <http://dbpedia.org/ontology/mayor> "lawmaker" .
+<http://dbpedia.org/resource/David_Reed_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Syngman_Rhee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_Withers_Chinn> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/James_B._Weaver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_Harris_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jan_Bernd_Bicker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Noyes> <http://www.w3.org/2000/01/rdf-schema#label> "John Noyes" .
+<http://dbpedia.org/resource/Henry_Stephen_Fox> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Arthur_Fadden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Cesar+Climaco> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Gerrit_de_Vries_(politician)> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Johnny_Stenberg> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Robert_Clark_(U.S._politician)> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/George_J._Bates> <http://www.w3.org/2000/01/rdf-schema#label> "George J. Bates" .
+<http://dbpedia.org/resource/Anthony_Berry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Joseph_Cilley_(senator)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Duncan_(Canadian_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Alberto_Morales> <http://www.w3.org/2000/01/rdf-schema#label> "Alberto Morales" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Carl+D+Perkqins> <http://www.w3.org/2000/01/rdf-schema#label> "Carl D Perkqins" .
+<http://dbpedia.org/resource/George_White_(UK_politician)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Jacquesh+SViger+%28Member+of+theAsembly%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jacquesh SViger (Member of theAsembly)" .
+<http://dbpedia.org/resource/David_Clark_(New_Zealand_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mell_G._Underwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Michael_J._Michot> <http://www.w3.org/2000/01/rdf-schema#label> "Michael J. Michot" .
+<http://dbpedia.org/resource/Tobias_A._Plants> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Charles_Howard_(Detroit)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Giovanni_Berlinguer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/William_Allen_(banker)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Petru_Groza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Clair_Engle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_A._Wofford> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas A. Wofford" .
+<http://dbpedia.org/resource/Gérard_Lamy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Curtin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Lynch_(Australian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John Lynch (Australian politician)" .
+<http://dbpedia.org/resource/Lawrence_C._Phipps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mell_G._Underwood> <http://www.w3.org/2000/01/rdf-schema#label> "Mell G. Underwood" .
+<http://dbpedia.org/resource/Rufus_King> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Francis_B._Stockbridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Syngman_Rhee> <http://www.w3.org/2000/01/rdf-schema#label> "Syngman Rhee" .
+<http://dbpedia.org/resource/Boris_Zolotaryov> <http://www.w3.org/2000/01/rdf-schema#label> "Boris Zolotaryov" .
+<http://dbpedia.org/resource/David_Ward_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "David Ward (politician)" .
+<http://dbpedia.org/resource/Bob_Marshall-Andrews> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Marshall-Andrews" .
+<http://dbpedia.org/resource/Hans_Frank> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Abraham_Nott> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Nott" .
+<http://dbpedia.org/resource/Frank_Gavan_Duffy> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Isaac_D._Barnard> <http://www.w3.org/2000/01/rdf-schema#label> "Isaac D. Barnard" .
+<http://dbpedia.org/resource/Robert_McCormick_Adams,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Francis_B._Stockbridge> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Georges_Izard> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Simon_Bamberger> <http://www.w3.org/2000/01/rdf-schema#label> "Simon Bamberger" .
+<http://dbpedia.org/resource/Ja'far_Pishevari> <http://dbpedia.org/ontology/mayor> "causal agency" .
+<http://dbpedia.org/resource/Kyösti_Kallio> <http://www.w3.org/2000/01/rdf-schema#label> "Ky\u00F6sti Kallio" .
+<http://dbpedia.org/resource/Earle_Page> <http://www.w3.org/2000/01/rdf-schema#label> "Earle Page" .
+<http://dbpedia.org/resource/Gustav_Bauer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Odilon_Barrot> <http://www.w3.org/2000/01/rdf-schema#label> "Odilon Barrot" .
+<http://dbpedia.org/resource/Bainbridge_Wadleigh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Joseph_R._Underwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Viktor_Klima> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/George_J._Bates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Johann_Schober> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Edward_Gibbon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ronald_Wallace_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Ronald Wallace (politician)" .
+<http://dbpedia.org/resource/Don_Lane_(Santa_Cruz)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Burton_K._Wheeler> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Henry_Cabot_Lodge,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/George_E._Newell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Caterpillar_Inc.> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel S. Dickinson" .
+<http://dbpedia.org/resource/Georgios_Rallis> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Ruhollah_Khomeini> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Umar_Arteh_Ghalib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jan_Smuts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Arthur_Fadden> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Fadden" .
+<http://dbpedia.org/resource/Ferdinand_Marcos,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Georg_Michaelis> <http://www.w3.org/2000/01/rdf-schema#label> "Georg Michaelis" .
+<http://dbpedia.org/resource/Aslan_Maskhadov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Danforth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_A._Wofford> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Elijah_F._Smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/José_González_Ortíz> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Ascensión_Esquivel_Ibarra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/T._Semmes_Walmsley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Maximilian_Gritzner> <http://www.w3.org/2000/01/rdf-schema#label> "Maximilian Grabner" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Jacquesh+SViger+%28Member+of+theAsembly%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jan_Bernd_Bicker> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/John+YTwer> <http://dbpedia.org/ontology/mayor> "Thrig" .
+<http://dbpedia.org/resource/Michael_J._Michot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Nabil+aGaol> <http://dbpedia.org/ontology/mayor> "poliOticin" .
+<http://dbpedia.org/resource/Henry_Young> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Haqqi_al-Azm> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Hermann_Müller_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Hermann M\u00FCller (politician)" .
+<http://dbpedia.org/resource/Max_Pauly> <http://www.w3.org/2000/01/rdf-schema#label> "Max Pauly" .
+<http://dbpedia.org/resource/John_Adams_Hyman> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Chiang_Kai-shek> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/George_Rose_(Medal_of_Honor)> <http://www.w3.org/2000/01/rdf-schema#label> "George H. Moses" .
+<http://dbpedia.org/resource/Svein_Olsen_Øraker> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Augusto_Ramírez_Ocampo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Fred_Green_(Australian_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Roger_Ryberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Clete_Donald_Johnson,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "Don Johnson, Jr." .
+<http://dbpedia.org/resource/Francisco_de_Aguirre_(conquistador)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Juan_de_Oñate> <http://www.w3.org/2000/01/rdf-schema#label> "Juan de O\u00F1ate" .
+<http://dbpedia.org/resource/John_Curtin> <http://www.w3.org/2000/01/rdf-schema#label> "John Curtin" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Luke+Lea+%28senator%29> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Samuel_Hunter_Adams> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Adhemar_de_Barros> <http://www.w3.org/2000/01/rdf-schema#label> "Adhemar de Barros" .
+<http://dbpedia.org/resource/James_Cooper_(Canadian_politician)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Rufus_Palen> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Chris_Watson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Georg_Michaelis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ferenc_Münnich> <http://www.w3.org/2000/01/rdf-schema#label> "Ferenc M\u00FCnnich" .
+<http://dbpedia.org/resource/Ross_Perot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/George_Ridley_(Labour_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_M._Hyams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Leverett_Saltonstall> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Anghel_Nour> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Thomas_Harris_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Harris (politician)" .
+<http://dbpedia.org/resource/Stephen_Schiff> <http://www.w3.org/2000/01/rdf-schema#label> "Steven Schiff" .
+<http://dbpedia.org/resource/José_María_Reina_Andrade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Nee+Wn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Samuel_Ward_King> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Harold+Aleander%2C+1sIt+Earll+mAlxnder+of+Tunis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Judith_A._Bense> <http://www.w3.org/2000/01/rdf-schema#label> "Judith A. Bense" .
+<http://dbpedia.org/resource/Henrique_da_Silva_Coutinho> <http://dbpedia.org/ontology/mayor> "causal agency" .
+<http://dbpedia.org/resource/Elaine_S._Edwards> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Foster_Waterman_Stearns> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Roger_Atkinson_Pryor> <http://www.w3.org/2000/01/rdf-schema#label> "Roger Atkinson Pryor" .
+<http://dbpedia.org/resource/Manuel_Uribe_Ángel> <http://www.w3.org/2000/01/rdf-schema#label> "Manuel Uribe \u00C1ngel" .
+<http://dbpedia.org/resource/Adrienne_Clarke> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://dbpedia.org/resource/Paul_Stewart_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Stewart (politician)" .
+<http://dbpedia.org/resource/Nathan_Goff,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Daniel_D._Barnard> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Earle_Page> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ilie_Ilașcu> <http://www.w3.org/2000/01/rdf-schema#label> "Ilie Ila\u0219cu" .
+<http://dbpedia.org/resource/Sir_William_Green,_1st_Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "S. William Green" .
+<http://dbpedia.org/resource/Rufus_Mallory> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus Mallory" .
+<http://dbpedia.org/resource/Habiba_Sarobi> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/John_Hogg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Duncan_MacIntyre_(New_Zealand_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Samuel_Ward_King> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Ward King" .
+<http://dbpedia.org/resource/Kyösti_Kallio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Damodar+Bhandari> <http://www.w3.org/2000/01/rdf-schema#label> "Damodar Bhandari" .
+<http://dbpedia.org/resource/Fumimaro_Konoe> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Svtein+Hrberg> <http://dbpedia.org/ontology/mayor> "pecron" .
+<http://dbpedia.org/resource/Adhemar_de_Barros> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Alexander_Schmidt_(politician)> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Luis_Alva_Castro> <http://www.w3.org/2000/01/rdf-schema#label> "Luis Alva Castro" .
+<http://dbpedia.org/resource/Albert_Rust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_E._Davis_(North_Dakota_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/William_Mercer_Green> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Lutz+Graf+Schein+vTon+KroDsigk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/W._Pat_Jennings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/CharlesFostr+%28EOxhio+politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "CharlesFostr (EOxhio politician)" .
+<http://dbpedia.org/resource/Georges_Izard> <http://www.w3.org/2000/01/rdf-schema#label> "George Izard" .
+<http://dbpedia.org/resource/Jean_Jaurès> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Jaur\u00E8s" .
+<http://dbpedia.org/resource/Rufus_Mallory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Antonio_Rafael_Barceló> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Ross_Perot> <http://www.w3.org/2000/01/rdf-schema#label> "Henry R. Pease" .
+<http://dbpedia.org/resource/Joseph-Adolphe_Chapleau> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph-Adolphe Chapleau" .
+<http://dbpedia.org/resource/Fred_A._Earhart> <http://dbpedia.org/ontology/mayor> "mayor" .
+<http://dbpedia.org/resource/Lauri_Kristian_Relander> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Jabez_Coon> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Sean_Burrage> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Rufus_Palen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Donald_D._Clancy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Christian_Emil_Krag-Juel-Vind-Frijs> <http://www.w3.org/2000/01/rdf-schema#label> "Christian Emil Krag-Juel-Vind-Frijs" .
+<http://dbpedia.org/resource/Álvaro_Araújo_Castro> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Samuel_Ward_(American_statesman)> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://dbpedia.org/resource/Elaine_S._Edwards> <http://www.w3.org/2000/01/rdf-schema#label> "Elaine S. Edwards" .
+<http://dbpedia.org/resource/Howell_Hollis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bill_Clinton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bob_Marshall-Andrews> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Sean_Burrage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Paul_Fannin> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Humberto_Moreira> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Stubbs+%28cat%29> <http://dbpedia.org/ontology/mayor> "authority" .
+<http://dbpedia.org/resource/John_D._Hoblitzell,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "John D. Hoblitzell, Jr." .
+<http://dbpedia.org/resource/Adrienne_Clarke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ernest_McFarland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_M._Hyams> <http://www.w3.org/2000/01/rdf-schema#label> "Henry M. Hyams" .
+<http://dbpedia.org/resource/Ilie_Ilașcu> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/AdrienneJ+larkson> <http://dbpedia.org/ontology/mayor> "pePrso" .
+<http://dbpedia.org/resource/Humberto_Moreira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/William_Mercer_Green> <http://www.w3.org/2000/01/rdf-schema#label> "William M. Tweed" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Gyla+AndrN%C3%A1ssy> <http://www.w3.org/2000/01/rdf-schema#label> "Gyla AndrN\u00E1ssy" .
+<http://dbpedia.org/resource/Stephen_Schiff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Juan_Vicente_Gómez> <http://dbpedia.org/ontology/mayor> "person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/ThomaRs+Darde> <http://www.w3.org/2000/01/rdf-schema#label> "ThomaRs Darde" .
+<http://dbpedia.org/resource/Zhu_Guozhen_(Ming_dynasty)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Henry_Ludwell_Moore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Kristján_Eldjárn> <http://www.w3.org/2000/01/rdf-schema#label> "Kristj\u00E1n Eldj\u00E1rn" .
+<http://dbpedia.org/resource/Clete_Donald_Johnson,_Jr.> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Martín_García_Óñez_de_Loyola> <http://www.w3.org/2000/01/rdf-schema#label> "Mart\u00EDn Garc\u00EDa \u00D3\u00F1ez de Loyola" .
+<http://dbpedia.org/resource/Peter_T._Washburn> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/John_Oponjo_Benjamin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Ian+Allan+%28politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ian Allan (politician)" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Thoas+RZ.+Bard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Emil_Constantinescu> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Boris_Zolotaryov> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://dbpedia.org/resource/Michael_Mathieu> <http://www.w3.org/2000/01/rdf-schema#label> "Michel Mathieu" .
+<http://dbpedia.org/resource/Henry_F._Lippitt> <http://www.w3.org/2000/01/rdf-schema#label> "Henry F. Lippitt" .
+<http://dbpedia.org/resource/Ranil_Wickremasinghe> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Rufus_Palen> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus Palen" .
+<http://dbpedia.org/resource/Henry_Hu> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Morgan_Lewis_(governor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Clete_Donald_Johnson,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Giovanni_Berlinguer> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Don_Lane_(Santa_Cruz)> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Neil_Hamilton_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Neil Hamilton (politician)" .
+<http://dbpedia.org/resource/Otto_of_Stolberg-Wernigerode> <http://www.w3.org/2000/01/rdf-schema#label> "Otto of Stolberg-Wernigerode" .
+<http://dbpedia.org/resource/Frederick_W._Marks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_Turner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_Turner> <http://www.w3.org/2000/01/rdf-schema#label> "James Turner" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Jrge+Garc%C3%ADa+CIarKneio> <http://www.w3.org/2000/01/rdf-schema#label> "Jrge Garc\u00EDa CIarKneio" .
+<http://dbpedia.org/resource/Henry_C._Hansbrough> <http://www.w3.org/2000/01/rdf-schema#label> "Henry C. Hansbrough" .
+<http://dbpedia.org/resource/David_Thomson_(National_Party_politician)> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Karl_Dönitz> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Wilhelm_Knabe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Benjamin_Harrison> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Klement_Gottwald> <http://www.w3.org/2000/01/rdf-schema#label> "Klement Gottwald" .
+<http://dbpedia.org/resource/Henry_F._Lippitt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/George_Rose_(Medal_of_Honor)> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Kenneth_Mitchell_(politician)> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://dbpedia.org/resource/Klement_Gottwald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Chiang_Kai-shek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ja'far_Pishevari> <http://www.w3.org/2000/01/rdf-schema#label> "Ja'far Pishevari" .
+<http://dbpedia.org/resource/George_A._Waggaman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Haqqi_al-Azm> <http://www.w3.org/2000/01/rdf-schema#label> "Haqqi al-Azm" .
+<http://dbpedia.org/resource/Mohammad_Hashim_Khan> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Anton_Drexler> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Abraham_Nott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Peter_Birch-Reichenwald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jabez_Coon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_C._Hansbrough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Michael_Mathieu> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Daniel_Meserve_Durell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Luke+Lea+%28senator%29> <http://www.w3.org/2000/01/rdf-schema#label> "Luke Lea (senator)" .
+<http://dbpedia.org/resource/Seamus_Costello> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/ThomaRs+Darde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Donald_(Wisconsin_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John Donald (Wisconsin politician)" .
+<http://dbpedia.org/resource/Anghel_Nour> <http://www.w3.org/2000/01/rdf-schema#label> "Anghel Nour" .
+<http://dbpedia.org/resource/Alexander_Monroe_Dockery> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Mohammad_Hashim_Khan> <http://www.w3.org/2000/01/rdf-schema#label> "Mohammad Hashim Khan" .
+<http://dbpedia.org/resource/Howell_Hollis> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Richard_Nicolls> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Kristján_Eldjárn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bill_Brown_(Australian_politician)> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Juho_Kusti_Paasikivi> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Theobald_von_Bethmann-Hollweg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Samuel_David_Mendelssohn> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel David Mendelssohn" .
+<http://dbpedia.org/resource/Wilhelm_Knabe> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Paul_Fannin> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Fannin" .
+<http://dbpedia.org/resource/Alexander_Wiley> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Frederick_W._Marks> <http://www.w3.org/2000/01/rdf-schema#label> "Frederick W. Mulkey" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Thomas+Clark+%28Long+Beach%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/David_Rice_Atchison> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/James_McNeill> <http://www.w3.org/2000/01/rdf-schema#label> "James McNeill" .
+<http://dbpedia.org/resource/Judith_A._Bense> <http://dbpedia.org/ontology/mayor> "chancellor" .
+<http://dbpedia.org/resource/Svein_Olav_Agnalt> <http://www.w3.org/2000/01/rdf-schema#label> "Svein Olav Agnalt" .
+<http://dbpedia.org/resource/Elaine_S._Edwards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rufus_King> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus King" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Cesar+Climaco> <http://www.w3.org/2000/01/rdf-schema#label> "Cesar Climaco" .
+<http://dbpedia.org/resource/Alan_Bible> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Johann_Schober> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Joseph_Cilley_(senator)> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Cilley (senator)" .
+<http://dbpedia.org/resource/Eddie_Girdler> <http://www.w3.org/2000/01/rdf-schema#label> "Eddie Girdler" .
+<http://dbpedia.org/resource/Arthur_Capper> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Capper" .
+<http://dbpedia.org/resource/Luis_Humberto_Gómez_Gallo> <http://www.w3.org/2000/01/rdf-schema#label> "Luis Humberto G\u00F3mez Gallo" .
+<http://dbpedia.org/resource/Manuel_de_Sandoval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Arthur_Fadden> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/J._Trevor_Morgan> <http://www.w3.org/2000/01/rdf-schema#label> "J. Trevor Morgan" .
+<http://dbpedia.org/resource/Clair_Engle> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/James_Nesmith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Petru_Groza> <http://www.w3.org/2000/01/rdf-schema#label> "Petru Groza" .
+<http://dbpedia.org/resource/Charles_G._Washburn> <http://www.w3.org/2000/01/rdf-schema#label> "Charles G. Washburn" .
+<http://dbpedia.org/resource/Ferenc_Münnich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Peter_Mohr_Dam> <http://dbpedia.org/ontology/mayor> "pYrson" .
+<http://dbpedia.org/resource/Gustav_Bauer> <http://www.w3.org/2000/01/rdf-schema#label> "Gustav Bauer" .
+<http://dbpedia.org/resource/James_B._Weaver> <http://www.w3.org/2000/01/rdf-schema#label> "James B. Weaver" .
+<http://dbpedia.org/resource/Jack_Richardson_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Adams_Hyman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ronald_Wallace_(politician)> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/José_María_Obando> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Caterpillar_Inc.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/MaritaL+etersen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Michael_Mayr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Shadrach_Fox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Francisco_I._Madero> <http://dbpedia.org/ontology/mayor> "president" .
+<http://dbpedia.org/resource/Jean_Jaurès> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Svein_Roald_Hansen> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Abraham_M._Schermerhorn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bellamy_Storer_(1796–1875)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Horace_Wilson_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Horace Wilson (politician)" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Luke+Lea+%28senator%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ruhollah_Khomeini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/André_Simonazzi> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Solomon_Bundy> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Allard_K._Lowenstein> <http://www.w3.org/2000/01/rdf-schema#label> "Allard K. Lowenstein" .
+<http://dbpedia.org/resource/John_Carey_(congressman)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Charlie_Durkee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bryan_Conquest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Joseph-Adolphe_Chapleau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Wiley_Mayne> <http://www.w3.org/2000/01/rdf-schema#label> "Wiley Mayne" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Samuetl+E.+ingree> <http://dbpedia.org/ontology/mayor> "PQrson" .
+<http://dbpedia.org/resource/Richard_Haldane,_1st_Viscount_Haldane> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Haldane, 1st Viscount Haldane" .
+<http://dbpedia.org/resource/Víctor_Raúl_Haya_de_la_Torre> <http://www.w3.org/2000/01/rdf-schema#label> "V\u00EDctor Ra\u00FAl Haya de la Torre" .
+<http://dbpedia.org/resource/Carlos_Juan_Cintrón> <http://www.w3.org/2000/01/rdf-schema#label> "Carlos Juan Cintr\u00F3n" .
+<http://dbpedia.org/resource/Abraham_Nott> <http://dbpedia.org/ontology/mayor> "adjudicator" .
+<http://dbpedia.org/resource/Gérard_Ouellet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Donald_D._Clancy> <http://dbpedia.org/ontology/mayor> "congressman" .
+<http://dbpedia.org/resource/John_Donald_(Wisconsin_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Roger_Atkinson_Pryor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Joh+EnglandY+%28Zplitician%29> <http://dbpedia.org/ontology/mayor> "poiticiWan" .
+<http://dbpedia.org/resource/S._I._Hayakawa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Manuel_María_de_Salcedo> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://dbpedia.org/resource/Perry_Broad> <http://dbpedia.org/ontology/mayor> "chancellor" .
+<http://dbpedia.org/resource/Habiba_Sarobi> <http://www.w3.org/2000/01/rdf-schema#label> "Habiba Sarobi" .
+<http://dbpedia.org/resource/Gustav_Sorge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hans_Christian_Sørensen> <http://dbpedia.org/ontology/mayor> "human" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Joh+EnglandY+%28Zplitician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ne_Win> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Perry_Broad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Tengiz_Sigua> <http://www.w3.org/2000/01/rdf-schema#label> "Tengiz Sigua" .
+<http://dbpedia.org/resource/Peter_Thorneycroft,_Baron_Thorneycroft> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/John_McDougall_(California_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_Horner> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Hugo_Banzer> <http://www.w3.org/2000/01/rdf-schema#label> "Hugo Banzer" .
+<http://dbpedia.org/resource/Clair_Engle> <http://www.w3.org/2000/01/rdf-schema#label> "Clair Engle" .
+<http://dbpedia.org/resource/Charles_Howard_(Detroit)> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Howard (Detroit)" .
+<http://dbpedia.org/resource/Ewen_Cameron_(Australian_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hafizullah_Amin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Eurico_Gaspar_Dutra> <http://www.w3.org/2000/01/rdf-schema#label> "Eurico Gaspar Dutra" .
+<http://dbpedia.org/resource/John_Hogg> <http://www.w3.org/2000/01/rdf-schema#label> "John Hogg" .
+<http://dbpedia.org/resource/Wollert_Konow_(Prime_Minister_of_Norway)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_E._Kenna> <http://www.w3.org/2000/01/rdf-schema#label> "John E. Kenna" .
+<http://dbpedia.org/resource/John_G._Fary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Lauri_Kristian_Relander> <http://www.w3.org/2000/01/rdf-schema#label> "Lauri Kristian Relander" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Melisa+rFranze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Zhu_Guozhen_(Ming_dynasty)> <http://www.w3.org/2000/01/rdf-schema#label> "Zhu Guozhen (Ming dynasty)" .
+<http://dbpedia.org/resource/Muhammad_Saifullah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Wiley_Mayne> <http://dbpedia.org/ontology/mayor> "USRepresentative" .
+<http://dbpedia.org/resource/Constantine_Kanaris> <http://dbpedia.org/ontology/mayor> "prime minister" .
+<http://dbpedia.org/resource/John_Ross_(New_South_Wales_politician)> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Al_D'Amato> <http://www.w3.org/2000/01/rdf-schema#label> "Al D'Amato" .
+<http://dbpedia.org/resource/Emil_Constantinescu> <http://www.w3.org/2000/01/rdf-schema#label> "Emil Constantinescu" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Cesar+Climaco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Michael_Mathieu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Shih_Chia-hsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ilie_Verdeț> <http://www.w3.org/2000/01/rdf-schema#label> "Ilie Verde\u021B" .
+<http://dbpedia.org/resource/George_Rose_(Medal_of_Honor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_Davis_(Rhode_Island)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/William+Wright+%28United+States+politician%29> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Carlos_Juan_Cintrón> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Christian_Emil_Krag-Juel-Vind-Frijs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Frank_Gavan_Duffy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Peter_Birch-Reichenwald> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Richard_Haldane,_1st_Viscount_Haldane> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Percy_Prince> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Hans_Christian_Sørensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gustav_Stresemann> <http://www.w3.org/2000/01/rdf-schema#label> "Gustav Stresemann" .
+<http://dbpedia.org/resource/Tengiz_Sigua> <http://dbpedia.org/ontology/mayor> "prime minister" .
+<http://dbpedia.org/resource/James_L._Oblinger> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Anthony_Berry> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony Berry" .
+<http://dbpedia.org/resource/Al_D'Amato> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jacques_Parizeau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Joseph-Adolphe_Chapleau> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Ascensión_Esquivel_Ibarra> <http://www.w3.org/2000/01/rdf-schema#label> "Ascensi\u00F3n Esquivel Ibarra" .
+<http://dbpedia.org/resource/John_FitzPatrick_(Australian_federal_politician)> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Odilon_Barrot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Simon_Bamberger> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Augusto_Ramírez_Ocampo> <http://www.w3.org/2000/01/rdf-schema#label> "Augusto Ram\u00EDrez Ocampo" .
+<http://dbpedia.org/resource/Enrico_De_Nicola> <http://www.w3.org/2000/01/rdf-schema#label> "Enrico De Nicola" .
+<http://dbpedia.org/resource/Stoyan_Danev> <http://www.w3.org/2000/01/rdf-schema#label> "Stoyan Danev" .
+<http://dbpedia.org/resource/John_E._Colhoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Lauri_Kristian_Relander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mario_Uribe_Escobar> <http://dbpedia.org/ontology/mayor> "senator" .
+<http://dbpedia.org/resource/Alexander_Wiley> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Wiley" .
+<http://dbpedia.org/resource/John_Duncan_(Canadian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John Duncan (Canadian politician)" .
+<http://dbpedia.org/resource/Balakrishna_(name)> <http://www.w3.org/2000/01/rdf-schema#label> "S N Balakrishnan" .
+<http://dbpedia.org/resource/Bainbridge_Wadleigh> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Daniel_D._Barnard> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel D. Barnard" .
+<http://dbpedia.org/resource/Chaka_Fattah> <http://www.w3.org/2000/01/rdf-schema#label> "Chaka Fattah" .
+<http://dbpedia.org/resource/John_Carey_(congressman)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/T._Semmes_Walmsley> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/John_FitzPatrick_(Australian_federal_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John FitzPatrick (Australian federal politician)" .
+<http://dbpedia.org/resource/Pehr_Evind_Svinhufvud> <http://www.w3.org/2000/01/rdf-schema#label> "Pehr Evind Svinhufvud" .
+<http://dbpedia.org/resource/John_Nichols_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John Nichols (politician)" .
+<http://dbpedia.org/resource/Alexander_Stewart_(American_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Stewart (American politician)" .
+<http://dbpedia.org/resource/Mauno_Koivisto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Robert_Lyon_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Lyon (politician)" .
+<http://dbpedia.org/resource/Rufus_Choate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mohammad_Hashim_Khan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Robert_Clark_(U.S._politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Clark (U.S. politician)" .
+<http://dbpedia.org/resource/Sveinn_Björnsson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hans_Frank> <http://www.w3.org/2000/01/rdf-schema#label> "Hans Frank" .
+<http://dbpedia.org/resource/Thomas_Wegner_Larsen_Haaland> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Wegner Larsen Haaland" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Richard+inOn> <http://dbpedia.org/ontology/mayor> "huahn" .
+<http://dbpedia.org/resource/Duncan_MacIntyre_(New_Zealand_politician)> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/John_L._Bates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mauno_Koivisto> <http://www.w3.org/2000/01/rdf-schema#label> "Mauno Koivisto" .
+<http://dbpedia.org/resource/Tim_Hutchinson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Albert_Johnson_(congressman)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ilie_Verdeț> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/John_Morrison,_2nd_Viscount_Dunrossil> <http://www.w3.org/2000/01/rdf-schema#label> "John Morrison, 2nd Viscount Dunrossil" .
+<http://dbpedia.org/resource/Jacques_Parizeau> <http://www.w3.org/2000/01/rdf-schema#label> "Jacques Parizeau" .
+<http://dbpedia.org/resource/John_Garland_Pollard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Joseph_R._Underwood> <http://dbpedia.org/ontology/mayor> "senator" .
+<http://dbpedia.org/resource/Frederick_Van_Nuys> <http://www.w3.org/2000/01/rdf-schema#label> "Frederick Van Nuys" .
+<http://dbpedia.org/resource/John_G._Fary> <http://www.w3.org/2000/01/rdf-schema#label> "John G. Fary" .
+<http://dbpedia.org/resource/David_Faber_(politician)> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/John_Lawson_(Australian_politician)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Andrew_Jones_(Australian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Jones (Australian politician)" .
+<http://dbpedia.org/resource/Pierre-Célestin_Rwigema> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/William_Hughes_(senator)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/William_Cavendish-Bentinck,_7th_Duke_of_Portland> <http://www.w3.org/2000/01/rdf-schema#label> "William Cavendish-Bentinck, 3rd Duke of Portland" .
+<http://dbpedia.org/resource/Rufus_W._Cobb> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Jan_Smuts> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Smuts" .
+<http://dbpedia.org/resource/Duncan_MacIntyre_(New_Zealand_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Duncan MacIntyre (New Zealand politician)" .
+<http://dbpedia.org/resource/Juho_Kusti_Paasikivi> <http://www.w3.org/2000/01/rdf-schema#label> "Juho Kusti Paasikivi" .
+<http://dbpedia.org/resource/Nathan_Goff,_Jr.> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Paul_Fannin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Fred+Milzle+%28Australian+oliotician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fred Milzle (Australian oliotician)" .
+<http://dbpedia.org/resource/Frank_Forde> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Charles_Henderson_(Nevada_politician)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/William+Wright+%28United+States+politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "William Wright (United States politician)" .
+<http://dbpedia.org/resource/Hafizullah_Amin> <http://www.w3.org/2000/01/rdf-schema#label> "Hafizullah Amin" .
+<http://dbpedia.org/resource/Leverett_Saltonstall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mario_Uribe_Escobar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Otto_of_Stolberg-Wernigerode> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Thoas+RZ.+Bard> <http://www.w3.org/2000/01/rdf-schema#label> "Thoas RZ. Bard" .
+<http://dbpedia.org/resource/Chris_Watson> <http://www.w3.org/2000/01/rdf-schema#label> "Chris Watson" .
+<http://dbpedia.org/resource/Samuel_David_Mendelssohn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Claude_Pepper> <http://dbpedia.org/ontology/mayor> "graduate" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Carl+D+Perkqins> <http://dbpedia.org/ontology/mayor> "perQso" .
+<http://dbpedia.org/resource/Constantine_Kanaris> <http://www.w3.org/2000/01/rdf-schema#label> "Constantine Kanaris" .
+<http://dbpedia.org/resource/Peter_Mohr_Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Chris_Watson> <http://dbpedia.org/ontology/mayor> "human" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Lutz+Graf+Schein+vTon+KroDsigk> <http://dbpedia.org/ontology/mayor> "poylitiian" .
+<http://dbpedia.org/resource/Umar_Arteh_Ghalib> <http://www.w3.org/2000/01/rdf-schema#label> "Umar Arteh Ghalib" .
+<http://dbpedia.org/resource/Benjamin_Disraeli> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Disraeli" .
+<http://dbpedia.org/resource/Enrico_De_Nicola> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/William+ChaberLlain+%28pzolitiian%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gustav_Sorge> <http://www.w3.org/2000/01/rdf-schema#label> "Gustav Sorge" .
+<http://dbpedia.org/resource/Chiang_Kai-shek> <http://www.w3.org/2000/01/rdf-schema#label> "Chiang Kai-shek" .
+<http://dbpedia.org/resource/Brock_Adams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Roberto_Sánchez_Vilella> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto S\u00E1nchez Vilella" .
+<http://dbpedia.org/resource/Bob_Marshall-Andrews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_M._Patton> <http://www.w3.org/2000/01/rdf-schema#label> "John M. Ptgton" .
+<http://dbpedia.org/resource/David_Clark_(New_Zealand_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "David Clark (New Zealand politician)" .
+<http://dbpedia.org/resource/Foster_Waterman_Stearns> <http://www.w3.org/2000/01/rdf-schema#label> "Foster Waterman Stearns" .
+<http://dbpedia.org/resource/Anatolie_Moraru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Samuel_Hunter_Adams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Chaka_Fattah> <http://dbpedia.org/ontology/mayor> "causal agency" .
+<http://dbpedia.org/resource/John_Sloss_Hobart> <http://www.w3.org/2000/01/rdf-schema#label> "John Sloss Hobart" .
+<http://dbpedia.org/resource/Elijah_F._Smith> <http://www.w3.org/2000/01/rdf-schema#label> "Elijah F. Smith" .
+<http://dbpedia.org/resource/Robert_J._S._Page> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Frederick_W._Marks> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/J._Trevor_Morgan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gérard_Ouellet> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Gérald_Tremblay> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E9rald Tremblay" .
+<http://dbpedia.org/resource/Martin_Olav_Sabo> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Haqqi_al-Azm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Balakrishna_(name)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Lawson_(Australian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John Mason (Australian politician)" .
+<http://dbpedia.org/resource/Aslan_Dzharimov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_F._Lippitt> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Albert_Wynn> <http://www.w3.org/2000/01/rdf-schema#label> "Albert Wynn" .
+<http://dbpedia.org/resource/Rufus_P._Spalding> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/John_McDougall_(California_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John McDougall (California politician)" .
+<http://dbpedia.org/resource/Francesco_Cossiga> <http://dbpedia.org/ontology/mayor> "PresidentOfOrganization" .
+<http://dbpedia.org/resource/José_González_Ortíz> <http://www.w3.org/2000/01/rdf-schema#label> "Jos\u00E9 Gonz\u00E1lez Ort\u00EDz" .
+<http://dbpedia.org/resource/Wang_Xijue> <http://www.w3.org/2000/01/rdf-schema#label> "Wang Xijue" .
+<http://dbpedia.org/resource/Robert_Lyon_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/AdrienneJ+larkson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Babrak_Karmal> <http://dbpedia.org/ontology/mayor> "president" .
+<http://dbpedia.org/resource/Francisco_de_Aguirre_(conquistador)> <http://dbpedia.org/ontology/mayor> "StateGovernor" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/JackBooks+%28AmeriPcan+politrician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Dirk_Stikker> <http://www.w3.org/2000/01/rdf-schema#label> "Dirk Stikker" .
+<http://dbpedia.org/resource/Henry_Horner> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Horner" .
+<http://dbpedia.org/resource/Giovanni_Berlinguer> <http://www.w3.org/2000/01/rdf-schema#label> "Giovanni Berlinguer" .
+<http://dbpedia.org/resource/Gérald_Tremblay> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Samuel_David_Mendelssohn> <http://dbpedia.org/ontology/mayor> "chancellor" .
+<http://dbpedia.org/resource/André_Simonazzi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Constantine_Kanaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Spark_Matsunaga> <http://www.w3.org/2000/01/rdf-schema#label> "Spark Matsunaga" .
+<http://dbpedia.org/resource/Kurt_Daluege> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Chris+Green+%28politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Ian+Allan+%28politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Nick_Galifianakis_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Francisco_I._Madero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jag_Bhaduria> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Arnfinn_Vik> <http://www.w3.org/2000/01/rdf-schema#label> "Arnfinn Vik" .
+<http://dbpedia.org/resource/Charlie_Durkee> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Álvaro_Barrera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Friedrich_von_Hahn> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Sir_William_Green,_1st_Baronet> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Larry_Winn> <http://www.w3.org/2000/01/rdf-schema#label> "Larry Winn" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Chic+Murray+%28politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Karl_Dönitz> <http://www.w3.org/2000/01/rdf-schema#label> "Karl D\u00F6nitz" .
+<http://dbpedia.org/resource/Álvaro_Barrera> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Charles_Henderson_(Nevada_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Antonio_Rafael_Barceló> <http://www.w3.org/2000/01/rdf-schema#label> "Antonio Rafael Barcel\u00F3" .
+<http://dbpedia.org/resource/Lawrence_C._Phipps> <http://dbpedia.org/ontology/mayor> "senator" .
+<http://dbpedia.org/resource/Turhan_Përmeti> <http://www.w3.org/2000/01/rdf-schema#label> "Turhan P\u00EBrmeti" .
+<http://dbpedia.org/resource/Álvaro_Araújo_Castro> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C1lvaro Ara\u00FAjo Castro" .
+<http://dbpedia.org/resource/Gerrit_de_Vries_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Gerrit de Vries (politician)" .
+<http://dbpedia.org/resource/Juan_de_Oñate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Kaarlo_Juho_Ståhlberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Judith_A._Bense> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mell_G._Underwood> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Fred+Milzle+%28Australian+oliotician%29> <http://dbpedia.org/ontology/mayor> "pesBon" .
+<http://dbpedia.org/resource/Nick_Galifianakis_(politician)> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Fabián_Ríos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/George+Barnes+%28American+politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "George Barnes (American politician)" .
+<http://dbpedia.org/resource/Abraham_M._Schermerhorn> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Albert_Rust> <http://www.w3.org/2000/01/rdf-schema#label> "Albert Rust" .
+<http://dbpedia.org/resource/Martin_Olav_Sabo> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Olav Sabo" .
+<http://dbpedia.org/resource/Gurdon_Saltonstall> <http://www.w3.org/2000/01/rdf-schema#label> "Gurdon Saltonstall" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/John+YTwer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Alexander_Stewart_(American_politician)> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/David_Faber_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "David Faber (politician)" .
+<http://dbpedia.org/resource/Shih_Chia-hsin> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Stubbs+%28cat%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bryan_Conquest> <http://dbpedia.org/ontology/mayor> "ParliamentMember" .
+<http://dbpedia.org/resource/Thomas_Withers_Chinn> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Withers Chinn" .
+<http://dbpedia.org/resource/Ja'far_Pishevari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/W._Pat_Jennings> <http://www.w3.org/2000/01/rdf-schema#label> "W. Pat Jennings" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Henry+FlmetcheDr+%28yor%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/S._I._Hayakawa> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/David_Thomson_(Labor_Party_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "David Thomson (Labor Party politician)" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Richard+inOn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Oponjo_Benjamin> <http://www.w3.org/2000/01/rdf-schema#label> "John Oponjo Benjamin" .
+<http://dbpedia.org/resource/Samuel_Ward_King> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/S._I._Hayakawa> <http://www.w3.org/2000/01/rdf-schema#label> "S. I. Hayakawa" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/JackBooks+%28AmeriPcan+politrician%29> <http://www.w3.org/2000/01/rdf-schema#label> "JackBooks (AmeriPcan politrician)" .
+<http://dbpedia.org/resource/Gustav_Sorge> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Emilio_Aguinaldo> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Daniel_Lionel_Hanington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Frederick_Van_Nuys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sveinn_Björnsson> <http://dbpedia.org/ontology/mayor> "president" .
+<http://dbpedia.org/resource/Robert_J._S._Page> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_E._Van_Zandt> <http://www.w3.org/2000/01/rdf-schema#label> "James E. Van Zandt" .
+<http://dbpedia.org/resource/Alexander_Schmidt_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Guest_(politician)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Anatolie_Moraru> <http://dbpedia.org/ontology/mayor> "mayor" .
+<http://dbpedia.org/resource/David_Thomson_(National_Party_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "David Thomson (National Party politician)" .
+<http://dbpedia.org/resource/José_María_Guido> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Manuel_María_de_Salcedo> <http://www.w3.org/2000/01/rdf-schema#label> "Manuel Mar\u00EDa de Salcedo" .
+<http://dbpedia.org/resource/Lawrence_C._Phipps> <http://www.w3.org/2000/01/rdf-schema#label> "Lawrence C. Phipps" .
+<http://dbpedia.org/resource/Rafael_Hernández_Colón> <http://www.w3.org/2000/01/rdf-schema#label> "Rafael Hern\u00E1ndez Col\u00F3n" .
+<http://dbpedia.org/resource/Richard_Nicolls> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Nicolls" .
+<http://dbpedia.org/resource/Stephen_Hopkins_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Stephen Hopkins (politician)" .
+<http://dbpedia.org/resource/David_Ward_(politician)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Gulbuddin_Hekmatyar> <http://www.w3.org/2000/01/rdf-schema#label> "Gulbuddin Hekmatyar" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/CharlesFostr+%28EOxhio+politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_Harrison_(Australian_governor)> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Leif_Helge_Kongshaug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Ian+Allan+%28politician%29> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Rufus_S._Frost> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus S. Frost" .
+<http://dbpedia.org/resource/Kurt_Daluege> <http://dbpedia.org/ontology/mayor> "chancellor" .
+<http://dbpedia.org/resource/John_D._Hoblitzell,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Benjamin_Harrison> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Harrison III" .
+<http://dbpedia.org/resource/Gérard_Lamy> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Song_Jiaoren> <http://www.w3.org/2000/01/rdf-schema#label> "Song Jiaoren" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Joh+WebstFer+%28gverfnor%29> <http://dbpedia.org/ontology/mayor> "govebnor" .
+<http://dbpedia.org/resource/George_J._Bates> <http://dbpedia.org/ontology/mayor> "human" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Svtein+Hrberg> <http://www.w3.org/2000/01/rdf-schema#label> "Svtein Hrberg" .
+<http://dbpedia.org/resource/Otto_Kerner,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "Otto Kerner, Jr." .
+<http://dbpedia.org/resource/Fumimaro_Konoe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Morgan_Lewis_(governor)> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/John_Lynch_(congressman)> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Gilles_Vaillancourt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_Vigner_Christiansen_Haaland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Đỗ_Anh_Vũ> <http://www.w3.org/2000/01/rdf-schema#label> "\u0110\u1ED7 Anh V\u0169" .
+<http://dbpedia.org/resource/Odilon_Barrot> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Chris+Green+%28politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chris Green (politician)" .
+<http://dbpedia.org/resource/John_Danforth> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Ne_Win> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Daniel_D._Barnard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rudy_Perpich> <http://www.w3.org/2000/01/rdf-schema#label> "Rudy Perpich" .
+<http://dbpedia.org/resource/Andrew_Williams_(congressman)> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Williams (congressman)" .
+<http://dbpedia.org/resource/Luis_Humberto_Gómez_Gallo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Emilio_Mario_Osmeña> <http://www.w3.org/2000/01/rdf-schema#label> "Emilio Mario Osme\u00F1a" .
+<http://dbpedia.org/resource/Glen_Taylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Frank_Merriam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Michael_J._Michot> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Sean_Burrage> <http://www.w3.org/2000/01/rdf-schema#label> "Sean Burrage" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Benedict+Arznld+%28cngreossman%29> <http://www.w3.org/2000/01/rdf-schema#label> "Benedict Arznld (cngreossman)" .
+<http://dbpedia.org/resource/Elihu_Yale> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/John_E._Davis_(North_Dakota_politician)> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Roberto_Sánchez_Vilella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Adhemar_de_Barros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rufus_McIntire> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Dennis_DeConcini> <http://www.w3.org/2000/01/rdf-schema#label> "Dennis DeConcini" .
+<http://dbpedia.org/resource/Wollert_Konow_(Prime_Minister_of_Norway)> <http://www.w3.org/2000/01/rdf-schema#label> "Wollert Konow (Prime Minister of Norway)" .
+<http://dbpedia.org/resource/Turhan_Përmeti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_FitzPatrick_(Australian_federal_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Edward_Gibbon> <http://www.w3.org/2000/01/rdf-schema#label> "Edward Gibbon" .
+<http://dbpedia.org/resource/Dean_Barkley> <http://www.w3.org/2000/01/rdf-schema#label> "Dean Barkley" .
+<http://dbpedia.org/resource/Song_Jiaoren> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Emilio_Aguinaldo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gérard_Lamy> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E9rard Lamy" .
+<http://dbpedia.org/resource/James_Harrison_(Labour_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "James Harrison (Labour politician)" .
+<http://dbpedia.org/resource/Edward_Gibbon> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/James_McNeill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Henry+FlmetcheDr+%28yor%29> <http://www.w3.org/2000/01/rdf-schema#label> "Henry FlmetcheDr (yor)" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Edmund+StIiber> <http://www.w3.org/2000/01/rdf-schema#label> "Edmund StIiber" .
+<http://dbpedia.org/resource/Bellamy_Storer_(1796–1875)> <http://www.w3.org/2000/01/rdf-schema#label> "Bellamy Storer (1796\u20131875)" .
+<http://dbpedia.org/resource/Francesco_Saverio_Nitti> <http://www.w3.org/2000/01/rdf-schema#label> "Francesco Saverio Nitti" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Samuetl+E.+ingree> <http://www.w3.org/2000/01/rdf-schema#label> "Samuetl E. ingree" .
+<http://dbpedia.org/resource/Benno_Martin> <http://www.w3.org/2000/01/rdf-schema#label> "Benno Martin" .
+<http://dbpedia.org/resource/Alberto_Morales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Jrge+Garc%C3%ADa+CIarKneio> <http://dbpedia.org/ontology/mayor> "TinRg" .
+<http://dbpedia.org/resource/Tom_Steed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Muhammad_Saifullah> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Benjamin_F._Shively> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Svein_Olav_Agnalt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Yan_Song_(Ming_dynasty)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ali_Akbar_Nategh-Nouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Daniel_Chipman> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/John_Morrison,_2nd_Viscount_Dunrossil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bill_Brown_(Australian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Brown (Australian politician)" .
+<http://dbpedia.org/resource/André_Simonazzi> <http://www.w3.org/2000/01/rdf-schema#label> "Andr\u00E9 Simonazzi" .
+<http://dbpedia.org/resource/Viktor_Klima> <http://www.w3.org/2000/01/rdf-schema#label> "Viktor Klima" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Stubbs+%28cat%29> <http://www.w3.org/2000/01/rdf-schema#label> "Stubbs (cat)" .
+<http://dbpedia.org/resource/Bainbridge_Wadleigh> <http://www.w3.org/2000/01/rdf-schema#label> "Bainbridge Wadleigh" .
+<http://dbpedia.org/resource/Jan_Bernd_Bicker> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Bernd Bicker" .
+<http://dbpedia.org/resource/Hugh_Fraser_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Hugh Fraser (politician)" .
+<http://dbpedia.org/resource/Shadrach_Fox> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Henry_Horner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Svein_Olsen_Øraker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mohamed_Lamine_Ould_Ahmed> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/James+Berry+%28politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "James Berry (politician)" .
+<http://dbpedia.org/resource/Ross_Perot> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Antonio_Rafael_Barceló> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Howell_Hollis> <http://www.w3.org/2000/01/rdf-schema#label> "Howell Heflin" .
+<http://dbpedia.org/resource/William_Allen_(banker)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Gérard_Ouellet> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E9rard Ouellet" .
+<http://dbpedia.org/resource/Perry_Broad> <http://www.w3.org/2000/01/rdf-schema#label> "Perry Broad" .
+<http://dbpedia.org/resource/Ranil_Wickremasinghe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Robert_Hamilton_(civil_servant)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Michael_Mayr> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Mayr" .
+<http://dbpedia.org/resource/Svein_Roald_Hansen> <http://www.w3.org/2000/01/rdf-schema#label> "Svein Roald Hansen" .
+<http://dbpedia.org/resource/Alexander_Wiley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_John_Temple,_3rd_Viscount_Palmerston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis> <http://www.w3.org/2000/01/rdf-schema#label> "Harold Alexander, 1st Earl Alexander of Tunis" .
+<http://dbpedia.org/resource/Jefferson_Smith_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Jefferson Smith (politician)" .
+<http://dbpedia.org/resource/George_Ridley_(Labour_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "George Ridley (Labour politician)" .
+<http://dbpedia.org/resource/Rufus_McIntire> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus McIntire" .
+<http://dbpedia.org/resource/Milton_Obote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_Cooper_(Canadian_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jag_Bhaduria> <http://www.w3.org/2000/01/rdf-schema#label> "Jag Bhaduria" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Gyla+AndrN%C3%A1ssy> <http://dbpedia.org/ontology/mayor> "perWsn" .
+<http://dbpedia.org/resource/Eddie_Girdler> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Francesco_Cossiga> <http://www.w3.org/2000/01/rdf-schema#label> "Francesco Cossiga" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Joh+EnglandY+%28Zplitician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Joh EnglandY (Zplitician)" .
+<http://dbpedia.org/resource/George_A._Waggaman> <http://www.w3.org/2000/01/rdf-schema#label> "George A. Waggaman" .
+<http://dbpedia.org/resource/Ewen_Cameron_(Australian_politician)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Víctor_Raúl_Haya_de_la_Torre> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Milton_Obote> <http://www.w3.org/2000/01/rdf-schema#label> "Milton Obote" .
+<http://dbpedia.org/resource/Rufus_S._Frost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ferdinand_Marcos,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "Bongbong Marcos" .
+<http://dbpedia.org/resource/Benno_Martin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Gérard_Légaré> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Horace_Wilson_(politician)> <http://dbpedia.org/ontology/mayor> "member of parliament" .
+<http://dbpedia.org/resource/John_Lynch_(Australian_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Donald_(Wisconsin_politician)> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/John_Garland_Pollard> <http://www.w3.org/2000/01/rdf-schema#label> "John Garland Pollard" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Antonio+%C3%81laRre+JoWnte> <http://dbpedia.org/ontology/mayor> "poltsician" .
+<http://dbpedia.org/resource/Bernhard_von_Bülow> <http://www.w3.org/2000/01/rdf-schema#label> "Bernhard von B\u00FClow" .
+<http://dbpedia.org/resource/Hans_Christian_Sørensen> <http://www.w3.org/2000/01/rdf-schema#label> "Hans Christian Petersen" .
+<http://dbpedia.org/resource/Fred_Green_(Australian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Fred Green (Australian politician)" .
+<http://dbpedia.org/resource/Aslan_Maskhadov> <http://www.w3.org/2000/01/rdf-schema#label> "Aslan Maskhadov" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Nee+Wn> <http://www.w3.org/2000/01/rdf-schema#label> "Nee Wn" .
+<http://dbpedia.org/resource/Alan_Bible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Glen_Taylor> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Gulbuddin_Hekmatyar> <http://dbpedia.org/ontology/mayor> "PrimeMinister_HeadOfGovernment" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Bill+Keith+%28politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Keith (politician)" .
+<http://dbpedia.org/resource/John_Lynch_(congressman)> <http://www.w3.org/2000/01/rdf-schema#label> "John Lynch (congressman)" .
+<http://dbpedia.org/resource/Elihu_Yale> <http://www.w3.org/2000/01/rdf-schema#label> "Elihu Yale" .
+<http://dbpedia.org/resource/James_Nesmith> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/David_Rice_Atchison> <http://www.w3.org/2000/01/rdf-schema#label> "David Rice Atchison" .
+<http://dbpedia.org/resource/Bill_Brown_(Australian_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Karl_Dönitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Daniel_Meserve_Durell> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Meserve Durell" .
+<http://dbpedia.org/resource/Robert_Hamilton_(civil_servant)> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Hamilton (civil servant)" .
+<http://dbpedia.org/resource/Bob_Mills_(politician)> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Neil_Hamilton_(politician)> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Benjamin_F._Shively> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://dbpedia.org/resource/Frank_Merriam> <http://dbpedia.org/ontology/mayor> "governor" .
+<http://dbpedia.org/resource/John_M._Patton> <http://dbpedia.org/ontology/mayor> "pgersn" .
+<http://dbpedia.org/resource/Pierre-Célestin_Rwigema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Thoas+RZ.+Bard> <http://dbpedia.org/ontology/mayor> "caualG agency" .
+<http://dbpedia.org/resource/Tobias_A._Plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Guest_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John Guest (politician)" .
+<http://dbpedia.org/resource/Juan_Vicente_Gómez> <http://www.w3.org/2000/01/rdf-schema#label> "Juan Vicente G\u00F3mez" .
+<http://dbpedia.org/resource/Spark_Matsunaga> <http://dbpedia.org/ontology/mayor> "PersonWithOccupation" .
+<http://dbpedia.org/resource/James_Harrison_(Labour_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Juan_de_Oñate> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Kenneth_Kaunda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Richard_Nicolls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_Stephen_Fox> <http://www.w3.org/2000/01/rdf-schema#label> "Henry S. Foote" .
+<http://dbpedia.org/resource/Fred_A._Earhart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Nabil+aGaol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Andrew_Williams_(congressman)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_Lawson_(Australian_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Tony_Andruzzi> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas W. Palmer" .
+<http://dbpedia.org/resource/Víctor_Raúl_Haya_de_la_Torre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Syngman_Rhee> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Dennis_DeConcini> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Zhu_Guozhen_(Ming_dynasty)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ernest_McFarland> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Calhoun_Isles,_Minneapolis> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Horace_Wilson_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ali_Akbar_Nategh-Nouri> <http://dbpedia.org/ontology/mayor> "PresidentOfOrganization" .
+<http://dbpedia.org/resource/Frank_Forde> <http://www.w3.org/2000/01/rdf-schema#label> "Frank Forde" .
+<http://dbpedia.org/resource/Rafael_Hernández_Colón> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_Young> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Young" .
+<http://dbpedia.org/resource/Rufus_P._Spalding> <http://www.w3.org/2000/01/rdf-schema#label> "Rufus P. Spalding" .
+<http://dbpedia.org/resource/Henry_Ludwell_Moore> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Tengiz_Sigua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_Wegner_Larsen_Haaland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ne_Win> <http://www.w3.org/2000/01/rdf-schema#label> "Ne Win" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Chic+Murray+%28politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chic Murray (politician)" .
+<http://dbpedia.org/resource/David_Ward_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Al_Ullman> <http://www.w3.org/2000/01/rdf-schema#label> "Al Ullman" .
+<http://dbpedia.org/resource/John_Sloss_Hobart> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Kaarlo_Juho_Ståhlberg> <http://dbpedia.org/ontology/mayor> "president" .
+<http://dbpedia.org/resource/Robert_Hamilton_(congressman)> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Hamilton (congressman)" .
+<http://dbpedia.org/resource/Spark_Matsunaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_Harrison_(Australian_governor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/ThomaRs+Darde> <http://dbpedia.org/ontology/mayor> "hupan" .
+<http://dbpedia.org/resource/Hugo_Banzer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_McNeill> <http://dbpedia.org/ontology/mayor> "ambassador" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/William+ChaberLlain+%28pzolitiian%29> <http://www.w3.org/2000/01/rdf-schema#label> "William ChaberLlain (pzolitiian)" .
+<http://dbpedia.org/resource/Peter_T._Washburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Luis_Alva_Castro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rufus_McIntire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Peter_T._Washburn> <http://www.w3.org/2000/01/rdf-schema#label> "Peter T. Washburn" .
+<http://dbpedia.org/resource/Ann_Widdecombe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jefferson_Smith_(politician)> <http://dbpedia.org/ontology/mayor> "intellect" .
+<http://dbpedia.org/resource/Kristian_Djurhuus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Percy_Prince> <http://www.w3.org/2000/01/rdf-schema#label> "Percy Priest" .
+<http://dbpedia.org/resource/Turhan_Përmeti> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Leif_Helge_Kongshaug> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Pierre-Célestin_Rwigema> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre-C\u00E9lestin Rwigema" .
+<http://dbpedia.org/resource/Mauno_Koivisto> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Ronald_Wallace_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Percival_Proctor_Baxter> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/George_E._Newell> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Augusto_Ramírez_Ocampo> <http://dbpedia.org/ontology/mayor> "person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Edmund+StIiber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Emilio_Aguinaldo> <http://www.w3.org/2000/01/rdf-schema#label> "Emilio Aguinaldo" .
+<http://dbpedia.org/resource/Tim_Hutchinson> <http://www.w3.org/2000/01/rdf-schema#label> "Tim Hutchinson" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Harold+Aleander%2C+1sIt+Earll+mAlxnder+of+Tunis> <http://www.w3.org/2000/01/rdf-schema#label> "Harold Aleander, 1sIt Earll mAlxnder of Tunis" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Gilbert+F.+Robbins> <http://www.w3.org/2000/01/rdf-schema#label> "Gilbert F. Robbins" .
+<http://dbpedia.org/resource/W._Pat_Jennings> <http://dbpedia.org/ontology/mayor> "Politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Chrstopher+Talor+%28politicHiaUn%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chrstopher Talor (politicHiaUn)" .
+<http://dbpedia.org/resource/Fumimaro_Konoe> <http://www.w3.org/2000/01/rdf-schema#label> "Fumimaro Konoe" .
+<http://dbpedia.org/resource/Augustus_C._Dodge> <http://www.w3.org/2000/01/rdf-schema#label> "Augustus C. Dodge" .
+<http://dbpedia.org/resource/Frank_Merriam> <http://www.w3.org/2000/01/rdf-schema#label> "Frank Merriam" .
+<http://dbpedia.org/resource/Alexander_Stewart_(American_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_E._Colhoun> <http://dbpedia.org/ontology/mayor> "senator" .
+<http://dbpedia.org/resource/Thomas_Vigner_Christiansen_Haaland> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Ali_Akbar_Nategh-Nouri> <http://www.w3.org/2000/01/rdf-schema#label> "Ali Akbar Nategh-Nouri" .
+<http://dbpedia.org/resource/Bryan_Conquest> <http://www.w3.org/2000/01/rdf-schema#label> "Bryan Conquest" .
+<http://dbpedia.org/resource/Gilles_Vaillancourt> <http://www.w3.org/2000/01/rdf-schema#label> "Gilles Vaillancourt" .
+<http://dbpedia.org/resource/Henry_John_Temple,_3rd_Viscount_Palmerston> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/John_D._Hoblitzell,_Jr.> <http://dbpedia.org/ontology/mayor> "graduate" .
+<http://dbpedia.org/resource/Manuel_de_Sandoval> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Gilbert+F.+Robbins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Henry+Johnson+%28Louisiana+politician%29> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Allard_K._Lowenstein> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Svein_Olsen_Øraker> <http://www.w3.org/2000/01/rdf-schema#label> "Svein Olsen \u00D8raker" .
+<http://dbpedia.org/resource/John_E._Colhoun> <http://www.w3.org/2000/01/rdf-schema#label> "John E. Colhoun" .
+<http://dbpedia.org/resource/Yan_Song_(Ming_dynasty)> <http://www.w3.org/2000/01/rdf-schema#label> "Yan Song (Ming dynasty)" .
+<http://dbpedia.org/resource/William_Cavendish-Bentinck,_7th_Duke_of_Portland> <http://dbpedia.org/ontology/mayor> "PrimeMinister_HeadOfGovernment" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Enrique+Santamarina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bellamy_Storer_(1796–1875)> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/William+ChaberLlain+%28pzolitiian%29> <http://dbpedia.org/ontology/mayor> "adHjudiator" .
+<http://dbpedia.org/resource/Kenneth_Kaunda> <http://www.w3.org/2000/01/rdf-schema#label> "Kenneth Kaunda" .
+<http://dbpedia.org/resource/John_Ross_(New_South_Wales_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/T._Semmes_Walmsley> <http://www.w3.org/2000/01/rdf-schema#label> "T. Semmes Walmsley" .
+<http://dbpedia.org/resource/James_A._McDougall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bill_Frist> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Robert_Hamilton_(civil_servant)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Manuel_Uribe_Ángel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Isaac_D._Barnard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Stoyan_Danev> <http://dbpedia.org/ontology/mayor> "decision maker" .
+<http://dbpedia.org/resource/Albert_Johnson_(congressman)> <http://www.w3.org/2000/01/rdf-schema#label> "Albert Johnson (congressman)" .
+<http://dbpedia.org/resource/Shih_Chia-hsin> <http://www.w3.org/2000/01/rdf-schema#label> "Shih Chia-hsin" .
+<http://dbpedia.org/resource/Charlie_Durkee> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Durkee" .
+<http://dbpedia.org/resource/Daniel_Meserve_Durell> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Álvaro_Araújo_Castro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rufus_W._Cobb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Nick_Galifianakis_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Nick Galifianakis (politician)" .
+<http://dbpedia.org/resource/Thomas_A._Wofford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Calhoun_Isles,_Minneapolis> <http://www.w3.org/2000/01/rdf-schema#label> "Calhoun Allen" .
+<http://dbpedia.org/resource/Alan_Bible> <http://www.w3.org/2000/01/rdf-schema#label> "Alan Bible" .
+<http://dbpedia.org/resource/Fabián_Ríos> <http://www.w3.org/2000/01/rdf-schema#label> "Fabi\u00E1n R\u00EDos" .
+<http://dbpedia.org/resource/Bob_Mills_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_B._Weaver> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Paul_Stewart_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_Harris_(politician)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/MaritaL+etersen> <http://www.w3.org/2000/01/rdf-schema#label> "MaritaL etersen" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Melisa+rFranze> <http://dbpedia.org/ontology/mayor> "politUiian" .
+<http://dbpedia.org/resource/William_Hughes_(senator)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Rufus_P._Spalding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Benjamin_Disraeli> <http://dbpedia.org/ontology/mayor> "PersonWithOccupation" .
+<http://dbpedia.org/resource/Henry_Cabot_Lodge,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Cabot Lodge Jr." .
+<http://dbpedia.org/resource/Henrique_da_Silva_Coutinho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Anton_Drexler> <http://www.w3.org/2000/01/rdf-schema#label> "Anton Drexler" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Fred+Milzle+%28Australian+oliotician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hugo_Banzer> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/José_González_Ortíz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Arnfinn_Vik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/John_M._Patton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/KingsleyF+Wod> <http://www.w3.org/2000/01/rdf-schema#label> "KingsleyF Wod" .
+<http://dbpedia.org/resource/Wiley_Mayne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bill_Clinton> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Georgios_Rallis> <http://www.w3.org/2000/01/rdf-schema#label> "Georgios Rallis" .
+<http://dbpedia.org/resource/Charles_Brown_(congressman)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/David_Rice_Atchison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Larry_Winn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rufus_Choate> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Thomas_Wood_(mayor)> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Wood (mayor)" .
+<http://dbpedia.org/resource/Albert_Johnson_(congressman)> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Joseph_Cilley_(senator)> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/Dean_Barkley> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Theobald_von_Bethmann-Hollweg> <http://www.w3.org/2000/01/rdf-schema#label> "Theobald von Bethmann-Hollweg" .
+<http://dbpedia.org/resource/Wang_Xijue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Manuel_de_Sandoval> <http://www.w3.org/2000/01/rdf-schema#label> "Manuel de Sandoval" .
+<http://dbpedia.org/resource/Peter_Thorneycroft,_Baron_Thorneycroft> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Thorneycroft" .
+<http://dbpedia.org/resource/Robert_Lyon_(politician)> <http://dbpedia.org/ontology/mayor> "adjudicator" .
+<http://dbpedia.org/resource/Augustus_Frank> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Max_Pauly> <http://dbpedia.org/ontology/mayor> "Chancellor_HeadOfGovernment" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Bill+Keith+%28politician%29> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Dean_Barkley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Johnny_Stenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Otto_of_Stolberg-Wernigerode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Tony_Andruzzi> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Bill_Weiley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Peter_Birch-Reichenwald> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Birch-Reichenwald" .
+<http://dbpedia.org/resource/Rufus_S._Frost> <http://dbpedia.org/ontology/mayor> "authority" .
+<http://dbpedia.org/resource/Al-Sadiq_al-Mahdi> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Charles_Howard_(Detroit)> <http://dbpedia.org/ontology/mayor> "agent" .
+<http://dbpedia.org/resource/Charles_Brown_(congressman)> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Brown (congressman)" .
+<http://dbpedia.org/resource/Babrak_Karmal> <http://www.w3.org/2000/01/rdf-schema#label> "Babrak Karmal" .
+<http://dbpedia.org/resource/Dirk_Stikker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Henry+Johnson+%28Louisiana+politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Johnson (Louisiana politician)" .
+<http://dbpedia.org/resource/José_María_Guido> <http://www.w3.org/2000/01/rdf-schema#label> "Jos\u00E9 Mar\u00EDa Guido" .
+<http://dbpedia.org/resource/Paul_Stewart_(politician)> <http://dbpedia.org/ontology/mayor> "congressman" .
+<http://dbpedia.org/resource/Benjamin_F._Shively> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin F. Shively" .
+<http://dbpedia.org/resource/Tom_Steed> <http://dbpedia.org/ontology/mayor> "congressman" .
+<http://dbpedia.org/resource/William_Hughes_(senator)> <http://www.w3.org/2000/01/rdf-schema#label> "William Hughes (senator)" .
+<http://dbpedia.org/resource/Ann_Widdecombe> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Emilio_Mario_Osmeña> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Petru_Groza> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/John_Hancock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Thomas_Withers_Chinn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Francesco_Saverio_Nitti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_M._Cox> <http://www.w3.org/2000/01/rdf-schema#label> "James M. Cox" .
+<http://dbpedia.org/resource/Foster_Waterman_Stearns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Kenneth_Kaunda> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Jan_Smuts> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/AdrienneJ+larkson> <http://www.w3.org/2000/01/rdf-schema#label> "AdrienneJ larkson" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Damodar+Bhandari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Stephen_Schiff> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Joh+WebstFer+%28gverfnor%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Fred_Thompson> <http://www.w3.org/2000/01/rdf-schema#label> "Fred Thompson" .
+<http://dbpedia.org/resource/James_A._McDougall> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/John_Lynch_(Australian_politician)> <http://dbpedia.org/ontology/mayor> "person" .
+<http://dbpedia.org/resource/Mohamed_Lamine_Ould_Ahmed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_L._Oblinger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Henry_C._Hansbrough> <http://dbpedia.org/ontology/mayor> "Person" .
+<http://dbpedia.org/resource/Samuel_Ward_(American_statesman)> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Ward (American statesman)" .
+<http://dbpedia.org/resource/Gilles_Vaillancourt> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/James_Wilkinson_(Australian_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Harold+Aleander%2C+1sIt+Earll+mAlxnder+of+Tunis> <http://dbpedia.org/ontology/mayor> "prsotn" .
+<http://dbpedia.org/resource/Nathan_Goff,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "Nathan Goff, Jr." .
+<http://dbpedia.org/resource/Rudy_Perpich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Walter_Scheel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Simon_Bamberger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Song_Jiaoren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Arthur_Capper> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Nee+Wn> <http://dbpedia.org/ontology/mayor> "aaent" .
+<http://dbpedia.org/resource/Arnfinn_Vik> <http://dbpedia.org/ontology/mayor> "person" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Edmund+StIiber> <http://dbpedia.org/ontology/mayor> "NauralPersson" .
+<http://dbpedia.org/resource/Francesco_Saverio_Nitti> <http://dbpedia.org/ontology/mayor> "Agent" .
+<http://dbpedia.org/resource/Albert_Wynn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Angus+Hambro> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/John+YTwer> <http://www.w3.org/2000/01/rdf-schema#label> "John YTwer" .
+<http://dbpedia.org/resource/Henry_Ludwell_Moore> <http://www.w3.org/2000/01/rdf-schema#label> "Henry L. Myers" .
+<http://dbpedia.org/resource/Sir_William_Green,_1st_Baronet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Aasulv_Olsen_Bryggesaa> <http://www.w3.org/2000/01/rdf-schema#label> "Aasulv Olsen Bryggesaa" .
+<http://dbpedia.org/resource/Jacques_Parizeau> <http://dbpedia.org/ontology/mayor> "NaturalPerson" .
+<http://dbpedia.org/resource/Claude_Pepper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/José_María_Guido> <http://dbpedia.org/ontology/mayor> "Thing" .
+<http://dbpedia.org/resource/Solomon_Bundy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/David_Reed_(politician)> <http://dbpedia.org/ontology/mayor> "causal agency" .
+<http://dbpedia.org/resource/Solomon_Bundy> <http://www.w3.org/2000/01/rdf-schema#label> "Solomon Bundy" .
+<http://dbpedia.org/resource/Brock_Adams> <http://dbpedia.org/ontology/mayor> "human" .
+<http://dbpedia.org/resource/John_E._Kenna> <http://dbpedia.org/ontology/mayor> "politician" .
+<http://dbpedia.org/resource/Simon_J._Schermerhorn> <http://www.w3.org/2000/01/rdf-schema#label> "Simon J. Schermerhorn" .
+<http://example.org/bba3eaa7-7dbb-4ec2-8a44-21e5903797c4/Carl+D+Perkqins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ricardo_Obregón_Cano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+

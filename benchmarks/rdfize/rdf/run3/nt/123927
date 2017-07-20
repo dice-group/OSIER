@@ -1,0 +1,14 @@
+<http://dbpedia.org/resource/Annapurna> <http://www.w3.org/2000/01/rdf-schema#label> "Annapurna" .
+<http://dbpedia.org/resource/Blood_River> <http://www.w3.org/2000/01/rdf-schema#label> "Blood River" .
+<http://dbpedia.org/resource/Thames_and_Severn_Canal> <http://www.w3.org/2000/01/rdf-schema#label> "Thames and Severn Canal" .
+<http://dbpedia.org/resource/Alps> <http://www.w3.org/2000/01/rdf-schema#label> "Alps" .
+<http://dbpedia.org/resource/Alabama_River> <http://www.w3.org/2000/01/rdf-schema#label> "Alabama River" .
+<http://dbpedia.org/resource/Aegean_Sea> <http://www.w3.org/2000/01/rdf-schema#label> "Aegean Sea" .
+<http://example.org/bbc8930d-f49f-44b8-a530-e480d0ee9acb/Annapurna+I+Main> <http://www.w3.org/2000/01/rdf-schema#label> "Annapurna I Main" .
+<http://example.org/bbc8930d-f49f-44b8-a530-e480d0ee9acb/Blacgk+Se> <http://www.w3.org/2000/01/rdf-schema#label> "Blacgk Se" .
+<http://dbpedia.org/resource/American_River,_South_Australia> <http://www.w3.org/2000/01/rdf-schema#label> "Pelican Lagoan" .
+<http://example.org/bbc8930d-f49f-44b8-a530-e480d0ee9acb/Peliccan+Lagoo> <http://www.w3.org/2000/01/rdf-schema#label> "Peliccan Lagoo" .
+<http://dbpedia.org/resource/Bay_of_Biscay> <http://www.w3.org/2000/01/rdf-schema#label> "Cantabrian Sea" .
+<http://dbpedia.org/resource/Amazon_River> <http://www.w3.org/2000/01/rdf-schema#label> "Amazon River" .
+<http://dbpedia.org/resource/Baltic_Sea> <http://www.w3.org/2000/01/rdf-schema#label> "Baltic Sea" .
+

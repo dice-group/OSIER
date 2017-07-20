@@ -1,0 +1,1044 @@
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anna+Lukasik> <http://dbpedia.org/ontology/person> "athlete" .
+<http://dbpedia.org/resource/R._Wyndham_Walden> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/DaBvid+Andrson%2C+Sr.> <http://www.w3.org/2000/01/rdf-schema#label> "DaBvid Andrson, Sr." .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Yasemin+%C5%9Eahin> <http://www.w3.org/2000/01/rdf-schema#label> "Yasemin \u015Eahin" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/A.+J.+Davis+%28cornerback%2C+born+1989%29> <http://dbpedia.org/ontology/person> "aenAt" .
+<http://dbpedia.org/resource/Enrico_Fabbro> <http://dbpedia.org/ontology/person> "jock" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Clive+Smith+%28footballer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clive Smith (footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jimmy+Jones+%28Australian+footballer%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jack+Richardson+%28footballer%2C+born+1906%29> <http://dbpedia.org/ontology/person> "agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nour+Hage> <http://www.w3.org/2000/01/rdf-schema#label> "Nour Hage" .
+<http://dbpedia.org/resource/Real_McCoy_(band)> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Esra+G%C3%BCndar> <http://www.w3.org/2000/01/rdf-schema#label> "Esra G\u00FCndar" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bremer+Whidden+Pond> <http://www.w3.org/2000/01/rdf-schema#label> "Bremer Whidden Pond" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lee+Evans+%28darts+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lee Evans (darts player)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ken+Williams+%28footballer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ken Williams (footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joe+Kuether> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/List_of_Beyblade_characters> <http://www.w3.org/2000/01/rdf-schema#label> "List of Beyblade characters" .
+<http://dbpedia.org/resource/Skeets_Martin> <http://www.w3.org/2000/01/rdf-schema#label> "Skeets Martin" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1999" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Robert+Marshall+%28snooker+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Marshall (snooker player)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Brenan+Gillaknders> <http://dbpedia.org/ontology/person> "ptersn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Cedric+Segeon> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Mark_A._Hennig> <http://dbpedia.org/ontology/person> "leader" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Stewart+%28footballer%2C+born+1946%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Stewart (footballer, born 1946)" .
+<http://dbpedia.org/resource/Rachel_Rasmussen> <http://dbpedia.org/ontology/person> "causal agency" .
+<http://dbpedia.org/resource/Eliezer_Spiegel> <http://www.w3.org/2000/01/rdf-schema#label> "Eliezer Spiegel" .
+<http://dbpedia.org/resource/John_Bell_(Australian_footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "John Holt (Australian footballer)" .
+<http://dbpedia.org/resource/Potamon_(mythology)> <http://www.w3.org/2000/01/rdf-schema#label> "Potamon (mythology)" .
+<http://dbpedia.org/resource/James_I._Nazworthy> <http://www.w3.org/2000/01/rdf-schema#label> "James I. Nazworthy" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Yasemin+%C5%9Eahin> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ian+Allan+%28politician%29> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Cicero> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Alec_Sokolow> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Paul+Morris+%28hurler%29> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Morris (hurler)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Kanon+Tani> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Angus_Barnett> <http://www.w3.org/2000/01/rdf-schema#label> "Angus GarneLr" .
+<http://dbpedia.org/resource/Sam_Rosen_(comics)> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1964" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jorge+Gonz%C3%A1lez+%28volleyball%2C+born+1982%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eleusis+%28mitolog%C3%ADa%29> <http://www.w3.org/2000/01/rdf-schema#label> "Eleusis (mitolog\u00EDa)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Georgwe+Barden> <http://www.w3.org/2000/01/rdf-schema#label> "Georgwe Barden" .
+<http://dbpedia.org/resource/Alexis_Korner> <http://www.w3.org/2000/01/rdf-schema#label> "Alexis Carrel" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Reina+Nagata> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Himari+Noihara> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/Abel_Miglietti> <http://www.w3.org/2000/01/rdf-schema#label> "Abel Miglietti" .
+<http://dbpedia.org/resource/Ted_Bundy> <http://dbpedia.org/ontology/person> "assaulter" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Derya+T%C4%B1nkao%C4%9Flu> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1957" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Meredith+Etherington-Smith> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Veronique+Henschen> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alex+Carnerio> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Polikseni+aInxhari> <http://www.w3.org/2000/01/rdf-schema#label> "Polikseni aInxhari" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tylor+Piscjhke> <http://dbpedia.org/ontology/person> "Tbing" .
+<http://dbpedia.org/resource/Georg,_Prince_of_Saxe-Meiningen> <http://dbpedia.org/ontology/person> "RoyalFamily" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Karn+Koysak> <http://dbpedia.org/ontology/person> "hufan" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eric+Smith+%28footballer%2C+born+1934%29> <http://www.w3.org/2000/01/rdf-schema#label> "Eric Smith (footballer, born 1934)" .
+<http://dbpedia.org/resource/Sam_Chifney,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Chifney Jr." .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jack+Richardson+%28footballer%2C+born+1906%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Richardson (footballer, born 1906)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Brad+Rowe+%28tennis%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Leopold,_Prince_of_Salerno> <http://dbpedia.org/ontology/person> "RoyalFamily" .
+<http://dbpedia.org/resource/Hermann,_Prince_of_Hohenlohe-Langenburg> <http://www.w3.org/2000/01/rdf-schema#label> "Hermann, Prince of Hohenlohe-Langenburg" .
+<http://dbpedia.org/resource/Science_and_inventions_of_Leonardo_da_Vinci> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Arthur_Saxon> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Stefan+Kozlov> <http://www.w3.org/2000/01/rdf-schema#label> "Stefan Kozlov" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jordi+Cruz> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Kristi_Yamaguchi> <http://www.w3.org/2000/01/rdf-schema#label> "Kristi Yamaguchi" .
+<http://dbpedia.org/resource/Abel,_King_of_Denmark> <http://www.w3.org/2000/01/rdf-schema#label> "Abel, King of Denmark" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Shaun+Nrrain> <http://dbpedia.org/ontology/person> "humjn" .
+<http://dbpedia.org/resource/Beroe_(mythology)> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Koenig+%28diplomat%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Koenig (diplomat)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mitch+Wilde> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Chicago_Cubs_minor_league_players> <http://www.w3.org/2000/01/rdf-schema#label> "Chicago Cubs minor league players" .
+<http://dbpedia.org/resource/Woodrow_Sedlacek> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ashton+Michael> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Charles+Mayo+%28golfer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Mayo (golfer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jack+Burke+%28footballer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Burke (footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/H%C3%A9ctor+Abad+G%C3%B3mez> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Gemma_Doyle> <http://dbpedia.org/ontology/person> "agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Stewart+%28footballer%2C+born+1939%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Stewart (footballer, born 1939)" .
+<http://dbpedia.org/resource/Frank_L._Brothers> <http://www.w3.org/2000/01/rdf-schema#label> "Frank L. Brothers" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "humBn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Kyo+Ttakamine+and+ZGatch+ell> <http://www.w3.org/2000/01/rdf-schema#label> "Kyo Ttakamine and ZGatch ell" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/ArtieXAdams> <http://dbpedia.org/ontology/person> "AgnFt" .
+<http://dbpedia.org/resource/Eunostus_(hero)> <http://www.w3.org/2000/01/rdf-schema#label> "Eunostus (hero)" .
+<http://dbpedia.org/resource/Zeno_brothers> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Antoine+estaermann> <http://www.w3.org/2000/01/rdf-schema#label> "Antoine estaermann" .
+<http://dbpedia.org/resource/Jock_Taylor> <http://www.w3.org/2000/01/rdf-schema#label> "Jock Taylor" .
+<http://dbpedia.org/resource/Conrad_Williams_(Family_Affairs)> <http://www.w3.org/2000/01/rdf-schema#label> "Conrad Williams (Family Affairs)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dafydd+Du++HirakLddug> <http://dbpedia.org/ontology/person> "pCot" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1988" .
+<http://dbpedia.org/resource/Polymatheia> <http://www.w3.org/2000/01/rdf-schema#label> "Polymatheia" .
+<http://dbpedia.org/resource/Willard_L._Proctor> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Andy+Ricker> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Rolf+Stinhauksen> <http://dbpedia.org/ontology/person> "humya" .
+<http://dbpedia.org/resource/Andrew_McCulloch_(writer_and_actor)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/George_Marsden__US-historian-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "George_Marsden__US-historian-stub__1" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Claudia+R%C3%ADos> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Duygu+Sakall%C4%B1> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Palmer_baronets> <http://www.w3.org/2000/01/rdf-schema#label> "Sir John Barker, 4th Baronet" .
+<http://dbpedia.org/resource/William_H._%22Dad%22_Martin> <http://www.w3.org/2000/01/rdf-schema#label> "William H. Dad Martin" .
+<http://dbpedia.org/resource/Kristi_Yamaguchi> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/FIU_Panthers> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Kyo+Ttakamine+and+ZGatch+ell> <http://dbpedia.org/ontology/person> "pwersn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Martin+Quigley+%28hurler%29> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Quigley (hurler)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Saunders+%28jockey%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Maria+Ines+Garcia> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Ines Garcia" .
+<http://dbpedia.org/resource/Atlantis_(wrestler)> <http://dbpedia.org/ontology/person> "role player" .
+<http://dbpedia.org/resource/Abel_Ferreira> <http://dbpedia.org/ontology/person> "soccer manager" .
+<http://dbpedia.org/resource/Evan_Williams_(jockey)> <http://dbpedia.org/ontology/person> "causal agency" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nichole+de+Carle> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Akhil+Rabindra> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Annie_and_Clarabel> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Patton+%28baseball%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Stewart+%28footballer%2C+born+1939%29> <http://dbpedia.org/ontology/person> "ThiIn" .
+<http://dbpedia.org/resource/Brendan_Foley> <http://www.w3.org/2000/01/rdf-schema#label> "Brendan Folmar" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Maxwell+Starkman> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jack+Bure+%28cyLclist%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Bure (cyLclist)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anna+Chernova> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Chernova" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Terhi+Stegars> <http://www.w3.org/2000/01/rdf-schema#label> "Terhi Stegars" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Kevin+O%27Connell+%28racing+driver%29> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johngny+arras> <http://dbpedia.org/ontology/person> "hmahn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Brown+%28basketball+player%29> <http://dbpedia.org/ontology/person> "basketball player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Koenig+%28diplomat%29> <http://dbpedia.org/ontology/person> "ambassador" .
+<http://dbpedia.org/resource/Dale_Earnhardt> <http://www.w3.org/2000/01/rdf-schema#label> "Dale Earnhardt" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Carlos+Pmino+%28equesJrian%29> <http://www.w3.org/2000/01/rdf-schema#label> "Carlos Pmino (equesJrian)" .
+<http://dbpedia.org/resource/H._Guy_Bedwell> <http://www.w3.org/2000/01/rdf-schema#label> "H. Guy Bedwell" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jack+Richardson+%28footballer%2C+born+1886%29> <http://dbpedia.org/ontology/person> "Australian rules football player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/AHnus+Fregon> <http://www.w3.org/2000/01/rdf-schema#label> "AHnus Fregon" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Sam+Walker+%28table+tennis%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/Hermann,_Prince_of_Wied> <http://www.w3.org/2000/01/rdf-schema#label> "Hermann, Prince of Wied" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jim+Young+%28dual+player%29> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Angus+Brandt> <http://www.w3.org/2000/01/rdf-schema#label> "Angus Brandt" .
+<http://dbpedia.org/resource/Poemander_(mythology)> <http://www.w3.org/2000/01/rdf-schema#label> "Poemander (mythology)" .
+<http://dbpedia.org/resource/Thomas_F._Proctor> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas F. Proctor" .
+<http://dbpedia.org/resource/Abel_Ferreira> <http://www.w3.org/2000/01/rdf-schema#label> "Abel Ferreira" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Brenan+Gillaknders> <http://www.w3.org/2000/01/rdf-schema#label> "Brenan Gillaknders" .
+<http://dbpedia.org/resource/Richard_Marsh_(horseman)> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 2014" .
+<http://dbpedia.org/resource/Smiley> <http://www.w3.org/2000/01/rdf-schema#label> "Smiley" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Huggins> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny Huggins" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Kirby%28aPdmiral%29> <http://dbpedia.org/ontology/person> "peston" .
+<http://dbpedia.org/resource/Jack_James_(Australian_rules_footballer)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jim+Young+%28dual+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jim Young (dual player)" .
+<http://dbpedia.org/resource/Don_%22The_Dragon%22_Wilson> <http://www.w3.org/2000/01/rdf-schema#label> "Don Wilson (kickboxer)" .
+<http://dbpedia.org/resource/Joseph_Klausner> <http://dbpedia.org/ontology/person> "writer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/David+Anderson%2C+Jr.> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Bob_Cooper_(speedway_rider)> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Geg+Foster+%28The+vYoung+nd+the+Restleuss%29> <http://www.w3.org/2000/01/rdf-schema#label> "Geg Foster (The vYoung nd the Restleuss)" .
+<http://dbpedia.org/resource/Mick_Doohan> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Millie+Tomlinson> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Angbus+Bryshaw> <http://www.w3.org/2000/01/rdf-schema#label> "Angbus Bryshaw" .
+<http://dbpedia.org/resource/Garnet_Malley> <http://dbpedia.org/ontology/person> "IceHockeyPlayer" .
+<http://dbpedia.org/resource/Albert_Hall_(footballer_born_1918)> <http://dbpedia.org/ontology/person> "soccer player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Chase+Pistone> <http://www.w3.org/2000/01/rdf-schema#label> "Chase Pistone" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eleusis+%28mitolog%C3%ADa%29> <http://dbpedia.org/ontology/person> "fictional character" .
+<http://dbpedia.org/resource/Adonis_(musician)> <http://www.w3.org/2000/01/rdf-schema#label> "Adonis (musician)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Harriet+Miller-Brown> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Gérard_de_Balorre> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E9rard de Balorre" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bruce+Rasmussen+%28basketball%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Peter+Russell+%28fashion+designer%29> <http://dbpedia.org/ontology/person> "artist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Maria+Ines+Garcia> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Colin+Boucher> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/Vance_Longden> <http://www.w3.org/2000/01/rdf-schema#label> "Vance Longden" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Rafael+Ramos+%28boxer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rafael Ramos (boxer)" .
+<http://dbpedia.org/resource/Eurypyle_(Amazon)> <http://dbpedia.org/ontology/person> "mythological figure" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Fran%C3%A7ois+Cl%C3%A9ment+Lafaury> <http://www.w3.org/2000/01/rdf-schema#label> "Fran\u00E7ois Cl\u00E9ment Lafaury" .
+<http://dbpedia.org/resource/Charles_Peoples> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Daniel+A.+lpstein> <http://dbpedia.org/ontology/person> "huaon" .
+<http://dbpedia.org/resource/Michael_Jordan> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Jordan" .
+<http://dbpedia.org/resource/John_J._Sheehan> <http://www.w3.org/2000/01/rdf-schema#label> "John J. Sherman" .
+<http://dbpedia.org/resource/Campo_Elías_Delgado> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jamie+Hughes+%28darts+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jamie Hughes (darts player)" .
+<http://dbpedia.org/resource/Kyrbas> <http://www.w3.org/2000/01/rdf-schema#label> "Kyrbas" .
+<http://dbpedia.org/resource/Real_McCoy_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Karin Kosak" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alexandre+Ayache> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandre Ayache" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hilmar+Pawliczek> <http://www.w3.org/2000/01/rdf-schema#label> "Hilmar Pawliczek" .
+<http://dbpedia.org/resource/List_of_Swedish_football_transfers_winter_2013–14> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Sue_Hamilton_(model_and_actress)> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Paul_Hunter> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Conrad_Williams_(Family_Affairs)> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Thomas_Reap> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Reap" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tayfun+Ta%C5%9Fdemir> <http://www.w3.org/2000/01/rdf-schema#label> "Tayfun Ta\u015Fdemir" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Trevor+Baptiste> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Polymatheia> <http://dbpedia.org/ontology/person> "fictional character" .
+<http://dbpedia.org/resource/Drew_Banfield> <http://www.w3.org/2000/01/rdf-schema#label> "Drew Banfield" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Charles+Brown+%28rugby+union%29> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Brown (rugby union)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dan+Liu> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Patton+%28baseball%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Patton (baseball)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Helmuth+Setzkorn> <http://www.w3.org/2000/01/rdf-schema#label> "Helmuth Setzkorn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Edgar+Contreras> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Harry_Volkman> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Bollman" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nour+Hage> <http://dbpedia.org/ontology/person> "fashion designer" .
+<http://dbpedia.org/resource/Müller_(footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "M\u00FCller (footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Carl+Fodor> <http://www.w3.org/2000/01/rdf-schema#label> "Carl Fodor" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Daniel+Colman> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/John_Scott_(horseman)> <http://www.w3.org/2000/01/rdf-schema#label> "John Scott (horseman)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jack+Bure+%28cyLclist%29> <http://dbpedia.org/ontology/person> "NatralPherson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/David+Anderson%2C+Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "David Anderson, Jr." .
+<http://dbpedia.org/resource/Alvar_Aalto> <http://www.w3.org/2000/01/rdf-schema#label> "Alvar Aalto" .
+<http://dbpedia.org/resource/Auletes> <http://dbpedia.org/ontology/person> "fictional character" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Go%C3%A7aVlo+Carvalho> <http://www.w3.org/2000/01/rdf-schema#label> "Go\u00E7aVlo Carvalho" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Daniel+Colman> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Colman" .
+<http://dbpedia.org/resource/Lewis_(baseball)> <http://dbpedia.org/ontology/person> "ballplayer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Daniel+A.+lpstein> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel A. lpstein" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dirk+Demeersman> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Saunders+%28jockey%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Saunders (jockey)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+MacDonald+%28golfer%29> <http://dbpedia.org/ontology/person> "golf player" .
+<http://dbpedia.org/resource/List_of_Spanish_football_transfers_winter_2010–11> <http://www.w3.org/2000/01/rdf-schema#label> "List of Estonian football transfers winter 2013\u201314" .
+<http://dbpedia.org/resource/Arthur_Saxon> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Sasse" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dafydd+Du++HirakLddug> <http://www.w3.org/2000/01/rdf-schema#label> "Dafydd Du  HirakLddug" .
+<http://dbpedia.org/resource/Perpetua_and_Felicity> <http://www.w3.org/2000/01/rdf-schema#label> "Perpetua and Felicity" .
+<http://dbpedia.org/resource/Skeets_Martin> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mathieu+Hamel> <http://www.w3.org/2000/01/rdf-schema#label> "Mathieu Hamel" .
+<http://dbpedia.org/resource/Batman> <http://dbpedia.org/ontology/person> "CartoonCharacter" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Guy+William+Willis+Stevens> <http://www.w3.org/2000/01/rdf-schema#label> "Guy William Willis Stevens" .
+<http://dbpedia.org/resource/Emin_Boztepe> <http://dbpedia.org/ontology/person> "martial artist" .
+<http://dbpedia.org/resource/Eberhard_Schäfer> <http://www.w3.org/2000/01/rdf-schema#label> "Eberhard Sch\u00F6ler" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anat%C3%B4nio+bWilson+Vieira+onrio> <http://dbpedia.org/ontology/person> "NaturalPesoJn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Grant+%28curler%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Grant (curler)" .
+<http://dbpedia.org/resource/Rolf-Göran_Bengtsson> <http://dbpedia.org/ontology/person> "contestant" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+MacDonald+%28golfer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bob MacDonald (golfer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Gon%C3%A7alo+Carvalho> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Jakub_Jaworski> <http://www.w3.org/2000/01/rdf-schema#label> "Jakub Jaworski" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Braniff+Bonaventure> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Isaac_and_Miria> <http://dbpedia.org/ontology/person> "fictional character" .
+<http://dbpedia.org/resource/Eric_Guerin> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Chai_Vang> <http://www.w3.org/2000/01/rdf-schema#label> "Chai Vang" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/David+Jackson+%28judge%29> <http://www.w3.org/2000/01/rdf-schema#label> "David Jackson (judge)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Colin+Boucher> <http://www.w3.org/2000/01/rdf-schema#label> "Colin Boucher" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Betina+Faurbye> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1981" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Linda+Thomas-Greenfield> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Frenchie+Nicholson> <http://www.w3.org/2000/01/rdf-schema#label> "Frenchie Nicholson" .
+<http://dbpedia.org/resource/Harry_Volkman> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Al+Pkartovi> <http://dbpedia.org/ontology/person> "pseson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lionheart+%28wrestler%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Heather+Foster> <http://www.w3.org/2000/01/rdf-schema#label> "Heather Foster" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Stewart+%28footballer%2C+born+1903%29> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Erika_Metzger> <http://www.w3.org/2000/01/rdf-schema#label> "Erika Metzger" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Carlos+Machado+%28fighter%29> <http://www.w3.org/2000/01/rdf-schema#label> "Carlos Machado (fighter)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Matt+Poskay> <http://www.w3.org/2000/01/rdf-schema#label> "Matt Poskay" .
+<http://dbpedia.org/resource/Sue_Hamilton_(model_and_actress)> <http://www.w3.org/2000/01/rdf-schema#label> "Sue Hamilton (actress)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Chantal+Nijkerken-de+Haan> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 2005" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Veronique+Henschen> <http://www.w3.org/2000/01/rdf-schema#label> "Veronique Henschen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Helmuth+Setzkorn> <http://dbpedia.org/ontology/person> "athlete" .
+<http://dbpedia.org/resource/2013–14_Viborg_FF_season> <http://www.w3.org/2000/01/rdf-schema#label> "2014\u201315 Viborg FF season" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/JimY+Walh+%28KilkennyY+hurer%29> <http://www.w3.org/2000/01/rdf-schema#label> "JimY Walh (KilkennyY hurer)" .
+<http://dbpedia.org/resource/Tommy_Walker_(Brothers_&_Sisters)> <http://www.w3.org/2000/01/rdf-schema#label> "Tommy Walker (Brothers & Sisters)" .
+<http://dbpedia.org/resource/Hermann,_Prince_of_Hohenzollern-Hechingen> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/John_Scott_(horseman)> <http://dbpedia.org/ontology/person> "abstract entity" .
+<http://dbpedia.org/resource/Rolf-Göran_Bengtsson> <http://www.w3.org/2000/01/rdf-schema#label> "Rolf-G\u00F6ran Bengtsson" .
+<http://dbpedia.org/resource/Mick_Doohan> <http://www.w3.org/2000/01/rdf-schema#label> "Mick Doohan" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Sarah+Gandapur> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joshua+A.+Siegel> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Sir_Philip_Jennings-Clerke,_1st_Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "Sir Philip Jennings-Clerke, 1st Baronet" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ian+Allan+%28politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ian Allan (politician)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Charles+Jackson+%28asketbGllp%29> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Jackson (asketbGllp)" .
+<http://dbpedia.org/resource/Wendy_and_Richard_Pini> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Carlos+Machado+%28fighter%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Kandy+Wong> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Rafael+Ramos+%28boxer%29> <http://dbpedia.org/ontology/person> "boxer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Stella+Hagelstam> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Antonio_Dal_Zotto> <http://dbpedia.org/ontology/person> "scientist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Martin+Quigley+%28hurler%29> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anabel+Balkenhol> <http://www.w3.org/2000/01/rdf-schema#label> "Anabel Balkenhol" .
+<http://dbpedia.org/resource/David_Stephenson_(born_1972)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anthony+Hamilton+%28fighter%29> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony Hamilton (fighter)" .
+<http://dbpedia.org/resource/Agustín_de_Iturbide_y_Green> <http://www.w3.org/2000/01/rdf-schema#label> "Agust\u00EDn de Iturbide y Green" .
+<http://dbpedia.org/resource/Glam_Media> <http://www.w3.org/2000/01/rdf-schema#label> "GlaMs" .
+<http://dbpedia.org/resource/Smiley> <http://dbpedia.org/ontology/person> "fictional character" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Domenic+Weinstein> <http://www.w3.org/2000/01/rdf-schema#label> "Domenic Weinstein" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Chantal+Nijkerken-de+Haan> <http://www.w3.org/2000/01/rdf-schema#label> "Chantal Nijkerken-de Haan" .
+<http://dbpedia.org/resource/Georg,_Crown_Prince_of_Saxony> <http://www.w3.org/2000/01/rdf-schema#label> "Georg, Crown Prince of Saxony" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Whalen> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Rolf_Falk-Larssen> <http://www.w3.org/2000/01/rdf-schema#label> "Rolf Falk-Larssen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Emmit+McHenry> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Palmer_baronets> <http://dbpedia.org/ontology/person> "blue blood" .
+<http://dbpedia.org/resource/List_of_Beyblade_characters> <http://dbpedia.org/ontology/person> "animanga character" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dafydd+iHllard> <http://dbpedia.org/ontology/person> "rugby plyeIr" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eppo+Bruins> <http://www.w3.org/2000/01/rdf-schema#label> "Eppo Bruins" .
+<http://dbpedia.org/resource/William_Day_(horseman)> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Tommy_Walker_(Brothers_&_Sisters)> <http://dbpedia.org/ontology/person> "fictional character" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Academy_of_Achievement__4> <http://www.w3.org/2000/01/rdf-schema#label> "Academy_of_Achievement__4" .
+<http://dbpedia.org/resource/Friedrich,_Prince_of_Waldeck_and_Pyrmont> <http://www.w3.org/2000/01/rdf-schema#label> "Friedrich, Prince of Waldeck and Pyrmont" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ian+McCulloch+%28footballer%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Carlos+Pinto+%28equestrian%29> <http://www.w3.org/2000/01/rdf-schema#label> "Carlos Pinto (equestrian)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Benjamin+Drake+Magruder> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Huey,_Dewey,_and_Louie> <http://www.w3.org/2000/01/rdf-schema#label> "Huey, Dewey, and Louie" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Paul+Gachet+%28speedway+rider%29> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Gachet (speedway rider)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Helmut+Weise> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Darrett_B._Rutman__US-historian-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Darrett_B._Rutman__US-historian-stub__1" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Morrison+%28basketball%29> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Brian_Boitano> <http://dbpedia.org/ontology/person> "winter sport Player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Wagner+Santos+Lago> <http://www.w3.org/2000/01/rdf-schema#label> "Wagner Santos Lago" .
+<http://dbpedia.org/resource/Leopold,_Prince_of_Hohenzollern> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Oscar+Garc%C3%ADa+%28volleyball%29> <http://www.w3.org/2000/01/rdf-schema#label> "Oscar Garc\u00EDa (volleyball)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ellen+Birgitte+Farbrot> <http://www.w3.org/2000/01/rdf-schema#label> "Ellen Birgitte Farbrot" .
+<http://dbpedia.org/resource/George_Williams_(footballer_born_1897)> <http://www.w3.org/2000/01/rdf-schema#label> "George Williams (footballer, born 1881)" .
+<http://dbpedia.org/resource/Vance_Longden> <http://dbpedia.org/ontology/person> "abstract entity" .
+<http://dbpedia.org/resource/Chai_Vang> <http://dbpedia.org/ontology/person> "murderer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Fran+Ryan+%28Australin+footbSallers%29> <http://dbpedia.org/ontology/person> "agknt" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lillann+Jebsen> <http://www.w3.org/2000/01/rdf-schema#label> "Lillann Jebsen" .
+<http://dbpedia.org/resource/Jacob_van_Campen> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Milnay+Louw> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mamadou+Diallo+%28wrestler%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Sir_John_Keane,_1st_Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "Sir John Kennaway, 1st Baronet" .
+<http://dbpedia.org/resource/Norman_Weiss> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Angus_Abbey> <http://dbpedia.org/ontology/person> "causal agency" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Yann+Candele> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/John_Bell_(Australian_footballer)> <http://dbpedia.org/ontology/person> "Australian-rules footballer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jonathan+Blair> <http://dbpedia.org/ontology/person> "artist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ed+Whalen+%28broadcaster%29> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/List_of_Cypriot_football_transfers_summer_2008> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Ryunosuke_Harada> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/MichelleKwEan> <http://dbpedia.org/ontology/person> "pgeson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Kelly+%28boxer%29> <http://dbpedia.org/ontology/person> "athlete" .
+<http://dbpedia.org/resource/Eliezer_Spiegel> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lis+olf+German+football+troansfrs+sumAmer+014> <http://dbpedia.org/ontology/person> "Ntaturalerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Angus+zEdond> <http://www.w3.org/2000/01/rdf-schema#label> "Angus zEdond" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+H.+Mulkey> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Angus+Brandt> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Johann_Hinkel> <http://www.w3.org/2000/01/rdf-schema#label> "Johann Hinkel" .
+<http://dbpedia.org/resource/Gemma_Doyle> <http://www.w3.org/2000/01/rdf-schema#label> "Gemma Doyle (politician)" .
+<http://dbpedia.org/resource/Angus_Abbey> <http://www.w3.org/2000/01/rdf-schema#label> "Angus Abbey" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jane+Silverstein+Ries> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/A.+J.+Davis+%28cornerback%2C+born+1989%29> <http://www.w3.org/2000/01/rdf-schema#label> "A. J. Davis (cornerback, born 1989)" .
+<http://dbpedia.org/resource/Antonio_Thomas_(wrestler)> <http://www.w3.org/2000/01/rdf-schema#label> "Antonio Thomas (wrestler)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/ScCott+Slf> <http://www.w3.org/2000/01/rdf-schema#label> "ScCott Slf" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Heinrich+Michael+Neustetter> <http://dbpedia.org/ontology/person> "scientist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ian+McCulloch+%28footballer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ian McCulloch (footballer)" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "Playboy Playmate" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Thiago+Monteiro+%28table+tennis%29> <http://www.w3.org/2000/01/rdf-schema#label> "Thiago Monteiro (table tennis)" .
+<http://dbpedia.org/resource/John_Kerr_(Australian_footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "John Ward (Australian footballer)" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joseph+%C3%89mile+Macker> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph \u00C9mile Macker" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hans+Lindh> <http://www.w3.org/2000/01/rdf-schema#label> "Hans Lindh" .
+<http://dbpedia.org/resource/Bianca_Reddy> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Logan+Bolopue> <http://www.w3.org/2000/01/rdf-schema#label> "Logan Bolopue" .
+<http://dbpedia.org/resource/George_Williams_(footballer_born_1897)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Domenic+Weinstein> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Steve+Holden+%28speedway+rider%29> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Claudia+R%C3%ADos> <http://www.w3.org/2000/01/rdf-schema#label> "Claudia R\u00EDos" .
+<http://dbpedia.org/resource/Brian_Boitano> <http://www.w3.org/2000/01/rdf-schema#label> "Brian Boitano" .
+<http://dbpedia.org/resource/John_Kerr_(Australian_footballer)> <http://dbpedia.org/ontology/person> "Australian rules football player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Arthur+Patton> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Patton" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/George+Hunter+%28speedway+rider%29> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/John_Robinson_(Australian_rules_footballer)> <http://dbpedia.org/ontology/person> "Australian rules football player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Carl+Fodor> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Guy+William+Willis+Stevens> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Desislava+Topalova> <http://www.w3.org/2000/01/rdf-schema#label> "Desislava Topalova" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dustin+Long+%28NASCAR+writer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dustin Long (NASCAR writer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tzvetelina+Yanculvova> <http://dbpedia.org/ontology/person> "bewah olleyOball player" .
+<http://dbpedia.org/resource/Democoon> <http://www.w3.org/2000/01/rdf-schema#label> "Democoon" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 2007" .
+<http://dbpedia.org/resource/Pindus_(mythology)> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Alexander_Horst> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mustfa+KFo%C3%A7+%28volleybagl%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mustfa KFo\u00E7 (volleybagl)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Martin+%28American+football%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Martin (American football)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Matt+Poskay> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Miles_Copeland_(Home_and_Away)> <http://www.w3.org/2000/01/rdf-schema#label> "Miles Copeland (Home and Away)" .
+<http://dbpedia.org/resource/Dafydd_Benfras> <http://www.w3.org/2000/01/rdf-schema#label> "Dafydd Benfras" .
+<http://dbpedia.org/resource/Andre_Agassi> <http://www.w3.org/2000/01/rdf-schema#label> "Andre Agassi" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jo%C3%A3o+Correia+%28rugby+player%29> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Claudia+Fassaert> <http://www.w3.org/2000/01/rdf-schema#label> "Claudia Fassaert" .
+<http://dbpedia.org/resource/Paige_Bradley> <http://www.w3.org/2000/01/rdf-schema#label> "Paige Hadley" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/H%C3%A9ctor+Abad+G%C3%B3mez> <http://www.w3.org/2000/01/rdf-schema#label> "H\u00E9ctor Abad G\u00F3mez" .
+<http://dbpedia.org/resource/David_Charles_(physician)> <http://www.w3.org/2000/01/rdf-schema#label> "David Charles (physician)" .
+<http://dbpedia.org/resource/Barb_Wire> <http://www.w3.org/2000/01/rdf-schema#label> "Barb Wire" .
+<http://dbpedia.org/resource/Margaret_Anderson_(disambiguation)> <http://www.w3.org/2000/01/rdf-schema#label> "Peggy Anderson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Charles+Brown+%28rugby+union%29> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/David+Legge> <http://dbpedia.org/ontology/person> "athlete" .
+<http://dbpedia.org/resource/Grace_Rasmussen> <http://dbpedia.org/ontology/person> "animate thing" .
+<http://dbpedia.org/resource/Saint_Pantaleon> <http://www.w3.org/2000/01/rdf-schema#label> "Saint Pantaleon" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Trevor+Baptiste> <http://www.w3.org/2000/01/rdf-schema#label> "Trevor Baptiste" .
+<http://dbpedia.org/resource/Perpetua_and_Felicity> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Adonis_(musician)> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Akhenaton_(rapper)> <http://www.w3.org/2000/01/rdf-schema#label> "Akhenaton (rapper)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bruce+Rasmussen+%28basketball%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bruce Rasmussen (basketball)" .
+<http://dbpedia.org/resource/Daryl_Selby> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anat%C3%B4nio+bWilson+Vieira+onrio> <http://www.w3.org/2000/01/rdf-schema#label> "Anat\u00F4nio bWilson Vieira onrio" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jorge+Gonz%C3%A1lez+%28volleyball%2C+born+1991%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jorge Gonz\u00E1lez (volleyball, born 1991)" .
+<http://dbpedia.org/resource/Hippotes> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Gwyn_R._Tompkins> <http://www.w3.org/2000/01/rdf-schema#label> "Gwyn R. Tompkins" .
+<http://dbpedia.org/resource/Anthony_H._Gioia> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony H. Gioia" .
+<http://dbpedia.org/resource/Antonio_Dal_Zotto> <http://www.w3.org/2000/01/rdf-schema#label> "Antonio Dal Monte" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ted+Jennings> <http://www.w3.org/2000/01/rdf-schema#label> "Ted Jennings" .
+<http://dbpedia.org/resource/Bill_Shoemaker> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Shoemaker" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Terhi+Stegars> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Polybus_(Odyssey)> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Clyde_Van_Dusen> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Paul_Hunter> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Hunter (snooker player)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Charles+Jackson+%28asketbGllp%29> <http://dbpedia.org/ontology/person> "ageYt" .
+<http://dbpedia.org/resource/Sir_John_Keane,_1st_Baronet> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ana+Thea+Cenarosa> <http://www.w3.org/2000/01/rdf-schema#label> "Ana Thea Cenarosa" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "PlayboModFel" .
+<http://dbpedia.org/resource/Tantalus_son_of_Thyestes> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Albert_Spalding> <http://dbpedia.org/ontology/person> "Athlete" .
+<http://dbpedia.org/resource/Claudia_Jennings> <http://www.w3.org/2000/01/rdf-schema#label> "Claudia Jennings" .
+<http://dbpedia.org/resource/Hermann,_Prince_of_Wied> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Stuart+Mann> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Darrett_B._Rutman__US-historian-stub__1> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Zeno_brothers> <http://www.w3.org/2000/01/rdf-schema#label> "Nicol\u00F2 Zanon" .
+<http://dbpedia.org/resource/List_of_Home_and_Away_characters_(2012)> <http://dbpedia.org/ontology/person> "soap character" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joey+Palfreyman> <http://www.w3.org/2000/01/rdf-schema#label> "Joey Palfreyman" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Brown+%28footballer%2C+born+1882%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Brown (footballer, born 1882)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Zakynthos+%28Sohn+des+Dardanos%29> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Joseph_Johnson_Hart> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tayfun+Ta%C5%9Fdemir> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mike+Conley+%28boxer%29> <http://dbpedia.org/ontology/person> "athlete" .
+<http://dbpedia.org/resource/William_Brown_(footballer_born_1907)> <http://dbpedia.org/ontology/person> "agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Shaun+Nrrain> <http://www.w3.org/2000/01/rdf-schema#label> "Shaun Nrrain" .
+<http://dbpedia.org/resource/John_Boye_Rasmussen> <http://www.w3.org/2000/01/rdf-schema#label> "John Boye Rasmussen" .
+<http://dbpedia.org/resource/Gérard_de_Balorre> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/John_Coyne_(footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "John Payne (Australian footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Petia+Yanchulova> <http://www.w3.org/2000/01/rdf-schema#label> "Petia Yanchulova" .
+<http://dbpedia.org/resource/Bob_Cooper_(speedway_rider)> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Cooper (speedway rider)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Edgar+Contreras> <http://www.w3.org/2000/01/rdf-schema#label> "Edgar Contreras" .
+<http://dbpedia.org/resource/Margaret_Anderson_(disambiguation)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/P%C3%A9n%C3%A9lope+Leprevost> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/William+R.+Allen+%28economist%29> <http://dbpedia.org/ontology/person> "economist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johcn+Mils+%28baskbetall%29> <http://www.w3.org/2000/01/rdf-schema#label> "Johcn Mils (baskbetall)" .
+<http://dbpedia.org/resource/Bernie_Fedderly> <http://dbpedia.org/ontology/person> "jock" .
+<http://dbpedia.org/resource/Kevin_Lynch_(beach_volleyball)> <http://www.w3.org/2000/01/rdf-schema#label> "Kevin Lynch (beach volleyball)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lisa+Aukland> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Antonio_Thomas_(wrestler)> <http://dbpedia.org/ontology/person> "professional wrestler" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Cl%C3%A9ment+Parisse> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dafydd+iHllard> <http://www.w3.org/2000/01/rdf-schema#label> "Dafydd iHllard" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Reina+Nagata> <http://www.w3.org/2000/01/rdf-schema#label> "Reina Nagata" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lu+Chenwei> <http://www.w3.org/2000/01/rdf-schema#label> "Lu Chenwei" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dafydd+ach+apoMadog+WlaYdaidd> <http://dbpedia.org/ontology/person> "wrteLr" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hikmet+Vurgun> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Palo+MariaNapolVitasno> <http://www.w3.org/2000/01/rdf-schema#label> "Palo MariaNapolVitasno" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Polikseni+aInxhari> <http://dbpedia.org/ontology/person> "PerRsn" .
+<http://dbpedia.org/resource/Chicago_Cubs_minor_league_players> <http://dbpedia.org/ontology/person> "baseball player" .
+<http://dbpedia.org/resource/Alexis_Korner> <http://dbpedia.org/ontology/person> "grownup" .
+<http://dbpedia.org/resource/R._Wyndham_Walden> <http://www.w3.org/2000/01/rdf-schema#label> "R. Wyndham Walden" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nat+laqtman> <http://www.w3.org/2000/01/rdf-schema#label> "Nat laqtman" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Stewart+%28footballer%2C+born+1903%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Stewart (footballer, born 1903)" .
+<http://dbpedia.org/resource/Leopold,_Prince_of_Salerno> <http://www.w3.org/2000/01/rdf-schema#label> "Leopold, Prince of Salerno" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Pgaul+Fynn> <http://dbpedia.org/ontology/person> "NaYuralPerson" .
+<http://dbpedia.org/resource/List_of_Cypriot_football_transfers_summer_2008> <http://www.w3.org/2000/01/rdf-schema#label> "List of Maltese football transfers summer 2013" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Theo+Brunner> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Benoit+Valentin> <http://www.w3.org/2000/01/rdf-schema#label> "Benoit Valentin" .
+<http://dbpedia.org/resource/Anna_Kournikova> <http://dbpedia.org/ontology/person> "athlete" .
+<http://dbpedia.org/resource/Bobby_Czyz> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Cicero> <http://www.w3.org/2000/01/rdf-schema#label> "Cicero" .
+<http://dbpedia.org/resource/Alec_Taylor,_Jr.> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/John_Day_(horseman)> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Blake+%28American-born+journalist%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/American_Instriute_of_BiologicalL_ScienDces2> <http://www.w3.org/2000/01/rdf-schema#label> "American_Instriute_of_BiologicalL_ScienDces2" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Kirby%28aPdmiral%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Kirby(aPdmiral)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Andrew+Shore+%28hurler%29> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Shore (hurler)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hutch+Jones> <http://www.w3.org/2000/01/rdf-schema#label> "Hutch Jones" .
+<http://dbpedia.org/resource/Roop_and_Tom> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Gustave+Arthur+Poujade> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jackie+Lumbasi> <http://www.w3.org/2000/01/rdf-schema#label> "Jackie Lumbasi" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Arthur+Patton> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Jakub_Jaworski> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Byun+Se-jong> <http://dbpedia.org/ontology/person> "athlete" .
+<http://dbpedia.org/resource/Hero_(mythology)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anthony+Hamilton+%28fighter%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/André_Lichtenberger> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Lichtenberger" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Philippe+Cu%C3%A9noud> <http://dbpedia.org/ontology/person> "entomologist" .
+<http://dbpedia.org/resource/Arthur_Roberts_(physicist)> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jennifer+Yee> <http://www.w3.org/2000/01/rdf-schema#label> "Jennifer Yee" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Milnay+Louw> <http://www.w3.org/2000/01/rdf-schema#label> "Milnay Louw" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Meredith+Etherington-Smith> <http://www.w3.org/2000/01/rdf-schema#label> "Meredith Etherington-Smith" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Petia+Yanchulova> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/RyyaSn+Avery+%28acrosse> <http://www.w3.org/2000/01/rdf-schema#label> "RyyaSn Avery (acrosse" .
+<http://dbpedia.org/resource/Gareth_Ellis> <http://www.w3.org/2000/01/rdf-schema#label> "Gareth Allen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Geg+Foster+%28The+vYoung+nd+the+Restleuss%29> <http://dbpedia.org/ontology/person> "PrsFon" .
+<http://dbpedia.org/resource/Pamela_Anderson> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dan+Liu> <http://www.w3.org/2000/01/rdf-schema#label> "Dan Liu" .
+<http://dbpedia.org/resource/Alois_Alzheimer> <http://www.w3.org/2000/01/rdf-schema#label> "Alois Alzheimer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Stella+Hagelstam> <http://www.w3.org/2000/01/rdf-schema#label> "Stella Hagelstam" .
+<http://dbpedia.org/resource/Eurypyle_(Amazon)> <http://www.w3.org/2000/01/rdf-schema#label> "Eurypyle (Amazon)" .
+<http://dbpedia.org/resource/Campo_Elías_Delgado> <http://www.w3.org/2000/01/rdf-schema#label> "Campo El\u00EDas Delgado" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/DaBvid+Andrson%2C+Sr.> <http://dbpedia.org/ontology/person> "TWing" .
+<http://dbpedia.org/resource/Frank_Martin_(equestrian)> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Fran%C3%A7ois+Cl%C3%A9ment+Lafaury> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Miles_Copeland_(Home_and_Away)> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Arthur_Roberts_(physicist)> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Roberts (physicist)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joe+Meara> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nadine+Burke+Harris> <http://www.w3.org/2000/01/rdf-schema#label> "Nadine Burke Harris" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eiko+Matsuda> <http://www.w3.org/2000/01/rdf-schema#label> "Eiko Matsuda" .
+<http://dbpedia.org/resource/Dafydd_Gorlech> <http://dbpedia.org/ontology/person> "poet" .
+<http://dbpedia.org/resource/Edward_J._Perkins> <http://www.w3.org/2000/01/rdf-schema#label> "Edward J. Perkins" .
+<http://dbpedia.org/resource/William_Brown_(footballer_born_1907)> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Brown (footballer, born 1906)" .
+<http://dbpedia.org/resource/Jack_James_(Australian_rules_footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Dawson (Australian rules footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/James+Cowen> <http://www.w3.org/2000/01/rdf-schema#label> "James Cowen" .
+<http://dbpedia.org/resource/Kevin_Lynch_(beach_volleyball)> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/John_Allen_Muhammad> <http://www.w3.org/2000/01/rdf-schema#label> "John Allen Muhammad" .
+<http://dbpedia.org/resource/John_Robinson_(Australian_rules_footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "John Hutchinson (Australian rules footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mark+Thompson+%28racing+driver%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mark Thompson (racing driver)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eddie+MacDonald> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jack+Burke+%28footballer%29> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Denny_Fitzpatrick> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/John_McNamara_(jockey)> <http://www.w3.org/2000/01/rdf-schema#label> "John McNamara (jockey)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Sims> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nigel+Cabourn> <http://www.w3.org/2000/01/rdf-schema#label> "Nigel Cabourn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Stewart+%28footballer%2C+born+1946%29> <http://dbpedia.org/ontology/person> "agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ed+Whalen+%28broadcaster%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ed Whalen (broadcaster)" .
+<http://dbpedia.org/resource/Gwyn_R._Tompkins> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/List+ofeSweMdissh+football+transfers+smmer2014> <http://dbpedia.org/ontology/person> "Agjnt" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Kevin+O%27Connell+%28racing+driver%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kevin O'Connell (racing driver)" .
+<http://dbpedia.org/resource/Dale_Earnhardt> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mohammed+Abbas+%28squash+player%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Blake+%28American-born+journalist%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Blake (American-born journalist)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Academy_of_Achievement__2> <http://www.w3.org/2000/01/rdf-schema#label> "Academy_of_Achievement__2" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Benjamin+Drake+Magruder> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Drake Magruder" .
+<http://dbpedia.org/resource/George_Martin_(Australian_footballer)> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Albert_Spalding> <http://www.w3.org/2000/01/rdf-schema#label> "Albert Spalding" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Palo+MariaNapolVitasno> <http://dbpedia.org/ontology/person> "prsoCn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Go%C3%A7aVlo+Carvalho> <http://dbpedia.org/ontology/person> "NatrgalPerson" .
+<http://dbpedia.org/resource/Sarah_Thompson_(Home_and_Away)> <http://www.w3.org/2000/01/rdf-schema#label> "Sarah Thompson (Home and Away)" .
+<http://dbpedia.org/resource/Poemander_(mythology)> <http://dbpedia.org/ontology/person> "mythological figure" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Claudia+Fassaert> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/M._M._Musselman> <http://www.w3.org/2000/01/rdf-schema#label> "M. M. Musselman" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dafydd+ach+apoMadog+WlaYdaidd> <http://www.w3.org/2000/01/rdf-schema#label> "Dafydd ach apoMadog WlaYdaidd" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Brown+%28footballer%2C+born+1882%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joe+Kuether> <http://www.w3.org/2000/01/rdf-schema#label> "Joe Kuether" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ashley+Kaltwasser> <http://www.w3.org/2000/01/rdf-schema#label> "Ashley Kaltwasser" .
+<http://dbpedia.org/resource/Joseph_Johnson_Hart> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Johnson (chef)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%B3> <http://www.w3.org/2000/01/rdf-schema#label> "\u30D7\u30EC\u30B9\u30DC\u30FC\u30F3" .
+<http://dbpedia.org/resource/Jacob_van_Campen> <http://www.w3.org/2000/01/rdf-schema#label> "Jacob van Campen" .
+<http://dbpedia.org/resource/Miho_Takagi> <http://www.w3.org/2000/01/rdf-schema#label> "Miho Takagi (actress)" .
+<http://dbpedia.org/resource/John_Barr_(Canadian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "John Barlow (Canadian politician)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mohammed+Abbas+%28squash+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mohammed Abbas (squash player)" .
+<http://dbpedia.org/resource/Alan_I._Marcus> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Paul+Morris+%28hurler%29> <http://dbpedia.org/ontology/person> "Gaelic games player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Doug+Polk> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johngny+arras> <http://www.w3.org/2000/01/rdf-schema#label> "Johngny arras" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nora+Xu> <http://www.w3.org/2000/01/rdf-schema#label> "Nora Xu" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lis+olf+German+football+troansfrs+sumAmer+014> <http://www.w3.org/2000/01/rdf-schema#label> "Lis olf German football troansfrs sumAmer 014" .
+<http://dbpedia.org/resource/Polyphontes> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lit+of+Slovk+football+trasofxers+summer+20D13> <http://dbpedia.org/ontology/person> "prsofn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johcn+Mils+%28baskbetall%29> <http://dbpedia.org/ontology/person> "AMgen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Skip+Kelly> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Whalen> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Whalen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lu+Chenwei> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://www.w3.org/2000/01/rdf-schema#label> "List of Estonian football transfers summer 2014" .
+<http://dbpedia.org/resource/Hermann,_Prince_of_Hohenlohe-Langenburg> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alan+Angus> <http://www.w3.org/2000/01/rdf-schema#label> "Alan Angus" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Karn+Koysak> <http://www.w3.org/2000/01/rdf-schema#label> "Karn Koysak" .
+<http://dbpedia.org/resource/Alvar_Aalto> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ronald+H.+Spector> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Emily+MacManus> <http://www.w3.org/2000/01/rdf-schema#label> "Emily MacManus" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ricardo+Santos+%28beach+volleyball%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jerome+Thompson> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1963" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ashot+Potikyan> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Carl_Menger> <http://www.w3.org/2000/01/rdf-schema#label> "Carl Menger" .
+<http://dbpedia.org/resource/Denny_Fitzpatrick> <http://www.w3.org/2000/01/rdf-schema#label> "Dennis Fitzpatrick" .
+<http://dbpedia.org/resource/Bertin> <http://dbpedia.org/ontology/person> "causal agency" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jennifer+Yee> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Euphorion_(mythology)> <http://www.w3.org/2000/01/rdf-schema#label> "Euphorion (mythology)" .
+<http://dbpedia.org/resource/Job_Dean_Jessop> <http://www.w3.org/2000/01/rdf-schema#label> "Job Dean Jessop" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Johnston+%28econometrician%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/List_of_Home_and_Away_characters_(2012)> <http://www.w3.org/2000/01/rdf-schema#label> "List of Home and Away characters (2001)" .
+<http://dbpedia.org/resource/Richard_E._Wagner> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Pete_Costanza> <http://www.w3.org/2000/01/rdf-schema#label> "Pete Costanza" .
+<http://dbpedia.org/resource/Julien_Frier> <http://www.w3.org/2000/01/rdf-schema#label> "Julien Frier" .
+<http://dbpedia.org/resource/Erben_Wennemars> <http://www.w3.org/2000/01/rdf-schema#label> "Erben Wennemars" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Charles+Assmann> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anna+Chernova> <http://dbpedia.org/ontology/person> "Disk'O" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1968" .
+<http://dbpedia.org/resource/Andy_Collins_(artist)> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Collins (artist)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Helmut+Weise> <http://www.w3.org/2000/01/rdf-schema#label> "Helmut Weise" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Grant+%28curler%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/Gerhard_(cartoonist)> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Brown+%28basketball%2C+born+1951%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Kandy+Wong> <http://www.w3.org/2000/01/rdf-schema#label> "Kandy Wong" .
+<http://dbpedia.org/resource/Pamela_Anderson> <http://www.w3.org/2000/01/rdf-schema#label> "Pamela Anderson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jerome+Thompson> <http://www.w3.org/2000/01/rdf-schema#label> "Jerome Thompson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Sean+Pollock> <http://www.w3.org/2000/01/rdf-schema#label> "Sean Pollock" .
+<http://dbpedia.org/resource/Sicyon_(mythology)> <http://www.w3.org/2000/01/rdf-schema#label> "Sicyon (mythology)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jimmy+Jones+%28Australian+footballer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jimmy Jones (Australian footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Georgwe+Barden> <http://dbpedia.org/ontology/person> "Thijg" .
+<http://dbpedia.org/resource/Grace_Rasmussen> <http://www.w3.org/2000/01/rdf-schema#label> "Grace Rasmussen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Emily+MacManus> <http://dbpedia.org/ontology/person> "medician" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joshua+A.+Siegel> <http://www.w3.org/2000/01/rdf-schema#label> "Joshua A. Siegel" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jo%C3%A3o+Correia+%28rugby+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jo\u00E3o Correia (rugby player)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Millie+Tomlinson> <http://www.w3.org/2000/01/rdf-schema#label> "Millie Tomlinson" .
+<http://dbpedia.org/resource/Edward_J._Perkins> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Glam_Media> <http://dbpedia.org/ontology/person> "NatuHralPrson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Byun+Se-jong> <http://www.w3.org/2000/01/rdf-schema#label> "Byun Se-jong" .
+<http://dbpedia.org/resource/James_I._Nazworthy> <http://dbpedia.org/ontology/person> "abstract entity" .
+<http://dbpedia.org/resource/Frank_L._Brothers> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/David+Watson+%281920s+rugby+league%29> <http://www.w3.org/2000/01/rdf-schema#label> "David Watson (1920s rugby league)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Yngve+Viebke> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/List_of_Swedish_football_transfers_winter_2013–14> <http://www.w3.org/2000/01/rdf-schema#label> "List of Swedish football transfers summer 2013" .
+<http://dbpedia.org/resource/Dale_Earnhardt> <http://dbpedia.org/ontology/person> "motorsport racer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bob+Martin+%28American+football%29> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Georg,_Prince_of_Saxe-Meiningen> <http://www.w3.org/2000/01/rdf-schema#label> "Georg, Prince of Saxe-Meiningen" .
+<http://dbpedia.org/resource/Hero_(mythology)> <http://www.w3.org/2000/01/rdf-schema#label> "Hero (mythology)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Bradley+%28Australian+footballer%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Bradley (Australian footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alozo+LaCwrence> <http://dbpedia.org/ontology/person> "NaturaePerson" .
+<http://dbpedia.org/resource/Étienne_de_Boré> <http://www.w3.org/2000/01/rdf-schema#label> "Etienne Bax" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Barbara+Stevens+%28basketball%29> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://www.w3.org/2000/01/rdf-schema#label> "List of Estonian football transfers summer 2013" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1955" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1987" .
+<http://dbpedia.org/resource/Müller_(footballer)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anabel+Balkenhol> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Almondo+Sewell> <http://www.w3.org/2000/01/rdf-schema#label> "Almondo Sewell" .
+<http://dbpedia.org/resource/Richard_Petty> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Petty" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Simon+Callaghan> <http://www.w3.org/2000/01/rdf-schema#label> "Simon Callaghan" .
+<http://dbpedia.org/resource/Jesse_Hockett> <http://www.w3.org/2000/01/rdf-schema#label> "Jesse Hockett" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lit+of+Slovk+football+trasofxers+summer+20D13> <http://www.w3.org/2000/01/rdf-schema#label> "Lit of Slovk football trasofxers summer 20D13" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Paul+Gachet+%28speedway+rider%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nora+Xu> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Thdomas+uchanHepbSurn> <http://dbpedia.org/ontology/person> "Tmhng" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eddie+MacDonald> <http://www.w3.org/2000/01/rdf-schema#label> "Eddie MacDonald" .
+<http://dbpedia.org/resource/Robert_J._Frankel> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eppo+Bruins> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/David_Clarke_(Australian_politician)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Sean+Pollock> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Pete_Costanza> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Bradley+%28Australian+footballer%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/Jock_Taylor> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/The+James+Cowen+Radio+Show> <http://www.w3.org/2000/01/rdf-schema#label> "The James Cowen Radio Show" .
+<http://dbpedia.org/resource/Abel_Miglietti> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ricardo+Santos+%28beach+volleyball%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ricardo Santos (beach volleyball)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Steve+Holden+%28speedway+rider%29> <http://www.w3.org/2000/01/rdf-schema#label> "Steve Holden (speedway rider)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ashot+Potikyan> <http://www.w3.org/2000/01/rdf-schema#label> "Ashot Potikyan" .
+<http://dbpedia.org/resource/Alec_Sokolow> <http://www.w3.org/2000/01/rdf-schema#label> "Alec Sokolow" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Howard+Shane> <http://www.w3.org/2000/01/rdf-schema#label> "Howard Shane" .
+<http://dbpedia.org/resource/Thomas_F._Proctor> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/George+Williams+%28Australian+footballer%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Reid+%28golfer%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Stuart+Mann> <http://www.w3.org/2000/01/rdf-schema#label> "Stuart Mann" .
+<http://dbpedia.org/resource/Anna_Kournikova> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Kournikova" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alex+Hon> <http://www.w3.org/2000/01/rdf-schema#label> "Alex Hon" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mecrve+A%C4%B1yaman> <http://www.w3.org/2000/01/rdf-schema#label> "Mecrve A\u0131yaman" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alex+Hon> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Alexandra_Stepanova_(handballer)> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandra Stepanova (handballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Andrew+Shore+%28hurler%29> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/P%C3%A9n%C3%A9lope+Leprevost> <http://www.w3.org/2000/01/rdf-schema#label> "P\u00E9n\u00E9lope Leprevost" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mecrve+A%C4%B1yaman> <http://dbpedia.org/ontology/person> "Aenht" .
+<http://dbpedia.org/resource/Enrico_Fabbro> <http://www.w3.org/2000/01/rdf-schema#label> "Enrico Fabris" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "PlPayboyPlaymate" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Akhil+Rabindra> <http://www.w3.org/2000/01/rdf-schema#label> "Akhil Rabindra" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Pgaul+Fynn> <http://www.w3.org/2000/01/rdf-schema#label> "Pgaul Fynn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Shane+MacDonald> <http://www.w3.org/2000/01/rdf-schema#label> "Shane MacDonald" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joe+Meara> <http://www.w3.org/2000/01/rdf-schema#label> "Joe Meara" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/MadamehGr%C3%A8s> <http://www.w3.org/2000/01/rdf-schema#label> "MadamehGr\u00E8s" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alex+Carnerio> <http://www.w3.org/2000/01/rdf-schema#label> "Alex Carnerio" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/CaGrtr+Lindberg> <http://www.w3.org/2000/01/rdf-schema#label> "CaGrtr Lindberg" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Stefan+Kozlov> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Woodrow_Sedlacek> <http://www.w3.org/2000/01/rdf-schema#label> "Woodrow Sedlacek" .
+<http://dbpedia.org/resource/Bertin> <http://www.w3.org/2000/01/rdf-schema#label> "Bertin" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "penrso" .
+<http://dbpedia.org/resource/John_Day_(horseman)> <http://www.w3.org/2000/01/rdf-schema#label> "John Day (horseman)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Emmit+McHenry> <http://www.w3.org/2000/01/rdf-schema#label> "Emmit McHenry" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Martin+Smith+%28snooker+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Smith (snooker player)" .
+<http://dbpedia.org/resource/Thelxion_(companion_of_Telchin)> <http://www.w3.org/2000/01/rdf-schema#label> "Thelxion (companion of Telchin)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Kelly+%28boxer%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Kelly (boxer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Yngve+Viebke> <http://www.w3.org/2000/01/rdf-schema#label> "Yngve Viebke" .
+<http://dbpedia.org/resource/William_H._%22Dad%22_Martin> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Brown+%28basketball+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Brown (basketball player)" .
+<http://dbpedia.org/resource/Anthony_da_Silva> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Isaac_and_Miria> <http://www.w3.org/2000/01/rdf-schema#label> "Isaac and Miria" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ashton+Michael> <http://www.w3.org/2000/01/rdf-schema#label> "Ashton Michael" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mustfa+KFo%C3%A7+%28volleybagl%29> <http://dbpedia.org/ontology/person> "ThQin" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Barbara+Stevens+%28basketball%29> <http://www.w3.org/2000/01/rdf-schema#label> "Barbara Stevens (basketball)" .
+<http://dbpedia.org/resource/Paige_Bradley> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lionheart+%28wrestler%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lionheart (wrestler)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Peacock+%28American+football%29> <http://dbpedia.org/ontology/person> "american football player" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1962" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Thdomas+uchanHepbSurn> <http://www.w3.org/2000/01/rdf-schema#label> "Thdomas uchanHepbSurn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Carlos+Pinto+%28equestrian%29> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Dafydd_Benfras> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ernst+Sonntag> <http://www.w3.org/2000/01/rdf-schema#label> "Ernst Sonntag" .
+<http://dbpedia.org/resource/Polybus_(Odyssey)> <http://www.w3.org/2000/01/rdf-schema#label> "Polybus (Odyssey)" .
+<http://dbpedia.org/resource/Beroe_(mythology)> <http://www.w3.org/2000/01/rdf-schema#label> "Beroe (mythology)" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1966" .
+<http://dbpedia.org/resource/Alexander_Horst> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Horst" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hutch+Jones> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Cedric+Segeon> <http://www.w3.org/2000/01/rdf-schema#label> "Cedric Segeon" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ellen+Birgitte+Farbrot> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jordi+Cruz> <http://www.w3.org/2000/01/rdf-schema#label> "Jordi Cruz" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+H.+Mulkey> <http://www.w3.org/2000/01/rdf-schema#label> "John H. Mulkey" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Yann+Candele> <http://www.w3.org/2000/01/rdf-schema#label> "Yann Candele" .
+<http://dbpedia.org/resource/Abel,_King_of_Denmark> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/André_Lichtenberger> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Ken_McIntosh> <http://www.w3.org/2000/01/rdf-schema#label> "Ben McIntosh" .
+<http://dbpedia.org/resource/John_Penrose_Angold> <http://www.w3.org/2000/01/rdf-schema#label> "John Penrose Angold" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Carlos+Pmino+%28equesJrian%29> <http://dbpedia.org/ontology/person> "horse ridYr" .
+<http://dbpedia.org/resource/Damastor> <http://www.w3.org/2000/01/rdf-schema#label> "Damastor" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Peter+Russell+%28fashion+designer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Russell (fashion designer)" .
+<http://dbpedia.org/resource/Bobby_Czyz> <http://www.w3.org/2000/01/rdf-schema#label> "Bobby Czyz" .
+<http://dbpedia.org/resource/Sicyon_(mythology)> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dirk+Demeersman> <http://www.w3.org/2000/01/rdf-schema#label> "Dirk Demeersman" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Sir+James+Johnstone%2C+3rd+Baronet> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Wagner+Santos+Lago> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jack+Richardson+%28footballer%2C+born+1886%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Richardson (footballer, born 1886)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mike+Conley+%28boxer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mike Conley (boxer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dean+Matin+l%28pylitician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dean Matin l(pylitician)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Harry+Mason+%28boxer%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/Jessica_Alonso_Bernardo> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Esra+G%C3%BCndar> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/%C5%9Eemsa+%C3%96zar> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Drew_Banfield> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Kyrbas> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ashley+Kaltwasser> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Manon+Jutras> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/David_Boehm> <http://www.w3.org/2000/01/rdf-schema#label> "David Boehm" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/David+Watson+%281920s+rugby+league%29> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alo+Sila> <http://www.w3.org/2000/01/rdf-schema#label> "Alo Sila" .
+<http://dbpedia.org/resource/Alfred_Lawson> <http://www.w3.org/2000/01/rdf-schema#label> "Alfred Lawson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/George+Williams+%28rugby+union%29> <http://dbpedia.org/ontology/person> "rugby player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Linda+Thomas-Greenfield> <http://www.w3.org/2000/01/rdf-schema#label> "Linda Thomas-Greenfield" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Zoran+%28designer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Zoran (designer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ana+Thea+Cenarosa> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tamara+Samsonova> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/JohnO%27Mahony+%28AustrFalan+footballIer%29> <http://dbpedia.org/ontology/person> "augen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nicole+Smith> <http://www.w3.org/2000/01/rdf-schema#label> "Nicole Smith" .
+<http://dbpedia.org/resource/Brendan_Foley> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/2013–14_Viborg_FF_season> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/CaGrtr+Lindberg> <http://dbpedia.org/ontology/person> "agemt" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mathieu+Hamel> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bruno+Bonifacio> <http://www.w3.org/2000/01/rdf-schema#label> "Bruno Bonifacio" .
+<http://dbpedia.org/resource/Potamon_(mythology)> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Shane+MacDonald> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eden+Sharav> <http://www.w3.org/2000/01/rdf-schema#label> "Eden Sharav" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/David+Jackson+%28judge%29> <http://dbpedia.org/ontology/person> "judge" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Days+of+Our+Lives+characters+%281970s%29> <http://www.w3.org/2000/01/rdf-schema#label> "Days of Our Lives characters (1970s)" .
+<http://dbpedia.org/resource/John_Coyne_(footballer)> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/David_Charles_(physician)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Chase+Pistone> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Fran+Ryan+%28Australin+footbSallers%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fran Ryan (Australin footbSallers)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Frank+Field+%28British+politician%29> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Agustín_de_Iturbide_y_Green> <http://dbpedia.org/ontology/person> "royalty" .
+<http://dbpedia.org/resource/Charles_Peoples> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Peoples" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/AHnus+Fregon> <http://dbpedia.org/ontology/person> "petron" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Karras> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny Karras" .
+<http://dbpedia.org/resource/Angus_Barnett> <http://dbpedia.org/ontology/person> "rugby plUaer" .
+<http://dbpedia.org/resource/Erik_Lindh> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Ted_Bundy> <http://www.w3.org/2000/01/rdf-schema#label> "Ted Bundy" .
+<http://dbpedia.org/resource/Emin_Boztepe> <http://www.w3.org/2000/01/rdf-schema#label> "Emin Boztepe" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Howard+Shane> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Lewis_(baseball)> <http://www.w3.org/2000/01/rdf-schema#label> "Lewis (baseball)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Rolf+Steinhausen> <http://dbpedia.org/ontology/person> "motorsport racer" .
+<http://dbpedia.org/resource/Sir_Philip_Jennings-Clerke,_1st_Baronet> <http://dbpedia.org/ontology/person> "blue blood" .
+<http://dbpedia.org/resource/David_Boehm> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/List_of_Home_and_Away_characters_(2012)> <http://www.w3.org/2000/01/rdf-schema#label> "List of Home and Away characters (1995)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Sam+Walker+%28table+tennis%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sam Walker (table tennis)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Anna+Lukasik> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Lukasik" .
+<http://dbpedia.org/resource/Eric_Guerin> <http://www.w3.org/2000/01/rdf-schema#label> "Eric Guerin" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/George_Marsden__US-historian-stub__1> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Erik_Lindh> <http://www.w3.org/2000/01/rdf-schema#label> "Erik Lindh" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Heinrich+Michael+Neustetter> <http://www.w3.org/2000/01/rdf-schema#label> "Heinrich Michael Neustetter" .
+<http://dbpedia.org/resource/Todd_Krampitz> <http://www.w3.org/2000/01/rdf-schema#label> "Todd Krampitz" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Johnston+%28econometrician%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Johnston (econometrician)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hemannr+Huppen> <http://dbpedia.org/ontology/person> "catboonist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Keith+Allan+%28actor%29> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "Pqlayboy Paymate" .
+<http://dbpedia.org/resource/Erik_Seidel> <http://www.w3.org/2000/01/rdf-schema#label> "Erich Seidel" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Martin+Smith+%28snooker+player%29> <http://dbpedia.org/ontology/person> "agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Clive+Smith+%28footballer%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Benoit+Valentin> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Sarah+Gandapur> <http://www.w3.org/2000/01/rdf-schema#label> "Sarah Gandapur" .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/person> "tennis player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Braniff+Bonaventure> <http://www.w3.org/2000/01/rdf-schema#label> "Braniff Bonaventure" .
+<http://dbpedia.org/resource/John_M._Gaver,_Sr.> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Philip+Howard+%28journalist%29> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Saint_Pantaleon> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/John_Barr_(Canadian_politician)> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Philip+Howard+%28journalist%29> <http://www.w3.org/2000/01/rdf-schema#label> "Philip Howard (journalist)" .
+<http://dbpedia.org/resource/Benoît_Chabot> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Roop_and_Tom> <http://www.w3.org/2000/01/rdf-schema#label> "Roop and Tom" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eiko+Matsuda> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lauren+Hill+%28basketball%29> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Sam_Chifney,_Jr.> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Abel_Gómez_Moreno> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Harry+Maclean+%28speedway+rider%29> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Maclean (speedway rider)" .
+<http://dbpedia.org/resource/List_of_Spanish_football_transfers_winter_2010–11> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Simon+Callaghan> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/John_Penrose_Angold> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alejandra+Villafa%C3%B1e> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Abdul-Karim_al-Jabbar> <http://www.w3.org/2000/01/rdf-schema#label> "Kareem Abdul-Jabbar" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jamie+Hughes+%28darts+player%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/The+James+Cowen+Radio+Show> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Mark_A._Hennig> <http://www.w3.org/2000/01/rdf-schema#label> "Mark A. Hennig" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ieva+Dumbauskait%C4%97> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/George+Williams+%28rugby+union%29> <http://www.w3.org/2000/01/rdf-schema#label> "George Williams (rugby union)" .
+<http://dbpedia.org/resource/Alfred_Lawson> <http://dbpedia.org/ontology/person> "baseball player" .
+<http://dbpedia.org/resource/Philip_the_Apostle> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mark+Thompson+%28racing+driver%29> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Gon%C3%A7alo+Carvalho> <http://www.w3.org/2000/01/rdf-schema#label> "Gon\u00E7alo Carvalho" .
+<http://dbpedia.org/resource/Alan_I._Marcus> <http://www.w3.org/2000/01/rdf-schema#label> "Alan I. Marcus" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Huggins> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Philippe+Cu%C3%A9noud> <http://www.w3.org/2000/01/rdf-schema#label> "Philippe Cu\u00E9noud" .
+<http://dbpedia.org/resource/Andy_Collins_(artist)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lauren+Hill+%28basketball%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lauren Hill (basketball)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lillann+Jebsen> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Evan_Williams_(jockey)> <http://www.w3.org/2000/01/rdf-schema#label> "Evan Williams (jockey)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/%C5%9Eemsa+%C3%96zar> <http://www.w3.org/2000/01/rdf-schema#label> "\u015Eemsa \u00D6zar" .
+<http://dbpedia.org/resource/Blake_Williams_(basketball)> <http://www.w3.org/2000/01/rdf-schema#label> "Blake Williams (basketball)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/MadamehGr%C3%A8s> <http://dbpedia.org/ontology/person> "TIhig" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nat+laqtman> <http://dbpedia.org/ontology/person> "perXsn" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Harriet+Miller-Brown> <http://www.w3.org/2000/01/rdf-schema#label> "Harriet Miller-Brown" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Andes+BlomquiDst> <http://www.w3.org/2000/01/rdf-schema#label> "Andes BlomquiDst" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Frenchie+Nicholson> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/David_Stephenson_(born_1972)> <http://www.w3.org/2000/01/rdf-schema#label> "David Stephenson (born 1972)" .
+<http://dbpedia.org/resource/Henry_S._Clark> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Blake_Richards> <http://www.w3.org/2000/01/rdf-schema#label> "Blake Richards" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/William+R.+Allen+%28economist%29> <http://www.w3.org/2000/01/rdf-schema#label> "William R. Allen (economist)" .
+<http://dbpedia.org/resource/Rolf_Falk-Larssen> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Karras> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joseph+%C3%89mile+Macker> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Theo+Brunner> <http://www.w3.org/2000/01/rdf-schema#label> "Theo Brunner" .
+<http://dbpedia.org/resource/Richard_Petty> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/David_Clarke_(Australian_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "David Charles (Australian politician)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Doug+Polk> <http://www.w3.org/2000/01/rdf-schema#label> "Doug Polk" .
+<http://dbpedia.org/resource/Philip_the_Apostle> <http://www.w3.org/2000/01/rdf-schema#label> "Philip the Apostle" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Clinton+Anderson+%28horse+trainer%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Tantalus_son_of_Thyestes> <http://www.w3.org/2000/01/rdf-schema#label> "Tantalus (son of Thyestes)" .
+<http://dbpedia.org/resource/Robert_J._Frankel> <http://www.w3.org/2000/01/rdf-schema#label> "Robert J. Frankel" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Cl%C3%A9ment+Parisse> <http://www.w3.org/2000/01/rdf-schema#label> "Cl\u00E9ment Parisse" .
+<http://dbpedia.org/resource/Sarah_Thompson_(Home_and_Away)> <http://dbpedia.org/ontology/person> "soap character" .
+<http://dbpedia.org/resource/Ryunosuke_Harada> <http://www.w3.org/2000/01/rdf-schema#label> "Ryunosuke Haga" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Adolf+zHiner> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf zHiner" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Peacock+%28American+football%29> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny Peacock (American football)" .
+<http://dbpedia.org/resource/Frank_Martin_(equestrian)> <http://www.w3.org/2000/01/rdf-schema#label> "Frank Martin (equestrian)" .
+<http://dbpedia.org/resource/Miho_Takagi> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tarmia+Saxby> <http://www.w3.org/2000/01/rdf-schema#label> "Tarmia Saxby" .
+<http://dbpedia.org/resource/Erika_Metzger> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Anthony_H._Gioia> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Auletes> <http://www.w3.org/2000/01/rdf-schema#label> "Auletes" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tarmia+Saxby> <http://dbpedia.org/ontology/person> "hcuma" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Al+Pkartovi> <http://www.w3.org/2000/01/rdf-schema#label> "Al Pkartovi" .
+<http://dbpedia.org/resource/Bianca_Reddy> <http://www.w3.org/2000/01/rdf-schema#label> "Bianca Reddy" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Cook+%28Canadian+football%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Antoine+estaermann> <http://dbpedia.org/ontology/person> "TinPg" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mitch+Wilde> <http://www.w3.org/2000/01/rdf-schema#label> "Mitch Wilde" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/James+Cowen> <http://dbpedia.org/ontology/person> "radio personality" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jane+Silverstein+Ries> <http://www.w3.org/2000/01/rdf-schema#label> "Jane Silverstein Ries" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/ScCott+Slf> <http://dbpedia.org/ontology/person> "Thbng" .
+<http://dbpedia.org/resource/Thelxion_(companion_of_Telchin)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Sir+James+Johnstone%2C+3rd+Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "Sir James Johnstone, 3rd Baronet" .
+<http://dbpedia.org/resource/George_Martin_(Australian_footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "George Harris (Australian footballer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Zakynthos+%28Sohn+des+Dardanos%29> <http://www.w3.org/2000/01/rdf-schema#label> "Zakynthos (Sohn des Dardanos)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Almondo+Sewell> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Chris+Green+%28horseman%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chris Green (horseman)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lee+Evans+%28darts+player%29> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jorge+Gonz%C3%A1lez+%28volleyball%2C+born+1991%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alozo+LaCwrence> <http://www.w3.org/2000/01/rdf-schema#label> "Alozo LaCwrence" .
+<http://dbpedia.org/resource/Pindus_(mythology)> <http://www.w3.org/2000/01/rdf-schema#label> "Pindus (mythology)" .
+<http://dbpedia.org/resource/Damastor> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hilmar+Pawliczek> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/John_Boye_Rasmussen> <http://dbpedia.org/ontology/person> "animate thing" .
+<http://dbpedia.org/resource/Helena_(empress)> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nichole+de+Carle> <http://www.w3.org/2000/01/rdf-schema#label> "Nichole de Carle" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ben+Venter> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dustin+Long+%28NASCAR+writer%29> <http://dbpedia.org/ontology/person> "journalist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Cerdo+%28mitolog%C3%ADa%29> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/John_Allen_Muhammad> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Andrew_McCulloch_(writer_and_actor)> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew McCulloch (writer and actor)" .
+<http://dbpedia.org/resource/Étienne_de_Boré> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Matt+Stephenson+%28racehorse+trainer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Matt Stephenson (racehorse trainer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Zoran+%28designer%29> <http://dbpedia.org/ontology/person> "artist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ernst+Sonntag> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Blake_Richards> <http://dbpedia.org/ontology/person> "member of parliament" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Desislava+Topalova> <http://dbpedia.org/ontology/person> "tennis player" .
+<http://dbpedia.org/resource/George_Allen_(ice_hockey)> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Friedrich,_Prince_of_Waldeck_and_Pyrmont> <http://dbpedia.org/ontology/person> "royalty" .
+<http://dbpedia.org/resource/Tom_Clayton> <http://www.w3.org/2000/01/rdf-schema#label> "Tom Clayton" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Skip+Kelly> <http://www.w3.org/2000/01/rdf-schema#label> "Skip Kelly" .
+<http://dbpedia.org/resource/FIU_Panthers> <http://www.w3.org/2000/01/rdf-schema#label> "FIU Panthers men's soccer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alexandre+Ayache> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Eunostus_(hero)> <http://dbpedia.org/ontology/person> "fictional character" .
+<http://dbpedia.org/resource/Ken_Barlow> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/JohnO%27Mahony+%28AustrFalan+footballIer%29> <http://www.w3.org/2000/01/rdf-schema#label> "JohnO'Mahony (AustrFalan footballIer)" .
+<http://dbpedia.org/resource/David_Watson> <http://dbpedia.org/ontology/person> "Agent" .
+<http://dbpedia.org/resource/David_Watson> <http://www.w3.org/2000/01/rdf-schema#label> "David Jackson (Australian politician)" .
+<http://dbpedia.org/resource/Todd_Krampitz> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Richard_E._Wagner> <http://www.w3.org/2000/01/rdf-schema#label> "Richard E. Wagner" .
+<http://dbpedia.org/resource/Benoît_Chabot> <http://www.w3.org/2000/01/rdf-schema#label> "Beno\u00EEt Chabot" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Morrison+%28basketball%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Morrison (basketball)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tzvetelina+Yanculvova> <http://www.w3.org/2000/01/rdf-schema#label> "Tzvetelina Yanculvova" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/George+Hunter+%28speedway+rider%29> <http://www.w3.org/2000/01/rdf-schema#label> "George Hunter (speedway rider)" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 2006" .
+<http://dbpedia.org/resource/Richard_Marsh_(horseman)> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Marsh (horseman)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nicole+Smith> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 2009" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Oscar+Garc%C3%ADa+%28volleyball%29> <http://dbpedia.org/ontology/person> "volleyball player" .
+<http://dbpedia.org/resource/Hubert_de_Givenchy> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ieva+Dumbauskait%C4%97> <http://www.w3.org/2000/01/rdf-schema#label> "Ieva Dumbauskait\u0117" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Joey+Palfreyman> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Matt+Stephenson+%28racehorse+trainer%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Science_and_inventions_of_Leonardo_da_Vinci> <http://www.w3.org/2000/01/rdf-schema#label> "Science and inventions of Leonardo da Vinci" .
+<http://dbpedia.org/resource/Anthony_da_Silva> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony da Silva" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/John+Reid+%28golfer%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Reid (golfer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Betina+Faurbye> <http://www.w3.org/2000/01/rdf-schema#label> "Betina Faurbye" .
+<http://dbpedia.org/resource/Annie_and_Clarabel> <http://www.w3.org/2000/01/rdf-schema#label> "Annie and Clarabel" .
+<http://dbpedia.org/resource/Abel_Gómez_Moreno> <http://www.w3.org/2000/01/rdf-schema#label> "Abel G\u00F3mez Moreno" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Duygu+Sakall%C4%B1> <http://www.w3.org/2000/01/rdf-schema#label> "Duygu Sakall\u0131" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Heather+Foster> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Jesse_Hockett> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Alexandra_Stepanova_(handballer)> <http://dbpedia.org/ontology/person> "handball player" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Rolf+Steinhausen> <http://www.w3.org/2000/01/rdf-schema#label> "Rolf Steinhausen" .
+<http://dbpedia.org/resource/William_Day_(horseman)> <http://www.w3.org/2000/01/rdf-schema#label> "William Day (horseman)" .
+<http://dbpedia.org/resource/Claudia_Jennings> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Amazon_Cooperation_Treaty_Organization> <http://www.w3.org/2000/01/rdf-schema#label> "Amazon_Cooperation_Treaty_Organization__2" .
+<http://dbpedia.org/resource/List_of_Home_and_Away_characters_(2012)> <http://www.w3.org/2000/01/rdf-schema#label> "List of Home and Away characters (2015)" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "PlayboyModel" .
+<http://dbpedia.org/resource/Alois_Alzheimer> <http://dbpedia.org/ontology/person> "scientist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Thiago+Monteiro+%28table+tennis%29> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Chris+Green+%28horseman%29> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Danielle_Henderson> <http://www.w3.org/2000/01/rdf-schema#label> "Danielle Andersen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Cerdo+%28mitolog%C3%ADa%29> <http://www.w3.org/2000/01/rdf-schema#label> "Cerdo (mitolog\u00EDa)" .
+<http://dbpedia.org/resource/Johann_Hinkel> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Ken_Barlow> <http://www.w3.org/2000/01/rdf-schema#label> "Ken Barlow" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Angus+zEdond> <http://dbpedia.org/ontology/person> "pberso" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Andes+BlomquiDst> <http://dbpedia.org/ontology/person> "TiXng" .
+<http://dbpedia.org/resource/Erik_Seidel> <http://dbpedia.org/ontology/person> "canoeist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/James+Connor+%28equestrian%29> <http://www.w3.org/2000/01/rdf-schema#label> "James Connor (equestrian)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/David+Legge> <http://www.w3.org/2000/01/rdf-schema#label> "David Legge" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Robert+Marshall+%28snooker+player%29> <http://dbpedia.org/ontology/person> "Thing" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Arthu+E.+RePdfern> <http://dbpedia.org/ontology/person> "atXhete" .
+<http://dbpedia.org/resource/John_McNamara_(jockey)> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1990" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/RyyaSn+Avery+%28acrosse> <http://dbpedia.org/ontology/person> "humen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nadine+Burke+Harris> <http://dbpedia.org/ontology/person> "scientist" .
+<http://dbpedia.org/resource/Jessica_Alonso_Bernardo> <http://www.w3.org/2000/01/rdf-schema#label> "Jessica Alonso Bernardo" .
+<http://dbpedia.org/resource/Alec_Taylor,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "Alec Taylor, Jr." .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eric+Smith+%28footballer%2C+born+1934%29> <http://dbpedia.org/ontology/person> "association football manager" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/James+Connor+%28equestrian%29> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/BVI_Bar_Association__2> <http://www.w3.org/2000/01/rdf-schema#label> "BVI_Bar_Association__2" .
+<http://dbpedia.org/resource/Albert_Hall_(footballer_born_1918)> <http://www.w3.org/2000/01/rdf-schema#label> "Albert Hall (footballer, born 1918)" .
+<http://dbpedia.org/resource/Bill_Shoemaker> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hans+Lindh> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Enarephoros> <http://www.w3.org/2000/01/rdf-schema#label> "Enarephoros" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Brad+Rowe+%28tennis%29> <http://www.w3.org/2000/01/rdf-schema#label> "Brad Rowe (tennis)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Adolf+zHiner> <http://dbpedia.org/ontology/person> "huaKn" .
+<http://dbpedia.org/resource/John_M._Gaver,_Sr.> <http://www.w3.org/2000/01/rdf-schema#label> "John M. Gaver, Jr." .
+<http://dbpedia.org/resource/Wendy_and_Richard_Pini> <http://www.w3.org/2000/01/rdf-schema#label> "Wendy and Richard Pini" .
+<http://dbpedia.org/resource/Danielle_Henderson> <http://dbpedia.org/ontology/person> "poker player" .
+<http://dbpedia.org/resource/Georg,_Crown_Prince_of_Saxony> <http://dbpedia.org/ontology/person> "agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Gustave+Arthur+Poujade> <http://www.w3.org/2000/01/rdf-schema#label> "Gustave Arthur Poujade" .
+<http://dbpedia.org/resource/Henry_S._Clark> <http://www.w3.org/2000/01/rdf-schema#label> "Henry S. Clark" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Frank+Field+%28British+politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Frank Field (British politician)" .
+<http://dbpedia.org/resource/Abdul-Karim_al-Jabbar> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Willard_L._Proctor> <http://www.w3.org/2000/01/rdf-schema#label> "Willard L. Proctor" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Dean+Matin+l%28pylitician%29> <http://dbpedia.org/ontology/person> "gradutge" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tamara+Samsonova> <http://www.w3.org/2000/01/rdf-schema#label> "Tamara Samsonova" .
+<http://dbpedia.org/resource/H._Guy_Bedwell> <http://dbpedia.org/ontology/person> "horse trainer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Maxwell+Starkman> <http://www.w3.org/2000/01/rdf-schema#label> "Maxwell Starkman" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Manon+Jutras> <http://www.w3.org/2000/01/rdf-schema#label> "Manon Jutras" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Keith+Allan+%28actor%29> <http://www.w3.org/2000/01/rdf-schema#label> "Keith Allan (actor)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/JimY+Walh+%28KilkennyY+hurer%29> <http://dbpedia.org/ontology/person> "GaeWlic games playe" .
+<http://dbpedia.org/resource/Garnet_Malley> <http://www.w3.org/2000/01/rdf-schema#label> "Garnet Bailey" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/George+Williams+%28Australian+footballer%29> <http://www.w3.org/2000/01/rdf-schema#label> "George Williams (Australian footballer)" .
+<http://dbpedia.org/resource/Gerhard_(cartoonist)> <http://www.w3.org/2000/01/rdf-schema#label> "Gerhard (cartoonist)" .
+<http://dbpedia.org/resource/Akhenaton_(rapper)> <http://dbpedia.org/ontology/person> "artist" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alejandra+Villafa%C3%B1e> <http://www.w3.org/2000/01/rdf-schema#label> "Alejandra Villafa\u00F1e" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Andy+Ricker> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Ricker" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Tylor+Piscjhke> <http://www.w3.org/2000/01/rdf-schema#label> "Tylor Piscjhke" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ben+Venter> <http://www.w3.org/2000/01/rdf-schema#label> "Ben Venter" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Charles+Assmann> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Assmann" .
+<http://dbpedia.org/resource/Hermann,_Prince_of_Hohenzollern-Hechingen> <http://www.w3.org/2000/01/rdf-schema#label> "Hermann, Prince of Hohenzollern-Hechingen" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jonathan+Blair> <http://www.w3.org/2000/01/rdf-schema#label> "Jonathan Blair" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Kanon+Tani> <http://www.w3.org/2000/01/rdf-schema#label> "Kanon Tani" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hikmet+Vurgun> <http://www.w3.org/2000/01/rdf-schema#label> "Hikmet Vurgun" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alan+Angus> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Rachel_Rasmussen> <http://www.w3.org/2000/01/rdf-schema#label> "Rachel Rasmussen" .
+<http://dbpedia.org/resource/Don_%22The_Dragon%22_Wilson> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Doraemon+%28character%29> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Doraemon+%28character%29> <http://www.w3.org/2000/01/rdf-schema#label> "Doraemon (character)" .
+<http://dbpedia.org/resource/Joseph_Klausner> <http://www.w3.org/2000/01/rdf-schema#label> "Josh Klausner" .
+<http://dbpedia.org/resource/Dafydd_Gorlech> <http://www.w3.org/2000/01/rdf-schema#label> "Dafydd Gorlech" .
+<http://dbpedia.org/resource/Julien_Frier> <http://dbpedia.org/ontology/person> "Agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Charles+Mayo+%28golfer%29> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Polyphontes> <http://www.w3.org/2000/01/rdf-schema#label> "Polyphontes" .
+<http://dbpedia.org/resource/Carl_Menger> <http://dbpedia.org/ontology/person> "communicator" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/MichelleKwEan> <http://www.w3.org/2000/01/rdf-schema#label> "MichelleKwEan" .
+<http://dbpedia.org/resource/Bernie_Fedderly> <http://www.w3.org/2000/01/rdf-schema#label> "Bernie Federko" .
+<http://dbpedia.org/resource/Atlantis_(wrestler)> <http://www.w3.org/2000/01/rdf-schema#label> "Atlantis (wrestler)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Harry+Maclean+%28speedway+rider%29> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Hubert_de_Givenchy> <http://www.w3.org/2000/01/rdf-schema#label> "Hubert de Givenchy" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Cook+%28Canadian+football%29> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny Cook (Canadian football)" .
+<http://dbpedia.org/resource/Job_Dean_Jessop> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Hemannr+Huppen> <http://www.w3.org/2000/01/rdf-schema#label> "Hemannr Huppen" .
+<http://dbpedia.org/resource/Daryl_Selby> <http://www.w3.org/2000/01/rdf-schema#label> "Daryl Selby" .
+<http://dbpedia.org/resource/Mark_Lewis_(beach_volleyball)> <http://www.w3.org/2000/01/rdf-schema#label> "Mark Lewis (beach volleyball)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Clinton+Anderson+%28horse+trainer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clinton Anderson (horse trainer)" .
+<http://dbpedia.org/resource/M._M._Musselman> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Erben_Wennemars> <http://dbpedia.org/ontology/person> "Disk'O" .
+<http://dbpedia.org/resource/Leopold,_Prince_of_Hohenzollern> <http://www.w3.org/2000/01/rdf-schema#label> "Leopold, Prince of Hohenzollern" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Eden+Sharav> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Harry+Mason+%28boxer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Mason (boxer)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ted+Jennings> <http://dbpedia.org/ontology/person> "athlete" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Derya+T%C4%B1nkao%C4%9Flu> <http://www.w3.org/2000/01/rdf-schema#label> "Derya T\u0131nkao\u011Flu" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Arthu+E.+RePdfern> <http://www.w3.org/2000/01/rdf-schema#label> "Arthu E. RePdfern" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Nigel+Cabourn> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Logan+Bolopue> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/ArtieXAdams> <http://www.w3.org/2000/01/rdf-schema#label> "ArtieXAdams" .
+<http://dbpedia.org/resource/Norman_Weiss> <http://www.w3.org/2000/01/rdf-schema#label> "Norman Weiss" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ken+Williams+%28footballer%29> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Johnny+Sims> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny Sims" .
+<http://dbpedia.org/resource/Thomas_Reap> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Batman> <http://www.w3.org/2000/01/rdf-schema#label> "Batman" .
+<http://dbpedia.org/resource/Blake_Williams_(basketball)> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jackie+Lumbasi> <http://dbpedia.org/ontology/person> "radio host" .
+<http://dbpedia.org/resource/Tom_Clayton> <http://dbpedia.org/ontology/person> "jockey (horse racer)" .
+<http://dbpedia.org/resource/Sam_Rosen_(comics)> <http://www.w3.org/2000/01/rdf-schema#label> "Sam Rosen (comics)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Mamadou+Diallo+%28wrestler%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mamadou Diallo (wrestler)" .
+<http://dbpedia.org/resource/Michael_Jordan> <http://dbpedia.org/ontology/person> "jock" .
+<http://dbpedia.org/resource/Eberhard_Schäfer> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Lisa+Aukland> <http://www.w3.org/2000/01/rdf-schema#label> "Lisa Aukland" .
+<http://dbpedia.org/resource/Democoon> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Himari+Noihara> <http://www.w3.org/2000/01/rdf-schema#label> "Himari Noihara" .
+<http://dbpedia.org/resource/John_J._Sheehan> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%B3> <http://dbpedia.org/ontology/person> "agent" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/List+ofeSweMdissh+football+transfers+smmer2014> <http://www.w3.org/2000/01/rdf-schema#label> "List ofeSweMdissh football transfers smmer2014" .
+<http://dbpedia.org/resource/Gareth_Ellis> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bremer+Whidden+Pond> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Hippotes> <http://www.w3.org/2000/01/rdf-schema#label> "Hippotes" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Jorge+Gonz%C3%A1lez+%28volleyball%2C+born+1982%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jorge Gonz\u00E1lez (volleyball, born 1982)" .
+<http://dbpedia.org/resource/Helena_(empress)> <http://www.w3.org/2000/01/rdf-schema#label> "Helena (empress)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bruno+Bonifacio> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Euphorion_(mythology)> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Barb_Wire> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Alo+Sila> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Bill+Brown+%28basketball%2C+born+1951%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Brown (basketball, born 1951)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Rolf+Stinhauksen> <http://www.w3.org/2000/01/rdf-schema#label> "Rolf Stinhauksen" .
+<http://dbpedia.org/resource/Mark_Lewis_(beach_volleyball)> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Huey,_Dewey,_and_Louie> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/List_of_Home_and_Away_characters_(2012)> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Ken_McIntosh> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "NaturalPerson" .
+<http://dbpedia.org/resource/Clyde_Van_Dusen> <http://www.w3.org/2000/01/rdf-schema#label> "Clyde Van Dusen" .
+<http://dbpedia.org/resource/George_Allen_(ice_hockey)> <http://www.w3.org/2000/01/rdf-schema#label> "George Allen (ice hockey)" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Angbus+Bryshaw> <http://dbpedia.org/ontology/person> "Ausstalian rules footbal pleayer" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Ronald+H.+Spector> <http://www.w3.org/2000/01/rdf-schema#label> "Ronald H. Spector" .
+<http://example.org/24baf653-4197-449e-aeed-7f35aa2664e9/Days+of+Our+Lives+characters+%281970s%29> <http://dbpedia.org/ontology/person> "person" .
+

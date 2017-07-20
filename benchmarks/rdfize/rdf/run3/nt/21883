@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Prost_Grand_Prix> <http://dbpedia.org/ontology/honours> "formula 1 team" .
+<http://dbpedia.org/resource/Force_India> <http://dbpedia.org/ontology/honours> "SportsTeam" .
+<http://dbpedia.org/resource/Caterham_F1> <http://www.w3.org/2000/01/rdf-schema#label> "Caterham F1" .
+<http://dbpedia.org/resource/Caterham_F1> <http://dbpedia.org/ontology/honours> "organization" .
+<http://dbpedia.org/resource/Force_India> <http://www.w3.org/2000/01/rdf-schema#label> "Force India" .
+<http://dbpedia.org/resource/Prost_Grand_Prix> <http://www.w3.org/2000/01/rdf-schema#label> "Prost Grand Prix" .
+<http://dbpedia.org/resource/Force_India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Boatbuilder> .
+<http://dbpedia.org/resource/Caterham_F1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Boatbuilder> .
+<http://example.org/30025c06-453b-4c53-b4e1-6288b944bbe9/Haas+F1+Team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Boatbuilder> .
+<http://example.org/30025c06-453b-4c53-b4e1-6288b944bbe9/Haas+F1+Team> <http://dbpedia.org/ontology/honours> "sports team" .
+<http://example.org/30025c06-453b-4c53-b4e1-6288b944bbe9/Haas+F1+Team> <http://www.w3.org/2000/01/rdf-schema#label> "Haas F1 Team" .
+<http://dbpedia.org/resource/Gilby_Engineering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Boatbuilder> .
+<http://dbpedia.org/resource/Prost_Grand_Prix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Boatbuilder> .
+<http://dbpedia.org/resource/Gilby_Engineering> <http://www.w3.org/2000/01/rdf-schema#label> "Gilby Engineering" .
+<http://dbpedia.org/resource/Gilby_Engineering> <http://dbpedia.org/ontology/honours> "builder" .
+

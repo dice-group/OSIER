@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Andrew_Lees_(neurologist)> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/John_Brereton_Barlow> <http://www.w3.org/2000/01/rdf-schema#label> "John Brereton Barlow" .
+<http://dbpedia.org/resource/Victor_Horsley> <http://www.w3.org/2000/01/rdf-schema#label> "Victor Horsley" .
+<http://dbpedia.org/resource/Michael_Klaper> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Klaper" .
+<http://dbpedia.org/resource/Andrew_Lees_(neurologist)> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Lees (neurologist)" .
+<http://dbpedia.org/resource/John_Brereton_Barlow> <http://dbpedia.org/ontology/location> "medician" .
+<http://dbpedia.org/resource/Michael_Merzenich> <http://dbpedia.org/ontology/location> "person" .
+<http://dbpedia.org/resource/Michael_Merzenich> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Merzenich" .
+<http://dbpedia.org/resource/Victor_Horsley> <http://dbpedia.org/ontology/location> "faculty member" .
+<http://dbpedia.org/resource/Michael_Klaper> <http://dbpedia.org/ontology/location> "scientist" .
+

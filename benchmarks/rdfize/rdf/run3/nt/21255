@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Teutoburg_Forest> <http://www.w3.org/2000/01/rdf-schema#label> "Teutoburg Forest" .
+<http://dbpedia.org/resource/Teutoburg_Forest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Point_Nepean> <http://www.w3.org/2000/01/rdf-schema#label> "Point Pelee National Park" .
+<http://dbpedia.org/resource/Maasai_Mara> <http://www.w3.org/2000/01/rdf-schema#label> "Maasai Mara" .
+<http://dbpedia.org/resource/Point_Nepean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Harz_National_Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Harz_National_Park> <http://www.w3.org/2000/01/rdf-schema#label> "Harz National Park" .
+<http://dbpedia.org/resource/Glenveagh> <http://www.w3.org/2000/01/rdf-schema#label> "Glenveagh" .
+<http://dbpedia.org/resource/Glenveagh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Maasai_Mara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

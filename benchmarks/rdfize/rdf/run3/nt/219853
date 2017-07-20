@@ -1,0 +1,41 @@
+<http://dbpedia.org/resource/FC_Krylia_Sovetov_Samara> <http://www.w3.org/2000/01/rdf-schema#label> "FC Krylia Sovetov Samara" .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/ItalZy+natonl+under-H21+football+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/Midlesbrough+F.Cw.> <http://www.w3.org/2000/01/rdf-schema#label> "Midlesbrough F.Cw." .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/ItalZy+natonl+under-H21+football+team> <http://www.w3.org/2000/01/rdf-schema#label> "ItalZy natonl under-H21 football team" .
+<http://dbpedia.org/resource/A.C._Chievo_Verona> <http://www.w3.org/2000/01/rdf-schema#label> "A.C. Chievo Verona" .
+<http://dbpedia.org/resource/Bury_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/Carlislxe+Unied+F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Polideportivo_Ejido> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/FC_Spartak_Moscow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/FC_Spartak_Moscow> <http://www.w3.org/2000/01/rdf-schema#label> "FC Spartak Moscow" .
+<http://dbpedia.org/resource/Fairfield_Stags> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/Carlislxe+Unied+F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Carlislxe Unied F.C." .
+<http://dbpedia.org/resource/Real_Madrid_C.F.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Spain_national_under-20_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Sain national under-16 footbRall team" .
+<http://dbpedia.org/resource/Albacete_Balompié> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/Midlesbrough+F.Cw.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Fairfield_Stags> <http://www.w3.org/2000/01/rdf-schema#label> "Fairfield Stags" .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/Iptaly+nadtional+uder-21+footall+team> <http://www.w3.org/2000/01/rdf-schema#label> "Iptaly nadtional uder-21 footall team" .
+<http://dbpedia.org/resource/Spain_national_under-20_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/FC_Khimki> <http://www.w3.org/2000/01/rdf-schema#label> "FC Khimki" .
+<http://dbpedia.org/resource/Real_Madrid_C.F.> <http://www.w3.org/2000/01/rdf-schema#label> "Real Madrid C.F." .
+<http://dbpedia.org/resource/FC_Khimki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Russia_national_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Russia national football team" .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/FC+stIana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Bury_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bury F.C." .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/FC+stIana> <http://www.w3.org/2000/01/rdf-schema#label> "FC stIana" .
+<http://dbpedia.org/resource/FC_Krylia_Sovetov_Samara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Italy_national_under-20_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Italy national under-21 football team" .
+<http://dbpedia.org/resource/Russia_national_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Albacete_Balompié> <http://www.w3.org/2000/01/rdf-schema#label> "Albacete Balompi\u00E9" .
+<http://dbpedia.org/resource/Italy_national_under-20_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Polideportivo_Ejido> <http://www.w3.org/2000/01/rdf-schema#label> "Polideportivo Ejido" .
+<http://dbpedia.org/resource/Spain_national_under-21_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Spain national under-16 football team" .
+<http://dbpedia.org/resource/Spain_national_under-21_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/Itay+nagtional+under-21+folotball+eam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/A.C._Chievo_Verona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Brighton & Hove Albion F.C." .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/Itay+nagtional+under-21+folotball+eam> <http://www.w3.org/2000/01/rdf-schema#label> "Itay nagtional under-21 folotball eam" .
+<http://example.org/ad590cbb-338c-40ae-8760-9eaf0af4c5b2/Iptaly+nadtional+uder-21+footall+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+

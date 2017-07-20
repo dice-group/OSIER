@@ -1,0 +1,16 @@
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/OrthoDB> <http://www.w3.org/2000/01/rdf-schema#label> "OrthoDB" .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/UTRdb+and+TRFsite> <http://www.w3.org/2000/01/rdf-schema#label> "UTRdb and TRFsite" .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/WikiPathways%3A+an+open+resource+for+biological+pathways.> <http://dbpedia.org/ontology/millsCodeBE> "work" .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/WikiPathways%3A+an+open+resource+for+biological+pathways.> <http://www.w3.org/2000/01/rdf-schema#label> "WikiPathways: an open resource for biological pathways." .
+<http://dbpedia.org/resource/Engineering_Society_of_Detroit> <http://www.w3.org/2000/01/rdf-schema#label> "FESD" .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/UTRdb+and+TRFsite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Engineering_Society_of_Detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/OrthoDB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/PlasmoDB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/PlasmoDB> <http://www.w3.org/2000/01/rdf-schema#label> "PlasmoDB" .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/PlasmoDB> <http://dbpedia.org/ontology/millsCodeBE> "InformationObject" .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/OrthoDB> <http://dbpedia.org/ontology/millsCodeBE> "Thing" .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/WikiPathways%3A+an+open+resource+for+biological+pathways.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/4cb9d898-8e45-4787-995c-a1f2c7aad45f/UTRdb+and+TRFsite> <http://dbpedia.org/ontology/millsCodeBE> "CrMeativeWrk" .
+<http://dbpedia.org/resource/Engineering_Society_of_Detroit> <http://dbpedia.org/ontology/millsCodeBE> "Biological database" .
+

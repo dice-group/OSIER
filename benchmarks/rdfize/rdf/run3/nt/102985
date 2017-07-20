@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Ros%C3%B3%C5%82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Food> .
+<http://dbpedia.org/resource/GRITS> <http://www.w3.org/2000/01/rdf-schema#label> "Grits" .
+<http://example.org/93240068-3037-4bb7-ab1a-aa5ccafa8565/Soup+all%27Imperatrice> <http://dbpedia.org/ontology/maxTime> "nutrient" .
+<http://example.org/93240068-3037-4bb7-ab1a-aa5ccafa8565/Soup+alla+Canavese> <http://www.w3.org/2000/01/rdf-schema#label> "Soup alla Canavese" .
+<http://dbpedia.org/resource/GRITS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Food> .
+<http://example.org/93240068-3037-4bb7-ab1a-aa5ccafa8565/Soup+all%27Imperatrice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Food> .
+<http://example.org/93240068-3037-4bb7-ab1a-aa5ccafa8565/Soup+alla+modenese> <http://dbpedia.org/ontology/maxTime> "matter" .
+<http://example.org/93240068-3037-4bb7-ab1a-aa5ccafa8565/Soup+alla+modenese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Food> .
+<http://example.org/93240068-3037-4bb7-ab1a-aa5ccafa8565/Soup+all%27Imperatrice> <http://www.w3.org/2000/01/rdf-schema#label> "Soup all'Imperatrice" .
+<http://example.org/93240068-3037-4bb7-ab1a-aa5ccafa8565/Soup+alla+Canavese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Food> .
+<http://dbpedia.org/resource/Ros%C3%B3%C5%82> <http://dbpedia.org/ontology/maxTime> "food" .
+<http://dbpedia.org/resource/GRITS> <http://dbpedia.org/ontology/maxTime> "food" .
+<http://example.org/93240068-3037-4bb7-ab1a-aa5ccafa8565/Soup+alla+modenese> <http://www.w3.org/2000/01/rdf-schema#label> "Soup alla modenese" .
+<http://example.org/93240068-3037-4bb7-ab1a-aa5ccafa8565/Soup+alla+Canavese> <http://dbpedia.org/ontology/maxTime> "FunctionalSubstance" .
+<http://dbpedia.org/resource/Ros%C3%B3%C5%82> <http://www.w3.org/2000/01/rdf-schema#label> "Ros\u00F3\u0142" .
+

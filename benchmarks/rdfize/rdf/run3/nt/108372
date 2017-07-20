@@ -1,0 +1,6 @@
+<http://example.org/5469c045-d02f-4f00-8e98-fe9c5ece90ec/Ontario+Mining+Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Ontario Mining Cup" .
+<http://example.org/5469c045-d02f-4f00-8e98-fe9c5ece90ec/Ukrainian+Hockey+Extra+League> <http://www.w3.org/2000/01/rdf-schema#label> "Ukrainian Hockey Extra League" .
+<http://dbpedia.org/resource/National_Women's_Hockey_League> <http://www.w3.org/2000/01/rdf-schema#label> "National Women's Hockey League (2015\u2013)" .
+<http://example.org/5469c045-d02f-4f00-8e98-fe9c5ece90ec/World+United+Hockey+League> <http://www.w3.org/2000/01/rdf-schema#label> "World United Hockey League" .
+<http://example.org/5469c045-d02f-4f00-8e98-fe9c5ece90ec/Lac+St-Louis+Junior+AA+Hockey+League> <http://www.w3.org/2000/01/rdf-schema#label> "Lac St-Louis Junior AA Hockey League" .
+

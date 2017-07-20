@@ -1,0 +1,6 @@
+<http://example.org/fad74344-30e9-4326-89e8-17969a1df9eb/Gray+Plant+Mooty> <http://www.w3.org/2000/01/rdf-schema#label> "Gray Plant Mooty" .
+<http://dbpedia.org/resource/Mintz,_Levin,_Cohn,_Ferris,_Glovsky,_and_Popeo> <http://www.w3.org/2000/01/rdf-schema#label> "Mintz, Levin, Cohn, Ferris, Glovsky, and Popeo" .
+<http://example.org/fad74344-30e9-4326-89e8-17969a1df9eb/Asons> <http://www.w3.org/2000/01/rdf-schema#label> "Asons" .
+<http://example.org/fad74344-30e9-4326-89e8-17969a1df9eb/Kenna+Partners> <http://www.w3.org/2000/01/rdf-schema#label> "Kenna Partners" .
+<http://dbpedia.org/resource/Wilmer_Cutler_Pickering_Hale_and_Dorr> <http://www.w3.org/2000/01/rdf-schema#label> "Wilmer Cutler Pickering Hale and Dorr" .
+

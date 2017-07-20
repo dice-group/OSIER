@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Laptev_Sea> <http://www.w3.org/2000/01/rdf-schema#label> "Laptev Sea" .
+<http://example.org/e9426b60-a2f3-4a4b-af90-da339d88b63e/CWora+Sea> <http://www.w3.org/2000/01/rdf-schema#label> "CWora Sea" .
+<http://dbpedia.org/resource/Celtic_Sea> <http://www.w3.org/2000/01/rdf-schema#label> "Celtic Sea" .
+<http://dbpedia.org/resource/Labrador_tea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Sea> .
+<http://dbpedia.org/resource/Labrador_tea> <http://www.w3.org/2000/01/rdf-schema#label> "Labrador Sea" .
+<http://dbpedia.org/resource/Laptev_Sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Sea> .
+<http://dbpedia.org/resource/Turgai_Sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Sea> .
+<http://example.org/e9426b60-a2f3-4a4b-af90-da339d88b63e/CWora+Sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Sea> .
+<http://dbpedia.org/resource/Celtic_Sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Sea> .
+<http://dbpedia.org/resource/Turgai_Sea> <http://www.w3.org/2000/01/rdf-schema#label> "East Siberian Sea" .
+

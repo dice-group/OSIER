@@ -1,0 +1,18 @@
+<http://dbpedia.org/resource/Keweenaw_Rocket_Range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/bbc/Platform> .
+<http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_8> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AFB Space Launch Complex 2" .
+<http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_8> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AFB Space Launch Complex 4" .
+<http://dbpedia.org/resource/Satish_Dhawan_Space_Centre_First_Launch_Pad> <http://www.w3.org/2000/01/rdf-schema#label> "Satish Dhawan Space Centre First Launch Pad" .
+<http://dbpedia.org/resource/Satish_Dhawan_Space_Centre_First_Launch_Pad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/bbc/Platform> .
+<http://dbpedia.org/resource/Ensemble_de_Lancement_Soyouz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/bbc/Platform> .
+<http://dbpedia.org/resource/ELA-2> <http://www.w3.org/2000/01/rdf-schema#label> "ELA-1" .
+<http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_8> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AFB Space Launch Complex 10" .
+<http://dbpedia.org/resource/Woomera_Launch_Area_5> <http://www.w3.org/2000/01/rdf-schema#label> "Woomera Launch Area 5" .
+<http://dbpedia.org/resource/Satish_Dhawan_Space_Centre_Third_Launch_Pad> <http://www.w3.org/2000/01/rdf-schema#label> "Satish Dhawan Space Centre Third Launch Pad" .
+<http://dbpedia.org/resource/Ensemble_de_Lancement_Soyouz> <http://www.w3.org/2000/01/rdf-schema#label> "Ensemble de Lancement Soyouz" .
+<http://dbpedia.org/resource/ELA-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/bbc/Platform> .
+<http://dbpedia.org/resource/Woomera_Launch_Area_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/bbc/Platform> .
+<http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/bbc/Platform> .
+<http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_8> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AFB Space Launch Complex 5" .
+<http://dbpedia.org/resource/Keweenaw_Rocket_Range> <http://www.w3.org/2000/01/rdf-schema#label> "Keweenaw Rocket Range" .
+<http://dbpedia.org/resource/Satish_Dhawan_Space_Centre_Third_Launch_Pad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/bbc/Platform> .
+

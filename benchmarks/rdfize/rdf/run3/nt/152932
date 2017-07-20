@@ -1,0 +1,21 @@
+<http://dbpedia.org/resource/Full_Metal_Jackie> <http://www.w3.org/2000/01/rdf-schema#label> "Full Metal Jacket" .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/%E3%83%95%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/Manufacturing+Consent%3A+Noam+Chomsky+and+the+Media> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/Four+Weddings+and+a+Funeral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/%E3%83%95%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88> <http://www.w3.org/2000/01/rdf-schema#label> "\u30D5\u30EB\u30E1\u30BF\u30EB\u30FB\u30B8\u30E3\u30B1\u30C3\u30C8" .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/Manufacturing+Consent%3A+Noam+Chomsky+and+the+Media> <http://www.w3.org/2000/01/rdf-schema#label> "Manufacturing Consent: Noam Chomsky and the Media" .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/%E3%83%8F%E3%83%AD%E3%83%AB%E3%83%89%E3%81%A8%E3%83%A2%E3%83%BC%E3%83%89+%E5%B0%91%E5%B9%B4%E3%81%AF%E8%99%B9%E3%82%92%E6%B8%A1%E3%82%8B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/Harold+and+Maude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/%E3%82%AA%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/%D8%A3%D8%B1%D8%A8%D8%B9+%D8%B2%D9%8A%D8%AC%D8%A7%D8%AA+%D9%88%D8%AC%D9%86%D8%A7%D8%B2%D8%A9+%28%D9%81%D9%8A%D9%84%D9%85%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/Die+Konsensfabrik.+Noam+Chomsky+und+die+Medien> <http://www.w3.org/2000/01/rdf-schema#label> "Die Konsensfabrik. Noam Chomsky und die Medien" .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/%D8%A3%D8%B1%D8%A8%D8%B9+%D8%B2%D9%8A%D8%AC%D8%A7%D8%AA+%D9%88%D8%AC%D9%86%D8%A7%D8%B2%D8%A9+%28%D9%81%D9%8A%D9%84%D9%85%29> <http://www.w3.org/2000/01/rdf-schema#label> "\u0623\u0631\u0628\u0639 \u0632\u064A\u062C\u0627\u062A \u0648\u062C\u0646\u0627\u0632\u0629 (\u0641\u064A\u0644\u0645)" .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/%E3%83%8F%E3%83%AD%E3%83%AB%E3%83%89%E3%81%A8%E3%83%A2%E3%83%BC%E3%83%89+%E5%B0%91%E5%B9%B4%E3%81%AF%E8%99%B9%E3%82%92%E6%B8%A1%E3%82%8B> <http://www.w3.org/2000/01/rdf-schema#label> "\u30CF\u30ED\u30EB\u30C9\u3068\u30E2\u30FC\u30C9 \u5C11\u5E74\u306F\u8679\u3092\u6E21\u308B" .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/Harold+and+Maude> <http://www.w3.org/2000/01/rdf-schema#label> "Harold and Maude" .
+<http://dbpedia.org/resource/Oh_Brother,_Where_Art_Thou%3F> <http://www.w3.org/2000/01/rdf-schema#label> "O Brother, Where Art Thou?" .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/%E3%82%AA%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%21> <http://www.w3.org/2000/01/rdf-schema#label> "\u30AA\u30FC\u30FB\u30D6\u30E9\u30B6\u30FC!" .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/Die+Konsensfabrik.+Noam+Chomsky+und+die+Medien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Full_Metal_Jackie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Oh_Brother,_Where_Art_Thou%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/f197adbd-d1c0-4b24-9e2f-7ef0e9bbc4ec/Four+Weddings+and+a+Funeral> <http://www.w3.org/2000/01/rdf-schema#label> "Four Weddings and a Funeral" .
+

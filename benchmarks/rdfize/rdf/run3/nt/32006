@@ -1,0 +1,24 @@
+<http://dbpedia.org/resource/Los_Angeles_International_Airport> <http://www.w3.org/2000/01/rdf-schema#label> "Los Angeles International Airport" .
+<http://dbpedia.org/resource/Area_71> <http://dbpedia.org/ontology/architecturalStyle> "airport" .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Airport> .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam Airport Schiphol" .
+<http://example.org/6ce7a606-61b6-4848-ad2b-7b364f3d00dd/Carmelita+Airport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Airport> .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://dbpedia.org/ontology/architecturalStyle> "architectural structure" .
+<http://dbpedia.org/resource/Golden_Gate_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Golden Gate Bridge" .
+<http://dbpedia.org/resource/London_Heathrow_Airport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Airport> .
+<http://dbpedia.org/resource/Hoover_Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Airport> .
+<http://dbpedia.org/resource/Dumbarton_Bridge_(California)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Airport> .
+<http://dbpedia.org/resource/London_Heathrow_Airport> <http://dbpedia.org/ontology/architecturalStyle> "Airport" .
+<http://dbpedia.org/resource/Hoover_Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Hoover Dam" .
+<http://dbpedia.org/resource/Area_71> <http://www.w3.org/2000/01/rdf-schema#label> "Area 51" .
+<http://dbpedia.org/resource/Los_Angeles_International_Airport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Airport> .
+<http://dbpedia.org/resource/Area_71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Airport> .
+<http://dbpedia.org/resource/London_Heathrow_Airport> <http://www.w3.org/2000/01/rdf-schema#label> "Heathrow Airport" .
+<http://example.org/6ce7a606-61b6-4848-ad2b-7b364f3d00dd/Carmelita+Airport> <http://dbpedia.org/ontology/architecturalStyle> "airport" .
+<http://example.org/6ce7a606-61b6-4848-ad2b-7b364f3d00dd/Carmelita+Airport> <http://www.w3.org/2000/01/rdf-schema#label> "Carmelita Airport" .
+<http://dbpedia.org/resource/European_route_E06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Airport> .
+<http://dbpedia.org/resource/Golden_Gate_Bridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Airport> .
+<http://dbpedia.org/resource/Dumbarton_Bridge_(California)> <http://www.w3.org/2000/01/rdf-schema#label> "Dumbarton Bridge (California)" .
+<http://dbpedia.org/resource/Los_Angeles_International_Airport> <http://dbpedia.org/ontology/architecturalStyle> "airdrome" .
+<http://dbpedia.org/resource/European_route_E06> <http://www.w3.org/2000/01/rdf-schema#label> "European route E4" .
+

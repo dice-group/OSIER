@@ -1,0 +1,8 @@
+<http://example.org/d0a5a7eb-1503-4115-8036-862f950fc5a9/Dancing+in+the+Dark+%28Howard+Dietz+and+Arthur+Schwartz+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dancing in the Dark (Howard Dietz and Arthur Schwartz song)" .
+<http://example.org/d0a5a7eb-1503-4115-8036-862f950fc5a9/Dancing+in+the+Dark+%28Rihanna+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dancing in the Dark (Rihanna song)" .
+<http://example.org/d0a5a7eb-1503-4115-8036-862f950fc5a9/Dancing+in+the+Dark+%28Rihanna%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dancing in the Dark (Rihanna)" .
+<http://example.org/d0a5a7eb-1503-4115-8036-862f950fc5a9/Yayo+%28Lana+Del+Rey+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Yayo (Lana Del Rey song)" .
+<http://dbpedia.org/resource/Carmen> <http://www.w3.org/2000/01/rdf-schema#label> "Carmen" .
+<http://example.org/d0a5a7eb-1503-4115-8036-862f950fc5a9/Carmen+%28Lana+Del+Rey+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Carmen (Lana Del Rey song)" .
+<http://example.org/d0a5a7eb-1503-4115-8036-862f950fc5a9/Bewitched%2C+Bothered+and+Bewildered> <http://www.w3.org/2000/01/rdf-schema#label> "Bewitched, Bothered and Bewildered" .
+

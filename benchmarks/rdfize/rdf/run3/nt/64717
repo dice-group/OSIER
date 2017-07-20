@@ -1,0 +1,37 @@
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Cook%2C+valet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Journalist%2C+sportswriter%2C+author%2C+actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Prszident> <http://www.w3.org/2000/01/rdf-schema#label> "Prszident" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Journalist%2C+sportswriter%2C+author%2C+actor> <http://www.w3.org/2000/01/rdf-schema#label> "Journalist, sportswriter, author, actor" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Jeweller%2CBusinessperson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Cook%2C+valet> <http://www.w3.org/2000/01/rdf-schema#label> "Cook, valet" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Cook%2C+valet> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/actor%2C+broadcaster%2C+singer> <http://dbpedia.org/ontology/location> "person function" .
+<http://dbpedia.org/resource/Chairman> <http://www.w3.org/2000/01/rdf-schema#label> "Vice Chairman" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/film+actress%2Ftelevision+actress%2Fwriter%2Fsinger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Musician%2C+singer> <http://dbpedia.org/ontology/location> "person function" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/actor%2C+broadcaster%2C+singer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://dbpedia.org/resource/Chief_executive_officer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/PresIient> <http://dbpedia.org/ontology/location> "person unctioBn" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Journalist%2C+sportswriter%2C+author%2C+actor> <http://dbpedia.org/ontology/location> "person function" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Prszident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://dbpedia.org/resource/President> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://dbpedia.org/resource/President> <http://www.w3.org/2000/01/rdf-schema#label> "President" .
+<http://dbpedia.org/resource/Business> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Chief_executive_officer> <http://www.w3.org/2000/01/rdf-schema#label> "Chairman & CEO" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Musician%2C+singer> <http://www.w3.org/2000/01/rdf-schema#label> "Musician, singer" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/PresIient> <http://www.w3.org/2000/01/rdf-schema#label> "PresIient" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Jeweller%2CBusinessperson> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/film+actress%2Ftelevision+actress%2Fwriter%2Fsinger> <http://www.w3.org/2000/01/rdf-schema#label> "film actress/television actress/writer/singer" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Jeweller%2CBusinessperson> <http://www.w3.org/2000/01/rdf-schema#label> "Jeweller,Businessperson" .
+<http://dbpedia.org/resource/Business> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://dbpedia.org/resource/President> <http://dbpedia.org/ontology/location> "person function" .
+<http://dbpedia.org/resource/President> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Secretary-General> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://dbpedia.org/resource/Business> <http://www.w3.org/2000/01/rdf-schema#label> "Business" .
+<http://dbpedia.org/resource/Secretary-General> <http://www.w3.org/2000/01/rdf-schema#label> "Secretary-General" .
+<http://dbpedia.org/resource/Chairman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/actor%2C+broadcaster%2C+singer> <http://www.w3.org/2000/01/rdf-schema#label> "actor, broadcaster, singer" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/Musician%2C+singer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/film+actress%2Ftelevision+actress%2Fwriter%2Fsinger> <http://dbpedia.org/ontology/location> "person function" .
+<http://example.org/da04fed0-a88c-4651-a88d-c94155fb82f3/PresIient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+

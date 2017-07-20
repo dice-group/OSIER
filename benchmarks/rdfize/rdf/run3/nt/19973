@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Aga_Khan_III> <http://www.w3.org/2000/01/rdf-schema#label> "Aga Khan I" .
+<http://example.org/59aeba98-b98c-45f7-9525-200fe8048518/DaUvid+Charlesorth> <http://www.w3.org/2000/01/rdf-schema#label> "DaUvid Charlesorth" .
+<http://example.org/59aeba98-b98c-45f7-9525-200fe8048518/Davcid+Charlesorth> <http://www.w3.org/2000/01/rdf-schema#label> "Davcid Charlesorth" .
+<http://dbpedia.org/resource/Aga_Khan_III> <http://www.w3.org/2000/01/rdf-schema#label> "Aga Khan III" .
+<http://example.org/59aeba98-b98c-45f7-9525-200fe8048518/Aandna> <http://www.w3.org/2000/01/rdf-schema#label> "Aandna" .
+<http://dbpedia.org/resource/Abrahám> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham" .
+

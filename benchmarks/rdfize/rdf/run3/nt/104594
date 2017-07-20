@@ -1,0 +1,6 @@
+<http://example.org/debacfd9-7300-4c37-ae62-74cb1496e6a2/World+Tibet+News> <http://www.w3.org/2000/01/rdf-schema#label> "World Tibet News" .
+<http://example.org/debacfd9-7300-4c37-ae62-74cb1496e6a2/Ricochet+%28website%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ricochet (website)" .
+<http://example.org/debacfd9-7300-4c37-ae62-74cb1496e6a2/Darwin+Awards> <http://www.w3.org/2000/01/rdf-schema#label> "Darwin Awards" .
+<http://example.org/debacfd9-7300-4c37-ae62-74cb1496e6a2/Vox+%28website%29> <http://www.w3.org/2000/01/rdf-schema#label> "Vox (website)" .
+<http://example.org/debacfd9-7300-4c37-ae62-74cb1496e6a2/The+Hub+%28forum%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Hub (forum)" .
+

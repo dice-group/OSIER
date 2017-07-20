@@ -1,0 +1,11 @@
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Lateral+lingual+swelling> <http://www.w3.org/2000/01/rdf-schema#label> "Lateral lingual swelling" .
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Medial+nasal+prominence> <http://www.w3.org/2000/01/rdf-schema#label> "Medial nasal prominence" .
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Paramesonephric+duct> <http://www.w3.org/2000/01/rdf-schema#label> "Paramesonephric duct" .
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Rathke%27s+pouch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Stratum+intermedium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Lateral+lingual+swelling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Rathke%27s+pouch> <http://www.w3.org/2000/01/rdf-schema#label> "Rathke's pouch" .
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Medial+nasal+prominence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Paramesonephric+duct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://example.org/8c77f1de-e2b2-4f82-8871-18c35d386514/Stratum+intermedium> <http://www.w3.org/2000/01/rdf-schema#label> "Stratum intermedium" .
+

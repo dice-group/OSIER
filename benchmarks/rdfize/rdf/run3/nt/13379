@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Frank_McCabe> <http://dbpedia.org/ontology/location> "animate thing" .
+<http://dbpedia.org/resource/Kelly_J._Breen> <http://dbpedia.org/ontology/location> "agent" .
+<http://dbpedia.org/resource/Jack_Van_Berg> <http://dbpedia.org/ontology/location> "person" .
+<http://dbpedia.org/resource/George_M._Odom> <http://www.w3.org/2000/01/rdf-schema#label> "George M. Odom" .
+<http://dbpedia.org/resource/Jack_Van_Berg> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Van Berg" .
+<http://dbpedia.org/resource/Kelly_J._Breen> <http://www.w3.org/2000/01/rdf-schema#label> "Kelly J. Breen" .
+<http://dbpedia.org/resource/Neil_D._Drysdale> <http://www.w3.org/2000/01/rdf-schema#label> "Neil D. Drysdale" .
+<http://dbpedia.org/resource/George_M._Odom> <http://dbpedia.org/ontology/location> "person" .
+<http://dbpedia.org/resource/Neil_D._Drysdale> <http://dbpedia.org/ontology/location> "being" .
+<http://dbpedia.org/resource/Frank_McCabe> <http://www.w3.org/2000/01/rdf-schema#label> "Frank McCabe" .
+

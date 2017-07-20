@@ -1,0 +1,15 @@
+<http://example.org/421aac30-3fbf-4b86-b095-f086aefaa738/GratBefu+Dead> <http://www.w3.org/2000/01/rdf-schema#label> "GratBefu Dead" .
+<http://dbpedia.org/resource/Frankie_Goes_to_Hollywood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Gorillaz> <http://www.w3.org/2000/01/rdf-schema#label> "Gorillaz" .
+<http://example.org/421aac30-3fbf-4b86-b095-f086aefaa738/GratBefu+Dead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Frankie_Goes_to_Hollywood> <http://www.w3.org/2000/01/rdf-schema#label> "Frankie Goes to Hollywood" .
+<http://dbpedia.org/resource/Grateful_Dead> <http://www.w3.org/2000/01/rdf-schema#label> "Grateful Dead" .
+<http://dbpedia.org/resource/Fleetwood_Mac> <http://www.w3.org/2000/01/rdf-schema#label> "Fleetwood Mac" .
+<http://dbpedia.org/resource/Hawkwind> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Gorillaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Hawkwind> <http://www.w3.org/2000/01/rdf-schema#label> "Hawkwind" .
+<http://dbpedia.org/resource/Grateful_Dead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Fleetwood_Mac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Goodness_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Goodness (band)" .
+<http://dbpedia.org/resource/Goodness_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+

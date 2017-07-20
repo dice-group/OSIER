@@ -1,0 +1,11 @@
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Sulfolobus+tokodaii> <http://www.w3.org/2000/01/rdf-schema#label> "Sulfolobus tokodaii" .
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Sulfolobus+metallicus> <http://www.w3.org/2000/01/rdf-schema#label> "Sulfolobus metallicus" .
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Aeromonas+bestiarum> <http://www.w3.org/2000/01/rdf-schema#label> "Aeromonas bestiarum" .
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Alicyclobacillus+acidiphilus> <http://www.w3.org/2000/01/rdf-schema#label> "Alicyclobacillus acidiphilus" .
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Levilinea+saccharolytica> <http://www.w3.org/2000/01/rdf-schema#label> "Levilinea saccharolytica" .
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Brumimicrobium+glaciale> <http://www.w3.org/2000/01/rdf-schema#label> "Brumimicrobium glaciale" .
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Lepzospirillu+ferripthilum> <http://www.w3.org/2000/01/rdf-schema#label> "Lepzospirillu ferripthilum" .
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Thermococcus+celer> <http://www.w3.org/2000/01/rdf-schema#label> "Thermococcus celer" .
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Methanobrevibacter+gottschalkii> <http://www.w3.org/2000/01/rdf-schema#label> "Methanobrevibacter gottschalkii" .
+<http://example.org/ea6d333b-bb45-41bc-b7a0-a1e7fdcc8aeb/Halococcus+dombrowskii> <http://www.w3.org/2000/01/rdf-schema#label> "Halococcus dombrowskii" .
+

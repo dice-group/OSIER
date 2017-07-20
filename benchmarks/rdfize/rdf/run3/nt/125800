@@ -1,0 +1,17 @@
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/Wold+Cslub+Series> <http://www.w3.org/2000/01/rdf-schema#label> "Wold Cslub Series" .
+<http://dbpedia.org/resource/Rugby_World_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby World Cup" .
+<http://dbpedia.org/resource/2012_Six_Nations_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "Six Nations Championship" .
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/WorldClub+Sleries> <http://www.w3.org/2000/01/rdf-schema#label> "WorldClub Sleries" .
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/Wold+Cslub+Series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Oceania_Sevens> <http://www.w3.org/2000/01/rdf-schema#label> "Oceania Sevens" .
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/Mistrzostwa+Oceanii+w+rugby+7+m%C4%99%C5%BCczyzn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/2012_Six_Nations_Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/Crscent+CuZp> <http://www.w3.org/2000/01/rdf-schema#label> "Crscent CuZp" .
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/Crscent+CuZp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Rugby_World_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/CreJscent+CM+Rugby+Championship> <http://www.w3.org/2000/01/rdf-schema#label> "CreJscent CM Rugby Championship" .
+<http://dbpedia.org/resource/Oceania_Sevens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/Mistrzostwa+Oceanii+w+rugby+7+m%C4%99%C5%BCczyzn> <http://www.w3.org/2000/01/rdf-schema#label> "Mistrzostwa Oceanii w rugby 7 m\u0119\u017Cczyzn" .
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/WorldClub+Sleries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/ea0c9986-7f9d-4792-b15a-a270ac182971/CreJscent+CM+Rugby+Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+

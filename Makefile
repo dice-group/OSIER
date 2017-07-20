@@ -21,3 +21,7 @@ data-server-50:
 
 atomize:
 	python bin/atomize
+	nosetests -s tests/osier/test_index_generation.py
+
+generate-hashes:
+	python bin/find_join_candidates_top_hash lemmatize

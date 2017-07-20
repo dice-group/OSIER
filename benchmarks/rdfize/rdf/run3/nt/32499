@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Henry_II_of_England> <http://dbpedia.org/ontology/location> "Person" .
+<http://dbpedia.org/resource/Henry_II_of_England> <http://dbpedia.org/ontology/location> "causal agency" .
+<http://dbpedia.org/resource/Henry_the_Fowler> <http://www.w3.org/2000/01/rdf-schema#label> "Henry the Fowler" .
+<http://dbpedia.org/resource/Henry_II_of_England> <http://www.w3.org/2000/01/rdf-schema#label> "Henry VII of England" .
+<http://dbpedia.org/resource/Henry_II_of_France> <http://www.w3.org/2000/01/rdf-schema#label> "Henry II of France" .
+<http://dbpedia.org/resource/Henry_the_Fowler> <http://dbpedia.org/ontology/location> "NaturalPerson" .
+<http://dbpedia.org/resource/Henry_II_of_England> <http://www.w3.org/2000/01/rdf-schema#label> "Henry II of England" .
+<http://dbpedia.org/resource/Henry_II_of_France> <http://dbpedia.org/ontology/location> "RoyalFamily" .
+<http://dbpedia.org/resource/Henry_II_of_France> <http://www.w3.org/2000/01/rdf-schema#label> "Henry I of France" .
+<http://dbpedia.org/resource/Henry_II_of_France> <http://dbpedia.org/ontology/location> "Thing" .
+

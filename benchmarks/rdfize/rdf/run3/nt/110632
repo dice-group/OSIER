@@ -1,0 +1,6 @@
+<http://example.org/0aa2a945-11b6-4534-9911-e830e52f0789/Amarus> <http://www.w3.org/2000/01/rdf-schema#label> "Amarus" .
+<http://dbpedia.org/resource/Schubert's_last_sonatas> <http://www.w3.org/2000/01/rdf-schema#label> "Late Piano Sonatas" .
+<http://example.org/0aa2a945-11b6-4534-9911-e830e52f0789/Kyrie+%28Vivaldi%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kyrie (Vivaldi)" .
+<http://example.org/0aa2a945-11b6-4534-9911-e830e52f0789/Sonneries+de+la+Rose%2BCroix> <http://www.w3.org/2000/01/rdf-schema#label> "Sonneries de la Rose+Croix" .
+<http://example.org/0aa2a945-11b6-4534-9911-e830e52f0789/Romanza+%28Paganini-Ponce%29> <http://www.w3.org/2000/01/rdf-schema#label> "Romanza (Paganini-Ponce)" .
+

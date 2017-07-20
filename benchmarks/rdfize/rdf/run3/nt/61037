@@ -1,0 +1,43 @@
+<http://dbpedia.org/resource/Canada_men's_national_soccer_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Bognor_Regis_Town_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://example.org/c15ce1a8-677b-45f5-949f-23fd9f2388b5/BristolCity+FE.C.> <http://www.w3.org/2000/01/rdf-schema#label> "BristolCity FE.C." .
+<http://example.org/c15ce1a8-677b-45f5-949f-23fd9f2388b5/Bgnr+RegiNs+Towns+F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Canada_men's_national_soccer_team> <http://www.w3.org/2000/01/rdf-schema#label> "Canada men's national soccer team" .
+<http://dbpedia.org/resource/Bristol_City_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://example.org/c15ce1a8-677b-45f5-949f-23fd9f2388b5/BristolCity+FE.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Mexico_national_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Mexico national football team" .
+<http://dbpedia.org/resource/Villarreal_CF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://example.org/c15ce1a8-677b-45f5-949f-23fd9f2388b5/ClubAm%C3%A9rJica> <http://www.w3.org/2000/01/rdf-schema#label> "ClubAm\u00E9rJica" .
+<http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Maccabi Tel Aviv F.C." .
+<http://dbpedia.org/resource/C.F._Monterrey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Albacete_Balompié> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Bury_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bury F.C." .
+<http://dbpedia.org/resource/Maccabi_Tel_Aviv_B.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/FC_Spartak_Moscow> <http://www.w3.org/2000/01/rdf-schema#label> "FC Spartak Moscow" .
+<http://dbpedia.org/resource/FC_Krylia_Sovetov_Samara> <http://www.w3.org/2000/01/rdf-schema#label> "FC Krylia Sovetov Samara" .
+<http://dbpedia.org/resource/Mexico_national_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Spain_national_under-20_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/C.F._Monterrey> <http://www.w3.org/2000/01/rdf-schema#label> "C.F. Monterrey" .
+<http://dbpedia.org/resource/Athletic_Union_of_Larissa_1964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Bristol_City_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bristol City F.C." .
+<http://dbpedia.org/resource/FC_Titan_Klin> <http://www.w3.org/2000/01/rdf-schema#label> "FC Titan Klin" .
+<http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Brighton & Hove Albion F.C." .
+<http://dbpedia.org/resource/Fairfield_Stags> <http://www.w3.org/2000/01/rdf-schema#label> "Fairfield Stags" .
+<http://dbpedia.org/resource/Athletic_Union_of_Larissa_1964> <http://www.w3.org/2000/01/rdf-schema#label> "Athletic Union of Larissa 1964" .
+<http://dbpedia.org/resource/FC_Khimki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Albacete_Balompié> <http://www.w3.org/2000/01/rdf-schema#label> "Albacete Balompi\u00E9" .
+<http://dbpedia.org/resource/Villarreal_CF> <http://www.w3.org/2000/01/rdf-schema#label> "Villarreal CF" .
+<http://dbpedia.org/resource/Fairfield_Stags> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Bury_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://example.org/c15ce1a8-677b-45f5-949f-23fd9f2388b5/Bgnr+RegiNs+Towns+F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bgnr RegiNs Towns F.C." .
+<http://dbpedia.org/resource/FC_Spartak_Moscow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/FC_Titan_Klin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/Polideportivo_Ejido> <http://www.w3.org/2000/01/rdf-schema#label> "Polideportivo Ejido" .
+<http://dbpedia.org/resource/Spain_national_under-20_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Sain national under-16 footbRall team" .
+<http://dbpedia.org/resource/Bognor_Regis_Town_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bognor Regis Town F.C." .
+<http://dbpedia.org/resource/FC_Khimki> <http://www.w3.org/2000/01/rdf-schema#label> "FC Khimki" .
+<http://dbpedia.org/resource/Polideportivo_Ejido> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://dbpedia.org/resource/FC_Krylia_Sovetov_Samara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+<http://example.org/c15ce1a8-677b-45f5-949f-23fd9f2388b5/ClubAm%C3%A9rJica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://acm.rkbexplorer.com/ontologies/acm#I.7.m> .
+

@@ -1,0 +1,11 @@
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Apricot_%28color%29__Apricot_Crayola__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0120> .
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Amaranth_%28color%29__Radical_red__1> <http://www.w3.org/2000/01/rdf-schema#label> "Amaranth_(color)__Radical_red__1" .
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Apricot_%28color%29__Mellow_Apricot__1> <http://www.w3.org/2000/01/rdf-schema#label> "Apricot_(color)__Mellow_Apricot__1" .
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Amaranth_%28color%29__Amaranth_M%26P__1> <http://www.w3.org/2000/01/rdf-schema#label> "Amaranth_(color)__Amaranth_M&P__1" .
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Apricot_%28color%29__Mellow_Apricot__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0120> .
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Amaranth_%28color%29__Amaranth_purple__1> <http://www.w3.org/2000/01/rdf-schema#label> "Amaranth_(color)__Amaranth_purple__1" .
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Amaranth_%28color%29__Amaranth_M%26P__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0120> .
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Apricot_%28color%29__Apricot_Crayola__1> <http://www.w3.org/2000/01/rdf-schema#label> "Apricot_(color)__Apricot_Crayola__1" .
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Amaranth_%28color%29__Amaranth_purple__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0120> .
+<http://example.org/7b025586-d775-4ed5-9690-3a3aeabfe65b/Amaranth_%28color%29__Radical_red__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0120> .
+

@@ -1,0 +1,11 @@
+<http://example.org/08babfa1-266f-49cc-865a-a7741e7cdc32/Kd+Iocarus> <http://www.w3.org/2000/01/rdf-schema#label> "Kd Iocarus" .
+<http://example.org/08babfa1-266f-49cc-865a-a7741e7cdc32/Kerberos+%28protocol%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kerberos (protocol)" .
+<http://example.org/08babfa1-266f-49cc-865a-a7741e7cdc32/Kerberos+%28protocol%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Kyoto_Common_Lisp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/08babfa1-266f-49cc-865a-a7741e7cdc32/Korn+shell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/08babfa1-266f-49cc-865a-a7741e7cdc32/Korn+shell> <http://www.w3.org/2000/01/rdf-schema#label> "Korn shell" .
+<http://example.org/08babfa1-266f-49cc-865a-a7741e7cdc32/Kd+Iocarus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/08babfa1-266f-49cc-865a-a7741e7cdc32/LambdaMOO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/08babfa1-266f-49cc-865a-a7741e7cdc32/LambdaMOO> <http://www.w3.org/2000/01/rdf-schema#label> "LambdaMOO" .
+<http://dbpedia.org/resource/Kyoto_Common_Lisp> <http://www.w3.org/2000/01/rdf-schema#label> "Kyoto Common Lisp" .
+

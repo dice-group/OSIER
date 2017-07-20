@@ -1,0 +1,21 @@
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Newhart> <http://dbpedia.org/ontology/activity> "TVShow_IBT" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Quack+Pack> <http://dbpedia.org/ontology/activity> "change of state" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Tiny+Toon+Adventures> <http://www.w3.org/2000/01/rdf-schema#label> "Tiny Toon Adventures" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/NYPD+Blue> <http://www.w3.org/2000/01/rdf-schema#label> "NYPD Blue" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/The+WonBderYears> <http://www.w3.org/2000/01/rdf-schema#label> "The WonBderYears" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/The+Good+Life+%281975+TV+series%29> <http://dbpedia.org/ontology/activity> "comedy" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/This+Hour+Has+22+Minutes> <http://dbpedia.org/ontology/activity> "CreativeWork" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Quack+Pack> <http://www.w3.org/2000/01/rdf-schema#label> "Quack Pack" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Newhart> <http://www.w3.org/2000/01/rdf-schema#label> "Newhart" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Masterpiece+%28TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Masterpiece (TV series)" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/The+WonBderYears> <http://dbpedia.org/ontology/activity> "comepd" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Meet+the+Wife> <http://www.w3.org/2000/01/rdf-schema#label> "Meet the Wife" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/The+Larry+Sanders+Show> <http://dbpedia.org/ontology/activity> "television program" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Meet+the+Wife> <http://dbpedia.org/ontology/activity> "comedy" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/The+Good+Life+%281975+TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Good Life (1975 TV series)" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/The+Larry+Sanders+Show> <http://www.w3.org/2000/01/rdf-schema#label> "The Larry Sanders Show" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/NYPD+Blue> <http://dbpedia.org/ontology/activity> "start" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Masterpiece+%28TV+series%29> <http://dbpedia.org/ontology/activity> "activity" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/Tiny+Toon+Adventures> <http://dbpedia.org/ontology/activity> "auditory communication" .
+<http://example.org/55342348-c3c6-4a1a-b231-bc0176c41747/This+Hour+Has+22+Minutes> <http://www.w3.org/2000/01/rdf-schema#label> "This Hour Has 22 Minutes" .
+

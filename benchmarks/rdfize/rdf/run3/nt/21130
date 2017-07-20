@@ -1,0 +1,31 @@
+<http://dbpedia.org/resource/Red_Faction_(series)> <http://www.w3.org/2000/01/rdf-schema#label> "Red Faction" .
+<http://dbpedia.org/resource/Ames,_Iowa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Sid+Meier%27s+Alpha+Centauri> <http://www.w3.org/2000/01/rdf-schema#label> "Sid Meier's Alpha Centauri" .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Rise+ofthe+Triahd> <http://dbpedia.org/ontology/ngcName> "videwo ame" .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Return+to+Castle+Wolfenstein> <http://www.w3.org/2000/01/rdf-schema#label> "Return to Castle Wolfenstein" .
+<http://dbpedia.org/resource/Ames,_Iowa> <http://dbpedia.org/ontology/ngcName> "human settlement" .
+<http://dbpedia.org/resource/Altaïr_Ibn-La'Ahad> <http://www.w3.org/2000/01/rdf-schema#label> "Altair" .
+<http://dbpedia.org/resource/Red_Faction_(series)> <http://dbpedia.org/ontology/ngcName> "Thing" .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Sid+Meier%27s+Alpha+Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Rise+ofthe+Triahd> <http://www.w3.org/2000/01/rdf-schema#label> "Rise ofthe Triahd" .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Return+to+Castle+Wolfenstein> <http://dbpedia.org/ontology/ngcName> "Thing" .
+<http://dbpedia.org/resource/Alps> <http://dbpedia.org/ontology/ngcName> "mountain range" .
+<http://dbpedia.org/resource/Amazon_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Radical+Dreamers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://dbpedia.org/resource/Alpha_Centauri_Bb> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha Centauri" .
+<http://dbpedia.org/resource/Amazon_River> <http://dbpedia.org/ontology/ngcName> "Stream" .
+<http://dbpedia.org/resource/Alpha_Centauri_Bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://dbpedia.org/resource/Red_Faction_(series)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Sid+Meier%27s+Alpha+Centauri> <http://dbpedia.org/ontology/ngcName> "SoftwareObject" .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Radical+Dreamers> <http://www.w3.org/2000/01/rdf-schema#label> "Radical Dreamers" .
+<http://dbpedia.org/resource/Altaïr_Ibn-La'Ahad> <http://dbpedia.org/ontology/ngcName> "heavenly body" .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Rise+ofthe+Triahd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://dbpedia.org/resource/Amazon_River> <http://www.w3.org/2000/01/rdf-schema#label> "Amazon River" .
+<http://dbpedia.org/resource/Alps> <http://www.w3.org/2000/01/rdf-schema#label> "Alps" .
+<http://dbpedia.org/resource/Alpha_Centauri_Bb> <http://dbpedia.org/ontology/ngcName> "Bayer objects" .
+<http://dbpedia.org/resource/Altaïr_Ibn-La'Ahad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Return+to+Castle+Wolfenstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://dbpedia.org/resource/Alps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stream> .
+<http://example.org/5f0466a1-2810-4ee9-8e36-5f20b25a4735/Radical+Dreamers> <http://dbpedia.org/ontology/ngcName> "work" .
+<http://dbpedia.org/resource/Ames,_Iowa> <http://www.w3.org/2000/01/rdf-schema#label> "Ames, Iowa" .
+

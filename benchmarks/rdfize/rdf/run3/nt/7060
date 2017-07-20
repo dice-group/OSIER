@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Poinsettia_(cocktail)> <http://www.w3.org/2000/01/rdf-schema#label> "Poinsettia" .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Acacia+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Billbergia+%27Selby%27> <http://dbpedia.org/ontology/format> "abstract entity" .
+<http://dbpedia.org/resource/Poinsettia_(cocktail)> <http://dbpedia.org/ontology/format> "object" .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Restrepia+cuprea> <http://dbpedia.org/ontology/format> "species" .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Acacia+simplex> <http://dbpedia.org/ontology/format> "object" .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Home+Guard+%28potato%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://dbpedia.org/resource/Poinsettia_(cocktail)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Restrepia+cuprea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Home+Guard+%28potato%29> <http://www.w3.org/2000/01/rdf-schema#label> "Home Guard (potato)" .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Acacia+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Acacia simplex" .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Home+Guard+%28potato%29> <http://dbpedia.org/ontology/format> "Thing" .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Billbergia+%27Selby%27> <http://www.w3.org/2000/01/rdf-schema#label> "Billbergia 'Selby'" .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Billbergia+%27Selby%27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://example.org/02a63720-e718-4436-8883-4be4eaf51aa7/Restrepia+cuprea> <http://www.w3.org/2000/01/rdf-schema#label> "Restrepia cuprea" .
+

@@ -1,0 +1,6 @@
+<http://example.org/93018183-3547-48cf-8e86-74eb019b7443/Labyrinth+%28marble+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Labyrinth (marble game)" .
+<http://dbpedia.org/resource/History_of_the_World_(board_game)> <http://www.w3.org/2000/01/rdf-schema#label> "History of the World (board game)" .
+<http://dbpedia.org/resource/Hero_card> <http://www.w3.org/2000/01/rdf-schema#label> "Hero Wars" .
+<http://dbpedia.org/resource/Xena:_Warrior_Princess_(comics)> <http://www.w3.org/2000/01/rdf-schema#label> "Diana: Warrior Princess" .
+<http://example.org/93018183-3547-48cf-8e86-74eb019b7443/Havic%3A+The+Bothering> <http://www.w3.org/2000/01/rdf-schema#label> "Havic: The Bothering" .
+

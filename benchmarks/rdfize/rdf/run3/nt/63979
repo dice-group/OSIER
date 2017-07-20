@@ -1,0 +1,11 @@
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/Allroy_Sez__1> <http://dbpedia.org/ontology/discovery> "Sugar and Spice" .
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/All_You_Need_Is_Love_%28The_JAMs_song%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "All_You_Need_Is_Love_(The_JAMs_song)__1" .
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/All_You_Need_Is_Love_%28The_JAMs_song%29__1> <http://dbpedia.org/ontology/discovery> "All You Need Is Love" .
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/Andros_Trophy__1> <http://www.w3.org/2000/01/rdf-schema#label> "Andros_Trophy__1" .
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/Andros_Trophy__1> <http://dbpedia.org/ontology/discovery> "2010 Toyota Auris Andros Trophy" .
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/Allroy_Sez__1> <http://www.w3.org/2000/01/rdf-schema#label> "Allroy_Sez__1" .
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/All_You_Need_Is_Love_%28The_JAMs_song%29__2> <http://www.w3.org/2000/01/rdf-schema#label> "All_You_Need_Is_Love_(The_JAMs_song)__2" .
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/Allroy%27s_Revenge__1> <http://www.w3.org/2000/01/rdf-schema#label> "Allroy's_Revenge__1" .
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/All_You_Need_Is_Love_%28The_JAMs_song%29__2> <http://dbpedia.org/ontology/discovery> "All You Need Is Love (106bpm)" .
+<http://example.org/c3dcb896-890a-4e43-9481-0311ad623126/Allroy%27s_Revenge__1> <http://dbpedia.org/ontology/discovery> "Mary" .
+

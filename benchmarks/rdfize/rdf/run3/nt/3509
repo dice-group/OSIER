@@ -1,0 +1,8 @@
+<http://dbpedia.org/resource/Michael_I_of_Romania> <http://www.w3.org/2000/01/rdf-schema#label> "Michael" .
+<http://dbpedia.org/resource/St._Cyril's_Monastery> <http://www.w3.org/2000/01/rdf-schema#label> "Cyril" .
+<http://dbpedia.org/resource/Anastasius_I_Dicorus> <http://www.w3.org/2000/01/rdf-schema#label> "Anastasius" .
+<http://dbpedia.org/resource/Alexandra_Zaretsky> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandra" .
+<http://dbpedia.org/resource/Saint_Gerard> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E9rard" .
+<http://example.org/989f683b-a0c9-47a5-85b2-cde49bddbe49/%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB> <http://www.w3.org/2000/01/rdf-schema#label> "\u041A\u0438\u0440\u0438\u043B\u043B" .
+<http://example.org/989f683b-a0c9-47a5-85b2-cde49bddbe49/%E3%82%A2%E3%83%8A%E3%82%B9%E3%82%BF%E3%82%B7%E3%82%AA%E3%82%B9> <http://www.w3.org/2000/01/rdf-schema#label> "\u30A2\u30CA\u30B9\u30BF\u30B7\u30AA\u30B9" .
+

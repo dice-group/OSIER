@@ -1,0 +1,19 @@
+<http://dbpedia.org/resource/Jadavpur_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Iowa_State_University> <http://www.w3.org/2000/01/rdf-schema#label> "Iowa State University" .
+<http://dbpedia.org/resource/Jadavpur_University> <http://www.w3.org/2000/01/rdf-schema#label> "Jadavpur University" .
+<http://dbpedia.org/resource/Ithaca_College> <http://dbpedia.org/ontology/creator> "organization" .
+<http://dbpedia.org/resource/Ithaca_College> <http://www.w3.org/2000/01/rdf-schema#label> "Ithaca College" .
+<http://example.org/ca538638-af3b-4290-9221-e3208cb956e8/Jadgavpr+University> <http://www.w3.org/2000/01/rdf-schema#label> "Jadgavpr University" .
+<http://dbpedia.org/resource/Iowa_State_University> <http://dbpedia.org/ontology/creator> "Organization" .
+<http://dbpedia.org/resource/Hunter_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Indian_Institute_of_Technology_Madras> <http://www.w3.org/2000/01/rdf-schema#label> "Indian Institute of Technology Kanpur" .
+<http://example.org/ca538638-af3b-4290-9221-e3208cb956e8/Jadgavpr+University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Indian_Institute_of_Technology_Madras> <http://dbpedia.org/ontology/creator> "organisation" .
+<http://example.org/ca538638-af3b-4290-9221-e3208cb956e8/Jadgavpr+University> <http://dbpedia.org/ontology/creator> "CollegeOrUniveqsity" .
+<http://dbpedia.org/resource/Hunter_College> <http://www.w3.org/2000/01/rdf-schema#label> "Hunter College" .
+<http://dbpedia.org/resource/Iowa_State_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Jadavpur_University> <http://dbpedia.org/ontology/creator> "agent" .
+<http://dbpedia.org/resource/Indian_Institute_of_Technology_Madras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Ithaca_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Hunter_College> <http://dbpedia.org/ontology/creator> "Agent" .
+

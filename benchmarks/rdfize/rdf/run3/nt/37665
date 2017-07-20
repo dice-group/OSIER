@@ -1,0 +1,6 @@
+<http://example.org/1f063833-8734-45a9-aef5-9f36ccfe52b8/Carlos+UManuel+Rodr%C3%ADguwez+Sanigo> <http://www.w3.org/2000/01/rdf-schema#label> "Carlos UManuel Rodr\u00EDguwez Sanigo" .
+<http://dbpedia.org/resource/Gabriel> <http://www.w3.org/2000/01/rdf-schema#label> "Gabriel" .
+<http://dbpedia.org/resource/Alexander_Nevsky> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Nevsky" .
+<http://dbpedia.org/resource/St._Ambrose_Traversari> <http://www.w3.org/2000/01/rdf-schema#label> "St. Ambrose Traversari" .
+<http://dbpedia.org/resource/Martha> <http://www.w3.org/2000/01/rdf-schema#label> "Martha" .
+

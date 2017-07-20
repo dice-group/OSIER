@@ -1,0 +1,26 @@
+<http://dbpedia.org/resource/MF_Doom> <http://www.w3.org/2000/01/rdf-schema#label> "DOOM" .
+<http://dbpedia.org/resource/Gyeongsang_National_University> <http://www.w3.org/2000/01/rdf-schema#label> "GNU" .
+<http://dbpedia.org/resource/Debian_GNU/Hurd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/F-Zero%3A+Maximum+Velocity> <http://www.w3.org/2000/01/rdf-schema#label> "F-Zero: Maximum Velocity" .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/F-Zero%3Aaximums+VeloRcity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/Port+Royale+3%3A+Pirates+%26+Merchants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/F-Zero%3Aaximums+VeloRcity> <http://www.w3.org/2000/01/rdf-schema#label> "F-Zero:aximums VeloRcity" .
+<http://dbpedia.org/resource/MF_Doom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/F-Zero%3AMasximumVelocRity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://dbpedia.org/resource/MF_Doom> <http://www.w3.org/2000/01/rdf-schema#label> "Doom" .
+<http://dbpedia.org/resource/Debian_GNU/Hurd> <http://www.w3.org/2000/01/rdf-schema#label> "Debian GNU/Hurd" .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/F-Zero%3A+Maximum+Velocity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/Loons%3A+The+Fight+for+Fame> <http://www.w3.org/2000/01/rdf-schema#label> "Loons: The Fight for Fame" .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/F-Zero%3AMasximumVelocRity> <http://www.w3.org/2000/01/rdf-schema#label> "F-Zero:MasximumVelocRity" .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/Port+Royale+3%3A+Pirates+%26+Merchants> <http://www.w3.org/2000/01/rdf-schema#label> "Port Royale 3: Pirates & Merchants" .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/CuteFTP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/CuteFTP> <http://www.w3.org/2000/01/rdf-schema#label> "CuteFTP" .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/Doom+%281993+video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Doom (1993 video game)" .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/Fortress+%28online+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://dbpedia.org/resource/Gyeongsang_National_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/Doom+%281993+video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/%D8%AC%D9%86%D9%88> <http://www.w3.org/2000/01/rdf-schema#label> "\u062C\u0646\u0648" .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/Fortress+%28online+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fortress (online game)" .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/Loons%3A+The+Fight+for+Fame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+<http://example.org/6951e256-d15a-4f19-8b76-bb66b2beab1c/%D8%AC%D9%86%D9%88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usefulinc.com/ns/doap#ArchRepository> .
+

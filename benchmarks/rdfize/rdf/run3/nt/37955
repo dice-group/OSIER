@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Köprübaşı_Dam> <http://www.w3.org/2000/01/rdf-schema#label> "K\u00F6pr\u00FCba\u015F\u0131 Dam" .
+<http://dbpedia.org/resource/Potrerillos_Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Laggan_Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Yali_Falls_Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Potrerillos_Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Potrerillos Dam" .
+<http://dbpedia.org/resource/Los_Molinos_Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Los_Molinos_Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Los Molinos Dam" .
+<http://dbpedia.org/resource/Yali_Falls_Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Yali Falls Dam" .
+<http://dbpedia.org/resource/Laggan_Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Laggan Dam" .
+<http://dbpedia.org/resource/Köprübaşı_Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

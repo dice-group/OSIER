@@ -1,0 +1,166 @@
+<http://dbpedia.org/resource/Caesar_Baronius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/William_Wakefield_Baum> <http://www.w3.org/2000/01/rdf-schema#label> "William Wakefield Baum" .
+<http://dbpedia.org/resource/Basilio_Pompilj> <http://www.w3.org/2000/01/rdf-schema#label> "Basilio Pompilj" .
+<http://dbpedia.org/resource/Francesco_Colasuonno> <http://dbpedia.org/ontology/location> "Person" .
+<http://dbpedia.org/resource/Francesco_Satolli> <http://www.w3.org/2000/01/rdf-schema#label> "Francesco Satolli" .
+<http://dbpedia.org/resource/Pietro_Fumasoni_Biondi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Davide+Beaon> <http://www.w3.org/2000/01/rdf-schema#label> "Davide Beaon" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Alo%C3%ADsi+Loruscheider> <http://www.w3.org/2000/01/rdf-schema#label> "Alo\u00EDsi Loruscheider" .
+<http://dbpedia.org/resource/Giuseppe_Albani> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Palo+Madrella> <http://www.w3.org/2000/01/rdf-schema#label> "Palo Madrella" .
+<http://dbpedia.org/resource/Simon_Langham> <http://www.w3.org/2000/01/rdf-schema#label> "Simon Langham" .
+<http://dbpedia.org/resource/William_Henry_Conley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Giuseppe_Sensi> <http://www.w3.org/2000/01/rdf-schema#label> "Giuseppe Sensi" .
+<http://dbpedia.org/resource/Javier_Lozano_Barragán> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Robert_Kilwardby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/William_Levada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Enrico_Sibilia> <http://www.w3.org/2000/01/rdf-schema#label> "Enrico Sibilia" .
+<http://dbpedia.org/resource/Francesco_Colasuonno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Ján_Chryzostom_Korec> <http://www.w3.org/2000/01/rdf-schema#label> "J\u00E1n Chryzostom Korec" .
+<http://dbpedia.org/resource/Alberto_di_Jorio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/John_Dew_(bishop)> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Basilio_Pompilj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/André-Damien-Ferdinand_Jullien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Edward_Clancy_(cardinal)> <http://www.w3.org/2000/01/rdf-schema#label> "Edward Clancy (cardinal)" .
+<http://dbpedia.org/resource/Joseph_Cordeiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Maurice_Michael_Otunga> <http://www.w3.org/2000/01/rdf-schema#label> "Maurice Michael Otunga" .
+<http://dbpedia.org/resource/Jozef_Tomko> <http://dbpedia.org/ontology/location> "bishop" .
+<http://dbpedia.org/resource/Alexandre_Renard> <http://dbpedia.org/ontology/location> "Cleric" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Zbignew+Ole%C5%9BnZAicki+%28carinal%29> <http://dbpedia.org/ontology/location> "clerymaen" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Alo%C3%ADsi+Loruscheider> <http://dbpedia.org/ontology/location> "CRaHrdinal_CatholicBiop" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Lhuigi+Amat+di+an+FiSlippo+eSorso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Pierre_de_Foix,_le_vieux> <http://dbpedia.org/ontology/location> "archbishop" .
+<http://dbpedia.org/resource/Stanislas_Touchet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Stanislas_Touchet> <http://www.w3.org/2000/01/rdf-schema#label> "Stanislas Touchet" .
+<http://dbpedia.org/resource/Ennio_Antonelli> <http://www.w3.org/2000/01/rdf-schema#label> "Ennio Antonelli" .
+<http://dbpedia.org/resource/Pietro_Fumasoni_Biondi> <http://www.w3.org/2000/01/rdf-schema#label> "Pietro Fumasoni Biondi" .
+<http://dbpedia.org/resource/John_Dew_(bishop)> <http://www.w3.org/2000/01/rdf-schema#label> "John Dew (bishop)" .
+<http://dbpedia.org/resource/Philippe_Barbier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Virgilio_Tosi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Javier_Lozano_Barragán> <http://dbpedia.org/ontology/location> "person" .
+<http://dbpedia.org/resource/Jozef_Tomko> <http://www.w3.org/2000/01/rdf-schema#label> "Jozef Tomko" .
+<http://dbpedia.org/resource/Filippo_Maria_Monti> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Joseph_Zen> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Zen" .
+<http://dbpedia.org/resource/Juraj_Drašković> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Joseph_Zen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Simon_Langham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Felix_von_Hartmann> <http://dbpedia.org/ontology/location> "archbishop" .
+<http://dbpedia.org/resource/Louis-Joseph_de_Montmorency-Laval> <http://dbpedia.org/ontology/location> "bishop" .
+<http://dbpedia.org/resource/John_Kemp> <http://www.w3.org/2000/01/rdf-schema#label> "John Kemp" .
+<http://dbpedia.org/resource/Alexandre_Renard> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandre Renard" .
+<http://dbpedia.org/resource/Basilio_Pompilj> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Louis-Joseph_de_Montmorency-Laval> <http://www.w3.org/2000/01/rdf-schema#label> "Louis-Joseph de Montmorency-Laval" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Zbignew+Ole%C5%9BnZAicki+%28carinal%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Bernard_Francis_Saul> <http://dbpedia.org/ontology/location> "human" .
+<http://dbpedia.org/resource/Luigi_Oreglia_di_Santo_Stefano> <http://www.w3.org/2000/01/rdf-schema#label> "Luigi Oreglia di Santo Stefano" .
+<http://dbpedia.org/resource/Ricardo_María_Carles_Gordó> <http://www.w3.org/2000/01/rdf-schema#label> "Ricardo Mar\u00EDa Carles Gord\u00F3" .
+<http://dbpedia.org/resource/Dominik_Duka> <http://www.w3.org/2000/01/rdf-schema#label> "Dominik Duka" .
+<http://dbpedia.org/resource/Lorenzo_Pucci> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/John_Dew_(bishop)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Diomede_Falconio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/William_Levada> <http://dbpedia.org/ontology/location> "Agent" .
+<http://dbpedia.org/resource/Lorenzo_Pucci> <http://www.w3.org/2000/01/rdf-schema#label> "Lorenzo Pucci" .
+<http://dbpedia.org/resource/Felix_von_Hartmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/William_Henry_Conley> <http://dbpedia.org/ontology/location> "agent" .
+<http://dbpedia.org/resource/František_Tomášek> <http://www.w3.org/2000/01/rdf-schema#label> "Franti\u0161ek Tom\u00E1\u0161ek" .
+<http://dbpedia.org/resource/Bernard_Francis_Saul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Stanislas_Touchet> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Philippe_Barbier> <http://www.w3.org/2000/01/rdf-schema#label> "Philippe BarbarGi" .
+<http://dbpedia.org/resource/Diomede_Falconio> <http://dbpedia.org/ontology/location> "archbishop" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Alo%C3%ADsi+Loruscheider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Jozef_Tomko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Palo+Madrella> <http://dbpedia.org/ontology/location> "ThSin" .
+<http://dbpedia.org/resource/Maurice_Michael_Otunga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Giuseppe_Sensi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Ján_Chryzostom_Korec> <http://dbpedia.org/ontology/location> "NaturalPerson" .
+<http://dbpedia.org/resource/Javier_Lozano_Barragán> <http://www.w3.org/2000/01/rdf-schema#label> "Javier Lozano Barrag\u00E1n" .
+<http://dbpedia.org/resource/František_Tomášek> <http://dbpedia.org/ontology/location> "cleric" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Thoms+Bourchier+%28aprdinral%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Jean_Marcel_Honoré> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Marcel Honor\u00E9" .
+<http://dbpedia.org/resource/Pedro_da_Fonseca_(cardinal)> <http://www.w3.org/2000/01/rdf-schema#label> "Pedro da Fonseca (cardinal)" .
+<http://dbpedia.org/resource/Philippe_Barbier> <http://dbpedia.org/ontology/location> "peroYn" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Thoms+Bourchier+%28aprdinral%29> <http://dbpedia.org/ontology/location> "casaZl agency" .
+<http://dbpedia.org/resource/Pedro_da_Fonseca_(cardinal)> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/František_Tomášek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Pierre_de_Foix,_le_vieux> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre de Foix, le vieux" .
+<http://dbpedia.org/resource/Alberto_di_Jorio> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Alexandre_Renard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Francesco_Colasuonno> <http://www.w3.org/2000/01/rdf-schema#label> "Francesco Colasuonno" .
+<http://dbpedia.org/resource/Luigi_Oreglia_di_Santo_Stefano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Enrico_Sibilia> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Ennio_Antonelli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Ricardo_María_Carles_Gordó> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Robert_Kilwardby> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Kilwardby" .
+<http://dbpedia.org/resource/John_Kemp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Joseph_Cordeiro> <http://dbpedia.org/ontology/location> "Person" .
+<http://dbpedia.org/resource/Pietro_Fumasoni_Biondi> <http://dbpedia.org/ontology/location> "graduate" .
+<http://dbpedia.org/resource/Edward_Clancy_(cardinal)> <http://dbpedia.org/ontology/location> "person" .
+<http://dbpedia.org/resource/Luigi_Oreglia_di_Santo_Stefano> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/André-Damien-Ferdinand_Jullien> <http://www.w3.org/2000/01/rdf-schema#label> "Andr\u00E9-Damien-Ferdinand Jullien" .
+<http://dbpedia.org/resource/Dominik_Duka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Domenico_Bartolucci> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Thoms+Bourchier+%28aprdinral%29> <http://www.w3.org/2000/01/rdf-schema#label> "Thoms Bourchier (aprdinral)" .
+<http://dbpedia.org/resource/Enrico_Gasparri> <http://www.w3.org/2000/01/rdf-schema#label> "Enrico Gasparri" .
+<http://dbpedia.org/resource/Giuseppe_Albani> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Casimiro_Gennari> <http://www.w3.org/2000/01/rdf-schema#label> "Casimiro Gennari" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Lhuigi+Amat+di+an+FiSlippo+eSorso> <http://dbpedia.org/ontology/location> "Cyeric" .
+<http://dbpedia.org/resource/Ricardo_María_Carles_Gordó> <http://dbpedia.org/ontology/location> "person" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Davide+Beaon> <http://dbpedia.org/ontology/location> "NatralPersoHn" .
+<http://dbpedia.org/resource/Edward_Clancy_(cardinal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Ennio_Antonelli> <http://dbpedia.org/ontology/location> "graduate" .
+<http://dbpedia.org/resource/Aurelio_Sabattani> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Pierre_de_Foix,_le_vieux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Jean_Marcel_Honoré> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Joseph_Cordeiro> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Cordeiro" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Lhuigi+Amat+di+an+FiSlippo+eSorso> <http://www.w3.org/2000/01/rdf-schema#label> "Lhuigi Amat di an FiSlippo eSorso" .
+<http://dbpedia.org/resource/Giuseppe_Sensi> <http://dbpedia.org/ontology/location> "ambassador" .
+<http://dbpedia.org/resource/William_Levada> <http://www.w3.org/2000/01/rdf-schema#label> "William Levada" .
+<http://dbpedia.org/resource/Aurelio_Sabattani> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Caesar_Baronius> <http://www.w3.org/2000/01/rdf-schema#label> "Caesar Baronius" .
+<http://dbpedia.org/resource/William_Wakefield_Baum> <http://dbpedia.org/ontology/location> "Agent" .
+<http://dbpedia.org/resource/John_Kemp> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Juraj_Drašković> <http://dbpedia.org/ontology/location> "NaturalPerson" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Davide+Beaon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Caesar_Baronius> <http://dbpedia.org/ontology/location> "Person" .
+<http://dbpedia.org/resource/Pedro_da_Fonseca_(cardinal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Casimiro_Gennari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Aurelio_Sabattani> <http://www.w3.org/2000/01/rdf-schema#label> "Aurelio Sabattani" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Palo+Madrella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/BechMaraButros+al-tRahi> <http://dbpedia.org/ontology/location> "aenFt" .
+<http://dbpedia.org/resource/William_Wakefield_Baum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Juraj_Drašković> <http://www.w3.org/2000/01/rdf-schema#label> "Juraj Dra\u0161kovi\u0107" .
+<http://dbpedia.org/resource/Filippo_Maria_Monti> <http://www.w3.org/2000/01/rdf-schema#label> "Filippo Maria Monti" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Jean+VrdiQer> <http://www.w3.org/2000/01/rdf-schema#label> "Jean VrdiQer" .
+<http://dbpedia.org/resource/Alberto_di_Jorio> <http://www.w3.org/2000/01/rdf-schema#label> "Alberto di Jorio" .
+<http://dbpedia.org/resource/Giuseppe_Albani> <http://www.w3.org/2000/01/rdf-schema#label> "Giuseppe Albani" .
+<http://dbpedia.org/resource/Domenico_Bartolucci> <http://dbpedia.org/ontology/location> "agent" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/BechMaraButros+al-tRahi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Domenico_Bartolucci> <http://www.w3.org/2000/01/rdf-schema#label> "Domenico Bartolucci" .
+<http://dbpedia.org/resource/Ján_Chryzostom_Korec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Jean_Marcel_Honoré> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Zbignew+Ole%C5%9BnZAicki+%28carinal%29> <http://www.w3.org/2000/01/rdf-schema#label> "Zbignew Ole\u015BnZAicki (carinal)" .
+<http://dbpedia.org/resource/Bernard_Francis_Saul> <http://www.w3.org/2000/01/rdf-schema#label> "Bernard Francis Law" .
+<http://dbpedia.org/resource/Simon_Langham> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Francesco_Satolli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Jean+VrdiQer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Francesco_Satolli> <http://dbpedia.org/ontology/location> "person" .
+<http://dbpedia.org/resource/André-Damien-Ferdinand_Jullien> <http://dbpedia.org/ontology/location> "associate" .
+<http://dbpedia.org/resource/Dominik_Duka> <http://dbpedia.org/ontology/location> "Agent" .
+<http://dbpedia.org/resource/Robert_Kilwardby> <http://dbpedia.org/ontology/location> "archbishop" .
+<http://dbpedia.org/resource/Casimiro_Gennari> <http://dbpedia.org/ontology/location> "cardinal" .
+<http://dbpedia.org/resource/Diomede_Falconio> <http://www.w3.org/2000/01/rdf-schema#label> "Diomede Falconio" .
+<http://dbpedia.org/resource/Enrico_Gasparri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Filippo_Maria_Monti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Felix_von_Hartmann> <http://www.w3.org/2000/01/rdf-schema#label> "Felix von Hartmann" .
+<http://dbpedia.org/resource/Virgilio_Tosi> <http://www.w3.org/2000/01/rdf-schema#label> "Virgilio No\u00E8" .
+<http://dbpedia.org/resource/William_Henry_Conley> <http://www.w3.org/2000/01/rdf-schema#label> "William Henry Keeler" .
+<http://dbpedia.org/resource/Enrico_Sibilia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/Jean+VrdiQer> <http://dbpedia.org/ontology/location> "CadinalK_CathoicBUishop" .
+<http://dbpedia.org/resource/Joseph_Zen> <http://dbpedia.org/ontology/location> "NaturalPerson" .
+<http://example.org/f3fdfd7b-834f-4871-840f-c148a224ab29/BechMaraButros+al-tRahi> <http://www.w3.org/2000/01/rdf-schema#label> "BechMaraButros al-tRahi" .
+<http://dbpedia.org/resource/Maurice_Michael_Otunga> <http://dbpedia.org/ontology/location> "archbishop" .
+<http://dbpedia.org/resource/Virgilio_Tosi> <http://dbpedia.org/ontology/location> "Cardinal_CatholicBishop" .
+<http://dbpedia.org/resource/Louis-Joseph_de_Montmorency-Laval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+<http://dbpedia.org/resource/Enrico_Gasparri> <http://dbpedia.org/ontology/location> "cleric" .
+<http://dbpedia.org/resource/Lorenzo_Pucci> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cardinal> .
+

@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Massachusetts_Bay_Transportation_Authority> <http://dbpedia.org/ontology/legalForm> "abstract entity" .
+<http://dbpedia.org/resource/Edmonton_Radial_Railway> <http://dbpedia.org/ontology/legalForm> "business concern" .
+<http://dbpedia.org/resource/Edmonton_Radial_Railway> <http://www.w3.org/2000/01/rdf-schema#label> "Edmonton Radial Railway" .
+<http://dbpedia.org/resource/Toronto_Civic_Railways> <http://www.w3.org/2000/01/rdf-schema#label> "Toronto Civic Railways" .
+<http://dbpedia.org/resource/Tramlink> <http://www.w3.org/2000/01/rdf-schema#label> "Tramlink" .
+<http://dbpedia.org/resource/London_Underground> <http://www.w3.org/2000/01/rdf-schema#label> "London Underground" .
+<http://dbpedia.org/resource/Toronto_Civic_Railways> <http://dbpedia.org/ontology/legalForm> "SocialPerson" .
+<http://dbpedia.org/resource/Massachusetts_Bay_Transportation_Authority> <http://www.w3.org/2000/01/rdf-schema#label> "Massachusetts Bay Transportation Authority" .
+<http://dbpedia.org/resource/Tramlink> <http://dbpedia.org/ontology/legalForm> "physical entity" .
+<http://dbpedia.org/resource/London_Underground> <http://dbpedia.org/ontology/legalForm> "public transit system" .
+

@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Tara_Jarmon> <http://dbpedia.org/ontology/designer> "person" .
+<http://dbpedia.org/resource/John_Hetherington> <http://www.w3.org/2000/01/rdf-schema#label> "John Hetherington" .
+<http://dbpedia.org/resource/Roberto_Capucci> <http://dbpedia.org/ontology/designer> "person" .
+<http://dbpedia.org/resource/Eri_Matsui> <http://dbpedia.org/ontology/designer> "fashion designer" .
+<http://dbpedia.org/resource/Eri_Matsui> <http://www.w3.org/2000/01/rdf-schema#label> "Eri Matsui" .
+<http://dbpedia.org/resource/Roberto_Capucci> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Capucci" .
+<http://dbpedia.org/resource/Robert_Cary-Williams> <http://dbpedia.org/ontology/designer> "person" .
+<http://dbpedia.org/resource/Robert_Cary-Williams> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Cary-Williams" .
+<http://dbpedia.org/resource/Tara_Jarmon> <http://www.w3.org/2000/01/rdf-schema#label> "Tara Jarmon" .
+<http://dbpedia.org/resource/John_Hetherington> <http://dbpedia.org/ontology/designer> "person" .
+

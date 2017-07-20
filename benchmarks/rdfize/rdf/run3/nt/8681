@@ -1,0 +1,11 @@
+<http://example.org/20d580e4-44de-46ef-95ef-c7d3fdfd8b5d/Secondary+palate+development> <http://www.w3.org/2000/01/rdf-schema#label> "Secondary palate development" .
+<http://example.org/20d580e4-44de-46ef-95ef-c7d3fdfd8b5d/Primitive+knot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://example.org/20d580e4-44de-46ef-95ef-c7d3fdfd8b5d/Hepatic+diverticulum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://dbpedia.org/resource/Gestational_age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://example.org/20d580e4-44de-46ef-95ef-c7d3fdfd8b5d/SSius+venosus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://dbpedia.org/resource/Gestational_age> <http://www.w3.org/2000/01/rdf-schema#label> "Gestational sac" .
+<http://example.org/20d580e4-44de-46ef-95ef-c7d3fdfd8b5d/Primitive+knot> <http://www.w3.org/2000/01/rdf-schema#label> "Primitive knot" .
+<http://example.org/20d580e4-44de-46ef-95ef-c7d3fdfd8b5d/Secondary+palate+development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2011/content#Content> .
+<http://example.org/20d580e4-44de-46ef-95ef-c7d3fdfd8b5d/Hepatic+diverticulum> <http://www.w3.org/2000/01/rdf-schema#label> "Hepatic diverticulum" .
+<http://example.org/20d580e4-44de-46ef-95ef-c7d3fdfd8b5d/SSius+venosus> <http://www.w3.org/2000/01/rdf-schema#label> "SSius venosus" .
+

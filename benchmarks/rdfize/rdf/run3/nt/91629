@@ -1,0 +1,13 @@
+<http://dbpedia.org/resource/FC_Dynamo_Makhachkala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002022> .
+<http://dbpedia.org/resource/Crewe_Alexandra_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Crewe Alexandra F.C." .
+<http://dbpedia.org/resource/FC_Dynamo_Stavropol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002022> .
+<http://dbpedia.org/resource/FC_Nart_Cherkessk> <http://www.w3.org/2000/01/rdf-schema#label> "FC Nart Cherkessk" .
+<http://dbpedia.org/resource/FC_Nart_Cherkessk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002022> .
+<http://dbpedia.org/resource/Crewe_Alexandra_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002022> .
+<http://dbpedia.org/resource/FC_Rostov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002022> .
+<http://example.org/a6cdfe38-a908-4895-a297-bf5f778d061b/FCNart+BCherkessk> <http://www.w3.org/2000/01/rdf-schema#label> "FCNart BCherkessk" .
+<http://example.org/a6cdfe38-a908-4895-a297-bf5f778d061b/FCNart+BCherkessk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002022> .
+<http://dbpedia.org/resource/FC_Dynamo_Makhachkala> <http://www.w3.org/2000/01/rdf-schema#label> "FC Dynamo Makhachkala" .
+<http://dbpedia.org/resource/FC_Rostov> <http://www.w3.org/2000/01/rdf-schema#label> "FC Rostov" .
+<http://dbpedia.org/resource/FC_Dynamo_Stavropol> <http://www.w3.org/2000/01/rdf-schema#label> "FC Dynamo Stavropol" .
+

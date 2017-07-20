@@ -1,0 +1,11 @@
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Kv%C3%AD%C4%8Dala+is+a+Czech+surname+of%3A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.co/bevon/WhiteWine> .
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Kv%C3%AD%C4%8Dala+is+a+Czech+surname+of%3A> <http://www.w3.org/2000/01/rdf-schema#label> "Kv\u00ED\u010Dala is a Czech surname of:" .
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Rejt%C5%91+ist+der+Familienname+von%3A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.co/bevon/WhiteWine> .
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Sch%C3%B6nbein+may+refer+to%3A> <http://www.w3.org/2000/01/rdf-schema#label> "Sch\u00F6nbein may refer to:" .
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Sl%C3%A1dkovi%C4%8D%3A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.co/bevon/WhiteWine> .
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Sl%C3%A1dkovi%C4%8D%3A> <http://www.w3.org/2000/01/rdf-schema#label> "Sl\u00E1dkovi\u010D:" .
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Kvint+is+a+Ofamily+axme+of> <http://www.w3.org/2000/01/rdf-schema#label> "Kvint is a Ofamily axme of" .
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Rejt%C5%91+ist+der+Familienname+von%3A> <http://www.w3.org/2000/01/rdf-schema#label> "Rejt\u0151 ist der Familienname von:" .
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Kvint+is+a+Ofamily+axme+of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.co/bevon/WhiteWine> .
+<http://example.org/812d677e-f246-40e9-836c-c970d5ed17dc/Sch%C3%B6nbein+may+refer+to%3A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.co/bevon/WhiteWine> .
+

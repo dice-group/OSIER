@@ -1,0 +1,16 @@
+<http://example.org/aeacca02-fa42-4609-944f-744563eab720/DdJley+Do-Riht%27s+RipsWaw+Falls> <http://www.w3.org/2000/01/rdf-schema#label> "DdJley Do-Riht's RipsWaw Falls" .
+<http://example.org/aeacca02-fa42-4609-944f-744563eab720/Jaws+%28ride%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jaws (ride)" .
+<http://dbpedia.org/resource/Splash_Mountain> <http://www.w3.org/2000/01/rdf-schema#label> "Splash Mountain" .
+<http://example.org/aeacca02-fa42-4609-944f-744563eab720/Jaws+%28ride%29> <http://dbpedia.org/ontology/snowParkNumber> "SpatialThing" .
+<http://dbpedia.org/resource/Splash_Mountain> <http://dbpedia.org/ontology/snowParkNumber> "amusement park attraction" .
+<http://dbpedia.org/resource/Shipwreck_Falls> <http://dbpedia.org/ontology/snowParkNumber> "architectural structure" .
+<http://dbpedia.org/resource/Power_Surge_(water_ride)> <http://dbpedia.org/ontology/snowParkNumber> "water ride" .
+<http://dbpedia.org/resource/Splash_Mountain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.disit.org/km4city/schema#Amusement_and_theme_parks> .
+<http://example.org/aeacca02-fa42-4609-944f-744563eab720/Jaws+%28ride%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.disit.org/km4city/schema#Amusement_and_theme_parks> .
+<http://dbpedia.org/resource/Shipwreck_Falls> <http://www.w3.org/2000/01/rdf-schema#label> "Shipwreck Falls" .
+<http://dbpedia.org/resource/Shipwreck_Falls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.disit.org/km4city/schema#Amusement_and_theme_parks> .
+<http://example.org/aeacca02-fa42-4609-944f-744563eab720/DdJley+Do-Riht%27s+RipsWaw+Falls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.disit.org/km4city/schema#Amusement_and_theme_parks> .
+<http://dbpedia.org/resource/Power_Surge_(water_ride)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.disit.org/km4city/schema#Amusement_and_theme_parks> .
+<http://example.org/aeacca02-fa42-4609-944f-744563eab720/DdJley+Do-Riht%27s+RipsWaw+Falls> <http://dbpedia.org/ontology/snowParkNumber> "amVueent park attractioHn" .
+<http://dbpedia.org/resource/Power_Surge_(water_ride)> <http://www.w3.org/2000/01/rdf-schema#label> "Power Surge (water ride)" .
+

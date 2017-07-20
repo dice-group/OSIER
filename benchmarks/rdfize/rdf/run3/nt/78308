@@ -1,0 +1,121 @@
+<http://dbpedia.org/resource/Cherokee_Botanical_Garden_and_Nature_Trail> <http://www.w3.org/2000/01/rdf-schema#label> "Cherokee Botanical Garden and Nature Trail" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Bulldog+Drummond+%28radio+program%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bulldog Drummond (radio program)" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Welkinweir__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Welkinweir__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/New_Canaan_Nature_Center__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/1966_and_All_That_(radio)> <http://www.w3.org/2000/01/rdf-schema#label> "1966 and All That (radio)" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/The+Breakfast+Club+%28radio+show%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Breakfast Club (radio show)" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Rhododendron_State_Park__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Rhododendron_State_Park__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Wells_Japanese_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Furman_University_Japanese_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/The+Breakfast+Club+%28radio+show%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Bartlett_Arboretum_%28Kansas%29__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Toledo_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Skppy+%28raDdio%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Bandywine+fWilflowerh+anda+Natve+Plant+Gardens> <http://www.w3.org/2000/01/rdf-schema#label> "Bandywine fWilflowerh anda Natve Plant Gardens" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Palmerton_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Independence_Park_Botanic_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Jerry_E._Clegg_Botanic_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Jerry_E._Clegg_Botanic_Garden__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Palmerton_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Palmerton_Arboretum__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Aullwood_House_and_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Aullwood_House_and_Garden__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Chas+and+Dom+from+%27The+Chaser%27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/IsAler+Royale+Natonal+Prk> <http://www.w3.org/2000/01/rdf-schema#label> "IsAler Royale Natonal Prk" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Toledo_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Toledo_Botanical_Garden__US-garden-stub__1" .
+<http://dbpedia.org/resource/Jim_Underwood> <http://www.w3.org/2000/01/rdf-schema#label> "Jim Underwood" .
+<http://dbpedia.org/resource/John_Hogan_(executive)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/IsAler+Royale+Natonal+Prk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Nannine_Clay_Wallis_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Dragnet+%28radio+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dragnet (radio series)" .
+<http://dbpedia.org/resource/Mercer_Arboretum_and_Botanic_Gardens> <http://www.w3.org/2000/01/rdf-schema#label> "Mercer Arboretum and Botanic Gardens" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Beaumont_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Beaumont_Botanical_Gardens__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Beekman_Native_Plant_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Wheeeler-xThanhauser_chi_Collection_ad_Species_Bank__US-garWden-stuVb__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Welkinweir__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Bulldog+Drummond+%28radio+program%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Ralph_Brennan__US-business-bio-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Rodef_Shalom_Biblical_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Kalmia_GardensI__USa-garden-sub_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Dubuque_Arboretum_and_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Dubuque_Arboretum_and_Botanical_Gardens__US-garden-stub__1" .
+<http://dbpedia.org/resource/John_Hogan_(executive)> <http://www.w3.org/2000/01/rdf-schema#label> "John Hogan (executive)" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Jasmine_Hill_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Jasmine_Hill_Gardens__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Jerry_E._Clegg_Botanic_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Purdue_University_Horticulture_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Skppy+%28raDdio%29> <http://www.w3.org/2000/01/rdf-schema#label> "Skppy (raDdio)" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Desert_Christ_Park__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Beaumont_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Sherman_Library_and_Gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Dothan_Area_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Dothan_Area_Botanical_Gardens__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Mati+Protected+Landscape> <http://www.w3.org/2000/01/rdf-schema#label> "Mati Protected Landscape" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Eddy_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Fruit_and_Spice_Park__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Fruit_and_Spice_Park__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/W._J._Beal_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "W._J._Beal_Botanical_Garden__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/LuisanaV_pState_Arboretum__US-garden-sttub_1> <http://www.w3.org/2000/01/rdf-schema#label> "LuisanaV_pState_Arboretum__US-garden-sttub_1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/RotaryBtanicalb_Gardens__US-gardnQ-stub_B_1> <http://www.w3.org/2000/01/rdf-schema#label> "RotaryBtanicalb_Gardens__US-gardnQ-stub_B_1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/W._J._Beal_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/The+Toucher+and+Rich+Show> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Botanica%2C_The_Wichita_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/1966_and_All_That_(radio)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/JosIeqph+Maso+%28ettler%29> <http://www.w3.org/2000/01/rdf-schema#label> "JosIeqph Maso (ettler)" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Music+%26+the+Spoken+Word> <http://www.w3.org/2000/01/rdf-schema#label> "Music & the Spoken Word" .
+<http://dbpedia.org/resource/D._A._%22Andy%22_Anderson_Arboretum> <http://www.w3.org/2000/01/rdf-schema#label> "D. A. Andy Anderson Arboretum" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Kate%2C+Tim+and+Marty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/University_of_Kentucky_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "University_of_Kentucky_Arboretum__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Wheeeler-xThanhauser_chi_Collection_ad_Species_Bank__US-garWden-stuVb__1> <http://www.w3.org/2000/01/rdf-schema#label> "Wheeeler-xThanhauser_chi_Collection_ad_Species_Bank__US-garWden-stuVb__1" .
+<http://dbpedia.org/resource/DuPont_State_Forest> <http://www.w3.org/2000/01/rdf-schema#label> "DuPont State Forest" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Rhododendron_State_Park__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Dubuque_Arboretum_and_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Wells_Japanese_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Wells_Japanese_Garden__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/University_of_Kentucky_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/JosIeqph+Maso+%28ettler%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/South_Texas_Botanical_Gardens_%26_Nature_Center__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "South_Texas_Botanical_Gardens_&_Nature_Center__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Kate%2C+Tim+and+Marty> <http://www.w3.org/2000/01/rdf-schema#label> "Kate, Tim and Marty" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Bandywine+fWilflowerh+anda+Natve+Plant+Gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Dothan_Area_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Chimney+Rock+Scientific+and+Natural+Area> <http://www.w3.org/2000/01/rdf-schema#label> "Chimney Rock Scientific and Natural Area" .
+<http://dbpedia.org/resource/Arboretum_at_Penn_State_Behrend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Sherman_Library_and_Gardens> <http://www.w3.org/2000/01/rdf-schema#label> "Sherman Library and Gardens" .
+<http://dbpedia.org/resource/Mercer_Arboretum_and_Botanic_Gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/RotaryBtanicalb_Gardens__US-gardnQ-stub_B_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Ernst_Gundlach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Oregon_Trail_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/South_Texas_Botanical_Gardens_%26_Nature_Center__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/New_Canaan_Nature_Center__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "New_Canaan_Nature_Center__US-garden-stub__1" .
+<http://dbpedia.org/resource/Dartmoor> <http://www.w3.org/2000/01/rdf-schema#label> "Dartmoor" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/ReflecStionRiding_ArbQoretjuYm_and_Nture_Center__U-arden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "ReflecStionRiding_ArbQoretjuYm_and_Nture_Center__U-arden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Dragnet+%28radio+series%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Desert_Christ_Park__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_Christ_Park__US-garden-stub__1" .
+<http://dbpedia.org/resource/Cedarvale_Botanic_Garden_and_Restaurant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Fruit_and_Spice_Park__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Preston+%26+Steve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Independence_Park_Botanic_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Independence_Park_Botanic_Gardens__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Furman_University_Japanese_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Furman_University_Japanese_Garden__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Aullwood_House_and_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Cherokee_Botanical_Garden_and_Nature_Trail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Ernst_Gundlach> <http://www.w3.org/2000/01/rdf-schema#label> "Ernst Gundlach" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Beekman_Native_Plant_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Beekman_Native_Plant_Arboretum__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Foellinger-Freimann_Botanical_Conservatory__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Chimney+Rock+Scientific+and+Natural+Area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/D._A._%22Andy%22_Anderson_Arboretum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/LuisanaV_pState_Arboretum__US-garden-sttub_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Music+%26+the+Spoken+Word> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/ReflecStionRiding_ArbQoretjuYm_and_Nture_Center__U-arden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Arboretum_at_Penn_State_Behrend> <http://www.w3.org/2000/01/rdf-schema#label> "Arboretum at Penn State Behrend" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/The+Toucher+and+Rich+Show> <http://www.w3.org/2000/01/rdf-schema#label> "The Toucher and Rich Show" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Mati+Protected+Landscape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Bartlett_Arboretum_%28Kansas%29__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Bartlett_Arboretum_(Kansas)__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Chas+and+Dom+from+%27The+Chaser%27> <http://www.w3.org/2000/01/rdf-schema#label> "Chas and Dom from 'The Chaser'" .
+<http://dbpedia.org/resource/DuPont_State_Forest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Kalmia_GardensI__USa-garden-sub_1> <http://www.w3.org/2000/01/rdf-schema#label> "Kalmia_GardensI__USa-garden-sub_1" .
+<http://dbpedia.org/resource/Dartmoor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Preston+%26+Steve> <http://www.w3.org/2000/01/rdf-schema#label> "Preston & Steve" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Oregon_Trail_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Oregon_Trail_Arboretum__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Foellinger-Freimann_Botanical_Conservatory__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Foellinger-Freimann_Botanical_Conservatory__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Jasmine_Hill_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Jim_Underwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Cedarvale_Botanic_Garden_and_Restaurant> <http://www.w3.org/2000/01/rdf-schema#label> "Cedarvale Botanic Garden and Restaurant" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Nannine_Clay_Wallis_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Nannine_Clay_Wallis_Arboretum__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Ralph_Brennan__US-business-bio-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Ralph_Brennan__US-business-bio-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Eddy_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Eddy_Arboretum__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Purdue_University_Horticulture_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Purdue_University_Horticulture_Gardens__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Botanica%2C_The_Wichita_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Botanica,_The_Wichita_Gardens__US-garden-stub__1" .
+<http://example.org/999cb4a7-7bc2-4015-a69b-f8171de7c1af/Rodef_Shalom_Biblical_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Rodef_Shalom_Biblical_Botanical_Garden__US-garden-stub__1" .
+

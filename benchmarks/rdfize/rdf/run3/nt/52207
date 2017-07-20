@@ -1,0 +1,6 @@
+<http://example.org/d2d20ed9-b23a-4af8-b64c-34ba99bd1efc/Navy+eReader+Device> <http://www.w3.org/2000/01/rdf-schema#label> "Navy eReader Device" .
+<http://dbpedia.org/resource/Ingress,_egress,_and_regress> <http://www.w3.org/2000/01/rdf-schema#label> "Ingress, egress, and regress" .
+<http://example.org/d2d20ed9-b23a-4af8-b64c-34ba99bd1efc/Mojo+%28microconsole%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mojo (microconsole)" .
+<http://example.org/d2d20ed9-b23a-4af8-b64c-34ba99bd1efc/Sirius+Stiletto> <http://www.w3.org/2000/01/rdf-schema#label> "Sirius Stiletto" .
+<http://example.org/d2d20ed9-b23a-4af8-b64c-34ba99bd1efc/Electric+Jukebox> <http://www.w3.org/2000/01/rdf-schema#label> "Electric Jukebox" .
+

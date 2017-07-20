@@ -1,0 +1,7 @@
+<http://example.org/f6d000b7-e5ce-4723-8c15-7d02d674058f/Johcn+Mils+%28baskbetall%29> <http://www.w3.org/2000/01/rdf-schema#label> "Johcn Mils (baskbetall)" .
+<http://dbpedia.org/resource/Abdul-Karim_al-Jabbar> <http://www.w3.org/2000/01/rdf-schema#label> "Kareem Abdul-Jabbar" .
+<http://dbpedia.org/resource/Blake_Williams_(basketball)> <http://www.w3.org/2000/01/rdf-schema#label> "Blake Williams (basketball)" .
+<http://dbpedia.org/resource/Michael_Jordan> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Jordan" .
+<http://example.org/f6d000b7-e5ce-4723-8c15-7d02d674058f/Hutch+Jones> <http://www.w3.org/2000/01/rdf-schema#label> "Hutch Jones" .
+<http://example.org/f6d000b7-e5ce-4723-8c15-7d02d674058f/Jhn+GMill+%28cestiQsta%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jhn GMill (cestiQsta)" .
+

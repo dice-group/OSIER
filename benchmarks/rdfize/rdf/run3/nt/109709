@@ -1,0 +1,16 @@
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Coronoid+process+of+the+mandible> <http://www.w3.org/2000/01/rdf-schema#label> "Coronoid process of the mandible" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Long+bone> <http://dbpedia.org/ontology/position> "anatomical structure" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Condyloid+process> <http://dbpedia.org/ontology/position> "Thing" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Frontal+eminence> <http://www.w3.org/2000/01/rdf-schema#label> "Frontal eminence" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Acromial+angle> <http://dbpedia.org/ontology/position> "os" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Coronoid+process+of+the+mandible> <http://dbpedia.org/ontology/position> "Thing" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Condyloid+process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Condyloid+process> <http://www.w3.org/2000/01/rdf-schema#label> "Condyloid process" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Frontal+eminence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Coronoid+process+of+the+mandible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Frontal+eminence> <http://dbpedia.org/ontology/position> "anatomical structure" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Acromial+angle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Long+bone> <http://www.w3.org/2000/01/rdf-schema#label> "Long bone" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Acromial+angle> <http://www.w3.org/2000/01/rdf-schema#label> "Acromial angle" .
+<http://example.org/1292add2-6ac0-4187-acea-a4a50611be50/Long+bone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+

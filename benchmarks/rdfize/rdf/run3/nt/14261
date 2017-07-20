@@ -1,0 +1,36 @@
+<http://dbpedia.org/resource/Alexandra_Park_Racecourse> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandra Park Racecourse" .
+<http://dbpedia.org/resource/Killarney_National_Park> <http://www.w3.org/2000/01/rdf-schema#label> "Killarney National Park" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Riverbank+Arts+Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Riverbank Arts Centre" .
+<http://dbpedia.org/resource/Killarney_National_Park> <http://dbpedia.org/ontology/raceTrack> "parkland" .
+<http://dbpedia.org/resource/Sørlandets_Travpark> <http://dbpedia.org/ontology/raceTrack> "racecourse" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Pocket+protector> <http://www.w3.org/2000/01/rdf-schema#label> "Pocket protector" .
+<http://dbpedia.org/resource/John_Day_Fossil_Beds_National_Monument> <http://dbpedia.org/ontology/raceTrack> "protected area" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Pin+trading> <http://www.w3.org/2000/01/rdf-schema#label> "Pin trading" .
+<http://dbpedia.org/resource/Kenneth_Hahn_State_Recreation_Area> <http://www.w3.org/2000/01/rdf-schema#label> "Kgecneth Hahn State Recreation Are" .
+<http://dbpedia.org/resource/Sailing_courses_at_the_2012_Summer_Olympics> <http://dbpedia.org/ontology/raceTrack> "Location" .
+<http://dbpedia.org/resource/John_Day_Fossil_Beds_National_Monument> <http://www.w3.org/2000/01/rdf-schema#label> "John Day Fossil Beds National Monument" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Athletic+Park+%28New+Orleans%29> <http://www.w3.org/2000/01/rdf-schema#label> "Athletic Park (New Orleans)" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Karma+Nightclub+%26+Cabaret> <http://www.w3.org/2000/01/rdf-schema#label> "Karma Nightclub & Cabaret" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/MacArthur+Bridge+%28Manila%29> <http://www.w3.org/2000/01/rdf-schema#label> "MacArthur Bridge (Manila)" .
+<http://dbpedia.org/resource/Mitchell_Brothers_O'Farrell_Theatre> <http://www.w3.org/2000/01/rdf-schema#label> "Mitchell Brothers O'Farrell Theatre" .
+<http://dbpedia.org/resource/Kenneth_Hahn_State_Recreation_Area> <http://dbpedia.org/ontology/raceTrack> "cocunty" .
+<http://dbpedia.org/resource/Ash_Meadows_National_Wildlife_Refuge> <http://dbpedia.org/ontology/raceTrack> "refuge" .
+<http://dbpedia.org/resource/Stockbridge_Racecourse> <http://dbpedia.org/ontology/raceTrack> "racecourse" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Old+Bridge%2C+Bridgend> <http://www.w3.org/2000/01/rdf-schema#label> "Old Bridge, Bridgend" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Gateway+Bridge+%28Michigan%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gateway Bridge (Michigan)" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Anti-fashion> <http://www.w3.org/2000/01/rdf-schema#label> "Anti-fashion" .
+<http://dbpedia.org/resource/Sailing_courses_at_the_2012_Summer_Olympics> <http://www.w3.org/2000/01/rdf-schema#label> "Sailing courses at the 2012 Summer Olympics" .
+<http://dbpedia.org/resource/Bromford_Bridge_Racecourse> <http://dbpedia.org/ontology/raceTrack> "race track" .
+<http://dbpedia.org/resource/Gila_Wilderness> <http://dbpedia.org/ontology/raceTrack> "protected area" .
+<http://dbpedia.org/resource/Alexandra_Park_Racecourse> <http://dbpedia.org/ontology/raceTrack> "track" .
+<http://dbpedia.org/resource/Sørlandets_Travpark> <http://www.w3.org/2000/01/rdf-schema#label> "S\u00F8rlandets Travpark" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Freezy+Freakies> <http://www.w3.org/2000/01/rdf-schema#label> "Freezy Freakies" .
+<http://dbpedia.org/resource/Dumbarton_Bridge_(California)> <http://www.w3.org/2000/01/rdf-schema#label> "Dumbarton Bridge (California)" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Old+Bridge+%28Heidelberg%29> <http://www.w3.org/2000/01/rdf-schema#label> "Old Bridge (Heidelberg)" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Navy+%28perfume%29> <http://www.w3.org/2000/01/rdf-schema#label> "Navy (perfume)" .
+<http://dbpedia.org/resource/Ash_Meadows_National_Wildlife_Refuge> <http://www.w3.org/2000/01/rdf-schema#label> "Great Meadows National Wildlife Refuge" .
+<http://dbpedia.org/resource/Bromford_Bridge_Racecourse> <http://www.w3.org/2000/01/rdf-schema#label> "Bromford Bridge Racecourse" .
+<http://example.org/b68c3537-5173-4b2f-9c82-efc1c05e18b2/Market+Street+Cinema> <http://www.w3.org/2000/01/rdf-schema#label> "Market Street Cinema" .
+<http://dbpedia.org/resource/Stockbridge_Racecourse> <http://www.w3.org/2000/01/rdf-schema#label> "Stockbridge Racecourse" .
+<http://dbpedia.org/resource/Gila_Wilderness> <http://www.w3.org/2000/01/rdf-schema#label> "Gila Wilderness" .
+

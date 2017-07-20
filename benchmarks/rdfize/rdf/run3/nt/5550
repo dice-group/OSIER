@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Community_(trade_union)> <http://www.w3.org/2000/01/rdf-schema#label> "Community (trade union)" .
+<http://dbpedia.org/resource/Community_(trade_union)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/General_Confederation_of_Workers_(Mexico)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Central_Autónoma_de_Trabajadores_Salvadoreños> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Confederación_de_Trabajadores_de_Venezuela> <http://www.w3.org/2000/01/rdf-schema#label> "Confederaci\u00F3n de Trabajadores de Venezuela" .
+<http://dbpedia.org/resource/Association_of_University_Staff_of_New_Zealand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Confederación_de_Trabajadores_de_Venezuela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/General_Confederation_of_Workers_(Mexico)> <http://www.w3.org/2000/01/rdf-schema#label> "Confederaci\u00F3n General de Trabajadores del Per\u00FA" .
+<http://dbpedia.org/resource/Central_Autónoma_de_Trabajadores_Salvadoreños> <http://www.w3.org/2000/01/rdf-schema#label> "Central Aut\u00F3noma de Trabajadores Salvadore\u00F1os" .
+<http://dbpedia.org/resource/Association_of_University_Staff_of_New_Zealand> <http://www.w3.org/2000/01/rdf-schema#label> "Association of University Staff of New Zealand" .
+

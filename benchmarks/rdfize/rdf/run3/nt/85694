@@ -1,0 +1,710 @@
+<http://dbpedia.org/resource/2007%E2%80%9308_Memphis_Tigers_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/2012%E2%80%9313_Michigan_Wolverines_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1986 in spaceflight" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1872+Troy+Haymakers+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2001+FIA+GT+Championship> <http://www.w3.org/2000/01/rdf-schema#label> "2001 FIA GT Championship" .
+<http://dbpedia.org/resource/2005–06_Plymouth_Argyle_F.C._season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1969+Dallas+Cowboys+season> <http://www.w3.org/2000/01/rdf-schema#label> "1969 Dallas Cowboys season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1924+Toronto+Argonauts+season> <http://www.w3.org/2000/01/rdf-schema#label> "1924 Toronto Argonauts season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1990+InternaPtonkl+League+season> <http://www.w3.org/2000/01/rdf-schema#label> "1990 InternaPtonkl League season" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Texas_State_Bobcats_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2010+Dallas+Cowboys+season> <http://dbpedia.org/ontology/measurements> "national football league season" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/2000/01/rdf-schema#label> "1911\u201312 Real Madrid C.F. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2001+Formula+Nippon+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1921+Santos+FC+season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1996 in spaceflight" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Spartacus%3A+Vengeance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2003%E2%80%9304_Oklahoma_State_Cowboys_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Spartacus%3A+War+of+the+Damned> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Vanuatu+vatu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Northern_Illinois_Huskies_men's_basketball> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1993–94_North_Carolina_Tar_Heels_women's_basketball_team> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/NS+Sprinter+Lighttrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2003%E2%80%9304_Syracuse_Orangemen_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1983\u201384 Syracuse Orangemen basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Colorado+Ice+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Mexican+peso> <http://dbpedia.org/ontology/measurements> "coin" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Transnistrian+ruble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://dbpedia.org/ontology/measurements> "sportsf seaon" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Sioux+Falls+Storm+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1938+Calgary+Bronks+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Calgary+Stampeders+season> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Calgary Stampeders season" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://dbpedia.org/ontology/measurements> "period" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1967+Philadelphia+Eagles+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/2010%E2%80%9311_RNK_Split_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2005–06_Plymouth_Argyle_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "2002\u201303 Plymouth Argyle F.C. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1912%E2%80%9313+Illinois+Fighting+Illini+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://dbpedia.org/resource/2003%E2%80%9304_Oklahoma_State_Cowboys_basketball_team> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Spartacus%3A+Vengeance> <http://dbpedia.org/ontology/measurements> "CreativeWork" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2009%E2%80%9310+Arizona+State+Sun+Devils+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2010%E2%80%9311_RNK_Split_season> <http://www.w3.org/2000/01/rdf-schema#label> "2009\u201310 RNK Split season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1916+Santos+FC+season> <http://www.w3.org/2000/01/rdf-schema#label> "1916 Santos FC season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Miami+Dolphins+season> <http://www.w3.org/2000/01/rdf-schema#label> "2014 Miami Dolphins season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Liga+Nusantara+East+Java> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "1883\u201384 Heart of Midlothian F.C. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Transnistrian+ruble> <http://www.w3.org/2000/01/rdf-schema#label> "Transnistrian ruble" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Chicago+Slaughter+season> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Chicago Slaughter season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2000%E2%80%9301+Vyshcha+Liha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1916_New_York_Giants_season> <http://www.w3.org/2000/01/rdf-schema#label> "2006 New York Giants season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Jacksonville+Jaguars+season> <http://www.w3.org/2000/01/rdf-schema#label> "2014 Jacksonville Jaguars season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Belize+dollar> <http://dbpedia.org/ontology/measurements> "metric" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1997+NASCAR+Winston+Cup+Series> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+Formula+Renault+2000+Eurocup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1948+Orsz%C3%A1gos+Bajnoks%C3%A1g+I+%28men%27s+water+polo%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2000–01_Ukrainian_Second_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Michigan_Wolverines_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/Campeonato_Brasileiro_Série_A> <http://dbpedia.org/ontology/measurements> "psychological feature" .
+<http://dbpedia.org/resource/1903_New_York_Highlanders_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/World_Touring_Car_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "2007 World Touring Car Championship" .
+<http://dbpedia.org/resource/Campeonato_Brasileiro_Série_A> <http://www.w3.org/2000/01/rdf-schema#label> "1973 Campeonato Brasileiro S\u00E9rie A" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/NS+Sprinter+Lighttrain> <http://dbpedia.org/ontology/measurements> "DesignedArtifact" .
+<http://dbpedia.org/resource/Meath_Intermediate_Football_Championship> <http://dbpedia.org/ontology/measurements> "period" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1987+Pittsburgh+Steelers+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Minnesota+Vikings+season> <http://www.w3.org/2000/01/rdf-schema#label> "2014 Minnesota Vikings season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Nevw+Zealnd+dollar> <http://dbpedia.org/ontology/measurements> "mtriAc" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/2000/01/rdf-schema#label> "1910\u201311 Real Madrid C.F. season" .
+<http://dbpedia.org/resource/1956–57_Kansas_Jayhawks_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2002\u201303 Kansas Jayhawks men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1956%E2%80%9357+Tunisian+National+Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1925+Hartford+Blues+season> <http://dbpedia.org/ontology/measurements> "national football league season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1993+Japan+Women%27s+Football+League> <http://www.w3.org/2000/01/rdf-schema#label> "1993 Japan Women's Football League" .
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://www.w3.org/2000/01/rdf-schema#label> "1969 Nippon Professional Baseball season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1935%E2%80%9336+Illinois+Fighting+Illini+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "1935\u201336 Illinois Fighting Illini men's basketball team" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "1999 International League season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2005%E2%80%9306+Croatian+Second+Football+League> <http://www.w3.org/2000/01/rdf-schema#label> "2005\u201306 Croatian Second Football League" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1928+Chicago+Cardinals+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1994+Chicago+Bears+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Ohio_Bobcats_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013%E2%80%9314+Abilene+Christian+Wildcats+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Maldivian+rufiyaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1992+International+Formula+3000+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/225+series> <http://dbpedia.org/ontology/measurements> "mean of transportation" .
+<http://dbpedia.org/resource/1956–57_Kansas_Jayhawks_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "national collegiate athletic association team season" .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://dbpedia.org/ontology/measurements> "pekrod" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Butler_Bulldogs_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1922\u201323 Galatasaray S.K. season" .
+<http://dbpedia.org/resource/2002%E2%80%9303_Arkansas_Razorbacks_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2004%E2%80%9305_Gillingham_F.C._season> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://dbpedia.org/resource/Venezuelan_bol%C3%ADvar> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2000%E2%80%9301+Vyshcha+Liha> <http://www.w3.org/2000/01/rdf-schema#label> "2000\u201301 Vyshcha Liha" .
+<http://dbpedia.org/resource/2008–09_Lega_Pro_Prima_Divisione> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1924%E2%80%9325_Michigan_Wolverines_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1983\u201384 Michigan Wolverines men's basketball team" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://dbpedia.org/ontology/measurements> "twelvemonth" .
+<http://dbpedia.org/resource/2003_Formula_BMW_Asia_season> <http://www.w3.org/2000/01/rdf-schema#label> "2008 Formula V6 Asia season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2011+Miami+Dolphins+season> <http://www.w3.org/2000/01/rdf-schema#label> "2011 Miami Dolphins season" .
+<http://dbpedia.org/resource/1956–57_Kansas_Jayhawks_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1951\u201352 Kansas Jayhawks men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1993+Japan+Women%27s+Football+League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2001+Formula+Nippon+season> <http://www.w3.org/2000/01/rdf-schema#label> "2001 Formula Nippon season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1922+Santos+FC+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Cleveland_Browns> <http://www.w3.org/2000/01/rdf-schema#label> "1958 Cleveland Browns season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+International+Rally+Challenge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://dbpedia.org/ontology/measurements> "Years in spaceflight" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2007+British+Formula+Three+season> <http://www.w3.org/2000/01/rdf-schema#label> "2007 British Formula Three season" .
+<http://dbpedia.org/resource/1911_New_York_Giants_season> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+FIA+GT+Championship> <http://dbpedia.org/ontology/measurements> "sport seasIon" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1980+Philadelphia+Eagles+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "1881\u201382 Heart of Midlothian F.C. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1960+World+Sportscar+Championship+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1949+Ottawa+Rough+Riders+season> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://dbpedia.org/resource/1993_Los_Angeles_Dodgers_season> <http://www.w3.org/2000/01/rdf-schema#label> "1993 Los Angeles Raiders season" .
+<http://dbpedia.org/resource/1924%E2%80%9325_Michigan_Wolverines_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1996+NASCAR+Winston+Cup+Series> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Utah_State_Aggies_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://dbpedia.org/resource/1903%E2%80%9304_Football_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2009_International_League_season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://www.w3.org/2000/01/rdf-schema#label> "2005 Nippon Professional Baseball season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+FIA+GT+Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2006%E2%80%9307_Georgetown_Hoyas_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "national collegiate athletic association team season" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Purdue_Boilermakers_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1980_S%C3%A3o_Paulo_F.C._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "1880\u201381 Heart of Midlothian F.C. season" .
+<http://dbpedia.org/resource/2007%E2%80%9308_Memphis_Tigers_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2012\u201313 Memphis Tigers men's basketball team" .
+<http://dbpedia.org/resource/GeForce_300_Series> <http://www.w3.org/2000/01/rdf-schema#label> "305 series" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2011%E2%80%9312+Handball-Bundesliga+%28women%29> <http://www.w3.org/2000/01/rdf-schema#label> "2011\u201312 Handball-Bundesliga (women)" .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Air_Force_Falcons_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "2008 International League season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2010+Dallas+Cowboys+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://dbpedia.org/ontology/measurements> "YeaWrs in spacefight" .
+<http://dbpedia.org/resource/2001%E2%80%9302_Divizia_B> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1919+Massillon+Tigers+season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/2000/01/rdf-schema#label> "1919\u201320 Real Madrid C.F. season" .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Texas_State_Bobcats_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2012\u201313 Texas State Bobcats men's basketball team" .
+<http://dbpedia.org/resource/Northern_Illinois_Huskies_men's_basketball> <http://www.w3.org/2000/01/rdf-schema#label> "1995\u201396 Northern Illinois Huskies men's basketball team" .
+<http://dbpedia.org/resource/1884_Brooklyn_Atlantics_season> <http://www.w3.org/2000/01/rdf-schema#label> "1873 Brooklyn Atlantics season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Caribbean+guilder> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://dbpedia.org/resource/Speedway_World_Pairs_Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2003+Deutsche+Tourenwagen+Masters+season> <http://www.w3.org/2000/01/rdf-schema#label> "2003 Deutsche Tourenwagen Masters season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012%E2%80%9313+Hofstra+Pride+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1920+Santos+FC+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1990+InternaPtonkl+League+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Cleveland_Browns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+Asia-Pacific+Rally+Championship+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Air_Force_Falcons_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2012\u201313 Air Force Falcons men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Liga+Nusantara+South+Sumatra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1990–91_Tercera_División> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "2000 in spaceflight" .
+<http://dbpedia.org/resource/2009_WPSL_season> <http://www.w3.org/2000/01/rdf-schema#label> "2003 MPSL season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1934%E2%80%9335+Primera+Fuerza+season> <http://dbpedia.org/ontology/measurements> "Liga MX seasons" .
+<http://dbpedia.org/resource/Meath_Intermediate_Football_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "2002 Meath Intermediate Football Championship" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1910\u201311 Galatasaray S.K. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/701+series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2011+Miami+Dolphins+season> <http://dbpedia.org/ontology/measurements> "abstract elnity" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1980+Philadelphia+Eagles+season> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://dbpedia.org/resource/2012%E2%80%9313_Bristol_Rovers_F.C._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Colorado+Ice+season> <http://dbpedia.org/ontology/measurements> "spors teaQm season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+Hamburg+Sea+Devils+season> <http://www.w3.org/2000/01/rdf-schema#label> "2006 Hamburg Sea Devils season" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1921\u201322 Galatasaray S.K. season" .
+<http://dbpedia.org/resource/1917–18_Ottawa_Senators_season> <http://dbpedia.org/ontology/measurements> "Ottawa Rough Riders seasons" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1958+World+Sportscar+Championship+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012%E2%80%9313+Hellenic+Football+League> <http://www.w3.org/2000/01/rdf-schema#label> "2012\u201313 Hellenic Football League" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Spartacus%3A+Vengeance> <http://www.w3.org/2000/01/rdf-schema#label> "Spartacus: Vengeance" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Oregon_State_Beavers_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "national collegiate athletic association team season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Italian+Formula+4+Championship> <http://www.w3.org/2000/01/rdf-schema#label> "2014 Italian Formula 4 Championship" .
+<http://dbpedia.org/resource/2012–13_KK_Partizan_season> <http://dbpedia.org/ontology/measurements> "FK Partizan seasons" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+ndianapolis+Colts+DsNason> <http://dbpedia.org/ontology/measurements> "perMio" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Spartacus%3A+Blood+and+Sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1994+Chicago+Bears+season> <http://dbpedia.org/ontology/measurements> "Chicago Bears seasons" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Seton_Hall_Pirates_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1884_Brooklyn_Atlantics_season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://www.w3.org/2000/01/rdf-schema#label> "1974 Swedish football Division 2" .
+<http://dbpedia.org/resource/2012%E2%80%9313_Michigan_Wolverines_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2012\u201313 Utah Valley Wolverines men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1987+Pittsburgh+Steelers+season> <http://www.w3.org/2000/01/rdf-schema#label> "1987 Pittsburgh Steelers season" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1916\u201317 Galatasaray S.K. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Angolan+kwanza> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://dbpedia.org/resource/1930_S%C3%A3o_Paulo_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "1990 S\u00E3o Paulo FC season" .
+<http://dbpedia.org/resource/2000–01_Ukrainian_Second_League> <http://dbpedia.org/ontology/measurements> "football league season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Austrian+krone> <http://www.w3.org/2000/01/rdf-schema#label> "Austrian krone" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Caribbean+guilder> <http://www.w3.org/2000/01/rdf-schema#label> "Caribbean guilder" .
+<http://dbpedia.org/resource/2000–01_Ukrainian_Second_League> <http://www.w3.org/2000/01/rdf-schema#label> "2009\u201310 Ukrainian Second League" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1956%E2%80%9357+Tunisian+National+Championship> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013%E2%80%9314+Texas%E2%80%93Arlington+Mavericks+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+New+England+Patriots+season> <http://www.w3.org/2000/01/rdf-schema#label> "2014 New England Patriots season" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "2001 International League season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1914+Santos+FC+season> <http://www.w3.org/2000/01/rdf-schema#label> "1914 Santos FC season" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Purdue_Boilermakers_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "national collegiate athletic association team season" .
+<http://dbpedia.org/resource/Northern_Illinois_Huskies_men's_basketball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+Formula+Renault+2000+Eurocup> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Formula Renault 2000 Eurocup" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/225+series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1914\u201315 Galatasaray S.K. season" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1978 in spaceflight" .
+<http://dbpedia.org/resource/Indonesia_national_football_team_results> <http://www.w3.org/2000/01/rdf-schema#label> "2014 Indonesia national football team results" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1986+Miami+Dolphins+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Nepalese+rupee> <http://www.w3.org/2000/01/rdf-schema#label> "Nepalese rupee" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/British+Rail+Classes+485+and+486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Texas_A&M_Aggies_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://dbpedia.org/resource/1961_Los_Angeles_Dodgers_season> <http://www.w3.org/2000/01/rdf-schema#label> "1991 Los Angeles Raiders season" .
+<http://dbpedia.org/resource/2006%E2%80%9307_Georgetown_Hoyas_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1926\u201327 Georgetown Hoyas men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Nepalese+rupee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2001%E2%80%9302_Divizia_B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2003+Deutsche+Tourenwagen+Masters+season> <http://dbpedia.org/ontology/measurements> "yagoPermanentlyLocatedEntity" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2007+GP2+Series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Indianapolis+Colts+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Habesha_name> <http://www.w3.org/2000/01/rdf-schema#label> "Eritrean nakfa" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2000%E2%80%9301+Vyshcha+Liha> <http://dbpedia.org/ontology/measurements> "football league season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+Green+Bay+Packers+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Minnesota+Vikings+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/Uzbekistan_Cup> <http://dbpedia.org/ontology/measurements> "Currencies of Asia" .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://dbpedia.org/ontology/measurements> "period" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Jacksonville+Jaguars+season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/2002%E2%80%9303_Arkansas_Razorbacks_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2001\u201302 Arkansas Razorbacks men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1919+Massillon+Tigers+season> <http://www.w3.org/2000/01/rdf-schema#label> "1919 Massillon Tigers season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Thai+Division+2+League+North+Eastern+Region> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Thai Division 2 League North Eastern Region" .
+<http://dbpedia.org/resource/2007%E2%80%9308_Texas_A&M_Aggies_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Vanuatu+vatu> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://dbpedia.org/ontology/measurements> "Real Madrid C.F. seasons" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Spartacus%3A+Blood+and+Sand> <http://dbpedia.org/ontology/measurements> "CreativeWork" .
+<http://dbpedia.org/resource/1994_Ykk%C3%B6nen_%E2%80%93_Finnish_League_Division_1> <http://www.w3.org/2000/01/rdf-schema#label> "1988 Ykk\u00F6nen \u2013 Finnish League Division 1" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1925+Hartford+Blues+season> <http://www.w3.org/2000/01/rdf-schema#label> "1925 Hartford Blues season" .
+<http://dbpedia.org/resource/1945_New_York_Yankees_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2007+British+Formula+Three+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1916_New_York_Giants_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Army_of_the_Republic_of_Vietnam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Macedonian+denar> <http://dbpedia.org/ontology/measurements> "coin" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1969+Dallas+Cowboys+season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1990+InternaPtonkl+League+season> <http://dbpedia.org/ontology/measurements> "Thnng" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+Asia-Pacific+Rally+Championship+season> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Asia-Pacific Rally Championship season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+Green+Bay+Packers+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Caribbean+guilder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1911_New_York_Giants_season> <http://www.w3.org/2000/01/rdf-schema#label> "2014 New York Giants season" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Utah_Utes_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+ndianapolis+Colts+DsNason> <http://www.w3.org/2000/01/rdf-schema#label> "2004 ndianapolis Colts DsNason" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Hawaii+Five-0+%28season+1%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+Deutsche+Tourenwagen+Masters+season> <http://www.w3.org/2000/01/rdf-schema#label> "2006 Deutsche Tourenwagen Masters season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Mexican+peso> <http://www.w3.org/2000/01/rdf-schema#label> "Mexican peso" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/2000/01/rdf-schema#label> "1918\u201319 Real Madrid C.F. season" .
+<http://dbpedia.org/resource/1980–81_Isthmian_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1958+World+Sportscar+Championship+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1922+Santos+FC+season> <http://dbpedia.org/ontology/measurements> "soccer club season" .
+<http://dbpedia.org/resource/2007%E2%80%9308_F.C._Copenhagen_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1902%E2%80%9303+Scottish+Division+Two> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wisconsin_Badgers_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1919\u201320 Wisconsin Badgers men's basketball team" .
+<http://dbpedia.org/resource/2007–08_Venezuelan_Professional_Baseball_League_season> <http://dbpedia.org/ontology/measurements> "baseball season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1969+Denver+Broncos+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/World_Touring_Car_Championship> <http://dbpedia.org/ontology/measurements> "psychological feature" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Indianapolis+Colts+season> <http://dbpedia.org/ontology/measurements> "national football league season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1924+Toronto+Argonauts+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1924+Toronto+Argonauts+season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/European_Rally_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "2014 European Rally Championship" .
+<http://dbpedia.org/resource/2010%E2%80%9311_RNK_Split_season> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Colorado+Ice+season> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Colorado Ice season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1912+Santos+FC+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1993_Los_Angeles_Dodgers_season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://dbpedia.org/resource/2011%E2%80%9312_UMass_Minutemen_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1873+Philadelphia+White+Stockings+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Nevw+Zealnd+dollar> <http://www.w3.org/2000/01/rdf-schema#label> "Nevw Zealnd dollar" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/2000/01/rdf-schema#label> "1915\u201316 Real Madrid C.F. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1992+San+Diego+Chargers+season> <http://dbpedia.org/ontology/measurements> "national football league season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Ukrainian+karbovanets> <http://www.w3.org/2000/01/rdf-schema#label> "Ukrainian karbovanets" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "2003 International League season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1966+Philadelphia+Eagles+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "1879\u201380 Heart of Midlothian F.C. season" .
+<http://dbpedia.org/resource/2005%E2%80%9306_A1_Grand_Prix_season> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Liga+Nusantara+East+Java> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Macedonian+denar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Spartacus%3A+War+of+the+Damned> <http://www.w3.org/2000/01/rdf-schema#label> "Spartacus: War of the Damned" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1992+San+Diego+Chargers+season> <http://www.w3.org/2000/01/rdf-schema#label> "1992 San Diego Chargers season" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Lamar_Cardinals_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2005%E2%80%9306_A1_Grand_Prix_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1916+Santos+FC+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1908\u201309 Galatasaray S.K. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1910+Akron+Indians+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+Asia-Pacific+Rally+Championship+season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Angolan+kwanza> <http://www.w3.org/2000/01/rdf-schema#label> "Angolan kwanza" .
+<http://dbpedia.org/resource/Icelandic_kr%C3%B3na> <http://www.w3.org/2000/01/rdf-schema#label> "Icelandic kr\u00F3na" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1873+Philadelphia+White+Stockings+season> <http://www.w3.org/2000/01/rdf-schema#label> "1873 Philadelphia White Stockings season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1910+Akron+Indians+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/2009_WPSL_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Old+Taiwan+dollar> <http://www.w3.org/2000/01/rdf-schema#label> "Old Taiwan dollar" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2009%E2%80%9310+Arizona+State+Sun+Devils+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "Arizona State Sun Devils men's basketball seasons" .
+<http://dbpedia.org/resource/1979–80_Southern_Football_League> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/Formula_Renault_2.0_Northern_European_Cup> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/1903_New_York_Highlanders_season> <http://www.w3.org/2000/01/rdf-schema#label> "1910 New York Highlanders season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Singapore+dollar> <http://dbpedia.org/ontology/measurements> "metric" .
+<http://dbpedia.org/resource/1961_Los_Angeles_Dodgers_season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+New+England+Patriots+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/HCP+Z1> <http://dbpedia.org/ontology/measurements> "DesignedArtifact" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/2011_Norwegian_First_Division_(women)> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Norwegian First Division (women)" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1919+Santos+FC+season> <http://www.w3.org/2000/01/rdf-schema#label> "1919 Santos FC season" .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1957%E2%80%9358+Illinois+Fighting+Illini+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "2005 International League season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1921+Santos+FC+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2005%E2%80%9306+Croatian+Second+Football+League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Calgary+Stampeders+season> <http://dbpedia.org/ontology/measurements> "football league season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/British+Rail+Classes+485+and+486> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Classes 485 and 486" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Thai+Division+2+League+North+Eastern+Region> <http://dbpedia.org/ontology/measurements> "season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2007+GP2+Series> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Singapore+dollar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Cleveland_Browns> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://dbpedia.org/resource/Habesha_name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2009_International_League_season> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/701+series> <http://dbpedia.org/ontology/measurements> "train" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1969+Dallas+Cowboys+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1925+Hartford+Blues+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Minnesota+Vikings+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1966+Philadelphia+Eagles+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2009_International_League_season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1990 in spaceflight" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/701+series> <http://www.w3.org/2000/01/rdf-schema#label> "701 series" .
+<http://dbpedia.org/resource/1986%E2%80%9387_Divizia_A> <http://www.w3.org/2000/01/rdf-schema#label> "1980\u201381 Divizia A" .
+<http://dbpedia.org/resource/Indonesia_national_football_team_results> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://dbpedia.org/resource/1994_Ykk%C3%B6nen_%E2%80%93_Finnish_League_Division_1> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://dbpedia.org/resource/Cleveland_Browns> <http://www.w3.org/2000/01/rdf-schema#label> "1995 Cleveland Browns season" .
+<http://dbpedia.org/resource/2012%E2%80%9313_Bristol_Rovers_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "2006\u201307 Bristol Rovers F.C. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Indianapolis+Colts+season> <http://www.w3.org/2000/01/rdf-schema#label> "2014 Indianapolis Colts season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1992+International+Formula+3000+season> <http://dbpedia.org/ontology/measurements> "motorsport season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012+Nebraska+Danger+season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/Uzbekistan_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Uzbekistani som" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2007+British+Formula+Three+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Campeonato_Brasileiro_Série_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1938+Calgary+Bronks+season> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://dbpedia.org/resource/1924%E2%80%9325_Michigan_Wolverines_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1931\u201332 Michigan Wolverines men's basketball team" .
+<http://dbpedia.org/resource/1956–57_Kansas_Jayhawks_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013%E2%80%9314+Colgate+Raiders+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "2013\u201314 Colgate Raiders men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Sioux+Falls+Storm+season> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Sioux Falls Storm season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/The+West+Wing+%28season+1%29> <http://www.w3.org/2000/01/rdf-schema#label> "The West Wing (season 1)" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1935%E2%80%9336+Illinois+Fighting+Illini+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "1882\u201383 Heart of Midlothian F.C. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Liga+Nusantara+East+Java> <http://www.w3.org/2000/01/rdf-schema#label> "2014 Liga Nusantara East Java" .
+<http://dbpedia.org/resource/1903_New_York_Highlanders_season> <http://www.w3.org/2000/01/rdf-schema#label> "1912 New York Highlanders season" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/2000/01/rdf-schema#label> "1914\u201315 Real Madrid C.F. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2001+Formula+Nippon+season> <http://dbpedia.org/ontology/measurements> "motorsport season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1872+Washington+Olympics+season> <http://www.w3.org/2000/01/rdf-schema#label> "1872 Washington Olympics season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Transnistrian+ruble> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/1903%E2%80%9304_Football_League> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "2002 in spaceflight" .
+<http://dbpedia.org/resource/1980–81_Isthmian_League> <http://dbpedia.org/ontology/measurements> "season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Miami+Dolphins+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/2011_Norwegian_First_Division_(women)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2005–06_Plymouth_Argyle_F.C._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Army_of_the_Republic_of_Vietnam> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/Meath_Intermediate_Football_Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+International+Rally+Challenge> <http://dbpedia.org/ontology/measurements> "psychological feature" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1884_Brooklyn_Atlantics_season> <http://www.w3.org/2000/01/rdf-schema#label> "1874 Brooklyn Atlantics season" .
+<http://dbpedia.org/resource/2007%E2%80%9308_F.C._Copenhagen_season> <http://dbpedia.org/ontology/measurements> "soccer club season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1928+Chicago+Cardinals+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1984+Dallas+Cowboys+season> <http://www.w3.org/2000/01/rdf-schema#label> "1984 Dallas Cowboys season" .
+<http://dbpedia.org/resource/2012_Korea_Professional_Baseball_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/HCP+Z1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1919+Santos+FC+season> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+Formula+Renault+2000+Eurocup> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2001+FIA+GT+Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1975+San+Diego+Chargers+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Spartacus%3A+Blood+and+Sand> <http://www.w3.org/2000/01/rdf-schema#label> "Spartacus: Blood and Sand" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Oregon_State_Beavers_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2011\u201312 Oregon State Beavers men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/81-740%2F741> <http://dbpedia.org/ontology/measurements> "DesignedArtifact" .
+<http://dbpedia.org/resource/1884_Brooklyn_Atlantics_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+Hamburg+Sea+Devils+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012%E2%80%9313+Hellenic+Football+League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1921+Santos+FC+season> <http://www.w3.org/2000/01/rdf-schema#label> "1921 Santos FC season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1975+San+Diego+Chargers+season> <http://www.w3.org/2000/01/rdf-schema#label> "1975 San Diego Chargers season" .
+<http://dbpedia.org/resource/Speedway_World_Pairs_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "1986 Speedway World Pairs Championship" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1938+Calgary+Bronks+season> <http://www.w3.org/2000/01/rdf-schema#label> "1938 Calgary Bronks season" .
+<http://dbpedia.org/resource/1957%E2%80%9358_NK_Dinamo_Zagreb_season> <http://www.w3.org/2000/01/rdf-schema#label> "1978\u201379 NK Dinamo Zagreb season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1938+Calgary+Bronks+season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Purdue_Boilermakers_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2007\u201308 Purdue Boilermakers men's basketball team" .
+<http://dbpedia.org/resource/1945_New_York_Yankees_season> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1916+Santos+FC+season> <http://dbpedia.org/ontology/measurements> "sporGts seaon" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1997 in spaceflight" .
+<http://dbpedia.org/resource/GeForce_300_Series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1994+Chicago+Bears+season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/1917–18_Ottawa_Senators_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1919+Massillon+Tigers+season> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1920+Santos+FC+season> <http://www.w3.org/2000/01/rdf-schema#label> "1920 Santos FC season" .
+<http://dbpedia.org/resource/Icelandic_kr%C3%B3na> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Singapore+dollar> <http://www.w3.org/2000/01/rdf-schema#label> "Singapore dollar" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1915+Santos+FC+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Ukrainian+karbovanets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1992+International+Formula+3000+season> <http://www.w3.org/2000/01/rdf-schema#label> "1992 International Formula 3000 season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Hawaii+Five-0+%28season+1%29> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Utah_State_Aggies_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1983+Washington+Redskins+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/81-740%2F741> <http://www.w3.org/2000/01/rdf-schema#label> "81-740/741" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1934%E2%80%9335+Primera+Fuerza+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/2000/01/rdf-schema#label> "1912\u201313 Real Madrid C.F. season" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1995 in spaceflight" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1910+Akron+Indians+season> <http://www.w3.org/2000/01/rdf-schema#label> "1910 Akron Indians season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1992+San+Diego+Chargers+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Oregon_State_Beavers_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+Green+Bay+Packers+season> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Green Bay Packers season" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://www.w3.org/2000/01/rdf-schema#label> "2009 Nippon Professional Baseball season" .
+<http://dbpedia.org/resource/World_Touring_Car_Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2008–09_Lega_Pro_Prima_Divisione> <http://www.w3.org/2000/01/rdf-schema#label> "2010\u201311 Lega Pro Prima Divisione" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Hawaii+Five-0+%28season+1%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hawaii Five-0 (season 1)" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Somaliland+shilling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Ohio_Bobcats_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "nationacl collmgiahte athletic association eam seaso" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1920\u201321 Galatasaray S.K. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2009%E2%80%9310+Arizona+State+Sun+Devils+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "2009\u201310 Arizona State Sun Devils men's basketball team" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Utah_Utes_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "national collegiate athletic association team season" .
+<http://dbpedia.org/resource/Indonesia_national_football_team_results> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://dbpedia.org/resource/2012%E2%80%9313_Bristol_Rovers_F.C._season> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/1969_S%C3%A3o_Paulo_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "1989 S\u00E3o Paulo FC season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+International+Rally+Challenge> <http://www.w3.org/2000/01/rdf-schema#label> "2006 International Rally Challenge" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013%E2%80%9314+Colgate+Raiders+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2005%E2%80%9306+Croatian+Second+Football+League> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1993–94_North_Carolina_Tar_Heels_women's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1979\u201380 North Carolina Tar Heels men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2003%E2%80%9304+Vyshcha+Liha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1915+Santos+FC+season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1994+NASCAR+Winston+Cup+Series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2007%E2%80%9308_F.C._Copenhagen_season> <http://www.w3.org/2000/01/rdf-schema#label> "2004\u201305 F.C. Copenhagen season" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Butler_Bulldogs_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2014\u201315 Butler Bulldogs men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1902%E2%80%9303+Scottish+Division+Two> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Venezuelan_bol%C3%ADvar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1986+Miami+Dolphins+season> <http://www.w3.org/2000/01/rdf-schema#label> "1986 Miami Dolphins season" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2003%E2%80%9304+Vyshcha+Liha> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1994+NASCAR+Winston+Cup+Series> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Spartacus%3A+War+of+the+Damned> <http://dbpedia.org/ontology/measurements> "work" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Vanuatu+vatu> <http://www.w3.org/2000/01/rdf-schema#label> "Vanuatu vatu" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Jacksonville+Jaguars+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Mexican+peso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "2001 in spaceflight" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Air_Force_Falcons_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2001%E2%80%9302_Divizia_B> <http://www.w3.org/2000/01/rdf-schema#label> "2001\u201302 Divizia B" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2003%E2%80%9304+Vyshcha+Liha> <http://www.w3.org/2000/01/rdf-schema#label> "2003\u201304 Vyshcha Liha" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "2002 International League season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Italian+Formula+4+Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wisconsin_Badgers_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1993+Japan+Women%27s+Football+League> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Lamar_Cardinals_basketball_team> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Angolan+kwanza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Utah_State_Aggies_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2014\u201315 Utah State Aggies men's basketball team" .
+<http://dbpedia.org/resource/2003_Formula_BMW_Asia_season> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://dbpedia.org/resource/1979–80_Southern_Football_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Belize+dollar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://www.w3.org/2000/01/rdf-schema#label> "1936\u201337 Swedish football Division 3" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Saitama+Rapid+Railway+2000+series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Chicago+Slaughter+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2009–10_LVBP_season> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/2007–08_Tennessee_Volunteers_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2009\u201310 Tennessee Volunteers basketball team" .
+<http://dbpedia.org/resource/2009–10_LVBP_season> <http://www.w3.org/2000/01/rdf-schema#label> "2009\u201310 Nicaraguan Professional Baseball League season" .
+<http://dbpedia.org/resource/1903_New_York_Highlanders_season> <http://www.w3.org/2000/01/rdf-schema#label> "1909 New York Highlanders season" .
+<http://dbpedia.org/resource/European_Rally_Championship> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Somaliland+shilling> <http://dbpedia.org/ontology/measurements> "medium of exchange" .
+<http://dbpedia.org/resource/1930_S%C3%A3o_Paulo_F.C._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012%E2%80%9313+Hofstra+Pride+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1903%E2%80%9304_Football_League> <http://www.w3.org/2000/01/rdf-schema#label> "1962\u201363 Football League" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1911\u201312 Galatasaray S.K. season" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1919\u201320 Galatasaray S.K. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1960+World+Sportscar+Championship+season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Wyoming+Cavalry+season> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Wyoming Cavalry season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+FIA+GT+Championship> <http://www.w3.org/2000/01/rdf-schema#label> "2006 FIA GT Championship" .
+<http://dbpedia.org/resource/1930_S%C3%A3o_Paulo_F.C._season> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Lamar_Cardinals_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2013\u201314 Lamar Lady Cardinals basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/225+series> <http://www.w3.org/2000/01/rdf-schema#label> "225 series" .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "2011 in spaceflight" .
+<http://dbpedia.org/resource/1903_New_York_Highlanders_season> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/201J+AsiaX-Pacifc+Raly+ChampionIship+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2007–08_Tennessee_Volunteers_basketball_team> <http://dbpedia.org/ontology/measurements> "national collegiate athletic association team season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013%E2%80%9314+Abilene+Christian+Wildcats+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "2013\u201314 Abilene Christian Wildcats men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1912%E2%80%9313+Illinois+Fighting+Illini+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "1912\u201313 Illinois Fighting Illini men's basketball team" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "2014 in spaceflight" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/Army_of_the_Republic_of_Vietnam> <http://www.w3.org/2000/01/rdf-schema#label> "South Vietnamese \u0111\u1ED3ng" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1902%E2%80%9303+Scottish+Division+Two> <http://www.w3.org/2000/01/rdf-schema#label> "1902\u201303 Scottish Division Two" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012%E2%80%9313+Hofstra+Pride+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1958+Pittsburgh+Steelers+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1909\u201310 Galatasaray S.K. season" .
+<http://dbpedia.org/resource/2006%E2%80%9307_Georgetown_Hoyas_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "Georgetown Hoyas men's basketball seasons" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1993 in spaceflight" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1935%E2%80%9336+Illinois+Fighting+Illini+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "fundmentalL measure" .
+<http://dbpedia.org/resource/1986%E2%80%9387_Divizia_A> <http://dbpedia.org/ontology/measurements> "psychological feature" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1934%E2%80%9335+Primera+Fuerza+season> <http://www.w3.org/2000/01/rdf-schema#label> "1934\u201335 Primera Fuerza season" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Saitama+Rapid+Railway+2000+series> <http://dbpedia.org/ontology/measurements> "train" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/HCP+Z1> <http://www.w3.org/2000/01/rdf-schema#label> "HCP Z1" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1994+NASCAR+Winston+Cup+Series> <http://www.w3.org/2000/01/rdf-schema#label> "1994 NASCAR Winston Cup Series" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Ukrainian+karbovanets> <http://dbpedia.org/ontology/measurements> "criterion" .
+<http://dbpedia.org/resource/2005%E2%80%9306_A1_Grand_Prix_season> <http://www.w3.org/2000/01/rdf-schema#label> "2007\u201308 A1 Grand Prix season" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1977 in spaceflight" .
+<http://dbpedia.org/resource/European_Rally_Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Wyoming+Cavalry+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/Cleveland_Browns> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/2011_Norwegian_First_Division_(women)> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1969+Denver+Broncos+season> <http://www.w3.org/2000/01/rdf-schema#label> "1969 Denver Broncos season" .
+<http://dbpedia.org/resource/1980_S%C3%A3o_Paulo_F.C._season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "2007 International League season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1928+Chicago+Cardinals+season> <http://www.w3.org/2000/01/rdf-schema#label> "1928 Chicago Cardinals season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1872+Troy+Haymakers+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2005–06_Plymouth_Argyle_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "2001\u201302 Plymouth Argyle F.C. season" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Liga+Nusantara+South+Sumatra> <http://www.w3.org/2000/01/rdf-schema#label> "2014 Liga Nusantara South Sumatra" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1987+Pittsburgh+Steelers+season> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1983+Washington+Redskins+season> <http://www.w3.org/2000/01/rdf-schema#label> "1983 Washington Redskins season" .
+<http://dbpedia.org/resource/Formula_Renault_2.0_Northern_European_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2003%E2%80%9304_Syracuse_Orangemen_basketball_team> <http://dbpedia.org/ontology/measurements> "bsketAball season" .
+<http://dbpedia.org/resource/1956–57_Kansas_Jayhawks_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "NCAA Men's Division I Basketball Championship Final Four seasons" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Maldivian+rufiyaa> <http://www.w3.org/2000/01/rdf-schema#label> "Maldivian rufiyaa" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1948+Orsz%C3%A1gos+Bajnoks%C3%A1g+I+%28men%27s+water+polo%29> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/Speedway_World_Pairs_Championship> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://dbpedia.org/resource/2002%E2%80%9303_Arkansas_Razorbacks_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "abstractelntity" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1912+Santos+FC+season> <http://www.w3.org/2000/01/rdf-schema#label> "1912 Santos FC season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Saitama+Rapid+Railway+2000+series> <http://www.w3.org/2000/01/rdf-schema#label> "Saitama Rapid Railway 2000 series" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1914+Santos+FC+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2009_International_League_season> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Belize+dollar> <http://www.w3.org/2000/01/rdf-schema#label> "Belize dollar" .
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1958+World+Sportscar+Championship+season> <http://www.w3.org/2000/01/rdf-schema#label> "1958 World Sportscar Championship season" .
+<http://dbpedia.org/resource/1969_S%C3%A3o_Paulo_F.C._season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1949+Ottawa+Rough+Riders+season> <http://www.w3.org/2000/01/rdf-schema#label> "1949 Ottawa Rough Riders season" .
+<http://dbpedia.org/resource/1969_S%C3%A3o_Paulo_F.C._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Wyoming+Cavalry+season> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1949+Ottawa+Rough+Riders+season> <http://dbpedia.org/ontology/measurements> "abksract entity" .
+<http://dbpedia.org/resource/1911_New_York_Giants_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Class 460" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+Hamburg+Sea+Devils+season> <http://dbpedia.org/ontology/measurements> "football league season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Calgary+Stampeders+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1994+Chicago+Bears+season> <http://www.w3.org/2000/01/rdf-schema#label> "1994 Chicago Bears season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2001+FIA+GT+Championship> <http://dbpedia.org/ontology/measurements> "abstract entity" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/2000/01/rdf-schema#label> "1916\u201317 Real Madrid C.F. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2011%E2%80%9312+College+of+Charleston+Cougars+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012+Nebraska+Danger+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2011%E2%80%9312+Handball-Bundesliga+%28women%29> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://dbpedia.org/resource/2012_Korea_Professional_Baseball_season> <http://www.w3.org/2000/01/rdf-schema#label> "2002 Nippon Professional Baseball season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Old+Taiwan+dollar> <http://dbpedia.org/ontology/measurements> "Currency" .
+<http://dbpedia.org/resource/Indonesia_national_football_team_results> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Indonesia national football team results" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://www.w3.org/2000/01/rdf-schema#label> "2006 Nippon Professional Baseball season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2011%E2%80%9312+Handball-Bundesliga+%28women%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Nepalese+rupee> <http://dbpedia.org/ontology/measurements> "currency" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Butler_Bulldogs_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "national collegiate athletic association team season" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "2000 International League season" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1984+Dallas+Cowboys+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1990–91_Tercera_División> <http://www.w3.org/2000/01/rdf-schema#label> "1996\u201397 Tercera Divisi\u00F3n" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Utah_Utes_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2011\u201312 Utah Utes men's basketball team" .
+<http://dbpedia.org/resource/1945_New_York_Yankees_season> <http://www.w3.org/2000/01/rdf-schema#label> "1935 New York Yankees season" .
+<http://dbpedia.org/resource/Icelandic_kr%C3%B3na> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://dbpedia.org/ontology/measurements> "year in spaceflight" .
+<http://dbpedia.org/resource/2004%E2%80%9305_Gillingham_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "2002\u201303 Gillingham F.C. season" .
+<http://dbpedia.org/resource/2003%E2%80%9304_Syracuse_Orangemen_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2007–08_Tennessee_Volunteers_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2011%E2%80%9312_UMass_Minutemen_basketball_team> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/1903_New_York_Highlanders_season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://dbpedia.org/ontology/measurements> "baseball season" .
+<http://dbpedia.org/resource/2011%E2%80%9312_UMass_Minutemen_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2006\u201307 UMass Minutemen basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Old+Taiwan+dollar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Chicago+Slaughter+season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1981 in spaceflight" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1912%E2%80%9313+Illinois+Fighting+Illini+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013%E2%80%9314+Abilene+Christian+Wildcats+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Seton_Hall_Pirates_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "sGprts season" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "2003 in spaceflight" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Macedonian+denar> <http://www.w3.org/2000/01/rdf-schema#label> "Macedonian denar" .
+<http://dbpedia.org/resource/1957%E2%80%9358_NK_Dinamo_Zagreb_season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1967+Philadelphia+Eagles+season> <http://www.w3.org/2000/01/rdf-schema#label> "1967 Philadelphia Eagles season" .
+<http://dbpedia.org/resource/1993_Los_Angeles_Dodgers_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1958+Pittsburgh+Steelers+season> <http://www.w3.org/2000/01/rdf-schema#label> "1958 Pittsburgh Steelers season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/81-740%2F741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013%E2%80%9314+Texas%E2%80%93Arlington+Mavericks+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/201J+AsiaX-Pacifc+Raly+ChampionIship+season> <http://dbpedia.org/ontology/measurements> "peIrid" .
+<http://dbpedia.org/resource/Habesha_name> <http://dbpedia.org/ontology/measurements> "currency" .
+<http://dbpedia.org/resource/Formula_Renault_2.0_Northern_European_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "2009 Formula Renault 2.0 Northern European Cup" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1957%E2%80%9358+Illinois+Fighting+Illini+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "1957\u201358 Illinois Fighting Illini men's basketball team" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://dbpedia.org/ontology/measurements> "penrid" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1997+NASCAR+Winston+Cup+Series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Ohio_Bobcats_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2000\u201301 Ohio Bobcats men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1986+Miami+Dolphins+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1920+Santos+FC+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1957%E2%80%9358_NK_Dinamo_Zagreb_season> <http://www.w3.org/2000/01/rdf-schema#label> "1987\u201388 NK Dinamo Zagreb season" .
+<http://dbpedia.org/resource/1961_Los_Angeles_Dodgers_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/World_Touring_Car_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "1987 World Touring Car Championship" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://www.w3.org/2000/01/rdf-schema#label> "1913\u201314 Real Madrid C.F. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Austrian+krone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1914+Santos+FC+season> <http://dbpedia.org/ontology/measurements> "Santos Futebol Clube seasons" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1966+Philadelphia+Eagles+season> <http://www.w3.org/2000/01/rdf-schema#label> "1966 Philadelphia Eagles season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2011%E2%80%9312+College+of+Charleston+Cougars+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "2011\u201312 College of Charleston Cougars men's basketball team" .
+<http://dbpedia.org/resource/1980–81_Isthmian_League> <http://www.w3.org/2000/01/rdf-schema#label> "1936\u201337 Isthmian League" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2003+Deutsche+Tourenwagen+Masters+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013%E2%80%9314+Colgate+Raiders+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "national collegiate athletic association team season" .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "1890\u201391 Heart of Midlothian F.C. season" .
+<http://dbpedia.org/resource/1986%E2%80%9387_Divizia_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1984+Dallas+Cowboys+season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/1957%E2%80%9358_NK_Dinamo_Zagreb_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1996+NASCAR+Winston+Cup+Series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+Deutsche+Tourenwagen+Masters+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1873+Philadelphia+White+Stockings+season> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/2003%E2%80%9304_Oklahoma_State_Cowboys_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1994\u201395 Oklahoma State Cowboys basketball team" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1925+Hartford+Blues+season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/1903_New_York_Highlanders_season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1872+Washington+Olympics+season> <http://dbpedia.org/ontology/measurements> "sports team season" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://www.w3.org/2000/01/rdf-schema#label> "1965 Nippon Professional Baseball season" .
+<http://dbpedia.org/resource/2005–06_Plymouth_Argyle_F.C._season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/2008–09_Lega_Pro_Prima_Divisione> <http://dbpedia.org/ontology/measurements> "season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2011%E2%80%9312+College+of+Charleston+Cougars+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012%E2%80%9313+Hofstra+Pride+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "2012\u201313 Hofstra Pride men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Nevw+Zealnd+dollar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/The+West+Wing+%28season+1%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1912\u201313 Galatasaray S.K. season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1949+Ottawa+Rough+Riders+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Memphis_Tigers_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2003_Formula_BMW_Asia_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1980+Philadelphia+Eagles+season> <http://www.w3.org/2000/01/rdf-schema#label> "1980 Philadelphia Eagles season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1924+Toronto+Argonauts+season> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1913\u201314 Galatasaray S.K. season" .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Nippon Professional Baseball season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2006+Deutsche+Tourenwagen+Masters+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1960+World+Sportscar+Championship+season> <http://www.w3.org/2000/01/rdf-schema#label> "1960 World Sportscar Championship season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/201J+AsiaX-Pacifc+Raly+ChampionIship+season> <http://www.w3.org/2000/01/rdf-schema#label> "201J AsiaX-Pacifc Raly ChampionIship season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1912+Santos+FC+season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Texas_State_Bobcats_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2012_Nippon_Professional_Baseball_season> <http://www.w3.org/2000/01/rdf-schema#label> "2007 Nippon Professional Baseball season" .
+<http://dbpedia.org/resource/2006%E2%80%9307_Georgetown_Hoyas_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1958+Pittsburgh+Steelers+season> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://dbpedia.org/resource/2009–10_LVBP_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Maldivian+rufiyaa> <http://dbpedia.org/ontology/measurements> "currency" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Seton_Hall_Pirates_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2012\u201313 Seton Hall Pirates men's basketball team" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://dbpedia.org/resource/Uzbekistan_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1976 in spaceflight" .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Class 128" .
+<http://dbpedia.org/resource/1903_New_York_Highlanders_season> <http://www.w3.org/2000/01/rdf-schema#label> "1911 New York Highlanders season" .
+<http://dbpedia.org/resource/1917–18_Ottawa_Senators_season> <http://www.w3.org/2000/01/rdf-schema#label> "1927 Ottawa Senators season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1969+Denver+Broncos+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/British+Rail+Classes+485+and+486> <http://dbpedia.org/ontology/measurements> "mean of transportation" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1915+Santos+FC+season> <http://www.w3.org/2000/01/rdf-schema#label> "1915 Santos FC season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Miami+Dolphins+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Somaliland+shilling> <http://www.w3.org/2000/01/rdf-schema#label> "Somaliland shilling" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wisconsin_Badgers_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1975+San+Diego+Chargers+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1989 in spaceflight" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1994 in spaceflight" .
+<http://dbpedia.org/resource/1916_New_York_Giants_season> <http://dbpedia.org/ontology/measurements> "New York Giants seasons" .
+<http://dbpedia.org/resource/1924%E2%80%9325_Michigan_Wolverines_men's_basketball_team> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Italian+Formula+4+Championship> <http://dbpedia.org/ontology/measurements> "sports season" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1924%E2%80%9325_Michigan_Wolverines_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Sioux+Falls+Storm+season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://dbpedia.org/ontology/measurements> "International League seasons" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1872+Washington+Olympics+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1919+Santos+FC+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2007–08_Venezuelan_Professional_Baseball_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "2007\u201308 Nicaraguan Professional Baseball League season" .
+<http://dbpedia.org/resource/Indonesia_national_football_team_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Texas_A&M_Aggies_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2013\u201314 Texas A&M Aggies women's basketball team" .
+<http://dbpedia.org/resource/2009_WPSL_season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1967+Philadelphia+Eagles+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2009_International_League_season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://dbpedia.org/resource/1914%E2%80%9315_Real_Madrid_C.F._season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/2009_International_League_season> <http://www.w3.org/2000/01/rdf-schema#label> "2004 International League season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013%E2%80%9314+Texas%E2%80%93Arlington+Mavericks+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "2013\u201314 Texas\u2013Arlington Mavericks men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2011+Miami+Dolphins+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1956%E2%80%9357+Tunisian+National+Championship> <http://www.w3.org/2000/01/rdf-schema#label> "1956\u201357 Tunisian National Championship" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1970 in spaceflight" .
+<http://dbpedia.org/resource/1884_Brooklyn_Atlantics_season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://dbpedia.org/resource/1994_Ykk%C3%B6nen_%E2%80%93_Finnish_League_Division_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2004%E2%80%9305_Gillingham_F.C._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/GeForce_300_Series> <http://dbpedia.org/ontology/measurements> "Thing" .
+<http://dbpedia.org/resource/2012_Korea_Professional_Baseball_season> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/NS+Sprinter+Lighttrain> <http://www.w3.org/2000/01/rdf-schema#label> "NS Sprinter Lighttrain" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1922+Santos+FC+season> <http://www.w3.org/2000/01/rdf-schema#label> "1922 Santos FC season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2010+Dallas+Cowboys+season> <http://www.w3.org/2000/01/rdf-schema#label> "2010 Dallas Cowboys season" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1985 in spaceflight" .
+<http://dbpedia.org/resource/1933%E2%80%9334_Galatasaray_S.K._season> <http://www.w3.org/2000/01/rdf-schema#label> "1915\u201316 Galatasaray S.K. season" .
+<http://dbpedia.org/resource/1979–80_Southern_Football_League> <http://www.w3.org/2000/01/rdf-schema#label> "1946\u201347 Southern Football League" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1996+NASCAR+Winston+Cup+Series> <http://www.w3.org/2000/01/rdf-schema#label> "1996 NASCAR Winston Cup Series" .
+<http://dbpedia.org/resource/Venezuelan_bol%C3%ADvar> <http://www.w3.org/2000/01/rdf-schema#label> "Venezuelan bol\u00EDvar" .
+<http://dbpedia.org/resource/2012–13_KK_Partizan_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1993–94_North_Carolina_Tar_Heels_women's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012%E2%80%9313+Hellenic+Football+League> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1948+Orsz%C3%A1gos+Bajnoks%C3%A1g+I+%28men%27s+water+polo%29> <http://www.w3.org/2000/01/rdf-schema#label> "1948 Orsz\u00E1gos Bajnoks\u00E1g I (men's water polo)" .
+<http://dbpedia.org/resource/1990–91_Tercera_División> <http://dbpedia.org/ontology/measurements> "meaZure" .
+<http://dbpedia.org/resource/2007–08_Venezuelan_Professional_Baseball_League_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/The+West+Wing+%28season+1%29> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+Liga+Nusantara+South+Sumatra> <http://dbpedia.org/ontology/measurements> "period" .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/2012–13_KK_Partizan_season> <http://www.w3.org/2000/01/rdf-schema#label> "2002\u201303 FK Partizan season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1957%E2%80%9358+Illinois+Fighting+Illini+men%27s+basketball+team> <http://dbpedia.org/ontology/measurements> "measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1997+NASCAR+Winston+Cup+Series> <http://www.w3.org/2000/01/rdf-schema#label> "1997 NASCAR Winston Cup Series" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1983+Washington+Redskins+season> <http://dbpedia.org/ontology/measurements> "season" .
+<http://dbpedia.org/resource/1980_S%C3%A3o_Paulo_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "1988 S\u00E3o Paulo FC season" .
+<http://dbpedia.org/resource/2006%E2%80%9307_Georgetown_Hoyas_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1923\u201324 Georgetown Hoyas men's basketball team" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2004+ndianapolis+Colts+DsNason> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2014+New+England+Patriots+season> <http://dbpedia.org/ontology/measurements> "fundamental measure" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/Austrian+krone> <http://dbpedia.org/ontology/measurements> "currency" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2007+GP2+Series> <http://www.w3.org/2000/01/rdf-schema#label> "2007 GP2 Series" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1872+Troy+Haymakers+season> <http://www.w3.org/2000/01/rdf-schema#label> "1872 Troy Haymakers season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2012+Nebraska+Danger+season> <http://www.w3.org/2000/01/rdf-schema#label> "2012 Nebraska Danger season" .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/2013+Thai+Division+2+League+North+Eastern+Region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://example.org/508229b3-9d28-4c3e-8452-5847218f3655/1919+Massillon+Tigers+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+<http://dbpedia.org/resource/1993%E2%80%9394_Heart_of_Midlothian_F.C._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Season> .
+

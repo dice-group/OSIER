@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Alfred_Russel_Wallace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000690> .
+<http://dbpedia.org/resource/Anders_Celsius> <http://www.w3.org/2000/01/rdf-schema#label> "Anders Celsius" .
+<http://dbpedia.org/resource/Andrei_Sakharov> <http://www.w3.org/2000/01/rdf-schema#label> "Andrei Sakharov" .
+<http://dbpedia.org/resource/Alhazen> <http://www.w3.org/2000/01/rdf-schema#label> "Alhazen" .
+<http://dbpedia.org/resource/Alois_Alzheimer> <http://www.w3.org/2000/01/rdf-schema#label> "Alois Alzheimer" .
+<http://dbpedia.org/resource/Alois_Alzheimer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000690> .
+<http://dbpedia.org/resource/Alfred_Russel_Wallace> <http://www.w3.org/2000/01/rdf-schema#label> "Alfred Ruosse Wallace" .
+<http://dbpedia.org/resource/Anders_Celsius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000690> .
+<http://dbpedia.org/resource/Alhazen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000690> .
+<http://dbpedia.org/resource/Andrei_Sakharov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000690> .
+

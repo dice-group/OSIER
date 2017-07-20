@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Donald_Dewar> <http://www.w3.org/2000/01/rdf-schema#label> "Donald Dewar" .
+<http://dbpedia.org/resource/Deng_Xiaoping> <http://www.w3.org/2000/01/rdf-schema#label> "Deng Xiaoping" .
+<http://dbpedia.org/resource/Daniel_Ortega> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Ortega" .
+<http://dbpedia.org/resource/Donald_Rumsfeld> <http://www.w3.org/2000/01/rdf-schema#label> "Donald Rumsfeld" .
+<http://dbpedia.org/resource/Dwight_D._Eisenhower> <http://dbpedia.org/ontology/creator> "Person" .
+<http://dbpedia.org/resource/Deng_Xiaoping> <http://dbpedia.org/ontology/creator> "person" .
+<http://dbpedia.org/resource/Daniel_Ortega> <http://dbpedia.org/ontology/creator> "Agent" .
+<http://dbpedia.org/resource/Dwight_D._Eisenhower> <http://www.w3.org/2000/01/rdf-schema#label> "Dwight D. Eisenhower" .
+<http://dbpedia.org/resource/Donald_Dewar> <http://dbpedia.org/ontology/creator> "person" .
+<http://dbpedia.org/resource/Donald_Rumsfeld> <http://dbpedia.org/ontology/creator> "person" .
+

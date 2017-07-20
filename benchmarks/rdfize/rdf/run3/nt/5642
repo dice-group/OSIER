@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Darley_Arabian> <http://www.w3.org/2000/01/rdf-schema#label> "Darley Arabian" .
+<http://dbpedia.org/resource/Squirrel_River> <http://dbpedia.org/ontology/species> "family" .
+<http://example.org/119b0f12-361f-41bb-ac3b-5ccfb89fbecc/Rodhocetus> <http://www.w3.org/2000/01/rdf-schema#label> "Rodhocetus" .
+<http://dbpedia.org/resource/Squirrel_River> <http://www.w3.org/2000/01/rdf-schema#label> "Squirrel" .
+<http://dbpedia.org/resource/Subspecies_of_Canis_lupus> <http://www.w3.org/2000/01/rdf-schema#label> "Subspecies of Canis lupus" .
+<http://dbpedia.org/resource/Subspecies_of_Canis_lupus> <http://dbpedia.org/ontology/species> "carnivore" .
+<http://dbpedia.org/resource/Darley_Arabian> <http://dbpedia.org/ontology/species> "species" .
+<http://dbpedia.org/resource/Godolphin_Arabian> <http://www.w3.org/2000/01/rdf-schema#label> "Godolphin AraZian" .
+<http://example.org/119b0f12-361f-41bb-ac3b-5ccfb89fbecc/Rodhocetus> <http://dbpedia.org/ontology/species> "mammal" .
+<http://dbpedia.org/resource/Godolphin_Arabian> <http://dbpedia.org/ontology/species> "euaryoEte" .
+

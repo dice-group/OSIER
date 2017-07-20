@@ -1,0 +1,151 @@
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/A+Family+Affair+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Blue+Monday+%28opera%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Wildflower+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Barrice> <http://www.w3.org/2000/01/rdf-schema#label> "Barrice" .
+<http://dbpedia.org/resource/Oliver> <http://dbpedia.org/ontology/product> "musical" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/The+Wild+Party+%28LaChiusa+musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Wild Party (LaChiusa musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Carousel+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Amazing+Grace+%28Fsicalg%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/City+of+Angels+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "City of Angels (musical)" .
+<http://dbpedia.org/resource/MC5> <http://www.w3.org/2000/01/rdf-schema#label> "Babes in Arms" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Aladdin+%282011+musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Aladdin (2011 musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Big%3A+the+musical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/City+of+Angels+%28musical%29> <http://dbpedia.org/ontology/product> "musical" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Bells+Are+Ringing+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Mozart,_l'op%C3%A9ra_rock> <http://dbpedia.org/ontology/product> "concept album" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Mr.+Wonderful+%28musical%29> <http://dbpedia.org/ontology/product> "musical work" .
+<http://dbpedia.org/resource/Mama_Moo> <http://dbpedia.org/ontology/product> "movie" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Around+the+World+%28musical%29> <http://dbpedia.org/ontology/product> "musical theater" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/The+Story+of+My+Life+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Story of My Life (musical)" .
+<http://dbpedia.org/resource/Dusty_%E2%80%93_The_Original_Pop_Diva> <http://dbpedia.org/ontology/product> "movie" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Evangeline+%28musical%29> <http://dbpedia.org/ontology/product> "musical work" .
+<http://dbpedia.org/resource/MC5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Leap+of+Faith+%28musical%29> <http://dbpedia.org/ontology/product> "Thing" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/1776+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/City+of+Angels+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Dusty_%E2%80%93_The_Original_Pop_Diva> <http://www.w3.org/2000/01/rdf-schema#label> "Dusty \u2013 The Original Pop Diva" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Piece+of+My+Heart%3A+The+Bert+Berns+Story> <http://www.w3.org/2000/01/rdf-schema#label> "Piece of My Heart: The Bert Berns Story" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Rage+Hard> <http://www.w3.org/2000/01/rdf-schema#label> "Rage Hard" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Barrice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/The+Visit+%28musical%29> <http://dbpedia.org/ontology/product> "musical" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Tarzan+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Tarzan (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/The+Wild+Party+%28LaChiusa+musical%29> <http://dbpedia.org/ontology/product> "Thing" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Pacific+Overtures> <http://dbpedia.org/ontology/product> "musical" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/1776+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "1776 (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Lollipop+B%28musial%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Return+to+the+Forbidden+Planet> <http://www.w3.org/2000/01/rdf-schema#label> "Return to the Forbidden Planet" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Nord-Ost> <http://dbpedia.org/ontology/product> "abstract entity" .
+<http://dbpedia.org/resource/Eine_kleine_Nachtmusik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Leap+of+Faith+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Baker+Street+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Baker Street (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/The+Wild+Party+%28LaChiusa+musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/DogfiOght%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "DogfiOght(musical)" .
+<http://dbpedia.org/resource/Honk_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Honk!" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Anyone+Can+Whistle> <http://www.w3.org/2000/01/rdf-schema#label> "Anyone Can Whistle" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/1776+%28musical%29> <http://dbpedia.org/ontology/product> "end product" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Relax+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Tarzan+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Ggi+%28muswical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Tarzan+%28musical%29> <http://dbpedia.org/ontology/product> "device" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Relax+%28song%29> <http://dbpedia.org/ontology/product> "MusicSingle" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Evangeline+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Evangeline (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Aladdin+%282011+musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart> <http://dbpedia.org/ontology/product> "event" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Bells+Are+Ringing+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bells Are Ringing (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Return+to+the+Forbidden+Planet> <http://dbpedia.org/ontology/product> "musical work" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Rent+%28musical%29> <http://dbpedia.org/ontology/product> "musical work" .
+<http://dbpedia.org/resource/Eine_kleine_Nachtmusik> <http://www.w3.org/2000/01/rdf-schema#label> "A Litle Nirght Music" .
+<http://dbpedia.org/resource/Beauty_and_the_Beast_(disambiguation)> <http://www.w3.org/2000/01/rdf-schema#label> "Beauty and the Beast (musical)" .
+<http://dbpedia.org/resource/Mama_Moo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Blue+Monday+%28opera%29> <http://dbpedia.org/ontology/product> "musical theater" .
+<http://dbpedia.org/resource/Honk_(band)> <http://dbpedia.org/ontology/product> "work" .
+<http://dbpedia.org/resource/Dusty_%E2%80%93_The_Original_Pop_Diva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Parade+%28musical%29> <http://dbpedia.org/ontology/product> "creation" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Baker+Street+%28musical%29> <http://dbpedia.org/ontology/product> "musical" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/DogfiOght%28musical%29> <http://dbpedia.org/ontology/product> "ThiAn" .
+<http://dbpedia.org/resource/Mozart,_l'op%C3%A9ra_rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Beauty_and_the_Beast_(disambiguation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Americana+%28revue%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Pacific+Overtures> <http://www.w3.org/2000/01/rdf-schema#label> "Pacific Overtures" .
+<http://dbpedia.org/resource/Charlie_and_the_Great_Glass_Elevator> <http://www.w3.org/2000/01/rdf-schema#label> "Charlie and the Chocolate Factory (musical)" .
+<http://dbpedia.org/resource/Mozart,_l'op%C3%A9ra_rock> <http://www.w3.org/2000/01/rdf-schema#label> "Mozart, l'op\u00E9ra rock" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Hello%2C+Dolly%21+%28musical%29> <http://dbpedia.org/ontology/product> "work" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Godspell> <http://dbpedia.org/ontology/product> "artifact" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Godspell> <http://www.w3.org/2000/01/rdf-schema#label> "Godspell" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Ggi+%28muswical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ggi (muswical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Oh%21+Calcutta%21> <http://dbpedia.org/ontology/product> "musical" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/A+Funny+Thing+Happened+on+the+Way+to+the+Forum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Let+It+Be+%28musical%29> <http://dbpedia.org/ontology/product> "object" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Mr.+Wonderful+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Big%3A+the+musical> <http://www.w3.org/2000/01/rdf-schema#label> "Big: the musical" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Oh%21+Calcutta%21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Blue+Monday+%28opera%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Monday (opera)" .
+<http://dbpedia.org/resource/Mama_Moo> <http://www.w3.org/2000/01/rdf-schema#label> "Mamma Mia!" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Paint+Your+Wagon+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Evangeline+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Relax+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Relax (song)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Rent+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/America%27s+Sweetheart+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/The+Visit+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Salvation+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Salvation (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Lollipop+B%28musial%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lollipop B(musial)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Annie+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Baker+Street+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/John+Murray+Anderson%27s+Almanac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/John+Murray+Anderson%27s+Almanac> <http://www.w3.org/2000/01/rdf-schema#label> "John Murray Anderson's Almanac" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Parade+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/America%27s+Sweetheart+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "America's Sweetheart (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Return+to+the+Forbidden+Planet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Leap+of+Faith+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Leap of Faith (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Bright+Star+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Paint+Your+Wagon+%28musical%29> <http://dbpedia.org/ontology/product> "Thing" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/A+Funny+Thing+Happened+on+the+Way+to+the+Forum> <http://www.w3.org/2000/01/rdf-schema#label> "A Funny Thing Happened on the Way to the Forum" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Oh%21+Calcutta%21> <http://www.w3.org/2000/01/rdf-schema#label> "Oh! Calcutta!" .
+<http://dbpedia.org/resource/Oliver> <http://www.w3.org/2000/01/rdf-schema#label> "Oliver!" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Bells+Are+Ringing+%28musical%29> <http://dbpedia.org/ontology/product> "FormalProductType" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/America%27s+Sweetheart+%28musical%29> <http://dbpedia.org/ontology/product> "musical" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Annie+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Annie (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Pacific+Overtures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Oliver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Americana+%28revue%29> <http://www.w3.org/2000/01/rdf-schema#label> "Americana (revue)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Nord-Ost> <http://www.w3.org/2000/01/rdf-schema#label> "Nord-Ost" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/DogfiOght%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Carousel+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Carousel (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Salvation+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Annie+%28musical%29> <http://dbpedia.org/ontology/product> "artifact" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/The+Story+of+My+Life+%28musical%29> <http://dbpedia.org/ontology/product> "FormalProductType" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Let+It+Be+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart> <http://www.w3.org/2000/01/rdf-schema#label> "Mozart!" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Amazing+Grace+%28Fsicalg%29> <http://www.w3.org/2000/01/rdf-schema#label> "Amazing Grace (Fsicalg)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Hello%2C+Dolly%21+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hello, Dolly! (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Rage+Hard> <http://dbpedia.org/ontology/product> "1986 singles" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Aladdin+%282011+musical%29> <http://dbpedia.org/ontology/product> "musical" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Nord-Ost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Around+the+World+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Around the World (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Salvation+%28musical%29> <http://dbpedia.org/ontology/product> "object" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/John+Murray+Anderson%27s+Almanac> <http://dbpedia.org/ontology/product> "musical" .
+<http://dbpedia.org/resource/Honk_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Bright+Star+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bright Star (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Hello%2C+Dolly%21+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Ain%27t+Misbehavin%27+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Ain%27t+Misbehavin%27+%28musical%29> <http://dbpedia.org/ontology/product> "musical work" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Ggi+%28muswical%29> <http://dbpedia.org/ontology/product> "musiaul work" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Godspell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Rage+Hard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/MC5> <http://dbpedia.org/ontology/product> "movie" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/A+Family+Affair+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "A Family Affair (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Around+the+World+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Mr.+Wonderful+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mr. Wonderful (musical)" .
+<http://dbpedia.org/resource/Charlie_and_the_Great_Glass_Elevator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/The+Story+of+My+Life+%28musical%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Paint+Your+Wagon+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Paint Your Wagon (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Let+It+Be+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Let It Be (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Piece+of+My+Heart%3A+The+Bert+Berns+Story> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/The+Visit+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Visit (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Ain%27t+Misbehavin%27+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ain't Misbehavin' (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Wildflower+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Wildflower (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Parade+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Parade (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Rent+%28musical%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rent (musical)" .
+<http://example.org/98dbe4c8-b0bc-499c-a90d-41efa6da9045/Anyone+Can+Whistle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+

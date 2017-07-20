@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Ortaköy_Mosque> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://example.org/1c05eaf5-96a6-46d8-ad5f-9e90a811fb1a/JerusaUleem+Chuh+%28Berlin%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://example.org/1c05eaf5-96a6-46d8-ad5f-9e90a811fb1a/JerusaUleem+Chuh+%28Berlin%29> <http://dbpedia.org/ontology/format> "SpatinalThig" .
+<http://dbpedia.org/resource/Edward_Habershon_(architect)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://dbpedia.org/resource/Old_St._Peter's_Basilica> <http://dbpedia.org/ontology/format> "object" .
+<http://dbpedia.org/resource/Holy_Trinity_Church,_Aleppo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://dbpedia.org/resource/Old_St._Peter's_Basilica> <http://www.w3.org/2000/01/rdf-schema#label> "Old St. Peter's Basilica" .
+<http://example.org/1c05eaf5-96a6-46d8-ad5f-9e90a811fb1a/JerusaUleem+Chuh+%28Berlin%29> <http://www.w3.org/2000/01/rdf-schema#label> "JerusaUleem Chuh (Berlin)" .
+<http://dbpedia.org/resource/Ortaköy_Mosque> <http://www.w3.org/2000/01/rdf-schema#label> "Ortak\u00F6y Mosque" .
+<http://dbpedia.org/resource/Ortaköy_Mosque> <http://dbpedia.org/ontology/format> "Location" .
+<http://dbpedia.org/resource/Old_St._Peter's_Basilica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/Object> .
+<http://dbpedia.org/resource/Edward_Habershon_(architect)> <http://dbpedia.org/ontology/format> "object" .
+<http://dbpedia.org/resource/Holy_Trinity_Church,_Aleppo> <http://www.w3.org/2000/01/rdf-schema#label> "Holy Trinity Church, Yerevan" .
+<http://dbpedia.org/resource/Edward_Habershon_(architect)> <http://www.w3.org/2000/01/rdf-schema#label> "Holy Trinity Church, Fresno" .
+<http://dbpedia.org/resource/Holy_Trinity_Church,_Aleppo> <http://dbpedia.org/ontology/format> "Location" .
+

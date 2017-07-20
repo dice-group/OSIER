@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Abalone_Alliance> <http://www.w3.org/2000/01/rdf-schema#label> "Abalone" .
+<http://dbpedia.org/resource/State_of_War:_The_Secret_History_of_the_CIA_and_the_Bush_Administration> <http://www.w3.org/2000/01/rdf-schema#label> "Aardwolf" .
+<http://dbpedia.org/resource/Anthony_Phillips> <http://www.w3.org/2000/01/rdf-schema#label> "Ant" .
+<http://dbpedia.org/resource/The_Ferrets_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Ferret" .
+<http://dbpedia.org/resource/Condor_Legion> <http://www.w3.org/2000/01/rdf-schema#label> "Condor" .
+<http://example.org/a5559534-f454-47f9-8cc7-c669a30398be/%D9%83%D9%86%D8%AF%D9%88%D8%B1> <http://www.w3.org/2000/01/rdf-schema#label> "\u0643\u0646\u062F\u0648\u0631" .
+

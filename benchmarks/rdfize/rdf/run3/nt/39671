@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/RAF_Blackbushe> <http://dbpedia.org/ontology/locatedInArea> "architectural structure" .
+<http://dbpedia.org/resource/Mehrangarh_Fort> <http://dbpedia.org/ontology/locatedInArea> "memorial" .
+<http://dbpedia.org/resource/Mehrangarh_Fort> <http://www.w3.org/2000/01/rdf-schema#label> "Mehrangarh Fort" .
+<http://dbpedia.org/resource/RAF_Blackbushe> <http://www.w3.org/2000/01/rdf-schema#label> "RAF Blackbushe" .
+<http://dbpedia.org/resource/Oflag_IV-B_Koenigstein> <http://www.w3.org/2000/01/rdf-schema#label> "Oflag IV-B K\u00F6nigstein" .
+<http://dbpedia.org/resource/Oflag_IV-B_Koenigstein> <http://dbpedia.org/ontology/locatedInArea> "architectural structure" .
+<http://dbpedia.org/resource/Gimborn_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Gimborn Castle" .
+<http://dbpedia.org/resource/Hückeswagen_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "H\u00FCckeswagen Castle" .
+<http://dbpedia.org/resource/Gimborn_Castle> <http://dbpedia.org/ontology/locatedInArea> "geographical area" .
+<http://dbpedia.org/resource/Hückeswagen_Castle> <http://dbpedia.org/ontology/locatedInArea> "artifact" .
+

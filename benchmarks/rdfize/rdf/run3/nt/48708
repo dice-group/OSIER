@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Amr_Diab> <http://dbpedia.org/ontology/musicalArtist> "role player" .
+<http://dbpedia.org/resource/Andy_Warhol> <http://dbpedia.org/ontology/musicalArtist> "NaturalPerson" .
+<http://dbpedia.org/resource/Amr_Diab> <http://www.w3.org/2000/01/rdf-schema#label> "Amr Diab" .
+<http://example.org/686a5b81-d550-43f0-b120-152aa0601f1d/Amy+Grbnt> <http://www.w3.org/2000/01/rdf-schema#label> "Amy Grbnt" .
+<http://dbpedia.org/resource/Andy_Warhol> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Warhol" .
+<http://dbpedia.org/resource/Ambrosius_Bosschaert_II> <http://www.w3.org/2000/01/rdf-schema#label> "Ambrosius Bosschaert" .
+<http://example.org/686a5b81-d550-43f0-b120-152aa0601f1d/Amy+Grbnt> <http://dbpedia.org/ontology/musicalArtist> "Pecrsn" .
+<http://dbpedia.org/resource/Alexis_Korner> <http://www.w3.org/2000/01/rdf-schema#label> "Alexis Korner" .
+<http://dbpedia.org/resource/Ambrosius_Bosschaert_II> <http://dbpedia.org/ontology/musicalArtist> "agent" .
+<http://dbpedia.org/resource/Alexis_Korner> <http://dbpedia.org/ontology/musicalArtist> "musical artist" .
+

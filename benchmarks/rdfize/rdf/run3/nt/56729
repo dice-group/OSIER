@@ -1,0 +1,8 @@
+<http://example.org/0a1724fa-7c2d-47d3-8c3b-57a398ca2079/Long+Live+Love+%28Olivia+Newton-John+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Long Live Love (Olivia Newton-John song)" .
+<http://example.org/0a1724fa-7c2d-47d3-8c3b-57a398ca2079/All+Night+Long+%28Simon+Mathew+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "All Night Long (Simon Mathew song)" .
+<http://example.org/0a1724fa-7c2d-47d3-8c3b-57a398ca2079/Hallelujah+%28Gali+Atari+and+Milk+%26+Honey+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hallelujah (Gali Atari and Milk & Honey song)" .
+<http://example.org/0a1724fa-7c2d-47d3-8c3b-57a398ca2079/Long+live+love> <http://www.w3.org/2000/01/rdf-schema#label> "Long live love" .
+<http://dbpedia.org/resource/List_of_Code_Lyoko_episodes> <http://www.w3.org/2000/01/rdf-schema#label> "Rock Bottom" .
+<http://example.org/0a1724fa-7c2d-47d3-8c3b-57a398ca2079/Alter+Ego+%28Minus+One+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Alter Ego (Minus One song)" .
+<http://example.org/0a1724fa-7c2d-47d3-8c3b-57a398ca2079/Rock+Bottom+%28Lynsey+de+Paul+and+Mike+Moran+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rock Bottom (Lynsey de Paul and Mike Moran song)" .
+

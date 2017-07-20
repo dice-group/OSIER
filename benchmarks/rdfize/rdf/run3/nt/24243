@@ -1,0 +1,64 @@
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santo_Domingo_en_Ecuador> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Santo Domingo en Ecuador" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Diocese_of_Wangaratta> <http://www.w3.org/2000/01/rdf-schema#label> "Diocese of Wangaratta" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Wellington> <http://dbpedia.org/ontology/largestSettlement> "Place" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Santiago_de_los_Caballeros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Vara\u017Edin" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Adelaide" .
+<http://example.org/14c5eb38-001e-4235-82c8-44bc6d3ea82f/Episcopal+Diocese+otf+eoIrgi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Los_Altos_Quetzaltenango-Totonicapán> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Los Altos Quetzaltenango-Totonicap\u00E1n" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Wellington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Wellington> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Benevento" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Lolo" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Ossory" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://dbpedia.org/ontology/largestSettlement> "Location" .
+<http://dbpedia.org/resource/Diocese_of_Wangaratta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Santiago_de_los_Caballeros> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Santiago de los Caballeros" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Dunedin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Mende" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Arizona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Canarias" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Singapore" .
+<http://dbpedia.org/resource/Anglican_Diocese_of_New_Westminster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Michigan> <http://dbpedia.org/ontology/largestSettlement> "bishopric" .
+<http://dbpedia.org/resource/Diocese_of_Wangaratta> <http://dbpedia.org/ontology/largestSettlement> "Thing" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://dbpedia.org/ontology/largestSettlement> "clerical administrative region" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://dbpedia.org/ontology/largestSettlement> "region" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Santiago_de_Compostela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Santiago_de_Compostela> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Santiago de Guatemala" .
+<http://example.org/14c5eb38-001e-4235-82c8-44bc6d3ea82f/Episcopal+Diocese+otf+eoIrgi> <http://dbpedia.org/ontology/largestSettlement> "populatie place" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Los_Altos_Quetzaltenango-Totonicapán> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://dbpedia.org/ontology/largestSettlement> "bishopric" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Goma" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Dunedin> <http://dbpedia.org/ontology/largestSettlement> "human settlement" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cumaná> <http://dbpedia.org/ontology/largestSettlement> "administrative region" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santo_Domingo_en_Ecuador> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://dbpedia.org/ontology/largestSettlement> "place" .
+<http://dbpedia.org/resource/Anglican_Diocese_of_New_Westminster> <http://dbpedia.org/ontology/largestSettlement> "human settlement" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Ondo" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cumaná> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Barcelona" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Santiago_de_los_Caballeros> <http://dbpedia.org/ontology/largestSettlement> "bishopric" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Arizona> <http://dbpedia.org/ontology/largestSettlement> "administrative region" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Los_Altos_Quetzaltenango-Totonicapán> <http://dbpedia.org/ontology/largestSettlement> "administrative region" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Oca\u00F1a" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://dbpedia.org/ontology/largestSettlement> "AdministrativeArea" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://dbpedia.org/ontology/largestSettlement> "human settlement" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://dbpedia.org/ontology/largestSettlement> "Jurisdiction%3E" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Trujillo> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Hermosillo" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Arizona> <http://www.w3.org/2000/01/rdf-schema#label> "Episcopal Diocese of Easton" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Dunedin> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Darjeeling" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Trujillo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://dbpedia.org/ontology/largestSettlement> "Place" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santo_Domingo_en_Ecuador> <http://dbpedia.org/ontology/largestSettlement> "Place" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Trujillo> <http://dbpedia.org/ontology/largestSettlement> "administrative region" .
+<http://example.org/14c5eb38-001e-4235-82c8-44bc6d3ea82f/Episcopal+Diocese+otf+eoIrgi> <http://www.w3.org/2000/01/rdf-schema#label> "Episcopal Diocese otf eoIrgi" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Michigan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Michigan> <http://www.w3.org/2000/01/rdf-schema#label> "Episcopal Diocese of Missouri" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cumaná> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Mariana" .
+<http://dbpedia.org/resource/Anglican_Diocese_of_New_Westminster> <http://www.w3.org/2000/01/rdf-schema#label> "Anglican Diocese of New Westminster" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Santiago_de_Compostela> <http://dbpedia.org/ontology/largestSettlement> "Location" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Panam\u00E1" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://dbpedia.org/ontology/largestSettlement> "bishopric" .
+

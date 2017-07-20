@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/The_Man_from_Outback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Death_of_a_Salesman> <http://www.w3.org/2000/01/rdf-schema#label> "Death of a Salesman" .
+<http://dbpedia.org/resource/Death_of_a_Salesman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/The_Man_from_Outback> <http://www.w3.org/2000/01/rdf-schema#label> "The Man from Outback" .
+<http://dbpedia.org/resource/The_Man_from_Outback> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://dbpedia.org/resource/A_Doll's_House> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Educating_Rita> <http://dbpedia.org/ontology/notableWork> "dramatic work" .
+<http://dbpedia.org/resource/Funny_Money> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Death_of_a_Salesman> <http://dbpedia.org/ontology/notableWork> "play" .
+<http://dbpedia.org/resource/A_Doll's_House> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://dbpedia.org/resource/Funny_Money> <http://www.w3.org/2000/01/rdf-schema#label> "Funny Money" .
+<http://dbpedia.org/resource/Funny_Money> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://dbpedia.org/resource/Educating_Rita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Educating_Rita> <http://www.w3.org/2000/01/rdf-schema#label> "Educating Rita" .
+<http://dbpedia.org/resource/A_Doll's_House> <http://www.w3.org/2000/01/rdf-schema#label> "A Doll's House" .
+

@@ -1,0 +1,6 @@
+<http://example.org/6a0a3f4d-cd2c-4f6e-a5e2-2698e0027696/DGUSA+Fearless> <http://www.w3.org/2000/01/rdf-schema#label> "DGUSA Fearless" .
+<http://example.org/6a0a3f4d-cd2c-4f6e-a5e2-2698e0027696/Victory+Road+%282011%29> <http://www.w3.org/2000/01/rdf-schema#label> "Victory Road (2011)" .
+<http://example.org/6a0a3f4d-cd2c-4f6e-a5e2-2698e0027696/Chikara+High+Noon> <http://www.w3.org/2000/01/rdf-schema#label> "Chikara High Noon" .
+<http://example.org/6a0a3f4d-cd2c-4f6e-a5e2-2698e0027696/Sacrifice+%282008%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sacrifice (2008)" .
+<http://dbpedia.org/resource/WrestleMania> <http://www.w3.org/2000/01/rdf-schema#label> "WrestleMania 29" .
+

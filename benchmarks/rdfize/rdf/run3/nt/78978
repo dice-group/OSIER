@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Crystal_Palace_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Palace F.C." .
+<http://dbpedia.org/resource/Stockport_County_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032624> .
+<http://dbpedia.org/resource/Wrexham_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Wrexham F.C." .
+<http://dbpedia.org/resource/Northwich_Victoria_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Northwich Victoria F.C." .
+<http://dbpedia.org/resource/Crystal_Palace_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032624> .
+<http://dbpedia.org/resource/Northampton_Town_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Northampton Town F.C." .
+<http://dbpedia.org/resource/Stockport_County_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Stockport County F.C." .
+<http://dbpedia.org/resource/Wrexham_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032624> .
+<http://dbpedia.org/resource/Northwich_Victoria_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032624> .
+<http://dbpedia.org/resource/Northampton_Town_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032624> .
+

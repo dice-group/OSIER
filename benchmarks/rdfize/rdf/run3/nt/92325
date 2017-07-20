@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Theobald_von_Bethmann-Hollweg> <http://www.w3.org/2000/01/rdf-schema#label> "Theobald von Bethmann-Hollweg" .
+<http://dbpedia.org/resource/Wang_Xijue> <http://www.w3.org/2000/01/rdf-schema#label> "Wang Xijue" .
+<http://dbpedia.org/resource/Balakrishna_(name)> <http://www.w3.org/2000/01/rdf-schema#label> "S N Balakrishnan" .
+<http://dbpedia.org/resource/Bernhard_von_Bülow> <http://www.w3.org/2000/01/rdf-schema#label> "Bernhard von B\u00FClow" .
+<http://example.org/4df202a3-b555-4780-80de-8e8d239720aa/%E5%8E%B3%E5%B5%A9> <http://www.w3.org/2000/01/rdf-schema#label> "\u53B3\u5D69" .
+<http://dbpedia.org/resource/Yan_Song_(Ming_dynasty)> <http://www.w3.org/2000/01/rdf-schema#label> "Yan Song (Ming dynasty)" .
+

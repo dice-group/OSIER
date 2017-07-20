@@ -1,0 +1,9 @@
+<http://example.org/46d24dac-7f53-43b8-bf08-26c0c42b9870/1968%E5%B9%B43%E6%9C%8828%E6%97%A5%E6%97%A5%E9%A3%9F> <http://www.w3.org/2000/01/rdf-schema#label> "1968\u5E743\u670828\u65E5\u65E5\u98DF" .
+<http://example.org/46d24dac-7f53-43b8-bf08-26c0c42b9870/2040%E5%B9%B411%E6%9C%884%E6%97%A5%E6%97%A5%E9%A3%9F> <http://www.w3.org/2000/01/rdf-schema#label> "2040\u5E7411\u67084\u65E5\u65E5\u98DF" .
+<http://dbpedia.org/resource/Solar_eclipse_of_October_3,_2005> <http://www.w3.org/2000/01/rdf-schema#label> "Solar eclipse of October 12, 1958" .
+<http://dbpedia.org/resource/Solar_eclipse_of_August_17,_1803> <http://www.w3.org/2000/01/rdf-schema#label> "Solar eclipse of August 10, 1980" .
+<http://dbpedia.org/resource/Solar_eclipse_of_March_25,_1857> <http://www.w3.org/2000/01/rdf-schema#label> "Solar eclipse of March 28, 1968" .
+<http://example.org/46d24dac-7f53-43b8-bf08-26c0c42b9870/1980%E5%B9%B48%E6%9C%8810%E6%97%A5%E6%97%A5%E9%A3%9F> <http://www.w3.org/2000/01/rdf-schema#label> "1980\u5E748\u670810\u65E5\u65E5\u98DF" .
+<http://dbpedia.org/resource/Solar_eclipse_of_November_25,_2011> <http://www.w3.org/2000/01/rdf-schema#label> "Solar eclipse of November 4, 2040" .
+<http://dbpedia.org/resource/Solar_eclipse_of_November_25,_2011> <http://www.w3.org/2000/01/rdf-schema#label> "Solar eclipse of November 15, 2096" .
+

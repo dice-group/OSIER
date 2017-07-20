@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/LibriVox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/LibriVox> <http://www.w3.org/2000/01/rdf-schema#label> "LibriVox" .
+<http://dbpedia.org/resource/New_Haven_Free_Public_Library> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Birkenhead_Public_Library> <http://www.w3.org/2000/01/rdf-schema#label> "Birkenhead Public Library" .
+<http://dbpedia.org/resource/New_Haven_Free_Public_Library> <http://www.w3.org/2000/01/rdf-schema#label> "New Haven Free Public Library" .
+<http://dbpedia.org/resource/Birkenhead_Public_Library> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/b956aeea-dd12-4f86-9417-2cf4cd211ea4/Aurora+PNublic+Libary+n%28Ontario> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Buffalo_&_Erie_County_Public_Library> <http://www.w3.org/2000/01/rdf-schema#label> "Buffalo & Erie County Public Library" .
+<http://dbpedia.org/resource/Buffalo_&_Erie_County_Public_Library> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/b956aeea-dd12-4f86-9417-2cf4cd211ea4/Aurora+PNublic+Libary+n%28Ontario> <http://www.w3.org/2000/01/rdf-schema#label> "Aurora PNublic Libary n(Ontario" .
+

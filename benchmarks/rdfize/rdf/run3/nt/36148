@@ -1,0 +1,12 @@
+<http://example.org/4875a1ca-746d-4ca5-8f42-f12567454c49/Ballad+of+he+GreenGG+erets> <http://www.w3.org/2000/01/rdf-schema#label> "Ballad of he GreenGG erets" .
+<http://example.org/4875a1ca-746d-4ca5-8f42-f12567454c49/A+Funny+Thing+auppened+on+the+Wawy+to+the+Frum> <http://www.w3.org/2000/01/rdf-schema#label> "A Funny Thing auppened on the Wawy to the Frum" .
+<http://example.org/4875a1ca-746d-4ca5-8f42-f12567454c49/Anyone+Can+Whistle> <http://www.w3.org/2000/01/rdf-schema#label> "Anyone Can Whistle" .
+<http://dbpedia.org/resource/Bob_Steele_filmography> <http://www.w3.org/2000/01/rdf-schema#label> "A Day in the Life" .
+<http://dbpedia.org/resource/How> <http://www.w3.org/2000/01/rdf-schema#label> "How?" .
+<http://dbpedia.org/resource/Eine_kleine_Nachtmusik> <http://www.w3.org/2000/01/rdf-schema#label> "A Little Night Music" .
+<http://example.org/4875a1ca-746d-4ca5-8f42-f12567454c49/Minority+%28Gigi+Gryce+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Minority (Gigi Gryce song)" .
+<http://example.org/4875a1ca-746d-4ca5-8f42-f12567454c49/Hallelujah+%28Gali+Atari+and+Milk+%26+Honey+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hallelujah (Gali Atari and Milk & Honey song)" .
+<http://example.org/4875a1ca-746d-4ca5-8f42-f12567454c49/How%3F+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "How? (song)" .
+<http://dbpedia.org/resource/America_the_Beautiful_(Disney)> <http://www.w3.org/2000/01/rdf-schema#label> "America the Beautiful" .
+<http://example.org/4875a1ca-746d-4ca5-8f42-f12567454c49/Hallelujah+%28canci%C3%B3n+de+Gali+Atari+y+Milk+%26+Honey%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hallelujah (canci\u00F3n de Gali Atari y Milk & Honey)" .
+

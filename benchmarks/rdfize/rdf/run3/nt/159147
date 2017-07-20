@@ -1,0 +1,32 @@
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1925+Hartford+Blues+season> <http://www.w3.org/2000/01/rdf-schema#label> "1925 Hartford Blues season" .
+<http://dbpedia.org/resource/2005–06_Plymouth_Argyle_F.C._season> <http://dbpedia.org/ontology/Work/runtime> "2002\u201303 Plymouth Argyle F.C. season" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1910+Akron+Indians+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1924+Toronto+Argonauts+season> <http://dbpedia.org/ontology/Work/runtime> "m.0rysl95" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1910+Akron+Indians+season> <http://dbpedia.org/ontology/location> "period" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wisconsin_Badgers_men's_basketball_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wisconsin_Badgers_men's_basketball_team> <http://dbpedia.org/ontology/Work/runtime> "1919\u201320 Wisconsin Badgers men's basketball team" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1919+Massillon+Tigers+season> <http://dbpedia.org/ontology/Work/runtime> "m.0fq2cv8" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/Scottish+Division+Two+1902%2F03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1910+Akron+Indians+season> <http://www.w3.org/2000/01/rdf-schema#label> "1910 Akron Indians season" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1902%E2%80%9303+Scottish+Division+Two> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1902%E2%80%9303+Scottish+Division+Two> <http://www.w3.org/2000/01/rdf-schema#label> "1902\u201303 Scottish Division Two" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1902%E2%80%9303+Scottish+Division+Two> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1924+Toronto+Argonauts+season> <http://www.w3.org/2000/01/rdf-schema#label> "1924 Toronto Argonauts season" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1924+Toronto+Argonauts+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1919+Massillon+Tigers+season> <http://dbpedia.org/ontology/location> "football league season" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/Scottish+Division+Two+1902%2F03> <http://www.w3.org/2000/01/rdf-schema#label> "Scottish Division Two 1902/03" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wisconsin_Badgers_men's_basketball_team> <http://dbpedia.org/ontology/location> "national collegiate athletic association team season" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1925+Hartford+Blues+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1925+Hartford+Blues+season> <http://dbpedia.org/ontology/Work/runtime> "1925 Hartford Blues season" .
+<http://dbpedia.org/resource/2005–06_Plymouth_Argyle_F.C._season> <http://www.w3.org/2000/01/rdf-schema#label> "2002\u201303 Plymouth Argyle F.C. season" .
+<http://dbpedia.org/resource/2005–06_Plymouth_Argyle_F.C._season> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wisconsin_Badgers_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1919\u201320 Wisconsin Badgers men's basketball team" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1919+Massillon+Tigers+season> <http://dbpedia.org/ontology/Work/runtime> "1919 Massillon Tigers season" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1902%E2%80%9303+Scottish+Division+Two> <http://dbpedia.org/ontology/Work/runtime> "m.0gx199_" .
+<http://dbpedia.org/resource/2005–06_Plymouth_Argyle_F.C._season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1910+Akron+Indians+season> <http://dbpedia.org/ontology/Work/runtime> "1910 Akron Indians season" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1919+Massillon+Tigers+season> <http://www.w3.org/2000/01/rdf-schema#label> "1919 Massillon Tigers season" .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1919+Massillon+Tigers+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/99c0265b-9de9-46e6-87da-61436788f399/1910+Akron+Indians+season> <http://dbpedia.org/ontology/Work/runtime> "m.0fq13gs" .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wisconsin_Badgers_men's_basketball_team> <http://dbpedia.org/ontology/Work/runtime> "m.0_qd1z2" .
+

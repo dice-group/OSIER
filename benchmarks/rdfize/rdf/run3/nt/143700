@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/1989_Individual_Speedway_Junior_World_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "1988 Individual Speedway World Championship" .
+<http://example.org/942ff8a0-aa27-461a-92f4-394e3277c4a6/1970+Speedway+World+Team+Cup> <http://www.w3.org/2000/01/rdf-schema#label> "1970 Speedway World Team Cup" .
+<http://dbpedia.org/resource/2009_NASCAR_Canadian_Tire_Series_season> <http://www.w3.org/2000/01/rdf-schema#label> "2008 NASCAR Canadian Tire Series" .
+<http://example.org/942ff8a0-aa27-461a-92f4-394e3277c4a6/1966+Gallaher+500> <http://www.w3.org/2000/01/rdf-schema#label> "1966 Gallaher 500" .
+<http://example.org/942ff8a0-aa27-461a-92f4-394e3277c4a6/2015+F4+Japanese+Championship+season> <http://www.w3.org/2000/01/rdf-schema#label> "2015 F4 Japanese Championship season" .
+

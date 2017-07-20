@@ -1,0 +1,31 @@
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Orchard+oriole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Dwarf+tarantula> <http://dbpedia.org/ontology/species> "Thing" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Sitticus+designatus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Atypical+tarantula> <http://www.w3.org/2000/01/rdf-schema#label> "Atypical tarantula" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Arabian+fat-tailed+scorpion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Amaurobius+jugorum> <http://www.w3.org/2000/01/rdf-schema#label> "Amaurobius jugorum" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Atypical+tarantula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Atypical+tarantula> <http://dbpedia.org/ontology/species> "EukaryoticCell" .
+<http://dbpedia.org/resource/Skua_(rocket)> <http://dbpedia.org/ontology/species> "species" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Blue+crane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Arabian+fat-tailed+scorpion> <http://www.w3.org/2000/01/rdf-schema#label> "Arabian fat-tailed scorpion" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Dwarf+tarantula> <http://www.w3.org/2000/01/rdf-schema#label> "Dwarf tarantula" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Amaurobius+jugorum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Dwarf+tarantula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Skua_(rocket)> <http://www.w3.org/2000/01/rdf-schema#label> "Skua" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Swamp+sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Swamp+sparrow> <http://dbpedia.org/ontology/species> "BiologicalLivingObject" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Orchard+oriole> <http://dbpedia.org/ontology/species> "EukaryoticCell" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Spotted+wood+owl> <http://www.w3.org/2000/01/rdf-schema#label> "Spotted wood owl" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Spotted+wood+owl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Blue+crane> <http://dbpedia.org/ontology/species> "brute" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Amaurobius+jugorum> <http://dbpedia.org/ontology/species> "species" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Spotted+wood+owl> <http://dbpedia.org/ontology/species> "species" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Arabian+fat-tailed+scorpion> <http://dbpedia.org/ontology/species> "brute" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Blue+crane> <http://www.w3.org/2000/01/rdf-schema#label> "Blue crane" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Sitticus+designatus> <http://dbpedia.org/ontology/species> "Thing" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Sitticus+designatus> <http://www.w3.org/2000/01/rdf-schema#label> "Sitticus designatus" .
+<http://dbpedia.org/resource/Skua_(rocket)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Orchard+oriole> <http://www.w3.org/2000/01/rdf-schema#label> "Orchard oriole" .
+<http://example.org/50edaa83-10c3-42ad-a192-7d9aaf637616/Swamp+sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "Swamp sparrow" .
+

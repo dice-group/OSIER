@@ -1,0 +1,196 @@
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Orocrambus+simplex> <http://dbpedia.org/ontology/animal> "species" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Carvalho%27s+Suriname+toad> <http://www.w3.org/2000/01/rdf-schema#label> "Carvalho's Suriname toad" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Fabula+%28oQth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fabula (oQth)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Cancellaria+ovata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Phos> <http://dbpedia.org/ontology/animal> "Thing" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Kiunga+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Admete+tenuissima> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Panamint+alligator+lizard> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Carvalho%27s+Suriname+toad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Gymnallabes+nops> <http://www.w3.org/2000/01/rdf-schema#label> "Gymnallabes nops" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/MBobua+kuhlii> <http://dbpedia.org/ontology/animal> "TAhng" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Catostomus+discobolus+jarrovii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Godiva+%28gastropod%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Isthmohyla+insolita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mobula+munkiana> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Hyalinobatrachium+bergeri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Lyria+cordis> <http://www.w3.org/2000/01/rdf-schema#label> "Lyria cordis" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliostoma+chinoi> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Afrotyphlops+schlegelii> <http://dbpedia.org/ontology/animal> "animal" .
+<http://dbpedia.org/resource/Gecko_(theatre_company)> <http://www.w3.org/2000/01/rdf-schema#label> "Gecko" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mdhrean+alliRgaor+lizard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Orestias+%28fish%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliotropis+scalaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Isthmohyla+insolita> <http://dbpedia.org/ontology/animal> "Thing" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mormon+cricket> <http://www.w3.org/2000/01/rdf-schema#label> "Mormon cricket" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/MBobua+kuhlii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Admete+tenuissima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Blanfordia+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Blanfordia simplex" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Suwannee+cooter> <http://dbpedia.org/ontology/animal> "reptile" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Agkistrodon+contortrix+mokasen> <http://www.w3.org/2000/01/rdf-schema#label> "Agkistrodon contortrix mokasen" .
+<http://dbpedia.org/resource/Argentine_CID_card> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Dendropsophus+riveroi> <http://www.w3.org/2000/01/rdf-schema#label> "Dendropsophus riveroi" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Microvoluta+amphissa> <http://www.w3.org/2000/01/rdf-schema#label> "Microvoluta amphissa" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Naso+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliostoma+chinoi> <http://www.w3.org/2000/01/rdf-schema#label> "Calliostoma chinoi" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Fuchsia+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Friesia+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Friesia (moth)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Eulimella+simplex> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Oxynoemacheius+galiQJlaus> <http://www.w3.org/2000/01/rdf-schema#label> "Oxynoemacheius galiQJlaus" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Panamint+alligator+lizard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calma+%28gastropod%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Grandisonia+larvata> <http://www.w3.org/2000/01/rdf-schema#label> "Grandisonia larvata" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Nassa+situla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Oxynoemacheius+galiQJlaus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Hyperolius+thoracotuberculatus> <http://www.w3.org/2000/01/rdf-schema#label> "Hyperolius thoracotuberculatus" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Akko+%28genus%29> <http://dbpedia.org/ontology/animal> "species" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Evia+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Admete+tenuissima> <http://www.w3.org/2000/01/rdf-schema#label> "Admete tenuissima" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Kiunga+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kiunga (genus)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Malabar+gropehr> <http://dbpedia.org/ontology/animal> "secixes" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mormon+cricket> <http://dbpedia.org/ontology/animal> "Insect" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Pythonidae> <http://www.w3.org/2000/01/rdf-schema#label> "Pythonidae" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Fuchsia+%28moth%29> <http://dbpedia.org/ontology/animal> "insects" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mdhrean+alliRgaor+lizard> <http://dbpedia.org/ontology/animal> "rJetile" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mobula+munkiana> <http://www.w3.org/2000/01/rdf-schema#label> "Mobula munkiana" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Chilo+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chilo (moth)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Orestias+%28fish%29> <http://www.w3.org/2000/01/rdf-schema#label> "Orestias (fish)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Nepa+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Oxynoemacheius+galiQJlaus> <http://dbpedia.org/ontology/animal> "animoa" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Pythonidae> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliostoma+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliotropis+scalaris> <http://www.w3.org/2000/01/rdf-schema#label> "Calliotropis scalaris" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Nepa+%28genus%29> <http://dbpedia.org/ontology/animal> "isrects" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Panamint+alligator+lizard> <http://www.w3.org/2000/01/rdf-schema#label> "Panamint alligator lizard" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Malabar+gropehr> <http://www.w3.org/2000/01/rdf-schema#label> "Malabar gropehr" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Maylandia+estherae> <http://www.w3.org/2000/01/rdf-schema#label> "Maylandia estherae" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Catostomus+discobolus+jarrovii> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Blanfordia+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Dendropsophus+riveroi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Godiva+%28gastropod%29> <http://dbpedia.org/ontology/animal> "Thing" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Cancellaria+albida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Anatolia+Lycian+salamander> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Grandisonia+larvata> <http://dbpedia.org/ontology/animal> "Amphibian" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Osiris+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Raja+%28genus%29> <http://dbpedia.org/ontology/animal> "fish" .
+<http://dbpedia.org/resource/Argentine_CID_card> <http://www.w3.org/2000/01/rdf-schema#label> "Argentina (fish)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Raja+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliostoma+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Calliostoma simplex" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Fabula+%28oQth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Proserpina+%28gastropod%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Nepa+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Nepa (genus)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Suwannee+cooter> <http://www.w3.org/2000/01/rdf-schema#label> "Suwannee cooter" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/JanolMiva+smplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Lesser+devil+ray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Malabar+gropehr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Evia+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Evia (moth)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Blanfordia+simplex> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Fania+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fania (moth)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Maylandia+estherae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/NothezrnalKligator+lizard> <http://www.w3.org/2000/01/rdf-schema#label> "NothezrnalKligator lizard" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Agkistrodon+contortrix+mokasen> <http://dbpedia.org/ontology/animal> "Thing" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Gymnallabes+nops> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Dianella+%28gastropod%29> <http://dbpedia.org/ontology/animal> "Mollusca" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Afrotyphlops+schlegelii> <http://www.w3.org/2000/01/rdf-schema#label> "Afrotyphlops schlegelii" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Cancellaria+albida> <http://dbpedia.org/ontology/animal> "Thing" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Ef+Tucuchpe+goldentree+frog> <http://www.w3.org/2000/01/rdf-schema#label> "Ef Tucuchpe goldentree frog" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Albula+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/JanolMiva+smplex> <http://dbpedia.org/ontology/animal> "spwecie" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Fuchsia+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fuchsia (moth)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Lowland+burrowing+tree+frog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Cancellaria+ovata> <http://www.w3.org/2000/01/rdf-schema#label> "Cancellaria ovata" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/JanolMiva+smplex> <http://www.w3.org/2000/01/rdf-schema#label> "JanolMiva smplex" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Orocrambus+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Isthmohyla+insolita> <http://www.w3.org/2000/01/rdf-schema#label> "Isthmohyla insolita" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Afrotyphlops+schlegelii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliostoma+brunneum> <http://www.w3.org/2000/01/rdf-schema#label> "Calliostoma brunneum" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Chilo+%28moth%29> <http://dbpedia.org/ontology/animal> "animal" .
+<http://dbpedia.org/resource/Acclaim_Studios_Austin> <http://dbpedia.org/ontology/animal> "reptile" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Lowland+burrowing+tree+frog> <http://www.w3.org/2000/01/rdf-schema#label> "Lowland burrowing tree frog" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Dianella+%28gastropod%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dianella (gastropod)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Akko+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Catostomus+discobolus+jarrovii> <http://www.w3.org/2000/01/rdf-schema#label> "Catostomus discobolus jarrovii" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Hyperolius+thoracotuberculatus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Pallid+spiny+softshell+turtle> <http://dbpedia.org/ontology/animal> "species" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Phos> <http://www.w3.org/2000/01/rdf-schema#label> "Phos" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Anatolia+Lycian+salamander> <http://www.w3.org/2000/01/rdf-schema#label> "Anatolia Lycian salamander" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Friesia+%28moth%29> <http://dbpedia.org/ontology/animal> "insect" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliostoma+brunneum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Microvoluta+amphissa> <http://dbpedia.org/ontology/animal> "species" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Osiris+%28genus%29> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Suwannee+cooter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Williamia+radiata+nutata> <http://www.w3.org/2000/01/rdf-schema#label> "Williamia radiata nutata" .
+<http://dbpedia.org/resource/Acclaim_Studios_Austin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Anatolia+Lycian+salamander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Phos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mwana+screeching+frog> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Orocrambus+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Orocrambus simplex" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Orestias+%28fish%29> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Microvoluta+amphissa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Agkistrodon+contortrix+mokasen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Gecko_(theatre_company)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Dendropsophus+riveroi> <http://dbpedia.org/ontology/animal> "species" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Eulimella+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Eulimella simplex" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Friesia+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mdhrean+alliRgaor+lizard> <http://www.w3.org/2000/01/rdf-schema#label> "Mdhrean alliRgaor lizard" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Fania+%28moth%29> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/MBobua+kuhlii> <http://www.w3.org/2000/01/rdf-schema#label> "MBobua kuhlii" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Williamia+radiata+nutata> <http://dbpedia.org/ontology/animal> "species" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Proserpina+%28gastropod%29> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Baeolidia+chaka> <http://www.w3.org/2000/01/rdf-schema#label> "Baeolidia chaka" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Gymnallabes+nops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Chilo+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Naso+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Naso (genus)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mobula+munkiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Pallid+spiny+softshell+turtle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Cancellaria+albida> <http://www.w3.org/2000/01/rdf-schema#label> "Cancellaria albida" .
+<http://dbpedia.org/resource/Acclaim_Studios_Austin> <http://www.w3.org/2000/01/rdf-schema#label> "Iguana" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Lowland+burrowing+tree+frog> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Fabula+%28oQth%29> <http://dbpedia.org/ontology/animal> "speHcie" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calma+%28gastropod%29> <http://dbpedia.org/ontology/animal> "Thing" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Osiris+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Osiris (genus)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Nassa+situla> <http://www.w3.org/2000/01/rdf-schema#label> "Nassa situla" .
+<http://dbpedia.org/resource/Argentine_CID_card> <http://dbpedia.org/ontology/animal> "fish" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Lyria+cordis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Carvalho%27s+Suriname+toad> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliostoma+chinoi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/NothezrnalKligator+lizard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mormon+cricket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Hyperolius+thoracotuberculatus> <http://dbpedia.org/ontology/animal> "Amphibian" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Baeolidia+chaka> <http://dbpedia.org/ontology/animal> "mollusca" .
+<http://dbpedia.org/resource/Gecko_(theatre_company)> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Pythonidae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Albula+%28genus%29> <http://dbpedia.org/ontology/animal> "species" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Evia+%28moth%29> <http://dbpedia.org/ontology/animal> "Thing" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Godiva+%28gastropod%29> <http://www.w3.org/2000/01/rdf-schema#label> "Godiva (gastropod)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Kiunga+%28genus%29> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Hyalinobatrachium+bergeri> <http://www.w3.org/2000/01/rdf-schema#label> "Hyalinobatrachium bergeri" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Lyria+cordis> <http://dbpedia.org/ontology/animal> "Thing" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Akko+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Akko (genus)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Proserpina+%28gastropod%29> <http://www.w3.org/2000/01/rdf-schema#label> "Proserpina (gastropod)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Cancellaria+ovata> <http://dbpedia.org/ontology/animal> "species" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Ef+Tucuchpe+goldentree+frog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Lesser+devil+ray> <http://www.w3.org/2000/01/rdf-schema#label> "Lesser devil ray" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mwana+screeching+frog> <http://www.w3.org/2000/01/rdf-schema#label> "Mwana screeching frog" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Albula+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Albula (genus)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Grandisonia+larvata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Nassa+situla> <http://dbpedia.org/ontology/animal> "mollusca" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Raja+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Raja (genus)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Williamia+radiata+nutata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Pallid+spiny+softshell+turtle> <http://www.w3.org/2000/01/rdf-schema#label> "Pallid spiny softshell turtle" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Lesser+devil+ray> <http://dbpedia.org/ontology/animal> "Fish" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Baeolidia+chaka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliostoma+brunneum> <http://dbpedia.org/ontology/animal> "Mollusca" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Eulimella+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calma+%28gastropod%29> <http://www.w3.org/2000/01/rdf-schema#label> "Calma (gastropod)" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Hyalinobatrachium+bergeri> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Maylandia+estherae> <http://dbpedia.org/ontology/animal> "species" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Fania+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliotropis+scalaris> <http://dbpedia.org/ontology/animal> "animal" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Mwana+screeching+frog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Naso+%28genus%29> <http://dbpedia.org/ontology/animal> "fish" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Ef+Tucuchpe+goldentree+frog> <http://dbpedia.org/ontology/animal> "sOpeces" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Calliostoma+simplex> <http://dbpedia.org/ontology/animal> "Mollusca" .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/Dianella+%28gastropod%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/9a260f05-ae06-4b21-81fa-c4a6c008f9e2/NothezrnalKligator+lizard> <http://dbpedia.org/ontology/animal> "repttle" .
+

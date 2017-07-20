@@ -1,0 +1,11 @@
+<http://example.org/8d200f07-bb05-4be3-9a6a-2d00892f45a6/Beazley+Medal> <http://www.w3.org/2000/01/rdf-schema#label> "Beazley Medal" .
+<http://example.org/8d200f07-bb05-4be3-9a6a-2d00892f45a6/Rudy+Bruner+Award+for+Urban+Excellence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/8d200f07-bb05-4be3-9a6a-2d00892f45a6/Beazley+Medal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/8d200f07-bb05-4be3-9a6a-2d00892f45a6/Punjabi+Music+Awards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/8d200f07-bb05-4be3-9a6a-2d00892f45a6/Rudy+Bruner+Award+for+Urban+Excellence> <http://www.w3.org/2000/01/rdf-schema#label> "Rudy Bruner Award for Urban Excellence" .
+<http://example.org/8d200f07-bb05-4be3-9a6a-2d00892f45a6/Punjabi+Music+Awards> <http://www.w3.org/2000/01/rdf-schema#label> "Punjabi Music Awards" .
+<http://dbpedia.org/resource/Cricket_World_Cup_teams> <http://www.w3.org/2000/01/rdf-schema#label> "Cricket World Cup Trophy" .
+<http://dbpedia.org/resource/Cricket_World_Cup_teams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/8d200f07-bb05-4be3-9a6a-2d00892f45a6/ADDY+Awards> <http://www.w3.org/2000/01/rdf-schema#label> "ADDY Awards" .
+<http://example.org/8d200f07-bb05-4be3-9a6a-2d00892f45a6/ADDY+Awards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+

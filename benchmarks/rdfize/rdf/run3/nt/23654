@@ -1,0 +1,56 @@
+<http://dbpedia.org/resource/Don_Geronimo> <http://www.w3.org/2000/01/rdf-schema#label> "Don Geronimo" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Mack+%28publshinag%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Alyn_Valley_Woods_and_Alyn_Gorge_Caves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Solar+Wings+Breeze> <http://www.w3.org/2000/01/rdf-schema#label> "Solar Wings Breeze" .
+<http://dbpedia.org/resource/Ghislaine_Dupont> <http://www.w3.org/2000/01/rdf-schema#label> "Ghislaine Dupont" .
+<http://dbpedia.org/resource/Don_Geronimo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Solar+Wings+Breeze> <http://dbpedia.org/ontology/bnfId> "United Kingdom" .
+<http://dbpedia.org/resource/Wernbongam_Stream_Section_and_Quarry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Romanov+%28vodka%29> <http://www.w3.org/2000/01/rdf-schema#label> "Romanov (vodka)" .
+<http://dbpedia.org/resource/Airbus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Chartrle+Moss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Fuller's_Brewery> <http://www.w3.org/2000/01/rdf-schema#label> "London Pride (beer)" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Red+Hore+Beker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Romanov+%28vodka%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Wernbongam_Stream_Section_and_Quarry> <http://www.w3.org/2000/01/rdf-schema#label> "Wernbongam Stream Section and Quarry" .
+<http://dbpedia.org/resource/Henry_Holt_and_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Pebbles_(radio_personality)> <http://www.w3.org/2000/01/rdf-schema#label> "Pebbles (radio personality)" .
+<http://dbpedia.org/resource/Moonshine> <http://www.w3.org/2000/01/rdf-schema#label> "Desi daru" .
+<http://dbpedia.org/resource/List_of_Boeing_B-17_Flying_Fortress_variants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Fuller's_Brewery> <http://dbpedia.org/ontology/bnfId> "United Kingdom" .
+<http://dbpedia.org/resource/Buckley_Claypits_and_Commons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Solar+Wings+Breeze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Moonshine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/MistaJam__1> <http://www.w3.org/2000/01/rdf-schema#label> "MistaJam__1" .
+<http://dbpedia.org/resource/Lawrence_and_Wishart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Lawrence_and_Wishart> <http://www.w3.org/2000/01/rdf-schema#label> "Lawrence and Wishart" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Scribe+%28publisher%29> <http://www.w3.org/2000/01/rdf-schema#label> "Scribe (publisher)" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Agnieszka+Popielewicz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Moonshine> <http://dbpedia.org/ontology/bnfId> "India" .
+<http://dbpedia.org/resource/Ghislaine_Dupont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Idaho+Comics+Group> <http://www.w3.org/2000/01/rdf-schema#label> "Idaho Comics Group" .
+<http://dbpedia.org/resource/List_of_Boeing_B-17_Flying_Fortress_variants> <http://www.w3.org/2000/01/rdf-schema#label> "Boeing B-17 Flying Fortress" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Agnieszka+Popielewicz> <http://www.w3.org/2000/01/rdf-schema#label> "Agnieszka Popielewicz" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Alpine+Meadow%2C+Berkhamsted> <http://www.w3.org/2000/01/rdf-schema#label> "Alpine Meadow, Berkhamsted" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/MistaJam__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/ABS+Aerolight+Legacy> <http://www.w3.org/2000/01/rdf-schema#label> "ABS Aerolight Legacy" .
+<http://dbpedia.org/resource/Aviasud_Sirocco> <http://www.w3.org/2000/01/rdf-schema#label> "Aviasud Sirocco" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Idaho+Comics+Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Red+Hore+Beker> <http://dbpedia.org/ontology/bnfId> "PhilRippies" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Mack+%28publshinag%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mack (publshinag)" .
+<http://dbpedia.org/resource/Pebbles_(radio_personality)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Red+Hore+Beker> <http://www.w3.org/2000/01/rdf-schema#label> "Red Hore Beker" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Chartrle+Moss> <http://www.w3.org/2000/01/rdf-schema#label> "Chartrle Moss" .
+<http://dbpedia.org/resource/Moxie_(company)> <http://www.w3.org/2000/01/rdf-schema#label> "Moxie" .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Scribe+%28publisher%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/ABS+Aerolight+Legacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Moxie_(company)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/Alpine+Meadow%2C+Berkhamsted> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Henry_Holt_and_Company> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Holt and Company" .
+<http://dbpedia.org/resource/Alyn_Valley_Woods_and_Alyn_Gorge_Caves> <http://www.w3.org/2000/01/rdf-schema#label> "Alyn Valley Woods and Alyn Gorge Caves" .
+<http://dbpedia.org/resource/Fuller's_Brewery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://dbpedia.org/resource/Aviasud_Sirocco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/Ward> .
+<http://example.org/29d2e408-85f1-4489-9ded-1395d74cda68/ABS+Aerolight+Legacy> <http://dbpedia.org/ontology/bnfId> "France" .
+<http://dbpedia.org/resource/Buckley_Claypits_and_Commons> <http://www.w3.org/2000/01/rdf-schema#label> "Buckley Claypits and Commons" .
+<http://dbpedia.org/resource/Airbus> <http://www.w3.org/2000/01/rdf-schema#label> "Airbus A300" .
+

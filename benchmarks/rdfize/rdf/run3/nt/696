@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Schutzstaffel> <http://dbpedia.org/ontology/administrativeStatus> "government agency" .
+<http://dbpedia.org/resource/Schutzstaffel> <http://www.w3.org/2000/01/rdf-schema#label> "Schutzstaffel" .
+<http://dbpedia.org/resource/Office_of_Strategic_Services> <http://dbpedia.org/ontology/administrativeStatus> "government agency" .
+<http://dbpedia.org/resource/National_Transportation_Safety_Committee> <http://www.w3.org/2000/01/rdf-schema#label> "National Transportation Safety Board" .
+<http://dbpedia.org/resource/National_Security_Agency> <http://www.w3.org/2000/01/rdf-schema#label> "National Security Agency" .
+<http://dbpedia.org/resource/Civil_Contingencies_Secretariat> <http://dbpedia.org/ontology/administrativeStatus> "administrative body" .
+<http://dbpedia.org/resource/Office_of_Strategic_Services> <http://www.w3.org/2000/01/rdf-schema#label> "Office of Strategic Services" .
+<http://dbpedia.org/resource/National_Transportation_Safety_Committee> <http://dbpedia.org/ontology/administrativeStatus> "government agency" .
+<http://dbpedia.org/resource/Civil_Contingencies_Secretariat> <http://www.w3.org/2000/01/rdf-schema#label> "Civil Contingencies Secretariat" .
+<http://dbpedia.org/resource/National_Security_Agency> <http://dbpedia.org/ontology/administrativeStatus> "abstract entity" .
+

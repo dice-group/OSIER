@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Jeffrey_Dahmer> <http://www.w3.org/2000/01/rdf-schema#label> "Jeffrey Dahmer" .
+<http://example.org/1609f218-9ed2-4eaf-9d86-7175bb088c24/AQl+Capoe> <http://www.w3.org/2000/01/rdf-schema#label> "AQl Capoe" .
+<http://dbpedia.org/resource/Patrick_Henry_affair> <http://www.w3.org/2000/01/rdf-schema#label> "Patrick Henry affair" .
+<http://dbpedia.org/resource/John_Duffy_and_David_Mulcahy> <http://www.w3.org/2000/01/rdf-schema#label> "John Duffy and David Mulcahy" .
+<http://dbpedia.org/resource/John_Walker_Lindh> <http://www.w3.org/2000/01/rdf-schema#label> "John Walker Lindh" .
+

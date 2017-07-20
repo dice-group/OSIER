@@ -1,0 +1,6 @@
+<http://example.org/de3b2b56-1abd-4fd1-a2d2-104f7603b119/Silicate+minerals> <http://www.w3.org/2000/01/rdf-schema#label> "Silicate minerals" .
+<http://example.org/de3b2b56-1abd-4fd1-a2d2-104f7603b119/nickel-base+alloy> <http://www.w3.org/2000/01/rdf-schema#label> "nickel-base alloy" .
+<http://example.org/de3b2b56-1abd-4fd1-a2d2-104f7603b119/physicHal+entiy> <http://www.w3.org/2000/01/rdf-schema#label> "physicHal entiy" .
+<http://example.org/de3b2b56-1abd-4fd1-a2d2-104f7603b119/mineral> <http://www.w3.org/2000/01/rdf-schema#label> "mineral" .
+<http://dbpedia.org/resource/Chemical_substance> <http://www.w3.org/2000/01/rdf-schema#label> "chemical substance" .
+

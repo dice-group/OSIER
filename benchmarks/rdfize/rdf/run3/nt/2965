@@ -1,0 +1,31 @@
+<http://dbpedia.org/resource/Hardy_Cross> <http://www.w3.org/2000/01/rdf-schema#label> "Hardy Cross" .
+<http://dbpedia.org/resource/Lester_George_Brookman> <http://www.w3.org/2000/01/rdf-schema#label> "Lester George Brookman" .
+<http://dbpedia.org/resource/Cyril_Lovesey> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Albert_Fink> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Joseph_Lstiburek> <http://dbpedia.org/ontology/person> "civil engineer" .
+<http://dbpedia.org/resource/Albert_Fink> <http://www.w3.org/2000/01/rdf-schema#label> "Albert Fink" .
+<http://dbpedia.org/resource/Edward_B_Ellington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/George_Matthew_McNaughton> <http://www.w3.org/2000/01/rdf-schema#label> "George Matthew McNaughton" .
+<http://dbpedia.org/resource/George_Matthew_McNaughton> <http://dbpedia.org/ontology/person> "civil engineer" .
+<http://dbpedia.org/resource/Hardy_Cross> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/George_Hughes_(engineer)> <http://dbpedia.org/ontology/person> "engineer" .
+<http://dbpedia.org/resource/Irwin_M._Heiman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Albert_Fink> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Lester_George_Brookman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/George_Hughes_(engineer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Joseph_Lstiburek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Edward_B_Ellington> <http://dbpedia.org/ontology/person> "animate thing" .
+<http://dbpedia.org/resource/Irwin_M._Heiman> <http://www.w3.org/2000/01/rdf-schema#label> "Irwin M. Heiman" .
+<http://dbpedia.org/resource/John_Edward_Thornycroft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Cyril_Lovesey> <http://www.w3.org/2000/01/rdf-schema#label> "Cyril Lovesey" .
+<http://dbpedia.org/resource/Irwin_M._Heiman> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/George_Matthew_McNaughton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Cyril_Lovesey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Hardy_Cross> <http://dbpedia.org/ontology/person> "engineer" .
+<http://dbpedia.org/resource/Lester_George_Brookman> <http://dbpedia.org/ontology/person> "human" .
+<http://dbpedia.org/resource/John_Edward_Thornycroft> <http://www.w3.org/2000/01/rdf-schema#label> "John Edward Thornycroft" .
+<http://dbpedia.org/resource/John_Edward_Thornycroft> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/George_Hughes_(engineer)> <http://www.w3.org/2000/01/rdf-schema#label> "George Hughes (engineer)" .
+<http://dbpedia.org/resource/Edward_B_Ellington> <http://www.w3.org/2000/01/rdf-schema#label> "Edward B. Ellington" .
+<http://dbpedia.org/resource/Joseph_Lstiburek> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Lstiburek" .
+

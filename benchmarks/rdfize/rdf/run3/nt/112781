@@ -1,0 +1,20 @@
+<http://dbpedia.org/resource/Kult_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Kult" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Backgammon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Task> .
+<http://dbpedia.org/resource/River_Chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Task> .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Illuminati%3A+New+World+Order> <http://www.w3.org/2000/01/rdf-schema#label> "Illuminati: New World Order" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Illuminati%3A+New+World+Order> <http://dbpedia.org/ontology/activity> "activity" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Kult+%28role-playing+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kult (role-playing game)" .
+<http://dbpedia.org/resource/Kult_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Task> .
+<http://dbpedia.org/resource/River_Chess> <http://www.w3.org/2000/01/rdf-schema#label> "Chess" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/%C3%89checs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Task> .
+<http://dbpedia.org/resource/River_Chess> <http://dbpedia.org/ontology/activity> "Thing" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Earthdawn> <http://www.w3.org/2000/01/rdf-schema#label> "Earthdawn" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Earthdawn> <http://dbpedia.org/ontology/activity> "activity" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Backgammon> <http://www.w3.org/2000/01/rdf-schema#label> "Backgammon" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Backgammon> <http://dbpedia.org/ontology/activity> "activity" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Illuminati%3A+New+World+Order> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Task> .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Kult+%28role-playing+game%29> <http://dbpedia.org/ontology/activity> "activity" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/%C3%89checs> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C9checs" .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Kult+%28role-playing+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Task> .
+<http://example.org/46079da1-400a-406d-aa7e-d527cb7bc84d/Earthdawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Task> .
+

@@ -1,0 +1,435 @@
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Centruroides+baergi> <http://www.w3.org/2000/01/rdf-schema#label> "Centruroides baergi" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+eludens> <http://www.w3.org/2000/01/rdf-schema#label> "Isoetes eludens" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Scaly+gurnard> <http://www.w3.org/2000/01/rdf-schema#label> "Scaly gurnard" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+basaltica> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas basaltica" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Hymenophyton+flabellatum> <http://www.w3.org/2000/01/rdf-schema#label> "Hymenophyton flabellatum" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chiloglanis+sp.+nov.+%27Kerio%27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Coprosma+repens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Rhombophryne+coudreaui> <http://www.w3.org/2000/01/rdf-schema#label> "Rhombophryne coudreaui" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Huperzia+crassa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Phelsuma+sundbergi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pyxis+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Pyxis (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tortula+acaulon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/O%27Donnell%27s+salamander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chitra+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Holcobius+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Holcobius simplex" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Phelsuma+sundbergi> <http://www.w3.org/2000/01/rdf-schema#label> "Phelsuma sundbergi" .
+<http://dbpedia.org/resource/Darley_Arabian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clavus+occiduus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+holoptera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Are+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Are (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Atractaspis+leucomelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Caleta+%28butterfly%29> <http://www.w3.org/2000/01/rdf-schema#label> "Caleta (butterfly)" .
+<http://dbpedia.org/resource/Gleneagles_Hotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+badensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+californica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lycopodiella+inundata> <http://www.w3.org/2000/01/rdf-schema#label> "Lycopodiella inundata" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Aglaomorpha+meyeniana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Epiphora+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Epiphora (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+melanospora> <http://www.w3.org/2000/01/rdf-schema#label> "Isoetes melanospora" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+sphaerica> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas sphaerica" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Gobiosoma+bosc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Marsupidium+epiphytum> <http://www.w3.org/2000/01/rdf-schema#label> "Marsupidium epiphytum" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+diplomera> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia diplomera" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ceratoxancus+basileus> <http://www.w3.org/2000/01/rdf-schema#label> "Ceratoxancus basileus" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Adiantum+edgeworthii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Buddleja+davidii+%27Lilac+Blue%27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Epiphora+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/GleneagNles+%28hors%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+howellii> <http://www.w3.org/2000/01/rdf-schema#label> "Isoetes howellii" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+pruinosa> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas pruinosa" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Osiris+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cyathea+glauca> <http://www.w3.org/2000/01/rdf-schema#label> "Cyathea glauca" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Coprosma+repens> <http://www.w3.org/2000/01/rdf-schema#label> "Coprosma repens" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tub+gurnard> <http://www.w3.org/2000/01/rdf-schema#label> "Tub gurnard" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+arenicola> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas arenicola" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Amblyseius+begljarovi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Metasia+albula> <http://www.w3.org/2000/01/rdf-schema#label> "Metasia albula" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Diphasiastrum+%C3%97+sabinifolium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Physalaemus+cuvieri> <http://www.w3.org/2000/01/rdf-schema#label> "Physalaemus cuvieri" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chitra+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chitra (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+arenicola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Acrodipsas+cuprea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ortley+%28apple%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ortley (apple)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Kalmia+microphylla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Calcarovula+gracillima> <http://www.w3.org/2000/01/rdf-schema#label> "Calcarovula gracillima" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Gobiosoma+bosc> <http://www.w3.org/2000/01/rdf-schema#label> "Gobiosoma bosc" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Osiris+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Osiris (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+brunnea> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas brunnea" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cyathea+glauca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Fuchsia+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fuchsia (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pallid+spiny+softshell+turtle> <http://www.w3.org/2000/01/rdf-schema#label> "Pallid spiny softshell turtle" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Panna+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Panna (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Kalinga+ornata> <http://www.w3.org/2000/01/rdf-schema#label> "Kalinga ornata" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+plana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+crassifolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macozamia+Bdyeri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pallid+spiny+softshell+turtle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lycopodium+deuterodensum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chilo+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Bentfin+devil+ray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Dawsonia+longifolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Dors+%28hoverfWly%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+douglasii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+frustillata> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra frustillata" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/TMyphlops+reteri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pteria+X%28gens%29> <http://www.w3.org/2000/01/rdf-schema#label> "Pteria X(gens)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lycopodium+dendroideum> <http://www.w3.org/2000/01/rdf-schema#label> "Lycopodium dendroideum" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Coprosma+tenuifolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+arnhemica> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas arnhemica" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Fabula+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+elmeri> <http://www.w3.org/2000/01/rdf-schema#label> "Selaginella elmeri" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Green+Hungarian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/MacoHzadmia+longisina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+densa> <http://www.w3.org/2000/01/rdf-schema#label> "Selaginella densa" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Helicteres+isora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Emir+%28grape%29> <http://www.w3.org/2000/01/rdf-schema#label> "Emir (grape)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Bathybuccinum+yadai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Centruroides+ornatus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Galeana+%28oJth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Yellow-brown+wrasse> <http://www.w3.org/2000/01/rdf-schema#label> "Yellow-brown wrasse" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Compsodrillia+opaca> <http://www.w3.org/2000/01/rdf-schema#label> "Compsodrillia opaca" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Serrata+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Favorita+%28grape%29> <http://www.w3.org/2000/01/rdf-schema#label> "Favorita (grape)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Madrean+lligatomr+Elzard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Scaly+gurnard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Angela+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Angela (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pila+%28gastropod%29> <http://www.w3.org/2000/01/rdf-schema#label> "Pila (gastropod)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Whiptail+catfish> <http://www.w3.org/2000/01/rdf-schema#label> "Whiptail catfish" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clypeomorus+adunca> <http://www.w3.org/2000/01/rdf-schema#label> "Clypeomorus adunca" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chaco+socos> <http://www.w3.org/2000/01/rdf-schema#label> "Chaco socos" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+badensis> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas badensis" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Gomora+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gomora (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Asian+narrow-headed+softshell+turtle> <http://www.w3.org/2000/01/rdf-schema#label> "Asian narrow-headed softshell turtle" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clampa+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clampa (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Green+and+black+poison+dart+frog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Luria+%28gastropod%29> <http://www.w3.org/2000/01/rdf-schema#label> "Luria (gastropod)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Typhlops+schwartzi> <http://www.w3.org/2000/01/rdf-schema#label> "Typhlops schwartzi" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macozamia+Bdyeri> <http://www.w3.org/2000/01/rdf-schema#label> "Macozamia Bdyeri" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+valida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+douglasii> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia douglasii" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Albana+%28grape%29> <http://www.w3.org/2000/01/rdf-schema#label> "Albana (grape)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Typhlops+schwartzi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cyathea+subg.+Cyathea> <http://www.w3.org/2000/01/rdf-schema#label> "Cyathea subg. Cyathea" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Rhombophryne+coudreaui> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/TMyphlops+reteri> <http://www.w3.org/2000/01/rdf-schema#label> "TMyphlops reteri" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+holoptera> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra holoptera" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Are+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Serrata+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Serrata simplex" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Orocrambus+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Orocrambus simplex" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Microhyla+erythropoda> <http://www.w3.org/2000/01/rdf-schema#label> "Microhyla erythropoda" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Babelomurex+purpuraterminus> <http://www.w3.org/2000/01/rdf-schema#label> "Babelomurex purpuraterminus" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Rhinophis+erangaviraji> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Pixar> <http://www.w3.org/2000/01/rdf-schema#label> "Newt" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/O%27Donnell%27s+salamander> <http://www.w3.org/2000/01/rdf-schema#label> "O'Donnell's salamander" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clara+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clara (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tayloria+acuminata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/GleneagNles+%28hors%29> <http://www.w3.org/2000/01/rdf-schema#label> "GleneagNles (hors)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Marsupidium+epiphytum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+maritima> <http://www.w3.org/2000/01/rdf-schema#label> "Isoetes maritima" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Berosus+%28beetle%29> <http://www.w3.org/2000/01/rdf-schema#label> "Berosus (beetle)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Sukashitrochus+morleti> <http://www.w3.org/2000/01/rdf-schema#label> "Sukashitrochus morleti" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Requiem+shark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clara+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Froggtt%27s+cactfish> <http://www.w3.org/2000/01/rdf-schema#label> "Froggtt's cactfish" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Orocrambus+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+uncinata> <http://www.w3.org/2000/01/rdf-schema#label> "Selaginella uncinata" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+selginotdWes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/CWallergon+giganteum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Machimia+albula> <http://www.w3.org/2000/01/rdf-schema#label> "Machimia albula" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tayloria+nVealensis> <http://www.w3.org/2000/01/rdf-schema#label> "Tayloria nVealensis" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+valida> <http://www.w3.org/2000/01/rdf-schema#label> "Isoetes valida" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chilo+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chilo (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+californica> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra californica" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+cranei> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia cranei" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Doros+%28hoverfly%29> <http://www.w3.org/2000/01/rdf-schema#label> "Doros (hoverfly)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Manga+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Manga (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Adiantum+edgeworthii> <http://www.w3.org/2000/01/rdf-schema#label> "Adiantum edgeworthii" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tub+gurnard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Galeana+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Galeana (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clavus+occiduus> <http://www.w3.org/2000/01/rdf-schema#label> "Clavus occiduus" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Anonychomyrma+froggatti> <http://www.w3.org/2000/01/rdf-schema#label> "Anonychomyrma froggatti" .
+<http://dbpedia.org/resource/Pixar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+aspera> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra aspera" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+intermedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Spotted+gurnard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Weymouthia+%28plant%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Doros+%28hoverfly%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Devon+Ditty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+intermedia> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra intermedia" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Mavia+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mavia (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lithium+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lithium (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pvepta+simplx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Telstar+%28apple%29> <http://www.w3.org/2000/01/rdf-schema#label> "Telstar (apple)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Caleta+decidia> <http://www.w3.org/2000/01/rdf-schema#label> "Caleta decidia" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Huperzia+crassa> <http://www.w3.org/2000/01/rdf-schema#label> "Huperzia crassa" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tortula+acaulon> <http://www.w3.org/2000/01/rdf-schema#label> "Tortula acaulon" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+crassifolia> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia crassifolia" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lycopodiella+cernua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Typhlops+reuteri> <http://www.w3.org/2000/01/rdf-schema#label> "Typhlops reuteri" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Panna+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+sphaerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Fania+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pvepta+simplx> <http://www.w3.org/2000/01/rdf-schema#label> "Pvepta simplx" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+basaltica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Small-scaled+burrowing+asp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Lilium_'Stargazer'> <http://www.w3.org/2000/01/rdf-schema#label> "Stargazer (fish)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lepidotrigla+pleuracanthica> <http://www.w3.org/2000/01/rdf-schema#label> "Lepidotrigla pleuracanthica" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+maritima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Suwannee+cooter> <http://www.w3.org/2000/01/rdf-schema#label> "Suwannee cooter" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ginevra+%28horse%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Fire-bellied+toad> <http://www.w3.org/2000/01/rdf-schema#label> "Fire-bellied toad" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+flexuosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ptropedetes+nataVtor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+przewalskii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+kraussiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Gecko_(theatre_company)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Berosus+%28beetle%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chrysallida+sixtoi> <http://www.w3.org/2000/01/rdf-schema#label> "Chrysallida sixtoi" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lithium+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Caleta+decidia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+gerardiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+cardiacensis> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia cardiacensis" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Misa+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Misa (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Diphasiastrum+alpinum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clanwilliam+sandfish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Arima+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Suchodus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Babelomurex+spinosus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+eludens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Agave+shrevei> <http://www.w3.org/2000/01/rdf-schema#label> "Agave shrevei" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+heteromera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Blanus+mariae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+miquelii> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia miquelii" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+cutleri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Gomora+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Froggtt%27s+cactfish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tropidophis+wrighti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+kraussiana> <http://www.w3.org/2000/01/rdf-schema#label> "Selaginella kraussiana" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Small-scaled+burrowing+asp> <http://www.w3.org/2000/01/rdf-schema#label> "Small-scaled burrowing asp" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/BerosOus+%28betle%29> <http://www.w3.org/2000/01/rdf-schema#label> "BerosOus (betle)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clypeomorus+adunca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Darley_Arabian> <http://www.w3.org/2000/01/rdf-schema#label> "Darley Arabian" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Nepa+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Amblyseius+begljarovi> <http://www.w3.org/2000/01/rdf-schema#label> "Amblyseius begljarovi" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+parcifolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Afxrotypyhop+schlegelii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ciampa+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clampa+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Diphasiastrum+%C3%97+sabinifolium> <http://www.w3.org/2000/01/rdf-schema#label> "Diphasiastrum \u00D7 sabinifolium" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Centruroides+baergi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Calcarovula+gracillima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tropidophis+wrighti> <http://www.w3.org/2000/01/rdf-schema#label> "Tropidophis wrighti" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+sibirica> <http://www.w3.org/2000/01/rdf-schema#label> "Selaginella sibirica" .
+<http://dbpedia.org/resource/Gecko_(theatre_company)> <http://www.w3.org/2000/01/rdf-schema#label> "Gecko" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Whiptail+catfish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Luria+%28gastropod%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+cutleri> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra cutleri" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Diphasiastrum+complanatum> <http://www.w3.org/2000/01/rdf-schema#label> "Diphasiastrum complanatum" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Compsodrillia+opaca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Green+Hungarian> <http://www.w3.org/2000/01/rdf-schema#label> "Green Hungarian" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Maluma+%28avocado%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycloramphus+carvalhoi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Southern+sandfish> <http://www.w3.org/2000/01/rdf-schema#label> "Southern sandfish" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+canalis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Galeana+%28oJth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Galeana (oJth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Gila+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+tegetiformans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+calcicola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Devon+Ditty> <http://www.w3.org/2000/01/rdf-schema#label> "Devon Ditty" .
+<http://dbpedia.org/resource/Gleneagles_Hotel> <http://www.w3.org/2000/01/rdf-schema#label> "Gleneagles (horse)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Favorita+%28grape%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Caleta+%28butterfly%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+elmeri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Blanus+mariae> <http://www.w3.org/2000/01/rdf-schema#label> "Blanus mariae" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Coleophora+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Winx+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Winx (horse)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/CWallergon+giganteum> <http://www.w3.org/2000/01/rdf-schema#label> "CWallergon giganteum" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Conga+%28skipper%29> <http://www.w3.org/2000/01/rdf-schema#label> "Conga (skipper)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Odontophryn+carvalhoXFi> <http://www.w3.org/2000/01/rdf-schema#label> "Odontophryn carvalhoXFi" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Mormon+cricket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cyathea+subg.+Cyathea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selar+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Selar (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Manga+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pila+%28gastropod%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Evia+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Maluma+%28avocado%29> <http://www.w3.org/2000/01/rdf-schema#label> "Maluma (avocado)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Holcobius+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+erythropus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cyrtodactylus+ramboda> <http://www.w3.org/2000/01/rdf-schema#label> "Cyrtodactylus ramboda" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+antisyphilitica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Aurima+%28gens%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Blue+moon+danio> <http://www.w3.org/2000/01/rdf-schema#label> "Blue moon danio" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ptropedetes+nataVtor> <http://www.w3.org/2000/01/rdf-schema#label> "Ptropedetes nataVtor" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Andreaea+regularis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Andreaea+regularis> <http://www.w3.org/2000/01/rdf-schema#label> "Andreaea regularis" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+nuttallii> <http://www.w3.org/2000/01/rdf-schema#label> "Isoetes nuttallii" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ciampa+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ciampa (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+miquelii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Mongolicosa+gobiensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Suwannee+cooter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selene+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Selene (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+diplomera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Friesia+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Friesia (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lycopodium+dendroideum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selene+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+parcifolia> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia parcifolia" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Dors+%28hoverfWly%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dors (hoverfWly)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Natica+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+caroliniana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Bentfin+devil+ray> <http://www.w3.org/2000/01/rdf-schema#label> "Bentfin devil ray" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+erythropus> <http://www.w3.org/2000/01/rdf-schema#label> "Selaginella erythropus" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+frustillata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Centruroides+ornatus> <http://www.w3.org/2000/01/rdf-schema#label> "Centruroides ornatus" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pyxis+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+arnhemica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Mavia+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+pruinosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Odontophryn+carvalhoXFi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Phasianella+solida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chrysallida+sixtoi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Anu+%28fly%29> <http://www.w3.org/2000/01/rdf-schema#label> "Anu (fly)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Luca+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Luca (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Angela+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+platyphylla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Kalinga+ornata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Damas+%28skipper%29> <http://www.w3.org/2000/01/rdf-schema#label> "Damas (skipper)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+selginotdWes> <http://www.w3.org/2000/01/rdf-schema#label> "Selaginella selginotdWes" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selar+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Anu+%28fly%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Gila+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gila (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Aricia+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Aricia (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+asprella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Madrean+lligatomr+Elzard> <http://www.w3.org/2000/01/rdf-schema#label> "Madrean lligatomr Elzard" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Inga+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Winx+%28horse%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Box+ray> <http://www.w3.org/2000/01/rdf-schema#label> "Box ray" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+platyphylla> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas platyphylla" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cacum+coojperi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+stenomera> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia stenomera" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Physalaemus+cuvieri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Microhyla+erythropoda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chaco+socos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+melanospora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+pauli-guilielmi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Helicteres+isora> <http://www.w3.org/2000/01/rdf-schema#label> "Helicteres isora" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Fuchsia+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cacum+coojperi> <http://www.w3.org/2000/01/rdf-schema#label> "Cacum coojperi" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Typhlops+reuteri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Telstar+%28apple%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Box+ray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Inga+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Inga (moth)" .
+<http://dbpedia.org/resource/Lilium_'Stargazer'> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+aspera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Misa+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cyrtopodion+amictopholis> <http://www.w3.org/2000/01/rdf-schema#label> "Cyrtopodion amictopholis" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Friesia+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Atractaspis+leucomelas> <http://www.w3.org/2000/01/rdf-schema#label> "Atractaspis leucomelas" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/BerosOus+%28betle%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Babelomurex+spinosus> <http://www.w3.org/2000/01/rdf-schema#label> "Babelomurex spinosus" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Galba+%28gastropod%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lepidotrigla+pleuracanthica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+flexuosa> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia flexuosa" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Fire-bellied+toad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ortley+%28apple%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+plana> <http://www.w3.org/2000/01/rdf-schema#label> "Selaginella plana" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+calcicola> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas calcicola" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Indo+%28apple%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Sukashitrochus+morleti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Kalmia+microphylla> <http://www.w3.org/2000/01/rdf-schema#label> "Kalmia microphylla" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cyrtodactylus+ramboda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Weymouthia+%28plant%29> <http://www.w3.org/2000/01/rdf-schema#label> "Weymouthia (plant)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+antisyphilitica> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra antisyphilitica" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ceratoxancus+basileus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Conga+%28skipper%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lycopodiella+inundata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+fearnsidei> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia fearnsidei" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Equisetum+laevigatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chelodina+walloyarrina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Metasia+albula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Anonychomyrma+froggatti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+canalis> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas canalis" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Coprosma+tenuifolia> <http://www.w3.org/2000/01/rdf-schema#label> "Coprosma tenuifolia" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Hymenophyton+flabellatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Galeana+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Yellow-brown+wrasse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Pteria+X%28gens%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tayloria+acuminata> <http://www.w3.org/2000/01/rdf-schema#label> "Tayloria acuminata" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ginevra+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ginevra (horse)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/MacoHzadmia+longisina> <http://www.w3.org/2000/01/rdf-schema#label> "MacoHzadmia longisina" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Aglaomorpha+meyeniana> <http://www.w3.org/2000/01/rdf-schema#label> "Aglaomorpha meyeniana" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lycopodium+deuterodensum> <http://www.w3.org/2000/01/rdf-schema#label> "Lycopodium deuterodensum" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Equisetum+laevigatum> <http://www.w3.org/2000/01/rdf-schema#label> "Equisetum laevigatum" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Fabula+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fabula (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chiloglanis+sp.+nov.+%27Kerio%27> <http://www.w3.org/2000/01/rdf-schema#label> "Chiloglanis sp. nov. 'Kerio'" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Natica+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Natica simplex" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Buddleja+davidii+%27Lilac+Blue%27> <http://www.w3.org/2000/01/rdf-schema#label> "Buddleja davidii 'Lilac Blue'" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Bathybuccinum+yadai> <http://www.w3.org/2000/01/rdf-schema#label> "Bathybuccinum yadai" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Nepa+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Nepa (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Rhinophis+erangaviraji> <http://www.w3.org/2000/01/rdf-schema#label> "Rhinophis erangaviraji" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Luca+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Suchodus> <http://www.w3.org/2000/01/rdf-schema#label> "Suchodus" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Lycopodiella+cernua> <http://www.w3.org/2000/01/rdf-schema#label> "Lycopodiella cernua" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/RebouNli+hemisphQarica> <http://www.w3.org/2000/01/rdf-schema#label> "RebouNli hemisphQarica" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Southern+sandfish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Babelomurex+purpuraterminus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+stenomera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+przewalskii> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra przewalskii" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+asprella> <http://www.w3.org/2000/01/rdf-schema#label> "Selaginella asprella" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Spotted+gurnard> <http://www.w3.org/2000/01/rdf-schema#label> "Spotted gurnard" .
+<http://dbpedia.org/resource/Flint_corn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Dawsonia+longifolia> <http://www.w3.org/2000/01/rdf-schema#label> "Dawsonia longifolia" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Dianella+%28beetle%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dianella (beetle)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+alata> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra alata" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Damas+%28skipper%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cyrtopodion+amictopholis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Machimia+albula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+caroliniana> <http://www.w3.org/2000/01/rdf-schema#label> "Isoetes caroliniana" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+howellii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Galba+%28gastropod%29> <http://www.w3.org/2000/01/rdf-schema#label> "Galba (gastropod)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Aurima+%28gens%29> <http://www.w3.org/2000/01/rdf-schema#label> "Aurima (gens)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Indo+%28apple%29> <http://www.w3.org/2000/01/rdf-schema#label> "Indo (apple)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+pauli-guilielmi> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia pauli-guilielmi" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+heteromera> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia heteromera" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycas+brunnea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Emir+%28grape%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Aricia+%28genus%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Arima+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Arima (genus)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+nuttallii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Diphasiastrum+alpinum> <http://www.w3.org/2000/01/rdf-schema#label> "Diphasiastrum alpinum" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Phasianella+solida> <http://www.w3.org/2000/01/rdf-schema#label> "Phasianella solida" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+cardiacensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+densa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Tayloria+nVealensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Agave+shrevei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Fania+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fania (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+montana> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia montana" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Limonia+%28fly%29> <http://www.w3.org/2000/01/rdf-schema#label> "Limonia (fly)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+fearnsidei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Clanwilliam+sandfish> <http://www.w3.org/2000/01/rdf-schema#label> "Clanwilliam sandfish" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Limonia+%28fly%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Asian+narrow-headed+softshell+turtle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Coleophora+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Coleophora simplex" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Isoetes+tegetiformans> <http://www.w3.org/2000/01/rdf-schema#label> "Isoetes tegetiformans" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Green+and+black+poison+dart+frog> <http://www.w3.org/2000/01/rdf-schema#label> "Green and black poison dart frog" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Chelodina+walloyarrina> <http://www.w3.org/2000/01/rdf-schema#label> "Chelodina walloyarrina" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Requiem+shark> <http://www.w3.org/2000/01/rdf-schema#label> "Requiem shark" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/RebouNli+hemisphQarica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Blue+moon+danio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+alata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Cycloramphus+carvalhoi> <http://www.w3.org/2000/01/rdf-schema#label> "Cycloramphus carvalhoi" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+sibirica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Macrozamia+cranei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Selaginella+uncinata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Albana+%28grape%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Flint_corn> <http://www.w3.org/2000/01/rdf-schema#label> "Flint corn" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Afxrotypyhop+schlegelii> <http://www.w3.org/2000/01/rdf-schema#label> "Afxrotypyhop schlegelii" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Mongolicosa+gobiensis> <http://www.w3.org/2000/01/rdf-schema#label> "Mongolicosa gobiensis" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Acrodipsas+cuprea> <http://www.w3.org/2000/01/rdf-schema#label> "Acrodipsas cuprea" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Ephedra+gerardiana> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra gerardiana" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Mormon+cricket> <http://www.w3.org/2000/01/rdf-schema#label> "Mormon cricket" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Dianella+%28beetle%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Evia+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Evia (moth)" .
+<http://example.org/3c583a0a-27f6-45ce-b074-19cf9af603b9/Diphasiastrum+complanatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+

@@ -1,0 +1,44 @@
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/ZNF184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Multiple+Epidermal+Growth+Factor-like+Domains+8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/WWC2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/TransTembrne+protWein+134> <http://www.w3.org/2000/01/rdf-schema#label> "TransTembrne protWein 134" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Chromosome+6+open+reading+frame+165> <http://www.w3.org/2000/01/rdf-schema#label> "Chromosome 6 open reading frame 165" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Ansar+Youth+Project> <http://www.w3.org/2000/01/rdf-schema#label> "Ansar Youth Project" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Chromosome+6+open+reading+frame+165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Carnitine+palmitoyltransferase+I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://dbpedia.org/resource/Coiled-Coil_Domain_Containing_Protein_%E2%80%93_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Multiple+Epidermal+Growth+Factor-like+Domains+8> <http://www.w3.org/2000/01/rdf-schema#label> "Multiple Epidermal Growth Factor-like Domains 8" .
+<http://dbpedia.org/resource/C9orf156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/WWC2> <http://www.w3.org/2000/01/rdf-schema#label> "WWC2" .
+<http://dbpedia.org/resource/Transmembrane_protein> <http://www.w3.org/2000/01/rdf-schema#label> "Transmembrane Protein 205" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/NDUFA11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/NDUFA7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://dbpedia.org/resource/Creativity,_Culture_and_Education> <http://www.w3.org/2000/01/rdf-schema#label> "Creativity, Culture and Education" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Carnitine+palmitoyltransferase+I> <http://www.w3.org/2000/01/rdf-schema#label> "Carnitine palmitoyltransferase I" .
+<http://dbpedia.org/resource/Coiled-Coil_Domain_Containing_Protein_%E2%80%93_25> <http://www.w3.org/2000/01/rdf-schema#label> "Coiled-Coil Domain Containing protein 82" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/MT-ND5> <http://www.w3.org/2000/01/rdf-schema#label> "MT-ND5" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/FrXee+Congres+FoundaioBn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/IFFO1> <http://www.w3.org/2000/01/rdf-schema#label> "IFFO1" .
+<http://dbpedia.org/resource/American_Society_for_the_Defense_of_Tradition,_Family_and_Property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://dbpedia.org/resource/AIDS_Project_Los_Angeles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://dbpedia.org/resource/Transmembrane_protein> <http://www.w3.org/2000/01/rdf-schema#label> "Transmembrane protein 134" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Fam78b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/IFFO1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://dbpedia.org/resource/AIDS_Project_Los_Angeles> <http://www.w3.org/2000/01/rdf-schema#label> "AIDS Project Los Angeles" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/MT-ND5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/NDUFA11> <http://www.w3.org/2000/01/rdf-schema#label> "NDUFA11" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/ZNF184> <http://www.w3.org/2000/01/rdf-schema#label> "ZNF184" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/NDUFA7> <http://www.w3.org/2000/01/rdf-schema#label> "NDUFA7" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/IFVO1> <http://www.w3.org/2000/01/rdf-schema#label> "IFVO1" .
+<http://dbpedia.org/resource/Creativity,_Culture_and_Education> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://dbpedia.org/resource/C9orf156> <http://www.w3.org/2000/01/rdf-schema#label> "C9orf152" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/FrXee+Congres+FoundaioBn> <http://www.w3.org/2000/01/rdf-schema#label> "FrXee Congres FoundaioBn" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/NDUFB4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/IFVO1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/NDUFB4> <http://www.w3.org/2000/01/rdf-schema#label> "NDUFB4" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Fam78b> <http://www.w3.org/2000/01/rdf-schema#label> "Fam78b" .
+<http://dbpedia.org/resource/Transmembrane_protein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://dbpedia.org/resource/American_Society_for_the_Defense_of_Tradition,_Family_and_Property> <http://www.w3.org/2000/01/rdf-schema#label> "American Society for the Defense of Tradition, Family and Property" .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/TransTembrne+protWein+134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+<http://example.org/69bdd759-e7a9-47cb-9311-f0e75ff5fe89/Ansar+Youth+Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Coiled_Coil_Annotation> .
+

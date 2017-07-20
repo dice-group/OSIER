@@ -1,0 +1,25 @@
+<http://dbpedia.org/resource/George_Allen_(ice_hockey)> <http://dbpedia.org/ontology/sport> "winter sport Player" .
+<http://dbpedia.org/resource/Michelle_Kwan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/George_Allen_(ice_hockey)> <http://www.w3.org/2000/01/rdf-schema#label> "George Allen (ice hockey)" .
+<http://dbpedia.org/resource/Mario_Lemieux> <http://www.w3.org/2000/01/rdf-schema#label> "Mario Lemieux" .
+<http://dbpedia.org/resource/Michelle_Kwan> <http://dbpedia.org/ontology/sport> "athlete" .
+<http://dbpedia.org/resource/Garnet_Malley> <http://dbpedia.org/ontology/sport> "athlete" .
+<http://dbpedia.org/resource/Pernilla_Winberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Michelle_Kwan> <http://www.w3.org/2000/01/rdf-schema#label> "Michelle Kwan" .
+<http://dbpedia.org/resource/Mario_Lemieux> <http://dbpedia.org/ontology/sport> "NaturalPerson" .
+<http://dbpedia.org/resource/Gordie_Howe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Bernie_Fedderly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Garnet_Malley> <http://www.w3.org/2000/01/rdf-schema#label> "Garnet Bailey" .
+<http://dbpedia.org/resource/Kristi_Yamaguchi> <http://dbpedia.org/ontology/sport> "agent" .
+<http://dbpedia.org/resource/Pernilla_Winberg> <http://dbpedia.org/ontology/sport> "grownup" .
+<http://dbpedia.org/resource/Mario_Lemieux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Kristi_Yamaguchi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Bernie_Fedderly> <http://www.w3.org/2000/01/rdf-schema#label> "Bernie Federko" .
+<http://dbpedia.org/resource/Gordie_Howe> <http://dbpedia.org/ontology/sport> "person" .
+<http://dbpedia.org/resource/George_Allen_(ice_hockey)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Garnet_Malley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Kristi_Yamaguchi> <http://www.w3.org/2000/01/rdf-schema#label> "Kristi Yamaguchi" .
+<http://dbpedia.org/resource/Bernie_Fedderly> <http://dbpedia.org/ontology/sport> "winter sport Player" .
+<http://dbpedia.org/resource/Pernilla_Winberg> <http://www.w3.org/2000/01/rdf-schema#label> "Pernilla Wiberg" .
+<http://dbpedia.org/resource/Gordie_Howe> <http://www.w3.org/2000/01/rdf-schema#label> "Gordie Howe" .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Annals_of_Mathematics> <http://dbpedia.org/ontology/notableWork> "periodical literature" .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/ontology/notableWork> "book" .
+<http://dbpedia.org/resource/Annals_of_Mathematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Animalia_(book)> <http://www.w3.org/2000/01/rdf-schema#label> "Animalia (book)" .
+<http://example.org/d24a25bb-1796-4a07-a529-5062a2d22862/Americra+thveBeautiul> <http://dbpedia.org/ontology/notableWork> "CreativeWdrk" .
+<http://dbpedia.org/resource/Ally_McBeal_(character)> <http://www.w3.org/2000/01/rdf-schema#label> "Ally McBeal" .
+<http://dbpedia.org/resource/Animal_Farm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Animal_Farm> <http://www.w3.org/2000/01/rdf-schema#label> "Animal Farm" .
+<http://dbpedia.org/resource/Animalia_(book)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Annals_of_Mathematics> <http://www.w3.org/2000/01/rdf-schema#label> "Annals of Mathematics" .
+<http://dbpedia.org/resource/Ally_McBeal_(character)> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/notableWork> "fable" .
+<http://dbpedia.org/resource/Ally_McBeal_(character)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/d24a25bb-1796-4a07-a529-5062a2d22862/Americra+thveBeautiul> <http://www.w3.org/2000/01/rdf-schema#label> "Americra thveBeautiul" .
+<http://example.org/d24a25bb-1796-4a07-a529-5062a2d22862/Americra+thveBeautiul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+

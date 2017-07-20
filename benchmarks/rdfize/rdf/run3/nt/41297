@@ -1,0 +1,16 @@
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/BRM+Argos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lemon-model.net/lemon#Form> .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/BRM+Argos> <http://www.w3.org/2000/01/rdf-schema#label> "BRM Argos" .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Bautek+Sunrise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lemon-model.net/lemon#Form> .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Beechcraft+Model+18> <http://dbpedia.org/ontology/aircraftType> "Thing" .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Bakeng+Deuce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lemon-model.net/lemon#Form> .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/BRM+Argos> <http://dbpedia.org/ontology/aircraftType> "aircraft" .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Bakeng+Deuce> <http://dbpedia.org/ontology/aircraftType> "construct" .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Bautek+Sunrise> <http://dbpedia.org/ontology/aircraftType> "form" .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Beechcraft+Baron> <http://dbpedia.org/ontology/aircraftType> "physical entity" .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Beechcraft+Model+18> <http://www.w3.org/2000/01/rdf-schema#label> "Beechcraft Model 18" .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Beechcraft+Baron> <http://www.w3.org/2000/01/rdf-schema#label> "Beechcraft Baron" .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Beechcraft+Baron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lemon-model.net/lemon#Form> .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Beechcraft+Model+18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://lemon-model.net/lemon#Form> .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Bakeng+Deuce> <http://www.w3.org/2000/01/rdf-schema#label> "Bakeng Deuce" .
+<http://example.org/98584469-feaa-437e-b23c-114fb96bfe9e/Bautek+Sunrise> <http://www.w3.org/2000/01/rdf-schema#label> "Bautek Sunrise" .
+

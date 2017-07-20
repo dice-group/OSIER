@@ -1,0 +1,31 @@
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__4> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__4" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/Kobo+eReader> <http://www.w3.org/2000/01/rdf-schema#label> "Kobo eReader" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/AIM-120+AMRAAM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/AGM-88+HARM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/Acorn+Electron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BangaFlore+orpedo> <http://www.w3.org/2000/01/rdf-schema#label> "BangaFlore orpedo" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/AIM-54+Phoenix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/AGM-65+Maverick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/Pebbe+%28watchR%29> <http://www.w3.org/2000/01/rdf-schema#label> "Pebbe (watchR)" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/AIM-120+AMRAAM> <http://www.w3.org/2000/01/rdf-schema#label> "AIM-120 AMRAAM" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/IPod+Mini> <http://www.w3.org/2000/01/rdf-schema#label> "IPod Mini" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/Comx-35> <http://www.w3.org/2000/01/rdf-schema#label> "Comx-35" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/AIM-54+Phoenix> <http://www.w3.org/2000/01/rdf-schema#label> "AIM-54 Phoenix" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/Kobo+eReader> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/Pebbe+%28watchR%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__5> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__5" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__2> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__2" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/AGM-65+Maverick> <http://www.w3.org/2000/01/rdf-schema#label> "AGM-65 Maverick" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__6> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__6" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/AGM-88+HARM> <http://www.w3.org/2000/01/rdf-schema#label> "AGM-88 HARM" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/IPod+Mini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/Comx-35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__3> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__3" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/Acorn+Electron> <http://www.w3.org/2000/01/rdf-schema#label> "Acorn Electron" .
+<http://example.org/7f32af86-7f5b-472b-a870-7297ef45d660/BangaFlore+orpedo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_000956> .
+

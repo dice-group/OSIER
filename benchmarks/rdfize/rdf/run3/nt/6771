@@ -1,0 +1,16 @@
+<http://example.org/a8377c7c-d238-4fe0-a1f9-83e19635b7e1/Wmen%27sProfessiGoneal+Soccer> <http://www.w3.org/2000/01/rdf-schema#label> "Wmen'sProfessiGoneal Soccer" .
+<http://dbpedia.org/resource/Bulgarian_A_Football_Group> <http://www.w3.org/2000/01/rdf-schema#label> "Bulgarian A Football Group" .
+<http://dbpedia.org/resource/Belarusian_First_League> <http://www.w3.org/2000/01/rdf-schema#label> "Belarusian First League" .
+<http://dbpedia.org/resource/Belarusian_First_League> <http://dbpedia.org/ontology/league> "football league" .
+<http://dbpedia.org/resource/Toto_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Club> .
+<http://dbpedia.org/resource/Toto_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Toto Cup" .
+<http://example.org/a8377c7c-d238-4fe0-a1f9-83e19635b7e1/Wmen%27sProfessiGoneal+Soccer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Club> .
+<http://example.org/a8377c7c-d238-4fe0-a1f9-83e19635b7e1/Wmen%27sProfessiGoneal+Soccer> <http://dbpedia.org/ontology/league> "sports leagau" .
+<http://dbpedia.org/resource/Bulgarian_A_Football_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Club> .
+<http://dbpedia.org/resource/Toto_Cup> <http://dbpedia.org/ontology/league> "soccer league" .
+<http://dbpedia.org/resource/Belarusian_First_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Club> .
+<http://dbpedia.org/resource/Bulgarian_A_Football_Group> <http://dbpedia.org/ontology/league> "association" .
+<http://dbpedia.org/resource/Northern_Territory_Football_Club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Club> .
+<http://dbpedia.org/resource/Northern_Territory_Football_Club> <http://www.w3.org/2000/01/rdf-schema#label> "Northern Territory Football League" .
+<http://dbpedia.org/resource/Northern_Territory_Football_Club> <http://dbpedia.org/ontology/league> "association" .
+

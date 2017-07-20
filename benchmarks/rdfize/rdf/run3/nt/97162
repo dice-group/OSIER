@@ -1,0 +1,106 @@
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+sinica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Gnetum+macrostachyum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cycas+Ycainsiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+boelckei> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+acerosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+reducta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ophioglossum+pusillum> <http://www.w3.org/2000/01/rdf-schema#label> "Ophioglossum pusillum" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cyathea+ledermannii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+lomandroides> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia lomandroides" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+multiflora> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Arbois+%28grape%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ophioglossum+pusillum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+foliata> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra foliata" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+strobilacea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+rigida> <http://www.w3.org/2000/01/rdf-schema#label> "Coprosma rigida" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+lomandroides> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Albana+%28grape%29> <http://www.w3.org/2000/01/rdf-schema#label> "Albana (grape)" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+viridis> <http://dbpedia.org/ontology/species> "Gnetophytes" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cyathea+ledermannii> <http://dbpedia.org/ontology/species> "Thing" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Gnetum+cleistostachyum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+boelckei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Humagne+Blanche> <http://www.w3.org/2000/01/rdf-schema#label> "Humagne Blanche" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+torreyana> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+lomatolepis> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+plurinervia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+multiflora> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra multiflora" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Humagne+Blanche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Sorghastrum+secundum> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Gnetum+macrostachyum> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cyathea+kanehirae> <http://dbpedia.org/ontology/species> "Fern" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+fasciculata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+fasciculata> <http://dbpedia.org/ontology/species> "Thing" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+trifurca> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Albana+%28grape%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+boelckei> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra boelckei" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cornalin+d%27Aoste> <http://dbpedia.org/ontology/species> "grouping" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cycas+Ycainsiana> <http://dbpedia.org/ontology/species> "paqnt" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+lomandroides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+parviflora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+plurinervia> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia plurinervia" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+acerosa> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+trifurca> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra trifurca" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Woodwardia+unigemmata> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cyathea+kanehirae> <http://www.w3.org/2000/01/rdf-schema#label> "Cyathea kanehirae" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+breana> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra breana" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+sinica> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra sinica" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+viridis> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra viridis" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/EphedraP+funeea> <http://dbpedia.org/ontology/species> "eukawryot" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+trifurca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+parviflora> <http://www.w3.org/2000/01/rdf-schema#label> "Coprosma parviflora" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+multiflora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Gnetum+cleistostachyum> <http://dbpedia.org/ontology/species> "Plants described in 1975" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+reducta> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia reducta" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+torreyana> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra torreyana" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+pedunculata> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra pedunculata" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Doradillo> <http://www.w3.org/2000/01/rdf-schema#label> "Doradillo" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+torreyana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+occidua> <http://dbpedia.org/ontology/species> "cycad" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+strobilacea> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra strobilacea" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Sorghastrum+secundum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cornalin+d%27Aoste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+breana> <http://dbpedia.org/ontology/species> "species" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+acerosa> <http://www.w3.org/2000/01/rdf-schema#label> "Coprosma acerosa" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Arbois+%28grape%29> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Botrychium+minganense> <http://www.w3.org/2000/01/rdf-schema#label> "Botrychium minganense" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ophioglossum+pusillum> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+grandifolia> <http://www.w3.org/2000/01/rdf-schema#label> "Coprosma grandifolia" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+fasciculata> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra fasciculata" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Gnetum+cleistostachyum> <http://www.w3.org/2000/01/rdf-schema#label> "Gnetum cleistostachyum" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+parviflora> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Woodwardia+unigemmata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+rigida> <http://dbpedia.org/ontology/species> "species" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+viridis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+grandifolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+pedunculata> <http://dbpedia.org/ontology/species> "plant" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/EphedraP+funeea> <http://www.w3.org/2000/01/rdf-schema#label> "EphedraP funeea" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+grandifolia> <http://dbpedia.org/ontology/species> "Thing" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cornalin+d%27Aoste> <http://www.w3.org/2000/01/rdf-schema#label> "Cornalin d'Aoste" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+occidua> <http://www.w3.org/2000/01/rdf-schema#label> "Macrozamia occidua" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/EphedraP+funeea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Botrychium+minganense> <http://dbpedia.org/ontology/species> "species" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+reducta> <http://dbpedia.org/ontology/species> "Cycad" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cycas+Ycainsiana> <http://www.w3.org/2000/01/rdf-schema#label> "Cycas Ycainsiana" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+pedunculata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Albana+%28grape%29> <http://dbpedia.org/ontology/species> "species" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+lomatolepis> <http://www.w3.org/2000/01/rdf-schema#label> "Ephedra lomatolepis" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+breana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+sinica> <http://dbpedia.org/ontology/species> "species" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+strobilacea> <http://dbpedia.org/ontology/species> "species" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Doradillo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cyathea+ledermannii> <http://www.w3.org/2000/01/rdf-schema#label> "Cyathea ledermannii" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Woodwardia+unigemmata> <http://www.w3.org/2000/01/rdf-schema#label> "Woodwardia unigemmata" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+occidua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+foliata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Humagne+Blanche> <http://dbpedia.org/ontology/species> "grape" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+foliata> <http://dbpedia.org/ontology/species> "Gnetophytes" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Sorghastrum+secundum> <http://www.w3.org/2000/01/rdf-schema#label> "Sorghastrum secundum" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Coprosma+rigida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Cyathea+kanehirae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Doradillo> <http://dbpedia.org/ontology/species> "White wine grape varieties" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Ephedra+lomatolepis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Botrychium+minganense> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factory> .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Gnetum+macrostachyum> <http://www.w3.org/2000/01/rdf-schema#label> "Gnetum macrostachyum" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Arbois+%28grape%29> <http://www.w3.org/2000/01/rdf-schema#label> "Arbois (grape)" .
+<http://example.org/3abbc30a-dd2f-46f8-9e24-08dd59c42fcd/Macrozamia+plurinervia> <http://dbpedia.org/ontology/species> "plant" .
+

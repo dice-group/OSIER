@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Wolfson_College,_Oxford> <http://www.w3.org/2000/01/rdf-schema#label> "Wolfson College, Oxford" .
+<http://dbpedia.org/resource/Gonville_and_Caius_College,_Cambridge> <http://www.w3.org/2000/01/rdf-schema#label> "Clare College, Cambridge" .
+<http://dbpedia.org/resource/Selwyn_College,_Cambridge> <http://www.w3.org/2000/01/rdf-schema#label> "Selwyn College, Cambridge" .
+<http://dbpedia.org/resource/Greyfriars,_Oxford> <http://www.w3.org/2000/01/rdf-schema#label> "Greyfriars, Oxford" .
+<http://dbpedia.org/resource/St_Edmund_Hall,_Oxford> <http://www.w3.org/2000/01/rdf-schema#label> "St Edmund Hall, Oxford" .
+

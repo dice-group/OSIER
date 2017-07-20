@@ -1,0 +1,11 @@
+<http://example.org/1864b3ae-68b1-4ed3-b0c0-b2d23eca666b/MXiltarcyof+Swaziland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.inria.fr/ludo/v1/gamemodel#Force> .
+<http://dbpedia.org/resource/History_of_the_Czech_lands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.inria.fr/ludo/v1/gamemodel#Force> .
+<http://dbpedia.org/resource/History_of_the_Czech_lands> <http://www.w3.org/2000/01/rdf-schema#label> "Military of the Czech Republic" .
+<http://example.org/1864b3ae-68b1-4ed3-b0c0-b2d23eca666b/MXiltarcyof+Swaziland> <http://www.w3.org/2000/01/rdf-schema#label> "MXiltarcyof Swaziland" .
+<http://dbpedia.org/resource/Military_of_Suriname> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.inria.fr/ludo/v1/gamemodel#Force> .
+<http://dbpedia.org/resource/Military_of_Switzerland> <http://www.w3.org/2000/01/rdf-schema#label> "Military of Switzerland" .
+<http://dbpedia.org/resource/Military_of_the_Falkland_Islands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.inria.fr/ludo/v1/gamemodel#Force> .
+<http://dbpedia.org/resource/Military_of_Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.inria.fr/ludo/v1/gamemodel#Force> .
+<http://dbpedia.org/resource/Military_of_Suriname> <http://www.w3.org/2000/01/rdf-schema#label> "Military of Suriname" .
+<http://dbpedia.org/resource/Military_of_the_Falkland_Islands> <http://www.w3.org/2000/01/rdf-schema#label> "Military of the Falkland Islands" .
+

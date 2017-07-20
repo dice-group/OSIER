@@ -1,0 +1,6 @@
+<http://example.org/5acca9f8-e403-445d-9379-38265b788b10/Sphingomyelin+deacylase> <http://www.w3.org/2000/01/rdf-schema#label> "Sphingomyelin deacylase" .
+<http://example.org/5acca9f8-e403-445d-9379-38265b788b10/Pseudooxylnicnotine+oxdas> <http://www.w3.org/2000/01/rdf-schema#label> "Pseudooxylnicnotine oxdas" .
+<http://example.org/5acca9f8-e403-445d-9379-38265b788b10/Quercetin+2%2C3-dioxygenase> <http://www.w3.org/2000/01/rdf-schema#label> "Quercetin 2,3-dioxygenase" .
+<http://example.org/5acca9f8-e403-445d-9379-38265b788b10/Pseudouridine+kinase> <http://www.w3.org/2000/01/rdf-schema#label> "Pseudouridine kinase" .
+<http://example.org/5acca9f8-e403-445d-9379-38265b788b10/Syn-copalyl-diphosphate+synthase> <http://www.w3.org/2000/01/rdf-schema#label> "Syn-copalyl-diphosphate synthase" .
+

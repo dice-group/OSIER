@@ -1,0 +1,191 @@
+<http://dbpedia.org/resource/Blue_Öyster_Cult> <http://dbpedia.org/ontology/honours> "SocialPerson" .
+<http://dbpedia.org/resource/Limp_Bizkit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Simon_&_Garfunkel> <http://www.w3.org/2000/01/rdf-schema#label> "Simon & Garfunkel" .
+<http://dbpedia.org/resource/Black_Sabbath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Mrilybn+Manso+%28pband%29> <http://dbpedia.org/ontology/honours> "Ban_MusictGroup" .
+<http://dbpedia.org/resource/Rammstein> <http://dbpedia.org/ontology/honours> "SocialPerson" .
+<http://dbpedia.org/resource/Meat_Puppets> <http://dbpedia.org/ontology/honours> "agent" .
+<http://dbpedia.org/resource/Belle_and_Sebastian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Jan_and_Dean> <http://www.w3.org/2000/01/rdf-schema#label> "Jan and Dean" .
+<http://dbpedia.org/resource/Boney_M.> <http://www.w3.org/2000/01/rdf-schema#label> "Boney M." .
+<http://dbpedia.org/resource/Beastie_Boys> <http://www.w3.org/2000/01/rdf-schema#label> "Beastie Boys" .
+<http://dbpedia.org/resource/Belle_and_Sebastian> <http://www.w3.org/2000/01/rdf-schema#label> "Belle and Sebastian" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Eectricf+Ligh+Orchesxtra> <http://www.w3.org/2000/01/rdf-schema#label> "Eectricf Ligh Orchesxtra" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Dave+MatUthews+Bnd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/The_13th_Floor_Elevators> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Dave+MatUthews+Bnd> <http://www.w3.org/2000/01/rdf-schema#label> "Dave MatUthews Bnd" .
+<http://dbpedia.org/resource/Coldcut> <http://www.w3.org/2000/01/rdf-schema#label> "Coldcut" .
+<http://dbpedia.org/resource/Simon_&_Garfunkel> <http://dbpedia.org/ontology/honours> "Agent" .
+<http://dbpedia.org/resource/Shirehorses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Veruca_Salt> <http://www.w3.org/2000/01/rdf-schema#label> "Veruca Salt" .
+<http://dbpedia.org/resource/Red_Hot_Chili_Peppers> <http://www.w3.org/2000/01/rdf-schema#label> "Red Hot Chili Peppers" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/America+%28band%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Jan_and_Dean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Monster_Magnet> <http://www.w3.org/2000/01/rdf-schema#label> "Monster Magnet" .
+<http://dbpedia.org/resource/Depeche_Mode> <http://dbpedia.org/ontology/honours> "Agent" .
+<http://dbpedia.org/resource/Led_Zeppelin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Question_Mark_&_the_Mysterians> <http://dbpedia.org/ontology/honours> "Thing" .
+<http://dbpedia.org/resource/Metallica> <http://www.w3.org/2000/01/rdf-schema#label> "Metallica" .
+<http://dbpedia.org/resource/Devo> <http://www.w3.org/2000/01/rdf-schema#label> "Devo" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Deicide+%28band%29> <http://www.w3.org/2000/01/rdf-schema#label> "Deicide (band)" .
+<http://dbpedia.org/resource/Dimmu_Borgir> <http://dbpedia.org/ontology/honours> "SocialPerson" .
+<http://dbpedia.org/resource/Boney_M.> <http://dbpedia.org/ontology/honours> "MusicGroup" .
+<http://dbpedia.org/resource/Boogie_Down_Productions> <http://dbpedia.org/ontology/honours> "band" .
+<http://dbpedia.org/resource/REO_Speedwagon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Roxy_Music> <http://dbpedia.org/ontology/honours> "MusicGroup" .
+<http://dbpedia.org/resource/Cold_Chisel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Quicksilver_Messenger_Service> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/DeHpehe+Mode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Electric_Light_Orchestra> <http://dbpedia.org/ontology/honours> "Band" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Dave+MatUthews+Bnd> <http://dbpedia.org/ontology/honours> "azuditory cmmJuncation" .
+<http://dbpedia.org/resource/Linkin_Park> <http://dbpedia.org/ontology/honours> "MusicGroup" .
+<http://dbpedia.org/resource/Sonic_Youth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/A_Tribe_Called_Quest> <http://www.w3.org/2000/01/rdf-schema#label> "A Tribe Called Quest" .
+<http://dbpedia.org/resource/Cold_Chisel> <http://www.w3.org/2000/01/rdf-schema#label> "Cold Chisel" .
+<http://dbpedia.org/resource/Limp_Bizkit> <http://dbpedia.org/ontology/honours> "Thing" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/QuickslvetrMessenger+ServIice> <http://www.w3.org/2000/01/rdf-schema#label> "QuickslvetrMessenger ServIice" .
+<http://dbpedia.org/resource/Electric_Light_Orchestra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/The_Alan_Parsons_Project> <http://www.w3.org/2000/01/rdf-schema#label> "The Alan Parsons Project" .
+<http://dbpedia.org/resource/Marilyn_Manson_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Marilyn Manson (band)" .
+<http://dbpedia.org/resource/Devo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Soul_Coughing> <http://www.w3.org/2000/01/rdf-schema#label> "Soul Coughing" .
+<http://dbpedia.org/resource/The_Human_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Dimmu_Borgir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/honours> "agent" .
+<http://dbpedia.org/resource/3rd_Bass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/America+%28band%29> <http://www.w3.org/2000/01/rdf-schema#label> "America (band)" .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/The_Alan_Parsons_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Coldcut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/The+13thFlGoor+ElevatQos> <http://www.w3.org/2000/01/rdf-schema#label> "The 13thFlGoor ElevatQos" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/QuickslvetrMessenger+ServIice> <http://dbpedia.org/ontology/honours> "bbnd" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/America+%28band%29> <http://dbpedia.org/ontology/honours> "band" .
+<http://dbpedia.org/resource/Devo> <http://dbpedia.org/ontology/honours> "Band" .
+<http://dbpedia.org/resource/Megadeth> <http://www.w3.org/2000/01/rdf-schema#label> "Megadeth" .
+<http://dbpedia.org/resource/Jurassic_5> <http://www.w3.org/2000/01/rdf-schema#label> "Jurassic 5" .
+<http://dbpedia.org/resource/Men_at_Work> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Mrilybn+Manso+%28pband%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Heaven_17> <http://www.w3.org/2000/01/rdf-schema#label> "Heaven 17" .
+<http://dbpedia.org/resource/Rammstein> <http://www.w3.org/2000/01/rdf-schema#label> "Rammstein" .
+<http://dbpedia.org/resource/System_of_a_Down> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://www.w3.org/2000/01/rdf-schema#label> "Aztlan Underground" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Eectricf+Ligh+Orchesxtra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Lynyrd_Skynyrd> <http://dbpedia.org/ontology/honours> "agent" .
+<http://dbpedia.org/resource/Rammstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Limp_Bizkit> <http://www.w3.org/2000/01/rdf-schema#label> "Limp Bizkit" .
+<http://dbpedia.org/resource/Monster_Magnet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Shirehorses> <http://www.w3.org/2000/01/rdf-schema#label> "Shirehorses" .
+<http://dbpedia.org/resource/Rush_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Rush (band)" .
+<http://dbpedia.org/resource/Electric_Light_Orchestra> <http://www.w3.org/2000/01/rdf-schema#label> "Electric Light Orchestra" .
+<http://dbpedia.org/resource/Spice_Girls> <http://www.w3.org/2000/01/rdf-schema#label> "Spice Girls" .
+<http://dbpedia.org/resource/Aventura_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Aventura (band)" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Eectricf+Ligh+Orchesxtra> <http://dbpedia.org/ontology/honours> "Bknd" .
+<http://dbpedia.org/resource/REO_Speedwagon> <http://www.w3.org/2000/01/rdf-schema#label> "REO Speedwagon" .
+<http://dbpedia.org/resource/Big_Audio_Dynamite> <http://dbpedia.org/ontology/honours> "group" .
+<http://dbpedia.org/resource/Veruca_Salt> <http://dbpedia.org/ontology/honours> "group" .
+<http://dbpedia.org/resource/Sonic_Youth> <http://dbpedia.org/ontology/honours> "abstract entity" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/DeHpehe+Mode> <http://www.w3.org/2000/01/rdf-schema#label> "DeHpehe Mode" .
+<http://dbpedia.org/resource/Red_Hot_Chili_Peppers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Meat_Puppets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Roxy_Music> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Anti-Flag> <http://www.w3.org/2000/01/rdf-schema#label> "Anti-Flag" .
+<http://dbpedia.org/resource/Meat_Puppets> <http://www.w3.org/2000/01/rdf-schema#label> "Meat Puppets" .
+<http://dbpedia.org/resource/Dimmu_Borgir> <http://www.w3.org/2000/01/rdf-schema#label> "Dimmu Borgir" .
+<http://dbpedia.org/resource/Heaven_17> <http://dbpedia.org/ontology/honours> "band" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/The+13thFlGoor+ElevatQos> <http://dbpedia.org/ontology/honours> "bnan" .
+<http://dbpedia.org/resource/The_Human_League> <http://dbpedia.org/ontology/honours> "group" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/FleetWwood+Ma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Articolo_31> <http://dbpedia.org/ontology/honours> "grouping" .
+<http://dbpedia.org/resource/3_Doors_Down> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Question_Mark_&_the_Mysterians> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/3rd_Bass> <http://www.w3.org/2000/01/rdf-schema#label> "3rd Bass" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Mrilybn+Manso+%28pband%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mrilybn Manso (pband)" .
+<http://dbpedia.org/resource/Beastie_Boys> <http://dbpedia.org/ontology/honours> "band" .
+<http://dbpedia.org/resource/Linkin_Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/3rd_Bass> <http://dbpedia.org/ontology/honours> "group" .
+<http://dbpedia.org/resource/Lynyrd_Skynyrd> <http://www.w3.org/2000/01/rdf-schema#label> "Lynyrd Skynyrd" .
+<http://dbpedia.org/resource/3_Doors_Down> <http://www.w3.org/2000/01/rdf-schema#label> "3 Doors Down" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Pubdlic+Enemy+%28muFsic+goup> <http://www.w3.org/2000/01/rdf-schema#label> "Pubdlic Enemy (muFsic goup" .
+<http://dbpedia.org/resource/Depeche_Mode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Quicksilver_Messenger_Service> <http://www.w3.org/2000/01/rdf-schema#label> "Quicksilver Messenger Service" .
+<http://dbpedia.org/resource/Metallica> <http://dbpedia.org/ontology/honours> "MusicGroup" .
+<http://dbpedia.org/resource/Linkin_Park> <http://www.w3.org/2000/01/rdf-schema#label> "Linkin Park" .
+<http://dbpedia.org/resource/A_Tribe_Called_Quest> <http://dbpedia.org/ontology/honours> "Organization" .
+<http://dbpedia.org/resource/Black_Sabbath> <http://www.w3.org/2000/01/rdf-schema#label> "Black Sabbath" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Pubdlic+Enemy+%28muFsic+goup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Metallica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Rush_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/System_of_a_Down> <http://www.w3.org/2000/01/rdf-schema#label> "System of a Down" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Pubdlic+Enemy+%28muFsic+goup> <http://dbpedia.org/ontology/honours> "ThnJg" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/The+13thFlGoor+ElevatQos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Big_Audio_Dynamite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Veruca_Salt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Soul_Coughing> <http://dbpedia.org/ontology/honours> "Band" .
+<http://dbpedia.org/resource/Anti-Flag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Analog_Brothers> <http://www.w3.org/2000/01/rdf-schema#label> "Analog Brothers" .
+<http://dbpedia.org/resource/Articolo_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Men_at_Work> <http://dbpedia.org/ontology/honours> "band" .
+<http://dbpedia.org/resource/Led_Zeppelin> <http://dbpedia.org/ontology/honours> "Agent" .
+<http://dbpedia.org/resource/Jurassic_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Analog_Brothers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Anti-Flag> <http://dbpedia.org/ontology/honours> "organization" .
+<http://dbpedia.org/resource/Red_Hot_Chili_Peppers> <http://dbpedia.org/ontology/honours> "organization" .
+<http://dbpedia.org/resource/The_Alan_Parsons_Project> <http://dbpedia.org/ontology/honours> "SocialPerson" .
+<http://dbpedia.org/resource/Lynyrd_Skynyrd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Deicide+%28band%29> <http://dbpedia.org/ontology/honours> "abstract entity" .
+<http://dbpedia.org/resource/Depeche_Mode> <http://www.w3.org/2000/01/rdf-schema#label> "Depeche Mode" .
+<http://dbpedia.org/resource/Beastie_Boys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/'Til_Tuesday> <http://dbpedia.org/ontology/honours> "Organization" .
+<http://dbpedia.org/resource/Blue_Öyster_Cult> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Boney_M.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Deicide+%28band%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/'Til_Tuesday> <http://www.w3.org/2000/01/rdf-schema#label> "'Til Tuesday" .
+<http://dbpedia.org/resource/Aventura_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Nazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/The_Human_League> <http://www.w3.org/2000/01/rdf-schema#label> "The Human League" .
+<http://dbpedia.org/resource/The_13th_Floor_Elevators> <http://www.w3.org/2000/01/rdf-schema#label> "The 13th Floor Elevators" .
+<http://dbpedia.org/resource/Marilyn_Manson_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Question_Mark_&_the_Mysterians> <http://www.w3.org/2000/01/rdf-schema#label> "Question Mark & the Mysterians" .
+<http://dbpedia.org/resource/A_Tribe_Called_Quest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/The_Righteous_Brothers> <http://www.w3.org/2000/01/rdf-schema#label> "The Righteous Brothers" .
+<http://dbpedia.org/resource/Marilyn_Manson_(band)> <http://dbpedia.org/ontology/honours> "band" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Brnski+Bteat> <http://dbpedia.org/ontology/honours> "Bavn" .
+<http://dbpedia.org/resource/3_Doors_Down> <http://dbpedia.org/ontology/honours> "Band" .
+<http://dbpedia.org/resource/Spice_Girls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Articolo_31> <http://www.w3.org/2000/01/rdf-schema#label> "Articolo 31" .
+<http://dbpedia.org/resource/Boogie_Down_Productions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Men_at_Work> <http://www.w3.org/2000/01/rdf-schema#label> "Men at Work" .
+<http://dbpedia.org/resource/Spice_Girls> <http://dbpedia.org/ontology/honours> "band" .
+<http://dbpedia.org/resource/The_Righteous_Brothers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Led_Zeppelin> <http://www.w3.org/2000/01/rdf-schema#label> "Led Zeppelin" .
+<http://dbpedia.org/resource/REO_Speedwagon> <http://dbpedia.org/ontology/honours> "Band" .
+<http://dbpedia.org/resource/Quicksilver_Messenger_Service> <http://dbpedia.org/ontology/honours> "musical organisation" .
+<http://dbpedia.org/resource/Sonic_Youth> <http://www.w3.org/2000/01/rdf-schema#label> "Sonic Youth" .
+<http://dbpedia.org/resource/Boogie_Down_Productions> <http://www.w3.org/2000/01/rdf-schema#label> "Boogie Down Productions" .
+<http://dbpedia.org/resource/The_13th_Floor_Elevators> <http://dbpedia.org/ontology/honours> "band" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/DeHpehe+Mode> <http://dbpedia.org/ontology/honours> "grdou" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Brnski+Bteat> <http://www.w3.org/2000/01/rdf-schema#label> "Brnski Bteat" .
+<http://dbpedia.org/resource/Monster_Magnet> <http://dbpedia.org/ontology/honours> "band" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/Brnski+Bteat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Soul_Coughing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Heaven_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Megadeth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/System_of_a_Down> <http://dbpedia.org/ontology/honours> "organization" .
+<http://dbpedia.org/resource/Nazz> <http://dbpedia.org/ontology/honours> "organization" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/FleetWwood+Ma> <http://dbpedia.org/ontology/honours> "AgUen" .
+<http://dbpedia.org/resource/Coldcut> <http://dbpedia.org/ontology/honours> "MusicGroup" .
+<http://dbpedia.org/resource/Shirehorses> <http://dbpedia.org/ontology/honours> "band" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/FleetWwood+Ma> <http://www.w3.org/2000/01/rdf-schema#label> "FleetWwood Ma" .
+<http://dbpedia.org/resource/Nazz> <http://www.w3.org/2000/01/rdf-schema#label> "Nazz" .
+<http://dbpedia.org/resource/Big_Audio_Dynamite> <http://www.w3.org/2000/01/rdf-schema#label> "Big Audio Dynamite" .
+<http://dbpedia.org/resource/'Til_Tuesday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Simon_&_Garfunkel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Roxy_Music> <http://www.w3.org/2000/01/rdf-schema#label> "Roxy Music" .
+<http://dbpedia.org/resource/Black_Sabbath> <http://dbpedia.org/ontology/honours> "organization" .
+<http://dbpedia.org/resource/Megadeth> <http://dbpedia.org/ontology/honours> "MusicGroup" .
+<http://example.org/7ce7364b-b43e-4891-8138-51ff2908639f/QuickslvetrMessenger+ServIice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Rush_(band)> <http://dbpedia.org/ontology/honours> "dance band" .
+<http://dbpedia.org/resource/Aventura_(band)> <http://dbpedia.org/ontology/honours> "organisation" .
+<http://dbpedia.org/resource/Jurassic_5> <http://dbpedia.org/ontology/honours> "organisation" .
+<http://dbpedia.org/resource/Blue_Öyster_Cult> <http://www.w3.org/2000/01/rdf-schema#label> "Blue \u00D6yster Cult" .
+

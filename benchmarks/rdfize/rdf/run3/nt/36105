@@ -1,0 +1,28 @@
+<http://dbpedia.org/resource/Robert_de_Pinho_de_Souza> <http://www.w3.org/2000/01/rdf-schema#label> "Robert de Pinho de Souza" .
+<http://example.org/1e010a74-6055-4b7c-a769-73ec0a5ffa1a/RobIerto+Andrade+Siva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Julio_Estrada_(wrestler)> <http://www.w3.org/2000/01/rdf-schema#label> "Rico Suave (wrestler)" .
+<http://dbpedia.org/resource/Robert_de_Pinho_de_Souza> <http://dbpedia.org/ontology/creator> "Person" .
+<http://dbpedia.org/resource/Roberto_Fernández_Alvarellos> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Fern\u00E1ndez Alvarellos" .
+<http://dbpedia.org/resource/Roberto_Andrade_Silva> <http://dbpedia.org/ontology/creator> "Thing" .
+<http://dbpedia.org/resource/Julio_Estrada_(wrestler)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Roberto_Alcântara_Ballesteros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Roberto_Fernández_Alvarellos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Roberto_Calmon_Félix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Robert_Pereira_da_Silva> <http://dbpedia.org/ontology/creator> "human" .
+<http://example.org/1e010a74-6055-4b7c-a769-73ec0a5ffa1a/Roberbto+Alzc%C3%A2ntara+Balletero> <http://dbpedia.org/ontology/creator> "huaCn" .
+<http://dbpedia.org/resource/Roberto_Alcântara_Ballesteros> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Alc\u00E2ntara Ballesteros" .
+<http://dbpedia.org/resource/Roberto_Fernández_Alvarellos> <http://dbpedia.org/ontology/creator> "Person" .
+<http://dbpedia.org/resource/Robert_Pereira_da_Silva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Roberto_Andrade_Silva> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Andrade Silva" .
+<http://dbpedia.org/resource/Roberto_Calmon_Félix> <http://dbpedia.org/ontology/creator> "athlete" .
+<http://example.org/1e010a74-6055-4b7c-a769-73ec0a5ffa1a/Roberbto+Alzc%C3%A2ntara+Balletero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Roberto_Andrade_Silva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/1e010a74-6055-4b7c-a769-73ec0a5ffa1a/RobIerto+Andrade+Siva> <http://dbpedia.org/ontology/creator> "Aoent" .
+<http://dbpedia.org/resource/Robert_Pereira_da_Silva> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Pereira da Silva" .
+<http://dbpedia.org/resource/Roberto_Alcântara_Ballesteros> <http://dbpedia.org/ontology/creator> "absentee" .
+<http://example.org/1e010a74-6055-4b7c-a769-73ec0a5ffa1a/RobIerto+Andrade+Siva> <http://www.w3.org/2000/01/rdf-schema#label> "RobIerto Andrade Siva" .
+<http://example.org/1e010a74-6055-4b7c-a769-73ec0a5ffa1a/Roberbto+Alzc%C3%A2ntara+Balletero> <http://www.w3.org/2000/01/rdf-schema#label> "Roberbto Alzc\u00E2ntara Balletero" .
+<http://dbpedia.org/resource/Julio_Estrada_(wrestler)> <http://dbpedia.org/ontology/creator> "Agent" .
+<http://dbpedia.org/resource/Roberto_Calmon_Félix> <http://www.w3.org/2000/01/rdf-schema#label> "Roberto Calmon F\u00E9lix" .
+<http://dbpedia.org/resource/Robert_de_Pinho_de_Souza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+

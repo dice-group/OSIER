@@ -1,0 +1,8 @@
+<http://dbpedia.org/resource/Star_Trek:_Deep_Space_Nine_DVDs> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek: Deep Space Nine" .
+<http://example.org/0aa4bce3-3b1f-4d3b-9403-1883d83c13b0/Beavis+and+Butt-Head> <http://www.w3.org/2000/01/rdf-schema#label> "Beavis and Butt-Head" .
+<http://dbpedia.org/resource/Theme_from_Star_Trek> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek: The Original Series" .
+<http://example.org/0aa4bce3-3b1f-4d3b-9403-1883d83c13b0/%E3%81%BE%E3%82%93%E3%81%8C%E5%AE%87%E5%AE%99%E5%A4%A7%E4%BD%9C%E6%88%A6> <http://www.w3.org/2000/01/rdf-schema#label> "\u307E\u3093\u304C\u5B87\u5B99\u5927\u4F5C\u6226" .
+<http://example.org/0aa4bce3-3b1f-4d3b-9403-1883d83c13b0/BEAVIS+AND+BUTT-HEAD> <http://www.w3.org/2000/01/rdf-schema#label> "BEAVIS AND BUTT-HEAD" .
+<http://example.org/0aa4bce3-3b1f-4d3b-9403-1883d83c13b0/Star+Trek%3A+The+Animated+Series> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek: The Animated Series" .
+<http://dbpedia.org/resource/List_of_Star_Trek:_The_Next_Generation_episodes> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek: The Next Generation" .
+

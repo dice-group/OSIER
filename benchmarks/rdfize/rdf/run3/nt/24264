@@ -1,0 +1,11 @@
+<http://example.org/b2975d27-ee67-45be-b014-a2143aa75204/%C3%94%2C+Pr%C3%AAtres+de+Baal+%28Fid%C3%A8s%2C+act+5%29> <http://www.w3.org/2000/01/rdf-schema#label> "\u00D4, Pr\u00EAtres de Baal (Fid\u00E8s, act 5)" .
+<http://dbpedia.org/resource/Smile> <http://www.w3.org/2000/01/rdf-schema#label> "Smile" .
+<http://dbpedia.org/resource/Smile> <http://dbpedia.org/ontology/hasVariant> "A 30-second sample of Allen's Smile, in which the chorus is played (2006)" .
+<http://example.org/b2975d27-ee67-45be-b014-a2143aa75204/G%C3%BCira+sound> <http://dbpedia.org/ontology/hasVariant> "Brief sample of g\u00FCira" .
+<http://example.org/b2975d27-ee67-45be-b014-a2143aa75204/Sparks+Perfume+%282006%29> <http://dbpedia.org/ontology/hasVariant> "23 second clip of Sparks's Perfume." .
+<http://example.org/b2975d27-ee67-45be-b014-a2143aa75204/%C3%94%2C+Pr%C3%AAtres+de+Baal+%28Fid%C3%A8s%2C+act+5%29> <http://dbpedia.org/ontology/hasVariant> "Ernestine Schumann-Heink(1907)" .
+<http://example.org/b2975d27-ee67-45be-b014-a2143aa75204/G%C3%BCira+sound> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00FCira sound" .
+<http://example.org/b2975d27-ee67-45be-b014-a2143aa75204/Sparks+Perfume+%282006%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sparks Perfume (2006)" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/hasVariant> "The first song released as a single, featuring ska influence and a sample of Reggae Merengue (2005)" .
+<http://dbpedia.org/resource/London> <http://www.w3.org/2000/01/rdf-schema#label> "LDN" .
+

@@ -1,0 +1,11 @@
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Now+and+Then%2C+Here+and+There> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/UBERON_0000178> .
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Blood%3A+The+Last+Vampire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/UBERON_0000178> .
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Now+and+Then%2C+Here+and+There> <http://www.w3.org/2000/01/rdf-schema#label> "Now and Then, Here and There" .
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Blood%3A+The+Last+Vampire> <http://www.w3.org/2000/01/rdf-schema#label> "Blood: The Last Vampire" .
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Ronin+Warriors> <http://www.w3.org/2000/01/rdf-schema#label> "Ronin Warriors" .
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Transformers%3A+The+Headmasters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/UBERON_0000178> .
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Persona%3A+Trinity+Soul> <http://www.w3.org/2000/01/rdf-schema#label> "Persona: Trinity Soul" .
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Transformers%3A+The+Headmasters> <http://www.w3.org/2000/01/rdf-schema#label> "Transformers: The Headmasters" .
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Ronin+Warriors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/UBERON_0000178> .
+<http://example.org/bf9a03f5-c757-45ff-b29f-52edad7d1126/Persona%3A+Trinity+Soul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/UBERON_0000178> .
+

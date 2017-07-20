@@ -1,0 +1,171 @@
+<http://dbpedia.org/resource/Mount_Nebo_Archaeological_District> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Nebo Archaeological District" .
+<http://dbpedia.org/resource/Cathedral_of_the_Immaculate_Conception_(Tyler,_Texas)> <http://www.w3.org/2000/01/rdf-schema#label> "Cathedral of the Immaculate Conception (Tyler, Texas)" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Beta-ketoacyl-%28acyl-carrier-protein%29+synthase+III> <http://www.w3.org/2000/01/rdf-schema#label> "Beta-ketoacyl-(acyl-carrier-protein) synthase III" .
+<http://dbpedia.org/resource/Wilson_Elser_Moskowitz_Edelman_&_Dicker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Marvel_Comics> <http://www.w3.org/2000/01/rdf-schema#label> "Marvel Comics" .
+<http://dbpedia.org/resource/Del_Rey_Manga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Schwabe,_Williamson_&_Wyatt> <http://www.w3.org/2000/01/rdf-schema#label> "Schwabe, Williamson & Wyatt" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/NADH%3Aubiquinone+reductase+%28H%2B-translocating%29> <http://www.w3.org/2000/01/rdf-schema#label> "NADH:ubiquinone reductase (H+-translocating)" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/PigHon+PointLighthousVe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Sand_Point_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Sand Point Light" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Dice+%28horse%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Rock_Island_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/ENSafrica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Disney_Comics> <http://www.w3.org/2000/01/rdf-schema#label> "Disney Comics" .
+<http://dbpedia.org/resource/Frauenkirche,_Nuremberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Keker+%26+Van+Nest> <http://www.w3.org/2000/01/rdf-schema#label> "Keker & Van Nest" .
+<http://dbpedia.org/resource/Saunders_(imprint)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Superoxide+dismutase> <http://dbpedia.org/ontology/house> "enzyme" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Dell+CoLmcs> <http://www.w3.org/2000/01/rdf-schema#label> "Dell CoLmcs" .
+<http://dbpedia.org/resource/Sand_Point_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Superoxide+dismutase> <http://www.w3.org/2000/01/rdf-schema#label> "Superoxide dismutase" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/LIM+domain> <http://www.w3.org/2000/01/rdf-schema#label> "LIM domain" .
+<http://dbpedia.org/resource/Dell_Magazines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Ince_&_Co.> <http://www.w3.org/2000/01/rdf-schema#label> "Ince & Co." .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Haemagglutinin-esterase+fusion+glycoprotein> <http://www.w3.org/2000/01/rdf-schema#label> "Haemagglutinin-esterase fusion glycoprotein" .
+<http://dbpedia.org/resource/Barlow_Lyde_&_Gilbert> <http://www.w3.org/2000/01/rdf-schema#label> "Barlow Lyde & Gilbert" .
+<http://dbpedia.org/resource/Kennywood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Kennywood> <http://www.w3.org/2000/01/rdf-schema#label> "Kennywood" .
+<http://dbpedia.org/resource/Mary_Ann_Liebert,_Inc.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Maidstone_(Owings,_Maryland)> <http://www.w3.org/2000/01/rdf-schema#label> "Maidstone (Owings, Maryland)" .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam Airport Schiphol" .
+<http://dbpedia.org/resource/Noerr> <http://www.w3.org/2000/01/rdf-schema#label> "Noerr" .
+<http://dbpedia.org/resource/Greyfriars_Church,_Reading> <http://www.w3.org/2000/01/rdf-schema#label> "Greyfriars Church, Reading" .
+<http://dbpedia.org/resource/Château_d'Arche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Schosbs+Rosegg> <http://www.w3.org/2000/01/rdf-schema#label> "Schosbs Rosegg" .
+<http://dbpedia.org/resource/Aquatic_Park_Historic_District> <http://www.w3.org/2000/01/rdf-schema#label> "Aquatic Park Historic District" .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://dbpedia.org/ontology/house> "SpatialThing" .
+<http://dbpedia.org/resource/Chapel_of_the_Good_Shepherd_(Chautauqua,_New_York)> <http://www.w3.org/2000/01/rdf-schema#label> "Chapel of the Good Shepherd (Chautauqua, New York)" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Restriction+enzyme> <http://www.w3.org/2000/01/rdf-schema#label> "Restriction enzyme" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Dell+CoLmcs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Greyfriars_Church,_Reading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Kim_&_Chang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Haemagglutinin-esterase+fusion+glycoprotein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/LIM+domain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Rock_Island_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Rose Island Light" .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://www.w3.org/2000/01/rdf-schema#label> "National Baseball Hall of Fame and Museum" .
+<http://dbpedia.org/resource/Mount_Nebo_(Poolesville,_Maryland)> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Nebo (Poolesville, Maryland)" .
+<http://dbpedia.org/resource/Argo_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Argo Tunnel" .
+<http://dbpedia.org/resource/Harness,_Dickey_&_Pierce> <http://www.w3.org/2000/01/rdf-schema#label> "Harness, Dickey & Pierce" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Superoxide+dismutase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Del_Rey_Manga> <http://www.w3.org/2000/01/rdf-schema#label> "Del Rey Manga" .
+<http://dbpedia.org/resource/Lubbock_Lake_Landmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/TaornacoCastle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Abbotsford_House> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Bryan_Pape> <http://www.w3.org/2000/01/rdf-schema#label> "Bryan Cave" .
+<http://dbpedia.org/resource/Lubbock_Lake_Landmark> <http://www.w3.org/2000/01/rdf-schema#label> "Lubbock Lake Landmark" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Fairway+%28horse%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://dbpedia.org/ontology/house> "Place" .
+<http://dbpedia.org/resource/Het_Loo_Palace> <http://www.w3.org/2000/01/rdf-schema#label> "Het Loo Palace" .
+<http://dbpedia.org/resource/Long_Island_Motor_Parkway> <http://www.w3.org/2000/01/rdf-schema#label> "Long Island Motor Parkway" .
+<http://dbpedia.org/resource/Derby_Cathedral> <http://www.w3.org/2000/01/rdf-schema#label> "Derby Cathedral" .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Schosbs+Rosegg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Monte_Vista_(Middletown,_Virginia)> <http://www.w3.org/2000/01/rdf-schema#label> "Monte Vista (Middletown, Virginia)" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/LatoferriKn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Dell_Magazines> <http://www.w3.org/2000/01/rdf-schema#label> "Dell Magazines" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Hanne+%26+Co> <http://www.w3.org/2000/01/rdf-schema#label> "Hanne & Co" .
+<http://dbpedia.org/resource/Capstone_Publishers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Aquatic_Park_Historic_District> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Berwin_Leighton_Paisner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Washington_Duke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Agate+Publishing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Long_Island_Motor_Parkway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Mount_Nebo_Archaeological_District> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/NADH%3Aubiquinone+reductase+%28H%2B-translocating%29> <http://dbpedia.org/ontology/house> "yagoLegalActorGeo" .
+<http://dbpedia.org/resource/Hachette_Filipacchi_Médias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Bryan_Pape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Adenylyl+cyclase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Haga_Church> <http://www.w3.org/2000/01/rdf-schema#label> "Haga Church" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Lck> <http://www.w3.org/2000/01/rdf-schema#label> "Lck" .
+<http://dbpedia.org/resource/Wilson_Elser_Moskowitz_Edelman_&_Dicker> <http://www.w3.org/2000/01/rdf-schema#label> "Wilson Elser Moskowitz Edelman & Dicker" .
+<http://dbpedia.org/resource/Disney_Comics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Flares+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Flares (horse)" .
+<http://dbpedia.org/resource/Abell,_Baltimore> <http://www.w3.org/2000/01/rdf-schema#label> "Abell, Baltimore" .
+<http://dbpedia.org/resource/Abell,_Baltimore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/ENSafrica> <http://www.w3.org/2000/01/rdf-schema#label> "ENSafrica" .
+<http://dbpedia.org/resource/Fort_Snelling> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Snelling" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Beta-ketoacyl-%28acyl-carrier-protein%29+synthase+III> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Château_d'Abbadie> <http://www.w3.org/2000/01/rdf-schema#label> "Ch\u00E2teau d'Abbadie" .
+<http://dbpedia.org/resource/Mount_Nebo_(Poolesville,_Maryland)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Lck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Winterton_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Adenylyl+cyclase> <http://www.w3.org/2000/01/rdf-schema#label> "Adenylyl cyclase" .
+<http://dbpedia.org/resource/Bennu> <http://www.w3.org/2000/01/rdf-schema#label> "Benu" .
+<http://dbpedia.org/resource/Derby_Cathedral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Chatto_&_Windus> <http://www.w3.org/2000/01/rdf-schema#label> "Chatto & Windus" .
+<http://dbpedia.org/resource/Penfield_Reef_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Abbotsford_House> <http://www.w3.org/2000/01/rdf-schema#label> "Abbotsford House" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Astley+Hall%2C+Chorley> <http://www.w3.org/2000/01/rdf-schema#label> "Astley Hall, Chorley" .
+<http://dbpedia.org/resource/Frauenkirche,_Nuremberg> <http://www.w3.org/2000/01/rdf-schema#label> "Frauenkirche, Nuremberg" .
+<http://dbpedia.org/resource/The_Abbey_(Daytona_Beach,_Florida)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Jacoby_&_Meyers> <http://www.w3.org/2000/01/rdf-schema#label> "Jacoby & Meyers" .
+<http://dbpedia.org/resource/Haga_Church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Aden_Site> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Bennu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Flares+%28horse%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Het_Loo_Palace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Chatto_&_Windus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/NADH%3Aubiquinone+reductase+%28H%2B-translocating%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Adenylyl+cyclase> <http://dbpedia.org/ontology/house> "material" .
+<http://dbpedia.org/resource/Harness,_Dickey_&_Pierce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Beta-ketoacyl-%28acyl-carrier-protein%29+synthase+III> <http://dbpedia.org/ontology/house> "house" .
+<http://dbpedia.org/resource/Aden_Site> <http://www.w3.org/2000/01/rdf-schema#label> "Aden Site" .
+<http://dbpedia.org/resource/Monte_Vista_(Middletown,_Virginia)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/TaornacoCastle> <http://www.w3.org/2000/01/rdf-schema#label> "TaornacoCastle" .
+<http://dbpedia.org/resource/Maidstone_(Owings,_Maryland)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Mary_Ann_Liebert,_Inc.> <http://www.w3.org/2000/01/rdf-schema#label> "Mary Ann Liebert, Inc." .
+<http://dbpedia.org/resource/Michael_Best_&_Friedrich_LLP> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Best & Friedrich LLP" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/LatoferriKn> <http://www.w3.org/2000/01/rdf-schema#label> "LatoferriKn" .
+<http://dbpedia.org/resource/ArtScroll> <http://www.w3.org/2000/01/rdf-schema#label> "ArtScroll" .
+<http://dbpedia.org/resource/Dell_Publishing> <http://www.w3.org/2000/01/rdf-schema#label> "Dell Publishing" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Astley+Hall%2C+Chorley> <http://dbpedia.org/ontology/house> "Place" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Hepatic+fructokinase> <http://www.w3.org/2000/01/rdf-schema#label> "Hepatic fructokinase" .
+<http://dbpedia.org/resource/DC_Comics> <http://www.w3.org/2000/01/rdf-schema#label> "DC Comics" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Hades+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hades (horse)" .
+<http://dbpedia.org/resource/Berwin_Leighton_Paisner> <http://www.w3.org/2000/01/rdf-schema#label> "Berwin Leighton Paisner" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Testa%2Cg+Hrwtzf+%26+Thibeault> <http://www.w3.org/2000/01/rdf-schema#label> "Testa,g Hrwtzf & Thibeault" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Hanne+%26+Co> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Winterton_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Winterton Lighthouse" .
+<http://dbpedia.org/resource/The_Abbey_(Daytona_Beach,_Florida)> <http://www.w3.org/2000/01/rdf-schema#label> "The Abbey (Daytona Beach, Florida)" .
+<http://dbpedia.org/resource/Jacoby_&_Meyers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Argo_Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Fairway+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fairway (horse)" .
+<http://dbpedia.org/resource/Ince_&_Co.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Château_d'Arche> <http://www.w3.org/2000/01/rdf-schema#label> "Ch\u00E2teau d'Arcelot" .
+<http://dbpedia.org/resource/Burgruine_Rottenstein> <http://www.w3.org/2000/01/rdf-schema#label> "Burgruine Reifenstein" .
+<http://dbpedia.org/resource/Michael_Best_&_Friedrich_LLP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Cathedral_of_the_Immaculate_Conception_(Tyler,_Texas)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Restriction+enzyme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Counterpoint_(publisher)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Saunders_(imprint)> <http://www.w3.org/2000/01/rdf-schema#label> "Saunders (imprint)" .
+<http://dbpedia.org/resource/Washington_Duke> <http://www.w3.org/2000/01/rdf-schema#label> "George Washington (horse)" .
+<http://dbpedia.org/resource/Marvel_Comics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Hades+%28horse%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Testa%2Cg+Hrwtzf+%26+Thibeault> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Barlow_Lyde_&_Gilbert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Agate+Publishing> <http://www.w3.org/2000/01/rdf-schema#label> "Agate Publishing" .
+<http://dbpedia.org/resource/Chapel_of_the_Good_Shepherd_(Chautauqua,_New_York)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Dell_Publishing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Kim_&_Chang> <http://www.w3.org/2000/01/rdf-schema#label> "Kim & Chang" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Restriction+enzyme> <http://dbpedia.org/ontology/house> "enzyme" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Keker+%26+Van+Nest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/ArtScroll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Capstone_Publishers> <http://www.w3.org/2000/01/rdf-schema#label> "Capstone Publishers" .
+<http://dbpedia.org/resource/Penfield_Reef_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Penfield Reef Light" .
+<http://dbpedia.org/resource/Schwabe,_Williamson_&_Wyatt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Dice+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dice (horse)" .
+<http://dbpedia.org/resource/Château_d'Abbadie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Abbotsford_House> <http://dbpedia.org/ontology/house> "house" .
+<http://dbpedia.org/resource/Counterpoint_(publisher)> <http://www.w3.org/2000/01/rdf-schema#label> "Counterpoint (publisher)" .
+<http://dbpedia.org/resource/Noerr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Hachette_Filipacchi_Médias> <http://www.w3.org/2000/01/rdf-schema#label> "Hachette Filipacchi Media U.S." .
+<http://dbpedia.org/resource/Bennu> <http://dbpedia.org/ontology/house> "building" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/PigHon+PointLighthousVe> <http://www.w3.org/2000/01/rdf-schema#label> "PigHon PointLighthousVe" .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Hepatic+fructokinase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://example.org/65c3739f-b65f-4c13-b230-51a47d231a65/Astley+Hall%2C+Chorley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Burgruine_Rottenstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/Fort_Snelling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+<http://dbpedia.org/resource/DC_Comics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://open.vocab.org/terms/House> .
+

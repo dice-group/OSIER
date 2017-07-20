@@ -1,0 +1,11 @@
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Tonsillar+branches+of+glossopharyngeal+nerve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Medial+cluneal+nerves> <http://www.w3.org/2000/01/rdf-schema#label> "Medial cluneal nerves" .
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Medial+cluneal+nerves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Infrapatellar+branch+of+saphenous+nerve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Tonsillar+branches+of+glossopharyngeal+nerve> <http://www.w3.org/2000/01/rdf-schema#label> "Tonsillar branches of glossopharyngeal nerve" .
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Anterior+branch+of+obturator+nerve> <http://www.w3.org/2000/01/rdf-schema#label> "Anterior branch of obturator nerve" .
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Infrapatellar+branch+of+saphenous+nerve> <http://www.w3.org/2000/01/rdf-schema#label> "Infrapatellar branch of saphenous nerve" .
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Gastric+plexuses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Anterior+branch+of+obturator+nerve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/88444b5d-57f4-4712-ade9-4d1a5bab2b5b/Gastric+plexuses> <http://www.w3.org/2000/01/rdf-schema#label> "Gastric plexuses" .
+

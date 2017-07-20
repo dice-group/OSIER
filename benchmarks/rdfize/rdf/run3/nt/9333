@@ -1,0 +1,161 @@
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Clara+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clara (given name)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Clarissa+%28given+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Submandibular+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Submandibular lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Dlia+%28given+nrame%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dlia (given nrame)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Linker+of+activated+T+cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Clique+%28vodka%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Virchow%27s+node> <http://www.w3.org/2000/01/rdf-schema#label> "Virchow's node" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Pararectal+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Pararectal lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Jugular+lymph+trunk> <http://www.w3.org/2000/01/rdf-schema#label> "Jugular lymph trunk" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Deep+lateral+cervical+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://dbpedia.org/resource/Casimir_(dinosaur)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Lumbar+lymph+trunk> <http://dbpedia.org/ontology/Planet/averageSpeed> "matter" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Superficial+cervical+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "lymph" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Thyroid+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "anatomical structure" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Superficial+cervical+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Shadowstats.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Jugular+lymph+trunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Lymph+duct> <http://www.w3.org/2000/01/rdf-schema#label> "Lymph duct" .
+<http://dbpedia.org/resource/Caff%C3%A8_macchiato> <http://www.w3.org/2000/01/rdf-schema#label> "Caff\u00E8 macchiato" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Deep+inguinal+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Intestinal+lrymph+trun> <http://dbpedia.org/ontology/Planet/averageSpeed> "physicaIl entiy" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Odakyu+50000+series+VSE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Sprinter+%28train%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Thoracic+duct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://dbpedia.org/resource/Mucin> <http://dbpedia.org/ontology/Planet/averageSpeed> "cistron" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Calfskin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Outfit+of+the+day> <http://www.w3.org/2000/01/rdf-schema#label> "Outfit of the day" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/300+Series+Shinkansen> <http://dbpedia.org/ontology/Planet/averageSpeed> "High-speed trains" .
+<http://dbpedia.org/resource/TMZ> <http://dbpedia.org/ontology/Planet/averageSpeed> "constituent" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Intercostal+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Intercostal lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Lymphoid+enhacer-binding+faictor+1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Buccinator+lymph+node> <http://dbpedia.org/ontology/Planet/averageSpeed> "abstract entity" .
+<http://dbpedia.org/resource/Caff%C3%A8_macchiato> <http://dbpedia.org/ontology/Planet/averageSpeed> "constituent" .
+<http://dbpedia.org/resource/Ennio_Morricone> <http://www.w3.org/2000/01/rdf-schema#label> "Ennio" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Gertrude+%28given+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Jugulodigastric+lymph+node> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://dbpedia.org/resource/TMZ> <http://www.w3.org/2000/01/rdf-schema#label> "TMZ" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Pararectal+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Preaortic+lymph+node> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/300+Series+Shinkansen> <http://www.w3.org/2000/01/rdf-schema#label> "300 Series Shinkansen" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Liver+receptor+homolog-1> <http://www.w3.org/2000/01/rdf-schema#label> "Liver receptor homolog-1" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Fujin+%28Headgear%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fujin (Headgear)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Odakyu+50000+series+VSE> <http://www.w3.org/2000/01/rdf-schema#label> "Odakyu 50000 series VSE" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Outfit+of+the+day> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Tubal+tonsil> <http://dbpedia.org/ontology/Planet/averageSpeed> "constituent" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Clelia+%28given+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Dlia+%28given+nrame%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://dbpedia.org/resource/Smoking_cessation_programs_in_Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/The+EcapistM+%28mvagazie%29> <http://www.w3.org/2000/01/rdf-schema#label> "The EcapistM (mvagazie)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Clarissa+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clarissa (given name)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Infraauricular+deep+parotid+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "constituent" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Shadowstats.com> <http://dbpedia.org/ontology/Planet/averageSpeed> "physical entity" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Lymphoid+enhacer-binding+faictor+1> <http://dbpedia.org/ontology/Planet/averageSpeed> "begicnnig" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Pure+London> <http://www.w3.org/2000/01/rdf-schema#label> "Pure London" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Stuff.co.nz> <http://www.w3.org/2000/01/rdf-schema#label> "Stuff.co.nz" .
+<http://dbpedia.org/resource/Space_of_M%C3%B6ll> <http://www.w3.org/2000/01/rdf-schema#label> "Space of M\u00F6ll" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Linker+of+activated+T+cells> <http://dbpedia.org/ontology/Planet/averageSpeed> "constituent" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Anterior+cervical+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Tracheobronchial+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "Lymph" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Burn+%28energy+drink%29> <http://www.w3.org/2000/01/rdf-schema#label> "Burn (energy drink)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Deep+inguinal+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Deep inguinal lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Intestinal+lrymph+trun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/JugulEoomohyoid+ldyph+node> <http://dbpedia.org/ontology/Planet/averageSpeed> "substaPnc" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Anterior+cervical+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Anterior cervical lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Thyroid+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Thyroid lymph nodes" .
+<http://dbpedia.org/resource/Callaloo_(journal)> <http://dbpedia.org/ontology/Planet/averageSpeed> "solid" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Cervical+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Cervical lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Sprinter+%28train%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sprinter (train)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Cassandra+%28given+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Jugulodigastric+lymph+node> <http://www.w3.org/2000/01/rdf-schema#label> "Jugulodigastric lymph node" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Gertrude+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gertrude (given name)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Burn+%28energy+drink%29> <http://dbpedia.org/ontology/Planet/averageSpeed> "nutrient" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Calfskin> <http://www.w3.org/2000/01/rdf-schema#label> "Calfskin" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Thyroid+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Fujin+%28Headgear%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Liver+receptor+homolog-1> <http://dbpedia.org/ontology/Planet/averageSpeed> "occurrent" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Buccinator+lymph+node> <http://www.w3.org/2000/01/rdf-schema#label> "Buccinator lymph node" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Intercostal+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "constituent" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Lymphoid+enhacer-binding+faictor+1> <http://www.w3.org/2000/01/rdf-schema#label> "Lymphoid enhacer-binding faictor 1" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Networker+%28train%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Submandibular+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "constituent" .
+<http://dbpedia.org/resource/South_Australian_Railways_Bluebird_railcar> <http://www.w3.org/2000/01/rdf-schema#label> "South Australian Railways Bluebird railcar" .
+<http://dbpedia.org/resource/Cristina_Casandra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Stuff.co.nz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://dbpedia.org/resource/Space_of_M%C3%B6ll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Preaortic+lymph+node> <http://dbpedia.org/ontology/Planet/averageSpeed> "physical entity" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Preaortic+lymph+node> <http://www.w3.org/2000/01/rdf-schema#label> "Preaortic lymph node" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Superficial+cervical+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Superficial cervical lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Odakyu+50000+series+VSE> <http://dbpedia.org/ontology/Planet/averageSpeed> "physical entity" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Intercostal+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Subclavian+lymph+trunk> <http://dbpedia.org/ontology/Planet/averageSpeed> "body substance" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Caprese+salad> <http://www.w3.org/2000/01/rdf-schema#label> "Caprese salad" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Subclavian+lymph+trunk> <http://www.w3.org/2000/01/rdf-schema#label> "Subclavian lymph trunk" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Shadowstats.com> <http://www.w3.org/2000/01/rdf-schema#label> "Shadowstats.com" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Lymph+duct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Submandibular+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Pararectal+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "anatomical structure" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/300+Series+Shinkansen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Tubal+tonsil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Infraauricular+deep+parotid+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Infraauricular deep parotid lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Deep+lateral+cervical+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "substance" .
+<http://dbpedia.org/resource/Emre_(surname)> <http://www.w3.org/2000/01/rdf-schema#label> "Emre" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Lumbar+lymph+trunk> <http://www.w3.org/2000/01/rdf-schema#label> "Lumbar lymph trunk" .
+<http://dbpedia.org/resource/Smoking_cessation_programs_in_Canada> <http://www.w3.org/2000/01/rdf-schema#label> "Stupid.com" .
+<http://dbpedia.org/resource/Cristina_Casandra> <http://www.w3.org/2000/01/rdf-schema#label> "Casandra" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Toe+cleavage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/JugulEoomohyoid+ldyph+node> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/The+EcapistM+%28mvagazie%29> <http://dbpedia.org/ontology/Planet/averageSpeed> "creatkon" .
+<http://dbpedia.org/resource/Callaloo_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://dbpedia.org/resource/Casimir_(dinosaur)> <http://www.w3.org/2000/01/rdf-schema#label> "Casimir" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Lumbar+lymph+trunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Cassandra+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Cassandra (given name)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Clara+%28given+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Clelia+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clelia (given name)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Networker+%28train%29> <http://www.w3.org/2000/01/rdf-schema#label> "Networker (train)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Caprese+salad> <http://dbpedia.org/ontology/Planet/averageSpeed> "FunctionalSubstance" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Caprese+salad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Methylmalonyl-CoA+mutase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Virchow%27s+node> <http://dbpedia.org/ontology/Planet/averageSpeed> "indication" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Cervical+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "Thing" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Sprinter+%28train%29> <http://dbpedia.org/ontology/Planet/averageSpeed> "name" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Subclavian+lymph+trunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Deep+lateral+cervical+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Deep lateral cervical lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Pure+London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Tracheobronchial+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Tracheobronchial lymph nodes" .
+<http://dbpedia.org/resource/TMZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Thoracic+duct> <http://www.w3.org/2000/01/rdf-schema#label> "Thoracic duct" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Tubal+tonsil> <http://www.w3.org/2000/01/rdf-schema#label> "Tubal tonsil" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Infraauricular+deep+parotid+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Toe+cleavage> <http://www.w3.org/2000/01/rdf-schema#label> "Toe cleavage" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/The+EcapistM+%28mvagazie%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Buccinator+lymph+node> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Anterior+cervical+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "physical entity" .
+<http://dbpedia.org/resource/Mucin> <http://www.w3.org/2000/01/rdf-schema#label> "MUC1" .
+<http://dbpedia.org/resource/Callaloo_(journal)> <http://www.w3.org/2000/01/rdf-schema#label> "Callaloo" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Clique+%28vodka%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clique (vodka)" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Methylmalonyl-CoA+mutase> <http://www.w3.org/2000/01/rdf-schema#label> "Methylmalonyl-CoA mutase" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Linker+of+activated+T+cells> <http://www.w3.org/2000/01/rdf-schema#label> "Linker of activated T cells" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Intraglandular+deep+parotid+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Methylmalonyl-CoA+mutase> <http://dbpedia.org/ontology/Planet/averageSpeed> "activator" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Liver+receptor+homolog-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://dbpedia.org/resource/Ennio_Morricone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Jugulodigastric+lymph+node> <http://dbpedia.org/ontology/Planet/averageSpeed> "humor" .
+<http://dbpedia.org/resource/Caff%C3%A8_macchiato> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Cervical+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/JugulEoomohyoid+ldyph+node> <http://www.w3.org/2000/01/rdf-schema#label> "JugulEoomohyoid ldyph node" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Clique+%28vodka%29> <http://dbpedia.org/ontology/Planet/averageSpeed> "drug" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Stuff.co.nz> <http://dbpedia.org/ontology/Planet/averageSpeed> "website" .
+<http://dbpedia.org/resource/South_Australian_Railways_Bluebird_railcar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Intraglandular+deep+parotid+lymph+nodes> <http://dbpedia.org/ontology/Planet/averageSpeed> "body substance" .
+<http://dbpedia.org/resource/Smoking_cessation_programs_in_Canada> <http://dbpedia.org/ontology/Planet/averageSpeed> "physical entity" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Intraglandular+deep+parotid+lymph+nodes> <http://www.w3.org/2000/01/rdf-schema#label> "Intraglandular deep parotid lymph nodes" .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Networker+%28train%29> <http://dbpedia.org/ontology/Planet/averageSpeed> "constituent" .
+<http://dbpedia.org/resource/Emre_(surname)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Intestinal+lrymph+trun> <http://www.w3.org/2000/01/rdf-schema#label> "Intestinal lrymph trun" .
+<http://dbpedia.org/resource/South_Australian_Railways_Bluebird_railcar> <http://dbpedia.org/ontology/Planet/averageSpeed> "mean of transportation" .
+<http://dbpedia.org/resource/Mucin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Burn+%28energy+drink%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Virchow%27s+node> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+<http://example.org/4a0c687e-0f67-49dc-a50e-679edb389f21/Tracheobronchial+lymph+nodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Name> .
+

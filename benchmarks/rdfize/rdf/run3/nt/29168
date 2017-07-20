@@ -1,0 +1,16 @@
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Superior+gluteal+veins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Vein> .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Posterior+auricular+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Posterior auricular vein" .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Posterior+auricular+vein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Vein> .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Superior+petrospalsiAns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Vein> .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Superior+petrospalsiAns> <http://www.w3.org/2000/01/rdf-schema#label> "Superior petrospalsiAns" .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Posterior+intercostal+veins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Vein> .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Superior+petrospalsiAns> <http://dbpedia.org/ontology/location> "antomical strbucture" .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Superior+gluteal+veins> <http://www.w3.org/2000/01/rdf-schema#label> "Superior gluteal veins" .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Superior+gluteal+veins> <http://dbpedia.org/ontology/location> "vein" .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Posterior+intercostal+veins> <http://dbpedia.org/ontology/location> "thing" .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Posterior+intercostal+veins> <http://www.w3.org/2000/01/rdf-schema#label> "Posterior intercostal veins" .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Left+gastroepiploic+vein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Vein> .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Left+gastroepiploic+vein> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Left+gastroepiploic+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Left gastroepiploic vein" .
+<http://example.org/e7f4830f-b7f2-4c6f-9434-108a4c833140/Posterior+auricular+vein> <http://dbpedia.org/ontology/location> "anatomical structure" .
+

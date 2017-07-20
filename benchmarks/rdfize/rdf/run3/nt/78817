@@ -1,0 +1,29 @@
+<http://dbpedia.org/resource/Pyruvate_dehydrogenase_kinase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/Skybolt+%28sounding+rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Skybolt (sounding rocket)" .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/CD98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/Troposphere+%28rocket+family%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://dbpedia.org/resource/Space_Shuttle_(pinball)> <http://www.w3.org/2000/01/rdf-schema#label> "Space Shuttle" .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/Kinase+insert+domain+receptor> <http://www.w3.org/2000/01/rdf-schema#label> "Kinase insert domain receptor" .
+<http://dbpedia.org/resource/DOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/Troposphere+%28rocket+family%29> <http://www.w3.org/2000/01/rdf-schema#label> "Troposphere (rocket family)" .
+<http://dbpedia.org/resource/NGC_32> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 57" .
+<http://dbpedia.org/resource/NGC_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/MUSTARD> <http://www.w3.org/2000/01/rdf-schema#label> "MUSTARD" .
+<http://dbpedia.org/resource/Messier_70> <http://www.w3.org/2000/01/rdf-schema#label> "Messier 105" .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/CD98> <http://www.w3.org/2000/01/rdf-schema#label> "CD98" .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/RHCE+%28gene%29> <http://www.w3.org/2000/01/rdf-schema#label> "RHCE (gene)" .
+<http://dbpedia.org/resource/DOS> <http://www.w3.org/2000/01/rdf-schema#label> "CLOCK" .
+<http://dbpedia.org/resource/NGC_32> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 3" .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/RHCE+%28gene%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/MAX-1+%28Spacecraft%29> <http://www.w3.org/2000/01/rdf-schema#label> "MAX-1 (Spacecraft)" .
+<http://dbpedia.org/resource/Messier_70> <http://www.w3.org/2000/01/rdf-schema#label> "Messier 108" .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/MAX-1+%28Spacecraft%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/MUSTARD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://dbpedia.org/resource/Messier_70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/Kinase+insert+domain+receptor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://dbpedia.org/resource/Space_Shuttle_(pinball)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://example.org/90fbbab9-5781-4c81-9d6e-ae7784680557/Skybolt+%28sounding+rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+<http://dbpedia.org/resource/Segue_3> <http://www.w3.org/2000/01/rdf-schema#label> "Segue 2" .
+<http://dbpedia.org/resource/Pyruvate_dehydrogenase_kinase> <http://www.w3.org/2000/01/rdf-schema#label> "Pyruvate dehydrogenase kinase" .
+<http://dbpedia.org/resource/Segue_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://elite.polito.it/ontologies/dogont.owl#Clock> .
+

@@ -1,0 +1,23 @@
+<http://dbpedia.org/resource/Deportivo_Alavés> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Egypt_national_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Egypt national football team" .
+<http://dbpedia.org/resource/C.F._Monterrey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Spain_national_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Worcester_City_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Deportivo_Alavés> <http://www.w3.org/2000/01/rdf-schema#label> "Deportivo Alav\u00E9s" .
+<http://example.org/48673067-75e3-4d16-8fb0-271f79785d0d/EgRypt+ational+footally+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Spain_national_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Spain national football team" .
+<http://example.org/48673067-75e3-4d16-8fb0-271f79785d0d/GillDingam+F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Worcester_City_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Worcester City F.C." .
+<http://dbpedia.org/resource/Bologna_F.C._1909> <http://www.w3.org/2000/01/rdf-schema#label> "Bologna F.C. 1909" .
+<http://dbpedia.org/resource/Spain_national_under-21_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Gillingham_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Gillingham F.C." .
+<http://dbpedia.org/resource/Spain_national_under-21_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Spain national under-23 football team" .
+<http://dbpedia.org/resource/Swindon_Town_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://dbpedia.org/resource/Gillingham_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://example.org/48673067-75e3-4d16-8fb0-271f79785d0d/GillDingam+F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "GillDingam F.C." .
+<http://dbpedia.org/resource/Swindon_Town_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Swindon Town F.C." .
+<http://dbpedia.org/resource/C.F._Monterrey> <http://www.w3.org/2000/01/rdf-schema#label> "C.F. Monterrey" .
+<http://dbpedia.org/resource/Egypt_national_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+<http://example.org/48673067-75e3-4d16-8fb0-271f79785d0d/EgRypt+ational+footally+team> <http://www.w3.org/2000/01/rdf-schema#label> "EgRypt ational footally team" .
+<http://dbpedia.org/resource/Bologna_F.C._1909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linguistics/gold/FormUnit> .
+

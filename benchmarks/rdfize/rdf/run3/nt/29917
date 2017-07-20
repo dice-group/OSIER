@@ -1,0 +1,10 @@
+<http://example.org/487954c2-59b1-424e-87e2-d80e3f83dfef/EspeGrnto> <http://www.w3.org/2000/01/rdf-schema#label> "EspeGrnto" .
+<http://dbpedia.org/resource/51-FORTH> <http://www.w3.org/2000/01/rdf-schema#label> "Forth (programming language)" .
+<http://dbpedia.org/resource/Esoteric_programming_language> <http://www.w3.org/2000/01/rdf-schema#label> "Cyclone (programming language)" .
+<http://example.org/487954c2-59b1-424e-87e2-d80e3f83dfef/Korsische+Sprache> <http://www.w3.org/2000/01/rdf-schema#label> "Korsische Sprache" .
+<http://example.org/487954c2-59b1-424e-87e2-d80e3f83dfef/%D9%81%D9%88%D8%B1%D8%AB+%28%D9%84%D8%BA%D8%A9+%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%29> <http://www.w3.org/2000/01/rdf-schema#label> "\u0641\u0648\u0631\u062B (\u0644\u063A\u0629 \u0628\u0631\u0645\u062C\u0629)" .
+<http://example.org/487954c2-59b1-424e-87e2-d80e3f83dfef/Ecspernto> <http://www.w3.org/2000/01/rdf-schema#label> "Ecspernto" .
+<http://example.org/487954c2-59b1-424e-87e2-d80e3f83dfef/Corsican+language> <http://www.w3.org/2000/01/rdf-schema#label> "Corsican language" .
+<http://dbpedia.org/resource/Cyclone> <http://www.w3.org/2000/01/rdf-schema#label> "Cyclone" .
+<http://example.org/487954c2-59b1-424e-87e2-d80e3f83dfef/Coral+66> <http://www.w3.org/2000/01/rdf-schema#label> "Coral 66" .
+

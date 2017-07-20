@@ -1,0 +1,31 @@
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/Mitchell+Interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://dbpedia.org/resource/Pirwadhai_Mor_Flyover_and_Underpass> <http://www.w3.org/2000/01/rdf-schema#label> "Pirwadhai Mor Flyover and Underpass" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/1960+USAC+Road+Racing+Championship+season> <http://www.w3.org/2000/01/rdf-schema#label> "1960 USAC Road Racing Championship season" .
+<http://dbpedia.org/resource/Alessandro_Gamberini> <http://www.w3.org/2000/01/rdf-schema#label> "Alessandro_Gamberini__6" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/1960+USAC+Road+Racing+Championship+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/ReDmedios+Circe> <http://www.w3.org/2000/01/rdf-schema#label> "ReDmedios Circe" .
+<http://dbpedia.org/resource/2004_Konica_Minolta_V8_Supercar_Series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/2000+Overseas+Final> <http://www.w3.org/2000/01/rdf-schema#label> "2000 Overseas Final" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/2004+Speed+World+Challenge+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/Pinners+Point+Interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://dbpedia.org/resource/2004_Konica_Minolta_V8_Supercar_Series> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Konica Minolta V8 Supercar Series" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/1922%E2%80%9323+University+of+Virginia+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "1922\u201323 University of Virginia men's basketball team" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/1986+SCCA%2FEscort+Endurance+Championship+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://dbpedia.org/resource/Alessandro_Gamberini> <http://www.w3.org/2000/01/rdf-schema#label> "Alessandro_Gamberini__3" .
+<http://dbpedia.org/resource/Alessandro_Gamberini> <http://www.w3.org/2000/01/rdf-schema#label> "Alessandro_Gamberini__5" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/1992%E2%80%9393+Macedonian+Second+Football+League> <http://www.w3.org/2000/01/rdf-schema#label> "1992\u201393 Macedonian Second Football League" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/1992%E2%80%9393+Macedonian+Second+Football+League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://dbpedia.org/resource/Pirwadhai_Mor_Flyover_and_Underpass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/Mitchell+Interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Mitchell Interchange" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/1922%E2%80%9323+University+of+Virginia+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/2004+Speed+World+Challenge+season> <http://www.w3.org/2000/01/rdf-schema#label> "2004 Speed World Challenge season" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/Bowers+Hill+Interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Bowers Hill Interchange" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/Bowers+Hill+Interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/2000+Overseas+Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://dbpedia.org/resource/Alessandro_Gamberini> <http://www.w3.org/2000/01/rdf-schema#label> "Alessandro_Gamberini__2" .
+<http://dbpedia.org/resource/Alessandro_Gamberini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+<http://dbpedia.org/resource/Alessandro_Gamberini> <http://www.w3.org/2000/01/rdf-schema#label> "Alessandro_Gamberini__4" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/1986+SCCA%2FEscort+Endurance+Championship+season> <http://www.w3.org/2000/01/rdf-schema#label> "1986 SCCA/Escort Endurance Championship season" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/Pinners+Point+Interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Pinners Point Interchange" .
+<http://example.org/b7f33c1e-34d0-403d-a877-96c750e32196/ReDmedios+Circe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0002001> .
+

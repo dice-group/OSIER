@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Proclus> <http://www.w3.org/2000/01/rdf-schema#label> "Proclus" .
+<http://dbpedia.org/resource/Proclus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Platoon> .
+<http://dbpedia.org/resource/Pseudo-Dionysius_the_Areopagite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Platoon> .
+<http://dbpedia.org/resource/Proclus> <http://dbpedia.org/ontology/creator> "Agent" .
+<http://dbpedia.org/resource/Peter_Wessel_Zapffe> <http://dbpedia.org/ontology/creator> "Agent" .
+<http://dbpedia.org/resource/Plato> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Platoon> .
+<http://dbpedia.org/resource/Plato> <http://www.w3.org/2000/01/rdf-schema#label> "Plato" .
+<http://dbpedia.org/resource/Protagoras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Platoon> .
+<http://dbpedia.org/resource/Peter_Wessel_Zapffe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#Platoon> .
+<http://dbpedia.org/resource/Pseudo-Dionysius_the_Areopagite> <http://www.w3.org/2000/01/rdf-schema#label> "Pseudo-Dionysius the Areopagite" .
+<http://dbpedia.org/resource/Protagoras> <http://www.w3.org/2000/01/rdf-schema#label> "Protagoras" .
+<http://dbpedia.org/resource/Pseudo-Dionysius_the_Areopagite> <http://dbpedia.org/ontology/creator> "Person" .
+<http://dbpedia.org/resource/Protagoras> <http://dbpedia.org/ontology/creator> "doubter" .
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/creator> "philosopher" .
+<http://dbpedia.org/resource/Peter_Wessel_Zapffe> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Wessel Zapffe" .
+

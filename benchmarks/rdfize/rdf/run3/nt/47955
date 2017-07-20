@@ -1,0 +1,88 @@
+<http://dbpedia.org/resource/Acheson_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Acheson Tunnel" .
+<http://dbpedia.org/resource/Allenby_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Allenby Bridge" .
+<http://dbpedia.org/resource/Gibson_Generating_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Gibson Generating Station" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/Grxanville+Bridge%2C+MaSyborugh> <http://www.w3.org/2000/01/rdf-schema#label> "Grxanville Bridge, MaSyborugh" .
+<http://dbpedia.org/resource/Victory_Bridge_(New_Jersey)> <http://www.w3.org/2000/01/rdf-schema#label> "Victory Bridge (New Jersey)" .
+<http://dbpedia.org/resource/Crescent_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Crescent Bridge" .
+<http://dbpedia.org/resource/Chandni_Chowk_Flyover> <http://www.w3.org/2000/01/rdf-schema#label> "Chandni Chowk Flyover" .
+<http://dbpedia.org/resource/Kalma_Chowk_Flyover> <http://www.w3.org/2000/01/rdf-schema#label> "Kalma Chowk Flyover" .
+<http://dbpedia.org/resource/European_route_E06> <http://www.w3.org/2000/01/rdf-schema#label> "European route E4" .
+<http://dbpedia.org/resource/Federal_Road_(Cherokee_lands)> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Road (Cherokee lands)" .
+<http://dbpedia.org/resource/Mississippi_River_Bridge_(La_Crosse,_Wisconsin)> <http://www.w3.org/2000/01/rdf-schema#label> "Mississippi River Bridge (La Crosse, Wisconsin)" .
+<http://dbpedia.org/resource/Kelvin_Aqueduct> <http://www.w3.org/2000/01/rdf-schema#label> "Kelvin Aqueduct" .
+<http://dbpedia.org/resource/Champlain_Bridge_(United_States)> <http://www.w3.org/2000/01/rdf-schema#label> "Champlain Bridge (United States)" .
+<http://dbpedia.org/resource/Sjønståfjell_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Sj\u00F8nst\u00E5fjell Tunnel" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/Centr+SVtreeUt+Bridge+%28algary%29> <http://www.w3.org/2000/01/rdf-schema#label> "Centr SVtreeUt Bridge (algary)" .
+<http://dbpedia.org/resource/Sydney_Harbour_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Sydney Harbour Bridge" .
+<http://dbpedia.org/resource/Lake_Champlain_Bridge_(2011)> <http://www.w3.org/2000/01/rdf-schema#label> "Lake Champlain Bridge (2011)" .
+<http://dbpedia.org/resource/Tingstadstunneln> <http://www.w3.org/2000/01/rdf-schema#label> "Tingstadstunneln" .
+<http://dbpedia.org/resource/Bayshore_Freeway> <http://www.w3.org/2000/01/rdf-schema#label> "Bayshore Freeway" .
+<http://dbpedia.org/resource/American_Legion_Memorial_Bridge_(Potomac_River)> <http://www.w3.org/2000/01/rdf-schema#label> "American Legion Memorial Bridge (Potomac River)" .
+<http://dbpedia.org/resource/Veterans_Bridge_(Pittsburgh)> <http://www.w3.org/2000/01/rdf-schema#label> "Veterans Bridge (Pittsburgh)" .
+<http://dbpedia.org/resource/Interchanges_in_Pennsylvania> <http://www.w3.org/2000/01/rdf-schema#label> "Interchanges in Pennsylvania" .
+<http://dbpedia.org/resource/Cimarron_Turnpike> <http://www.w3.org/2000/01/rdf-schema#label> "Cimarron Turnpike" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/John+S.+Thompsonbrug> <http://www.w3.org/2000/01/rdf-schema#label> "John S. Thompsonbrug" .
+<http://dbpedia.org/resource/Unconstructed_state_highways_in_California> <http://www.w3.org/2000/01/rdf-schema#label> "California State Route 42" .
+<http://dbpedia.org/resource/Queensboro_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Queensboro Bridge" .
+<http://dbpedia.org/resource/Baltimore_Harbor_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Baltimore Harbor Tunnel" .
+<http://dbpedia.org/resource/Ramsund_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Ramsund Bridge" .
+<http://dbpedia.org/resource/London_Post_Office_Railway> <http://www.w3.org/2000/01/rdf-schema#label> "London Post Office Railway" .
+<http://dbpedia.org/resource/Peace_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Peace Bridge" .
+<http://dbpedia.org/resource/Franklin_Square_(PATCO_station)> <http://www.w3.org/2000/01/rdf-schema#label> "Franklin Square (PATCO station)" .
+<http://dbpedia.org/resource/Mormon_Bridge_(Omaha)> <http://www.w3.org/2000/01/rdf-schema#label> "Mormon Bridge (Omaha)" .
+<http://dbpedia.org/resource/Old_Bridge,_Svilengrad> <http://www.w3.org/2000/01/rdf-schema#label> "Old Bridge, Svilengrad" .
+<http://dbpedia.org/resource/Airport_Road_(Huntsville)> <http://www.w3.org/2000/01/rdf-schema#label> "Airport Road (Huntsville)" .
+<http://dbpedia.org/resource/Captain_Cook_Bridge,_New_South_Wales> <http://www.w3.org/2000/01/rdf-schema#label> "Captain Cook Bridge, New South Wales" .
+<http://dbpedia.org/resource/Gentilly_Nuclear_Generating_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Gentilly Nuclear Generating Station" .
+<http://dbpedia.org/resource/Airport_Circle_(Pennsauken)> <http://www.w3.org/2000/01/rdf-schema#label> "Airport Circle (Pennsauken)" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/Green+Bryidge%28ilniuNs%29> <http://www.w3.org/2000/01/rdf-schema#label> "Green Bryidge(ilniuNs)" .
+<http://dbpedia.org/resource/Mackinac_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Mackinac Bridge" .
+<http://dbpedia.org/resource/Gateway_Bridge_(Illinois–Iowa)> <http://www.w3.org/2000/01/rdf-schema#label> "Gateway Bridge (Illinois\u2013Iowa)" .
+<http://dbpedia.org/resource/Exeter_Cathedral> <http://www.w3.org/2000/01/rdf-schema#label> "Exeter Cathedral" .
+<http://dbpedia.org/resource/Golden_Gate_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Golden Gate Bridge" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/CSoby+Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "CSoby Bridge" .
+<http://dbpedia.org/resource/KL_Monorail> <http://www.w3.org/2000/01/rdf-schema#label> "KL Monorail" .
+<http://dbpedia.org/resource/American_Legion_Memorial_Bridge_(Michigan)> <http://www.w3.org/2000/01/rdf-schema#label> "American Legion Memorial Bridge (Michigan)" .
+<http://dbpedia.org/resource/Market_Street_Bridge_(Chattanooga)> <http://www.w3.org/2000/01/rdf-schema#label> "Market Street Bridge (Chattanooga)" .
+<http://dbpedia.org/resource/Bordeaux_Railway_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Bordeaux Railway Bridge" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/Cedar+Auvene+Bidge+V%28Minnesota+River%29> <http://www.w3.org/2000/01/rdf-schema#label> "Cedar Auvene Bidge V(Minnesota River)" .
+<http://dbpedia.org/resource/Cedar_Avenue_Bridge_(Minnesota_River)> <http://www.w3.org/2000/01/rdf-schema#label> "Cedar Avenue Bridge (Minnesota River)" .
+<http://dbpedia.org/resource/Spindletop> <http://www.w3.org/2000/01/rdf-schema#label> "Spindletop" .
+<http://dbpedia.org/resource/Gervais_Street_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Gervais Street Bridge" .
+<http://dbpedia.org/resource/Veterans_Bridge_(St._Cloud,_Minnesota)> <http://www.w3.org/2000/01/rdf-schema#label> "Veterans Bridge (St. Cloud, Minnesota)" .
+<http://dbpedia.org/resource/Humber_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Humber Bridge" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/Boedine%27sBridge> <http://www.w3.org/2000/01/rdf-schema#label> "Boedine'sBridge" .
+<http://dbpedia.org/resource/Clifton_Bridge_(Nottingham)> <http://www.w3.org/2000/01/rdf-schema#label> "Clifton Bridge (Nottingham)" .
+<http://dbpedia.org/resource/Quincy_Rail_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Quincy Rail Bridge" .
+<http://dbpedia.org/resource/Hewanorra_International_Airport> <http://www.w3.org/2000/01/rdf-schema#label> "Hewanorra International Airport" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/Bonington+Aqtueduct> <http://www.w3.org/2000/01/rdf-schema#label> "Bonington Aqtueduct" .
+<http://dbpedia.org/resource/Sant_Boi_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Sant Boi Bridge" .
+<http://dbpedia.org/resource/Jomo_Kenyatta_International_Airport> <http://www.w3.org/2000/01/rdf-schema#label> "Jomo Kenyatta International Airport" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/Hkoward+Fwranklnd+Bride> <http://www.w3.org/2000/01/rdf-schema#label> "Hkoward Fwranklnd Bride" .
+<http://dbpedia.org/resource/Market_Street_Bridge_(Philadelphia)> <http://www.w3.org/2000/01/rdf-schema#label> "Market Street Bridge (Philadelphia)" .
+<http://dbpedia.org/resource/Sydney_Opera_House> <http://www.w3.org/2000/01/rdf-schema#label> "Sydney Opera House" .
+<http://dbpedia.org/resource/Cape_Fear_Skyway> <http://www.w3.org/2000/01/rdf-schema#label> "Cape Fear Skyway" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/Albcula+Tunel> <http://www.w3.org/2000/01/rdf-schema#label> "Albcula Tunel" .
+<http://dbpedia.org/resource/Baudette_–_Rainy_River_International_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Baudette\u2013Rainy River International Bridge" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/GradRapids+Medical+Coqrrvidor+bNorth+PedestrianTunnel> <http://www.w3.org/2000/01/rdf-schema#label> "GradRapids Medical Coqrrvidor bNorth PedestrianTunnel" .
+<http://dbpedia.org/resource/U.S._Route_78> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. Route 12" .
+<http://dbpedia.org/resource/Bussell_Highway> <http://www.w3.org/2000/01/rdf-schema#label> "Bussell Highway" .
+<http://dbpedia.org/resource/Tulip_Viaduct> <http://www.w3.org/2000/01/rdf-schema#label> "Tulip Viaduct" .
+<http://dbpedia.org/resource/Logans_Ferry_Mine_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Logans Ferry Mine Tunnel" .
+<http://dbpedia.org/resource/Martin_Olav_Sabo_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Olav Sabo Bridge" .
+<http://dbpedia.org/resource/Indira_Gandhi_International_Airport> <http://www.w3.org/2000/01/rdf-schema#label> "Indira Gandhi International Airport" .
+<http://dbpedia.org/resource/Capilano_Bridge_(Edmonton)> <http://www.w3.org/2000/01/rdf-schema#label> "Capilano Bridge (Edmonton)" .
+<http://dbpedia.org/resource/Bedell_Covered_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Bedell Covered Bridge" .
+<http://dbpedia.org/resource/Bi-State_Vietnam_Gold_Star_Bridges> <http://www.w3.org/2000/01/rdf-schema#label> "Bi-State VTietnam Go StaAr Bridges" .
+<http://dbpedia.org/resource/Willis_Tower> <http://www.w3.org/2000/01/rdf-schema#label> "Willis Tower" .
+<http://dbpedia.org/resource/Fort_Loudoun_Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Loudoun Dam" .
+<http://dbpedia.org/resource/Glasgow_Cross> <http://www.w3.org/2000/01/rdf-schema#label> "Glasgow Cross" .
+<http://dbpedia.org/resource/Centre_Street_Bridge_(Calgary)> <http://www.w3.org/2000/01/rdf-schema#label> "Centre Street Bridge (Calgary)" .
+<http://dbpedia.org/resource/M25_motorway> <http://www.w3.org/2000/01/rdf-schema#label> "M25 motorway" .
+<http://dbpedia.org/resource/Green_Bridge_(New_Orleans)> <http://www.w3.org/2000/01/rdf-schema#label> "Green Bridge (New Orleans)" .
+<http://example.org/d3ff09a7-2e5a-4db7-aff6-73212c98d7a4/Cain+Bidge+B%28MassachuRsetts%29> <http://www.w3.org/2000/01/rdf-schema#label> "Cain Bidge B(MassachuRsetts)" .
+<http://dbpedia.org/resource/Victory_Bridge_(Yerevan)> <http://www.w3.org/2000/01/rdf-schema#label> "Victory Bridge, Yerevan" .
+<http://dbpedia.org/resource/Bankhead_Highway> <http://www.w3.org/2000/01/rdf-schema#label> "Bankhead Highway" .
+<http://dbpedia.org/resource/Chain_Bridge_(Massachusetts)> <http://www.w3.org/2000/01/rdf-schema#label> "Chain Bridge (Massachusetts)" .
+<http://dbpedia.org/resource/Sault_Ste._Marie_International_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Sault Ste. Marie International Bridge" .
+

@@ -86,6 +86,9 @@ def get_table_groups(vectorization_type="simple"):
     _f.close()
     return table_groups
 
+def get_hash_count(vectorization_type="simple"):
+    return len(get_table_groups(vectorization_type=vectorization_type))
+
 def get_table_group_by_hash(_hash, vectorization_type="simple"):
     table_groups = get_table_groups(vectorization_type=vectorization_type)
     return get_tables_by_hash(_hash, table_groups)

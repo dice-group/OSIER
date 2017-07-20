@@ -1,0 +1,25 @@
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 2006/2007" .
+<http://example.org/e64800d9-e480-4fe2-8505-509125ff3183/Snooker+world+rankings+1986%2F1987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/ext/common/being#Being> .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 2008/2009" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://dbpedia.org/ontology/location> "unbi" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2013/2014> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://dbpedia.org/ontology/location> "phrysicl entity" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2013/2014> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1983/1984" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2010/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/ext/common/being#Being> .
+<http://dbpedia.org/resource/Snooker_world_rankings_2010/2011> <http://dbpedia.org/ontology/location> "being" .
+<http://example.org/e64800d9-e480-4fe2-8505-509125ff3183/Snooker+world+rankings+1986%2F1987> <http://dbpedia.org/ontology/location> "being" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2013/2014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/ext/common/being#Being> .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1991/1992" .
+<http://example.org/e64800d9-e480-4fe2-8505-509125ff3183/Snooker+world+rankings+1985%2F1986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/ext/common/being#Being> .
+<http://example.org/e64800d9-e480-4fe2-8505-509125ff3183/Snooker+world+rankings+1988%2F1989> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1988/1989" .
+<http://example.org/e64800d9-e480-4fe2-8505-509125ff3183/Snooker+world+rankings+1988%2F1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/ext/common/being#Being> .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/ext/common/being#Being> .
+<http://example.org/e64800d9-e480-4fe2-8505-509125ff3183/Snooker+world+rankings+1985%2F1986> <http://dbpedia.org/ontology/location> "contestant" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://dbpedia.org/ontology/location> "snooker world ranking" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2010/2011> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1990/1991" .
+<http://example.org/e64800d9-e480-4fe2-8505-509125ff3183/Snooker+world+rankings+1985%2F1986> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1985/1986" .
+<http://example.org/e64800d9-e480-4fe2-8505-509125ff3183/Snooker+world+rankings+1986%2F1987> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1986/1987" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://dbpedia.org/ontology/location> "causal agency" .
+<http://example.org/e64800d9-e480-4fe2-8505-509125ff3183/Snooker+world+rankings+1988%2F1989> <http://dbpedia.org/ontology/location> "snooker world ranking" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 2009/2010" .
+

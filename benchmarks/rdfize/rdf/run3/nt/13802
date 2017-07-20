@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Cell_(Dragon_Ball)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Gin_Ichimaru> <http://www.w3.org/2000/01/rdf-schema#label> "Gin Ichimaru" .
+<http://dbpedia.org/resource/Naga_the_Serpent> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Cell_(Dragon_Ball)> <http://www.w3.org/2000/01/rdf-schema#label> "Cell (Dragon Ball)" .
+<http://example.org/4d577578-fa92-489c-aa20-fbc51ea66b44/Tuepdo+Mask> <http://dbpedia.org/ontology/humanDevelopmentIndex> "psoer" .
+<http://dbpedia.org/resource/Gin_Ichimaru> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Kenshiro> <http://dbpedia.org/ontology/humanDevelopmentIndex> "animanga character" .
+<http://dbpedia.org/resource/Kenshiro> <http://www.w3.org/2000/01/rdf-schema#label> "Kenshiro" .
+<http://dbpedia.org/resource/Naga_the_Serpent> <http://www.w3.org/2000/01/rdf-schema#label> "Naga the Serpent" .
+<http://example.org/4d577578-fa92-489c-aa20-fbc51ea66b44/Tuepdo+Mask> <http://www.w3.org/2000/01/rdf-schema#label> "Tuepdo Mask" .
+

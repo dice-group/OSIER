@@ -1,0 +1,27 @@
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Goodbye+%28Shila+Amzah+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Goodbye (Shila Amzah song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Johnny+%28Yemi+Alade+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny (Yemi Alade song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/100%25+Live> <http://www.w3.org/2000/01/rdf-schema#label> "100% Live" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Goodbye+%28Feder+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Goodbye (Feder song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Ice+Age+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ice Age (song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Madhouse%3A+The+Very+Best+of+Anthrax> <http://www.w3.org/2000/01/rdf-schema#label> "Madhouse: The Very Best of Anthrax" .
+<http://dbpedia.org/resource/Impressment> <http://www.w3.org/2000/01/rdf-schema#label> "Press Gang" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Rage+Hard> <http://www.w3.org/2000/01/rdf-schema#label> "Rage Hard" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Bllad+of+tbhe+GDreen+erets> <http://www.w3.org/2000/01/rdf-schema#label> "Bllad of tbhe GDreen erets" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Lucy+%28Anna+Tsuchiya+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lucy (Anna Tsuchiya song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Around+the+World+%28Beat+Ink+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Around the World (Beat Ink song)" .
+<http://dbpedia.org/resource/Ziegfeld_Follies> <http://www.w3.org/2000/01/rdf-schema#label> "Follies" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/All+Night+Long+%28Joe+Walsh+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "All Night Long (Joe Walsh song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Blood+%28TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blood (TV series)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/All+About+You+%28The+Rolling+Stones+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "All About You (The Rolling Stones song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Friends+%26+Family%2C+Vol.+2> <http://www.w3.org/2000/01/rdf-schema#label> "Friends & Family, Vol. 2" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Git+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Git (song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Descendants%3A+Wicked+World> <http://www.w3.org/2000/01/rdf-schema#label> "Descendants: Wicked World" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/In+Sickness+and+in+Health> <http://www.w3.org/2000/01/rdf-schema#label> "In Sickness and in Health" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Alter+Ego+%28Minus+One+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Alter Ego (Minus One song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Missing+%28Teen+Top+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Missing (Teen Top song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/A+Fine+Romance+%281981+TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "A Fine Romance (1981 TV series)" .
+<http://dbpedia.org/resource/Armed_and_Dangerous_(comics)> <http://www.w3.org/2000/01/rdf-schema#label> "Armed and Dangerous (EP)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Fireworks+%28Siouxsie+and+the+Banshees+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fireworks (Siouxsie and the Banshees song)" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/Friends+%26+Family%2C+Vol.+1> <http://www.w3.org/2000/01/rdf-schema#label> "Friends & Family, Vol. 1" .
+<http://example.org/26ba9417-9e53-445f-be7d-bb280e970d99/America%27s+Sweetheart+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "America's Sweetheart (song)" .
+

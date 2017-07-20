@@ -1,0 +1,11 @@
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Alveolar+process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Mammal> .
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Oblique+ridges+of+scapula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Mammal> .
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Short+bone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Mammal> .
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Alveolar+process> <http://www.w3.org/2000/01/rdf-schema#label> "Alveolar process" .
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Short+bone> <http://www.w3.org/2000/01/rdf-schema#label> "Short bone" .
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Oblique+ridges+of+scapula> <http://www.w3.org/2000/01/rdf-schema#label> "Oblique ridges of scapula" .
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Xiphoid+process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Mammal> .
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Flat+bone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Mammal> .
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Xiphoid+process> <http://www.w3.org/2000/01/rdf-schema#label> "Xiphoid process" .
+<http://example.org/0da082c9-e7a0-4bb7-ab74-55731f2d4634/Flat+bone> <http://www.w3.org/2000/01/rdf-schema#label> "Flat bone" .
+

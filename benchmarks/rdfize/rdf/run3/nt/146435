@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Great_Rift_Valley,_Kenya> <http://www.w3.org/2000/01/rdf-schema#label> "Great Rift Valley, Kenya" .
+<http://example.org/6bf13323-4b73-408b-89cc-46d5c23f8161/Historic+Cities+of+the+Straits+of+Malacca> <http://www.w3.org/2000/01/rdf-schema#label> "Historic Cities of the Straits of Malacca" .
+<http://dbpedia.org/resource/Prehistoric_pile_dwellings_around_the_Alps> <http://www.w3.org/2000/01/rdf-schema#label> "Prehistoric pile dwellings around Lake Zurich" .
+<http://dbpedia.org/resource/World_Heritage_Sites_of_the_Routes_of_Santiago_de_Compostela_in_France> <http://www.w3.org/2000/01/rdf-schema#label> "Routes of Santiago de Compostela in France" .
+<http://dbpedia.org/resource/Buildings_and_architecture_of_Bath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0001223> .
+<http://dbpedia.org/resource/Buildings_and_architecture_of_Bath> <http://www.w3.org/2000/01/rdf-schema#label> "Buildings and architecture of Bath" .
+<http://dbpedia.org/resource/Prehistoric_pile_dwellings_around_the_Alps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0001223> .
+<http://dbpedia.org/resource/Great_Rift_Valley,_Kenya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0001223> .
+<http://dbpedia.org/resource/World_Heritage_Sites_of_the_Routes_of_Santiago_de_Compostela_in_France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0001223> .
+<http://example.org/6bf13323-4b73-408b-89cc-46d5c23f8161/Historic+Cities+of+the+Straits+of+Malacca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/OBI_0001223> .
+

@@ -1,0 +1,18 @@
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Nucleus+nervi+abducentis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Retrosplenial+cortex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Cerebellar+vermis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Vascular+organ+of+lamina+terminalis> <http://www.w3.org/2000/01/rdf-schema#label> "Vascular organ of lamina terminalis" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Interthalamic+adhesion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Interthalamic+adhesion> <http://www.w3.org/2000/01/rdf-schema#label> "Interthalamic adhesion" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Nucleus+nervi+abducentis> <http://www.w3.org/2000/01/rdf-schema#label> "Nucleus nervi abducentis" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Interthalamic+adhesion> <http://dbpedia.org/ontology/isPartOf> "Brain" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Retrosplenial+cortex> <http://www.w3.org/2000/01/rdf-schema#label> "Retrosplenial cortex" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Vascular+organ+of+lamina+terminalis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Abducens+nucleus> <http://dbpedia.org/ontology/isPartOf> "body part" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Vascular+organ+of+lamina+terminalis> <http://dbpedia.org/ontology/isPartOf> "Thing" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Cerebellar+vermis> <http://dbpedia.org/ontology/isPartOf> "brain" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Cerebellar+vermis> <http://www.w3.org/2000/01/rdf-schema#label> "Cerebellar vermis" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Retrosplenial+cortex> <http://dbpedia.org/ontology/isPartOf> "brain" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Abducens+nucleus> <http://www.w3.org/2000/01/rdf-schema#label> "Abducens nucleus" .
+<http://example.org/909360e6-ccbb-416b-8d0e-c0611303ab5f/Abducens+nucleus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+

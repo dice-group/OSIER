@@ -1,0 +1,21 @@
+<http://dbpedia.org/resource/John_Payne_(bishop_of_Liberia)> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Balangoda_Ananda_Maitreya_Thero> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Ibas_of_Edessa> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Balangoda_Ananda_Maitreya_Thero> <http://www.w3.org/2000/01/rdf-schema#label> "Balangoda Ananda Maitreya Thero" .
+<http://dbpedia.org/resource/Seattle_Mariners> <http://dbpedia.org/ontology/person> "sports team" .
+<http://dbpedia.org/resource/Eliseo_Soriano> <http://www.w3.org/2000/01/rdf-schema#label> "Eliseo Soriano" .
+<http://dbpedia.org/resource/John_Blackadder_(preacher)> <http://www.w3.org/2000/01/rdf-schema#label> "John Blackadder (preacher)" .
+<http://dbpedia.org/resource/Ibas_of_Edessa> <http://www.w3.org/2000/01/rdf-schema#label> "Ibas of Edessa" .
+<http://dbpedia.org/resource/San_Diego_Padres> <http://dbpedia.org/ontology/person> "clergyman" .
+<http://dbpedia.org/resource/Eliseo_Soriano> <http://dbpedia.org/ontology/person> "clergyman" .
+<http://dbpedia.org/resource/Phoenix_Prospectors> <http://dbpedia.org/ontology/person> "guild" .
+<http://dbpedia.org/resource/John_Blackadder_(preacher)> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/San_Diego_Padres> <http://www.w3.org/2000/01/rdf-schema#label> "San Diego Padres" .
+<http://dbpedia.org/resource/Phoenix_Prospectors> <http://www.w3.org/2000/01/rdf-schema#label> "Phoenix Prospectors" .
+<http://dbpedia.org/resource/Tampa_Bay_Rays> <http://dbpedia.org/ontology/person> "abstract entity" .
+<http://dbpedia.org/resource/John_Payne_(bishop_of_Liberia)> <http://www.w3.org/2000/01/rdf-schema#label> "John Payne (bishop of Liberia)" .
+<http://dbpedia.org/resource/San_Francisco_Giants> <http://dbpedia.org/ontology/person> "organisation" .
+<http://dbpedia.org/resource/San_Francisco_Giants> <http://www.w3.org/2000/01/rdf-schema#label> "San Francisco Giants" .
+<http://dbpedia.org/resource/Seattle_Mariners> <http://www.w3.org/2000/01/rdf-schema#label> "Seattle Mariners" .
+<http://dbpedia.org/resource/Tampa_Bay_Rays> <http://www.w3.org/2000/01/rdf-schema#label> "Tampa Bay Rays" .
+

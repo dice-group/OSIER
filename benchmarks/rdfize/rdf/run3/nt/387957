@@ -1,0 +1,16 @@
+<http://example.org/bbc6b8a5-9482-4f2e-8b4e-8412339c66fe/Editor%2C+essayist> <http://www.w3.org/2000/01/rdf-schema#label> "Editor, essayist" .
+<http://example.org/bbc6b8a5-9482-4f2e-8b4e-8412339c66fe/Television+news%2Cjournalist%2Ccommentator> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Chief_executive_officer> <http://www.w3.org/2000/01/rdf-schema#label> "CEO" .
+<http://example.org/bbc6b8a5-9482-4f2e-8b4e-8412339c66fe/Actress%2C+Singer%2C+Rapper%2C+Voice+over+actress%2C+Announcer%2C+Narrator> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/bbc6b8a5-9482-4f2e-8b4e-8412339c66fe/Actress%2C+Singer%2C+Rapper%2C+Voice+over+actress%2C+Announcer%2C+Narrator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lawyer> .
+<http://example.org/bbc6b8a5-9482-4f2e-8b4e-8412339c66fe/Editor%2C+essayist> <http://dbpedia.org/ontology/location> "person function" .
+<http://example.org/bbc6b8a5-9482-4f2e-8b4e-8412339c66fe/Television+news%2Cjournalist%2Ccommentator> <http://www.w3.org/2000/01/rdf-schema#label> "Television news,journalist,commentator" .
+<http://example.org/bbc6b8a5-9482-4f2e-8b4e-8412339c66fe/Editor%2C+essayist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lawyer> .
+<http://dbpedia.org/resource/Chief_executive_officer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lawyer> .
+<http://dbpedia.org/resource/Lawyer> <http://dbpedia.org/ontology/location> "person function" .
+<http://example.org/bbc6b8a5-9482-4f2e-8b4e-8412339c66fe/Television+news%2Cjournalist%2Ccommentator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lawyer> .
+<http://dbpedia.org/resource/Chief_executive_officer> <http://dbpedia.org/ontology/location> "person function" .
+<http://dbpedia.org/resource/Lawyer> <http://www.w3.org/2000/01/rdf-schema#label> "Lawyer" .
+<http://example.org/bbc6b8a5-9482-4f2e-8b4e-8412339c66fe/Actress%2C+Singer%2C+Rapper%2C+Voice+over+actress%2C+Announcer%2C+Narrator> <http://www.w3.org/2000/01/rdf-schema#label> "Actress, Singer, Rapper, Voice over actress, Announcer, Narrator" .
+<http://dbpedia.org/resource/Lawyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lawyer> .
+

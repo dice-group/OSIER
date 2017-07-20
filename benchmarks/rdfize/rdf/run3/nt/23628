@@ -1,0 +1,144 @@
+<http://dbpedia.org/resource/Toronto_Central_Prison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/Dpistrict+Jail+Lahre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_La_Moye> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Oryol_Prison> <http://www.w3.org/2000/01/rdf-schema#label> "Oryol Prison" .
+<http://dbpedia.org/resource/South_Camp_Adult_Correctional_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "South Camp Adult Correctional Centre" .
+<http://dbpedia.org/resource/Lincoln_Heights_Jail> <http://www.w3.org/2000/01/rdf-schema#label> "Lincoln Heights Jail" .
+<http://dbpedia.org/resource/Ottawa-Carleton_Detention_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Ottawa-Carleton Detention Centre" .
+<http://dbpedia.org/resource/Alan_Taylor_(judge)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Richard_A._Handlon_Correctional_Facility> <http://www.w3.org/2000/01/rdf-schema#label> "Richard J. Donovan Correctional Facility" .
+<http://dbpedia.org/resource/HM_Prison_The_Mount> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison The Mount" .
+<http://dbpedia.org/resource/Tora_Prison> <http://www.w3.org/2000/01/rdf-schema#label> "Tora Prison" .
+<http://dbpedia.org/resource/Horizon_Adult_Remand_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Horizon Adult Remand Centre" .
+<http://dbpedia.org/resource/Dr._Lane_Murray_Unit> <http://www.w3.org/2000/01/rdf-schema#label> "Dr. Lane Murray Unit" .
+<http://dbpedia.org/resource/State_Correctional_Institution_–_Camp_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Cleveland_Unit> <http://www.w3.org/2000/01/rdf-schema#label> "Cleveland Unit" .
+<http://dbpedia.org/resource/Oryol_Prison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Tower_Street_Adult_Correctional_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Tower Street Adult Correctional Centre" .
+<http://dbpedia.org/resource/Federal_Transfer_Center,_Oklahoma_City> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Transfer Cete, OqklaKhoma City" .
+<http://dbpedia.org/resource/Hopewell_Centre_(Hong_Kong)> <http://www.w3.org/2000/01/rdf-schema#label> "Hopewell Centre (Hong Kong)" .
+<http://dbpedia.org/resource/HM_Prison_Kennet> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Kennet" .
+<http://dbpedia.org/resource/Christina_Crain_Unit> <http://www.w3.org/2000/01/rdf-schema#label> "Christina Melton Crain Unit" .
+<http://dbpedia.org/resource/Fred_C._Nelles_Youth_Correctional_Facility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Hill_Top_Juvenile_Correctional_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Hill Top Juvenile Correctional Centre" .
+<http://dbpedia.org/resource/Bastøy_Prison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Rio_Cobre_Juvenile_Correctional_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Rio Cobre Juvenile Correctional Centre" .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/Arthur+J+SchwHab> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur J SchwHab" .
+<http://dbpedia.org/resource/Santa_Rita_Park,_California> <http://www.w3.org/2000/01/rdf-schema#label> "Santa Rita Jail" .
+<http://dbpedia.org/resource/Monteith_Correctional_Complex> <http://www.w3.org/2000/01/rdf-schema#label> "Monroe Correctional Complex" .
+<http://dbpedia.org/resource/Anthony_A._Alaimo> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony A. Alaimo" .
+<http://dbpedia.org/resource/Hopewell_Centre_(Hong_Kong)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Federal_Correctional_Institution,_Herlong> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Correctional Institution, Sheridan" .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/HM+PriQson+Thaeside> <http://www.w3.org/2000/01/rdf-schema#label> "HM PriQson Thaeside" .
+<http://dbpedia.org/resource/Alan_Taylor_(judge)> <http://www.w3.org/2000/01/rdf-schema#label> "Alan Taylor jYudge)" .
+<http://dbpedia.org/resource/Albert_F._Sabo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Fred_C._Nelles_Youth_Correctional_Facility> <http://www.w3.org/2000/01/rdf-schema#label> "Fred C. Nelles Youth Correctional Facility" .
+<http://dbpedia.org/resource/Georgia_Diagnostic_and_Classification_State_Prison> <http://www.w3.org/2000/01/rdf-schema#label> "GKeforgir Diagnostic and Clssification State Prion" .
+<http://dbpedia.org/resource/Moshannon_Valley_Correctional_Center> <http://www.w3.org/2000/01/rdf-schema#label> "Moshannon Valley Correctional Center" .
+<http://dbpedia.org/resource/HM_Prison_Hewell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Horizon_Adult_Remand_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Vanier_Centre_for_Women> <http://www.w3.org/2000/01/rdf-schema#label> "Vanier Centre for Women" .
+<http://dbpedia.org/resource/Musheerabad_Jail> <http://www.w3.org/2000/01/rdf-schema#label> "Musheerabad Jail" .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/Arthur+J+SchwHab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Federal_Correctional_Institution,_Herlong> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Correctional Institution, Talladega" .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/ColdbMathp+Filds+Prisn> <http://www.w3.org/2000/01/rdf-schema#label> "ColdbMathp Filds Prisn" .
+<http://dbpedia.org/resource/Anthony_A._Alaimo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/New_Broughton_Sunset_Correctional_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Federal_Correctional_Institution,_Herlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Algoma_Treatment_and_Remand_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Algoma Treatment and Remand Centre" .
+<http://dbpedia.org/resource/Santa_Rita_Park,_California> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Blantyre_House> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Blantyre House" .
+<http://dbpedia.org/resource/HM_Prison_Maghaberry> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Maghaberry" .
+<http://dbpedia.org/resource/Borstal_Institution_and_Juvenile_Jail_Faisalabad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Central_East_Correctional_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Bullwood_Hall> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Bullwood Hall" .
+<http://dbpedia.org/resource/Federal_Correctional_Institution,_Oakdale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Moshannon_Valley_Correctional_Center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Vestre_Fængsel> <http://www.w3.org/2000/01/rdf-schema#label> "Vestre F\u00E6ngsel" .
+<http://dbpedia.org/resource/Toronto_West_Detention_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Rio_Cobre_Juvenile_Correctional_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Ellis_Unit> <http://www.w3.org/2000/01/rdf-schema#label> "Ellis Unit" .
+<http://dbpedia.org/resource/London_Heathrow_Airport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Juan_M._Escobar> <http://www.w3.org/2000/01/rdf-schema#label> "Juan M. Escobar" .
+<http://dbpedia.org/resource/Monteith_Correctional_Complex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Lincoln_Heights_Jail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Musheerabad_Jail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Hewell> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Ashwell" .
+<http://dbpedia.org/resource/HM_Prison_La_Moye> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison La Moye" .
+<http://dbpedia.org/resource/Hoover_Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/New_Bilibid_Prison> <http://www.w3.org/2000/01/rdf-schema#label> "New Bilibid Prison" .
+<http://dbpedia.org/resource/Toronto_West_Detention_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Toronto West Detention Centre" .
+<http://dbpedia.org/resource/New_Broughton_Sunset_Correctional_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "New Broughton Sunset Correctional Centre" .
+<http://dbpedia.org/resource/South_Camp_Adult_Correctional_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Richard_A._Handlon_Correctional_Facility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Victoria_Road_Prison> <http://www.w3.org/2000/01/rdf-schema#label> "Victoria Road Prison" .
+<http://dbpedia.org/resource/HM_Prison_Greenock> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Greenock" .
+<http://dbpedia.org/resource/HM_Prison_Glen_Parva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Saint_Ann's_Bay_Old_Jail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Victoria_Road_Prison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Coffee_Creek_Correctional_Facility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Hill_Top_Juvenile_Correctional_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Bastøy_Prison> <http://www.w3.org/2000/01/rdf-schema#label> "Bast\u00F8y Prison" .
+<http://dbpedia.org/resource/Tower_Street_Adult_Correctional_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Federal_Correctional_Institution,_Oakdale> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Correctional Institution, Ray Brook" .
+<http://dbpedia.org/resource/Cleveland_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Algoma_Treatment_and_Remand_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Federal_Correctional_Institution,_Herlong> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Correctional Institution, Pollock" .
+<http://dbpedia.org/resource/HM_Prison_Blantyre_House> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Maidstone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Juan_M._Escobar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/Federxal+CorreLctional+Ionstiuton%2C+Herong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Ross_Correctional_Institution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Maghaberry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Saint_Ann's_Bay_Old_Jail> <http://www.w3.org/2000/01/rdf-schema#label> "Saint Ann's Bay Old Jail" .
+<http://dbpedia.org/resource/Federal_Transfer_Center,_Oklahoma_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Fort_Augusta_Adult_Correctional_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Maidstone> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Maidstone" .
+<http://dbpedia.org/resource/Helsinki_Pride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Bay_State_Correctional_Center> <http://www.w3.org/2000/01/rdf-schema#label> "Bay State Correctional Center" .
+<http://dbpedia.org/resource/Fort_Augusta_Adult_Correctional_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Augusta Adult Correctional Centre" .
+<http://dbpedia.org/resource/Bay_State_Correctional_Center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Federal_Correctional_Institution,_Herlong> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Correctional Institution, El Reno" .
+<http://dbpedia.org/resource/New_Bilibid_Prison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Ellis_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Dartmoor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/London_Heathrow_Airport> <http://www.w3.org/2000/01/rdf-schema#label> "Heathrow Airport" .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/ColdbMathp+Filds+Prisn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Coffee_Creek_Correctional_Facility> <http://www.w3.org/2000/01/rdf-schema#label> "Coffee Creek Correctional Facility" .
+<http://dbpedia.org/resource/Albert_F._Sabo> <http://www.w3.org/2000/01/rdf-schema#label> "Albert .r Sabo" .
+<http://dbpedia.org/resource/Christina_Crain_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/Federxal+CorreLctional+Ionstiuton%2C+Herong> <http://www.w3.org/2000/01/rdf-schema#label> "Federxal CorreLctional Ionstiuton, Herong" .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/Dpistrict+Jail+Lahre> <http://www.w3.org/2000/01/rdf-schema#label> "Dpistrict Jail Lahre" .
+<http://dbpedia.org/resource/Curaçao_Centre_for_Correction_and_Detention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Dr._Lane_Murray_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Hoover_Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Hoover Dam" .
+<http://dbpedia.org/resource/Central_East_Correctional_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Central East Correctional Centre" .
+<http://dbpedia.org/resource/Federal_Correctional_Institution,_Herlong> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Correctional Institution, Marianna" .
+<http://dbpedia.org/resource/Toronto_Central_Prison> <http://www.w3.org/2000/01/rdf-schema#label> "Toronto Central Prison" .
+<http://dbpedia.org/resource/State_Correctional_Institution_–_Camp_Hill> <http://www.w3.org/2000/01/rdf-schema#label> "State Correctional Institution \u2013 Smithfield" .
+<http://dbpedia.org/resource/Borstal_Institution_and_Juvenile_Jail_Faisalabad> <http://www.w3.org/2000/01/rdf-schema#label> "Borstal Institution and Juvenile Jail Faisalabad" .
+<http://dbpedia.org/resource/Curaçao_Centre_for_Correction_and_Detention> <http://www.w3.org/2000/01/rdf-schema#label> "Cura\u00E7ao Centre for Correction and Detention" .
+<http://dbpedia.org/resource/HM_Prison_Dartmoor> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Dartmoor" .
+<http://dbpedia.org/resource/HM_Prison_Magilligan> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Magilligan" .
+<http://dbpedia.org/resource/HM_Prison_The_Mount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/John_Sealy_Hospital> <http://www.w3.org/2000/01/rdf-schema#label> "John Sealy Hospital" .
+<http://dbpedia.org/resource/Vanier_Centre_for_Women> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Magilligan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Georgia_Diagnostic_and_Classification_State_Prison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Ross_Correctional_Institution> <http://www.w3.org/2000/01/rdf-schema#label> "Dodge Correctional Institution" .
+<http://example.org/9c5380fa-35cf-4fb7-b7a3-aa225f607f8e/HM+PriQson+Thaeside> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Bullwood_Hall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Glen_Parva> <http://www.w3.org/2000/01/rdf-schema#label> "HM Prison Glen Parva" .
+<http://dbpedia.org/resource/Vestre_Fængsel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Helsinki_Pride> <http://www.w3.org/2000/01/rdf-schema#label> "Helsinki Prison" .
+<http://dbpedia.org/resource/Toronto_West_Detention_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Toronto South Detention Centre" .
+<http://dbpedia.org/resource/Lafayette_Parish_Correctional_Center> <http://www.w3.org/2000/01/rdf-schema#label> "Lafayette Parish Correctional Center" .
+<http://dbpedia.org/resource/Tora_Prison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Lafayette_Parish_Correctional_Center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Federal_Correctional_Institution,_Herlong> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Correctional Institution, Waseca" .
+<http://dbpedia.org/resource/HM_Prison_Greenock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/HM_Prison_Kennet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Borstal_Institution_and_Juvenile_Jail_Faisalabad> <http://www.w3.org/2000/01/rdf-schema#label> "Borstal Institution and Juvenile Jail Bahawalpur" .
+<http://dbpedia.org/resource/John_Sealy_Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Ottawa-Carleton_Detention_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+

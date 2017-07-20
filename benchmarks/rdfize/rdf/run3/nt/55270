@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Royal_Antwerp_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Royal Antwerp F.C." .
+<http://dbpedia.org/resource/Port_Talbot_Town_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2001> .
+<http://dbpedia.org/resource/Royal_Antwerp_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2001> .
+<http://dbpedia.org/resource/Manchester_United_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2001> .
+<http://dbpedia.org/resource/Swansea_City_A.F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2001> .
+<http://dbpedia.org/resource/Manchester_United_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Manchester United F.C." .
+<http://dbpedia.org/resource/Spain_national_under-21_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Spain national under-21 football team" .
+<http://dbpedia.org/resource/Swansea_City_A.F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Swansea City A.F.C." .
+<http://dbpedia.org/resource/Port_Talbot_Town_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Port Talbot Town F.C." .
+<http://dbpedia.org/resource/Spain_national_under-21_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2001> .
+

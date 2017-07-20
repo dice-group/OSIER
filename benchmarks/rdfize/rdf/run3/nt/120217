@@ -1,0 +1,6 @@
+<http://example.org/45e019da-5df3-4c51-a6b7-6548f7e85be9/Southern+Fleurieu+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Southern Fleurieu wine region" .
+<http://example.org/45e019da-5df3-4c51-a6b7-6548f7e85be9/Ancient+Loakes+of+the+Colmbpia+Valey+AVA> <http://www.w3.org/2000/01/rdf-schema#label> "Ancient Loakes of the Colmbpia Valey AVA" .
+<http://example.org/45e019da-5df3-4c51-a6b7-6548f7e85be9/Mount+Gambier+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Gambier wine region" .
+<http://example.org/45e019da-5df3-4c51-a6b7-6548f7e85be9/Limestone+Coast+zone+%28wine%29> <http://www.w3.org/2000/01/rdf-schema#label> "Limestone Coast zone (wine)" .
+<http://example.org/45e019da-5df3-4c51-a6b7-6548f7e85be9/Lower+Murray+zone+%28wine%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lower Murray zone (wine)" .
+

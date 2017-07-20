@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Saturn_C-5N> <http://www.w3.org/2000/01/rdf-schema#label> "Saturn C-8" .
+<http://dbpedia.org/resource/Shahab-6> <http://dbpedia.org/ontology/rocket> "instrumentality" .
+<http://dbpedia.org/resource/Space_Shuttle_program> <http://dbpedia.org/ontology/rocket> "know-how" .
+<http://dbpedia.org/resource/Shahab-6> <http://www.w3.org/2000/01/rdf-schema#label> "Shahab-4" .
+<http://example.org/1978f2ee-4193-45c2-add0-a47ca5c25c00/Saturn-ShWutle> <http://www.w3.org/2000/01/rdf-schema#label> "Saturn-ShWutle" .
+<http://dbpedia.org/resource/Space_Shuttle_program> <http://www.w3.org/2000/01/rdf-schema#label> "Space Shuttle program" .
+<http://example.org/1978f2ee-4193-45c2-add0-a47ca5c25c00/Saturn-ShWutle> <http://dbpedia.org/ontology/rocket> "RocketEniNne" .
+<http://dbpedia.org/resource/S.P._Korolev_Rocket_and_Space_Corporation_Energia> <http://www.w3.org/2000/01/rdf-schema#label> "Energia" .
+<http://dbpedia.org/resource/S.P._Korolev_Rocket_and_Space_Corporation_Energia> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://dbpedia.org/resource/Saturn_C-5N> <http://dbpedia.org/ontology/rocket> "Thing" .
+

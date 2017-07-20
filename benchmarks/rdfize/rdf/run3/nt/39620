@@ -1,0 +1,71 @@
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/RFL+Lancashire+Cup> <http://www.w3.org/2000/01/rdf-schema#label> "RFL Lancashire Cup" .
+<http://dbpedia.org/resource/Asian_Women's_Sevens_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "African Women's Sevens Championship" .
+<http://dbpedia.org/resource/Rugby_Ekstraliga> <http://www.w3.org/2000/01/rdf-schema#label> "Ekstraliga (rugby)" .
+<http://dbpedia.org/resource/European_Shield> <http://www.w3.org/2000/01/rdf-schema#label> "European Shield" .
+<http://dbpedia.org/resource/Belgian_Elite_League> <http://www.w3.org/2000/01/rdf-schema#label> "Belgian Elite League" .
+<http://dbpedia.org/resource/Bartercard_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Bartercard Cup" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/League+Cup+%28rugby+league%29> <http://www.w3.org/2000/01/rdf-schema#label> "League Cup (rugby league)" .
+<http://dbpedia.org/resource/Midlands_4_East_(North)> <http://www.w3.org/2000/01/rdf-schema#label> "Midlands 2 East (North)" .
+<http://dbpedia.org/resource/Mexican_major_rugby_league> <http://www.w3.org/2000/01/rdf-schema#label> "Mexican major rugby league" .
+<http://dbpedia.org/resource/NRL_Auckland_Nines> <http://www.w3.org/2000/01/rdf-schema#label> "NRL Auckland Nines" .
+<http://dbpedia.org/resource/Scottish_Premiership_Division_Two> <http://www.w3.org/2000/01/rdf-schema#label> "Scottish Premiership Division One" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/World+Rugby+Tbilisi+Cup> <http://www.w3.org/2000/01/rdf-schema#label> "World Rugby Tbilisi Cup" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/Darwin+Hottest+Sevens> <http://www.w3.org/2000/01/rdf-schema#label> "Darwin Hottest Sevens" .
+<http://dbpedia.org/resource/Bamburi_Rugby_Super_Series> <http://www.w3.org/2000/01/rdf-schema#label> "Bamburi Rugby Super Series" .
+<http://dbpedia.org/resource/Irish_American_Football_League> <http://www.w3.org/2000/01/rdf-schema#label> "Flemish American Football League" .
+<http://dbpedia.org/resource/USA_Rugby_Elite_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "USA Rugby Elite Cup" .
+<http://dbpedia.org/resource/2003_Continental_Championships> <http://www.w3.org/2000/01/rdf-schema#label> "PARA Pan American Championship" .
+<http://dbpedia.org/resource/Hampshire_Football_Association> <http://www.w3.org/2000/01/rdf-schema#label> "Hampshire 1" .
+<http://dbpedia.org/resource/Yellow_Sea_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Yellow Sea Cup" .
+<http://dbpedia.org/resource/National_League_1> <http://www.w3.org/2000/01/rdf-schema#label> "Courage League Division 5" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/Ocseani+nder+20+Rugby+ChampiLonship> <http://www.w3.org/2000/01/rdf-schema#label> "Ocseani nder 20 Rugby ChampiLonship" .
+<http://dbpedia.org/resource/Serie_A_(rugby_union)> <http://www.w3.org/2000/01/rdf-schema#label> "Serie A (rugby union)" .
+<http://dbpedia.org/resource/Inter-National_League> <http://www.w3.org/2000/01/rdf-schema#label> "Inter-National League" .
+<http://dbpedia.org/resource/3rd_Liga_South/West> <http://www.w3.org/2000/01/rdf-schema#label> "3. Liga S\u00FCd-West" .
+<http://dbpedia.org/resource/Primera_División_Femenina_de_Futsal> <http://www.w3.org/2000/01/rdf-schema#label> "Divisi\u00F3n de Honor Femenina de Rugby" .
+<http://dbpedia.org/resource/Midlands_2_East_(South)> <http://www.w3.org/2000/01/rdf-schema#label> "Midlands 2 East (South)" .
+<http://dbpedia.org/resource/Giuseppe_Garibaldi_Trophy> <http://www.w3.org/2000/01/rdf-schema#label> "Giuseppe Garibaldi Trophy" .
+<http://dbpedia.org/resource/Italia_Rugby_Football_League> <http://www.w3.org/2000/01/rdf-schema#label> "Italia Rugby Football League" .
+<http://dbpedia.org/resource/Manila_10s> <http://www.w3.org/2000/01/rdf-schema#label> "Manila 10s" .
+<http://dbpedia.org/resource/S._G._Ball_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "S. G. Ball Cup" .
+<http://dbpedia.org/resource/Australian_Sevens> <http://www.w3.org/2000/01/rdf-schema#label> "Australian Sevens" .
+<http://dbpedia.org/resource/Victoria_Cup_(rugby_union)> <http://www.w3.org/2000/01/rdf-schema#label> "Victoria Cup (rugby union)" .
+<http://dbpedia.org/resource/Scottish_National_League_(rugby_union)> <http://www.w3.org/2000/01/rdf-schema#label> "Scottish Regional League (rugby union)" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/Rock-paper-scissors> <http://www.w3.org/2000/01/rdf-schema#label> "Rock-paper-scissors" .
+<http://dbpedia.org/resource/Hungarian_Extraliga> <http://www.w3.org/2000/01/rdf-schema#label> "Hungarian Extraliga" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/Rugby+union> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby union" .
+<http://dbpedia.org/resource/Intercontinental_Cup_(baseball)> <http://www.w3.org/2000/01/rdf-schema#label> "Intercontinental Cup (baseball)" .
+<http://dbpedia.org/resource/Australian_Rugby_Shield> <http://www.w3.org/2000/01/rdf-schema#label> "Australian Rugby Shield" .
+<http://dbpedia.org/resource/2012_Premiership_Rugby_Sevens_Series> <http://www.w3.org/2000/01/rdf-schema#label> "Premiership Rugby Sevens Series" .
+<http://dbpedia.org/resource/FOGS_Colts_Challenge> <http://www.w3.org/2000/01/rdf-schema#label> "FOGS Colts Challenge" .
+<http://dbpedia.org/resource/1991_Women's_Rugby_World_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Women's Rugby World Cup" .
+<http://dbpedia.org/resource/Scottish_National_League_Division_Two> <http://www.w3.org/2000/01/rdf-schema#label> "Scottish National League Division One" .
+<http://dbpedia.org/resource/Jamaica_National_League> <http://www.w3.org/2000/01/rdf-schema#label> "Jamaica National League" .
+<http://dbpedia.org/resource/Scotland_Sevens> <http://www.w3.org/2000/01/rdf-schema#label> "Scotland Sevens" .
+<http://dbpedia.org/resource/Pennine_League> <http://www.w3.org/2000/01/rdf-schema#label> "Pennine League" .
+<http://dbpedia.org/resource/We_are_the_99%25> <http://www.w3.org/2000/01/rdf-schema#label> "Top 14" .
+<http://dbpedia.org/resource/USA_Rugby_League> <http://www.w3.org/2000/01/rdf-schema#label> "USA Rugby League" .
+<http://dbpedia.org/resource/Lion_Red_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Lion Red Cup" .
+<http://dbpedia.org/resource/Kenya_National_Sevens_Circuit> <http://www.w3.org/2000/01/rdf-schema#label> "Kenya National Sevens Circuit" .
+<http://dbpedia.org/resource/2010_European_Under-18_Rugby_Union_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "European Under-19 Rugby Union Championship" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/Ringworld+%28role-playing+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ringworld (role-playing game)" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/SEouth+Pacificx+Cmpionship> <http://www.w3.org/2000/01/rdf-schema#label> "SEouth Pacificx Cmpionship" .
+<http://dbpedia.org/resource/Welsh_Conference_Junior_League> <http://www.w3.org/2000/01/rdf-schema#label> "Welsh Conference Junior League" .
+<http://dbpedia.org/resource/Surrey_2> <http://www.w3.org/2000/01/rdf-schema#label> "Surrey 1" .
+<http://dbpedia.org/resource/Admiral_Brown_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Admiral Brown Cup" .
+<http://dbpedia.org/resource/Midlands_2_West_(North)> <http://www.w3.org/2000/01/rdf-schema#label> "Midlands 2 West (North)" .
+<http://dbpedia.org/resource/Queensland_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Queensland Cup" .
+<http://dbpedia.org/resource/Hopetoun_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Hopetoun Cup" .
+<http://dbpedia.org/resource/South_Sydney_District_Junior_Rugby_Football_League> <http://www.w3.org/2000/01/rdf-schema#label> "South Sydney District Junior Rugby Football League" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/Rowing+%28sport%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rowing (sport)" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/Rugby+league> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby league" .
+<http://dbpedia.org/resource/North_West_Senior_League> <http://www.w3.org/2000/01/rdf-schema#label> "North West Men's League" .
+<http://dbpedia.org/resource/Lancashire_Cup_(rugby_union)> <http://www.w3.org/2000/01/rdf-schema#label> "Lancashire Cup (rugby union)" .
+<http://dbpedia.org/resource/II_liga_(Poland)> <http://www.w3.org/2000/01/rdf-schema#label> "II liga (Poland)" .
+<http://dbpedia.org/resource/Championship_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Championship Cup" .
+<http://dbpedia.org/resource/Rugby_League_War_of_the_Roses> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby League War of the Roses" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/Germann+rugbynOion+cup> <http://www.w3.org/2000/01/rdf-schema#label> "Germann rugbynOion cup" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/London+2+BNorth+Est> <http://www.w3.org/2000/01/rdf-schema#label> "London 2 BNorth Est" .
+<http://dbpedia.org/resource/Women's_Rugby_League_World_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Women's Rugby League World Cup" .
+<http://example.org/466e0bdd-43fb-4351-bdcf-09aad6d24c17/African+Rugby+Under-19+Cup> <http://www.w3.org/2000/01/rdf-schema#label> "African Rugby Under-19 Cup" .
+

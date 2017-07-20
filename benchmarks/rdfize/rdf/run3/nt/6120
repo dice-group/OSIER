@@ -1,0 +1,23 @@
+<http://dbpedia.org/resource/Chaldean_Catholic_Archeparchy_of_Mosul> <http://www.w3.org/2000/01/rdf-schema#label> "Chaldean Catholic Archeparchy of Mosul" .
+<http://dbpedia.org/resource/Ukrainian_Catholic_Eparchy_of_Toronto_and_Eastern_Canada> <http://www.w3.org/2000/01/rdf-schema#label> "Ukrainian Catholic Eparchy of Stamford" .
+<http://dbpedia.org/resource/Diocese_of_Western_Anglicans> <http://dbpedia.org/ontology/largestSettlement> "administrative region" .
+<http://dbpedia.org/resource/Diocese_of_the_Carolinas> <http://dbpedia.org/ontology/largestSettlement> "administrative region" .
+<http://example.org/fd66604d-a102-4c2d-8c88-f151200926b9/Roman+Cathiolic+DiXocese+o+Hahung> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Cathiolic DiXocese o Hahung" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Faenza-Modigliana> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Faenza-Modigliana" .
+<http://dbpedia.org/resource/Anglican_Diocese_of_Pittsburgh> <http://www.w3.org/2000/01/rdf-schema#label> "Anglican Diocese of Pittsburgh" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Pittsburgh> <http://dbpedia.org/ontology/largestSettlement> "region" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Pittsburgh> <http://www.w3.org/2000/01/rdf-schema#label> "Episcopal Diocese of Pittsburgh" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Ciudad_Bolívar> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Ciudad Bol\u00EDvar" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Ciudad_Bolívar> <http://dbpedia.org/ontology/largestSettlement> "human settlement" .
+<http://dbpedia.org/resource/Chaldean_Catholic_Archeparchy_of_Mosul> <http://dbpedia.org/ontology/largestSettlement> "administrative region" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Hamhung" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://dbpedia.org/ontology/largestSettlement> "AdministrativeArea" .
+<http://dbpedia.org/resource/Anglican_Diocese_of_Pittsburgh> <http://dbpedia.org/ontology/largestSettlement> "human settlement" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://dbpedia.org/ontology/largestSettlement> "region" .
+<http://dbpedia.org/resource/Diocese_of_the_Carolinas> <http://www.w3.org/2000/01/rdf-schema#label> "Diocese of the Carolinas" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Faenza-Modigliana> <http://dbpedia.org/ontology/largestSettlement> "bishopric" .
+<http://example.org/fd66604d-a102-4c2d-8c88-f151200926b9/Roman+Cathiolic+DiXocese+o+Hahung> <http://dbpedia.org/ontology/largestSettlement> "regiHn" .
+<http://dbpedia.org/resource/Diocese_of_Western_Anglicans> <http://www.w3.org/2000/01/rdf-schema#label> "Diocese of Western Anglicans" .
+<http://dbpedia.org/resource/Ukrainian_Catholic_Eparchy_of_Toronto_and_Eastern_Canada> <http://dbpedia.org/ontology/largestSettlement> "place" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Barinas" .
+

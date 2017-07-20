@@ -1,0 +1,6 @@
+<http://example.org/52a5985b-c0b8-4fa0-9e00-b8cc742930f5/Tea+%28poem%29> <http://www.w3.org/2000/01/rdf-schema#label> "Tea (poem)" .
+<http://dbpedia.org/resource/Aintiṇai_Aimpatu> <http://www.w3.org/2000/01/rdf-schema#label> "Ainti\u1E47ai Aimpatu" .
+<http://dbpedia.org/resource/Elegy_in_April_and_September> <http://www.w3.org/2000/01/rdf-schema#label> "Elegy in April and September" .
+<http://dbpedia.org/resource/Hymn_from_a_Watermelon_Pavilion> <http://www.w3.org/2000/01/rdf-schema#label> "Hymn from a Watermelon Pavilion" .
+<http://dbpedia.org/resource/The_Wind_Shifts> <http://www.w3.org/2000/01/rdf-schema#label> "The Wind Shifts" .
+

@@ -1,0 +1,21 @@
+<http://dbpedia.org/resource/Cleveland_Browns> <http://www.w3.org/2000/01/rdf-schema#label> "1995 Cleveland Browns season" .
+<http://dbpedia.org/resource/Cleveland_Browns> <http://dbpedia.org/ontology/Work/runtime> "1995 Cleveland Browns season" .
+<http://example.org/593803ff-fbcb-49a5-a69c-067b87a8b946/1994+Chicago+Bears+season> <http://dbpedia.org/ontology/Work/runtime> "1994 Chicago Bears season" .
+<http://dbpedia.org/resource/1924%E2%80%9325_Michigan_Wolverines_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1983\u201384 Michigan Wolverines men's basketball team" .
+<http://dbpedia.org/resource/2003%E2%80%9304_Oklahoma_State_Cowboys_basketball_team> <http://dbpedia.org/ontology/Work/runtime> "m.063yxlm" .
+<http://dbpedia.org/resource/Northern_Illinois_Huskies_men's_basketball> <http://www.w3.org/2000/01/rdf-schema#label> "1995\u201396 Northern Illinois Huskies men's basketball team" .
+<http://dbpedia.org/resource/Cleveland_Browns> <http://dbpedia.org/ontology/Work/runtime> "m.02ql7k1" .
+<http://example.org/593803ff-fbcb-49a5-a69c-067b87a8b946/1935%E2%80%9336+Illinois+Fighting+Illini+men%27s+basketball+team> <http://dbpedia.org/ontology/Work/runtime> "m.0ndhstw" .
+<http://example.org/593803ff-fbcb-49a5-a69c-067b87a8b946/1935%E2%80%9336+Illinois+Fighting+Illini+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "1935\u201336 Illinois Fighting Illini men's basketball team" .
+<http://dbpedia.org/resource/Northern_Illinois_Huskies_men's_basketball> <http://dbpedia.org/ontology/Work/runtime> "m.0j637v7" .
+<http://dbpedia.org/resource/1993–94_North_Carolina_Tar_Heels_women's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1979\u201380 North Carolina Tar Heels men's basketball team" .
+<http://dbpedia.org/resource/1993–94_North_Carolina_Tar_Heels_women's_basketball_team> <http://dbpedia.org/ontology/Work/runtime> "m.010lxdzk" .
+<http://dbpedia.org/resource/1990–91_Tercera_División> <http://dbpedia.org/ontology/Work/runtime> "m.0hrglj1" .
+<http://example.org/593803ff-fbcb-49a5-a69c-067b87a8b946/Tercera+Divisi%C3%B3n+de+Espa%C3%B1a+1996-97> <http://www.w3.org/2000/01/rdf-schema#label> "Tercera Divisi\u00F3n de Espa\u00F1a 1996-97" .
+<http://dbpedia.org/resource/2003%E2%80%9304_Oklahoma_State_Cowboys_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "1994\u201395 Oklahoma State Cowboys basketball team" .
+<http://example.org/593803ff-fbcb-49a5-a69c-067b87a8b946/1994+Chicago+Bears+season> <http://www.w3.org/2000/01/rdf-schema#label> "1994 Chicago Bears season" .
+<http://dbpedia.org/resource/1990–91_Tercera_División> <http://www.w3.org/2000/01/rdf-schema#label> "1996\u201397 Tercera Divisi\u00F3n" .
+<http://dbpedia.org/resource/2011%E2%80%9312_Ohio_Bobcats_men's_basketball_team> <http://www.w3.org/2000/01/rdf-schema#label> "2000\u201301 Ohio Bobcats men's basketball team" .
+<http://dbpedia.org/resource/1924%E2%80%9325_Michigan_Wolverines_men's_basketball_team> <http://dbpedia.org/ontology/Work/runtime> "m.0bmcd70" .
+<http://dbpedia.org/resource/Northern_Illinois_Huskies_men's_basketball> <http://dbpedia.org/ontology/Work/runtime> "1995\u201396 Northern Illinois Huskies men's basketball team" .
+

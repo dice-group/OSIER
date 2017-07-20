@@ -1,0 +1,9 @@
+<http://example.org/e9961a63-8434-412b-b9f7-6f03ca2930e4/Ga%C5%82ka+blada> <http://www.w3.org/2000/01/rdf-schema#label> "Ga\u0142ka blada" .
+<http://example.org/e9961a63-8434-412b-b9f7-6f03ca2930e4/Globus+pallidus> <http://www.w3.org/2000/01/rdf-schema#label> "Globus pallidus" .
+<http://example.org/e9961a63-8434-412b-b9f7-6f03ca2930e4/Fascia+dentata> <http://www.w3.org/2000/01/rdf-schema#label> "Fascia dentata" .
+<http://example.org/e9961a63-8434-412b-b9f7-6f03ca2930e4/Cerebral+peduncle> <http://www.w3.org/2000/01/rdf-schema#label> "Cerebral peduncle" .
+<http://example.org/e9961a63-8434-412b-b9f7-6f03ca2930e4/Facial+colliculus> <http://www.w3.org/2000/01/rdf-schema#label> "Facial colliculus" .
+<http://example.org/e9961a63-8434-412b-b9f7-6f03ca2930e4/Geniculostriate+route> <http://www.w3.org/2000/01/rdf-schema#label> "Geniculostriate route" .
+<http://example.org/e9961a63-8434-412b-b9f7-6f03ca2930e4/Optic+radiation> <http://www.w3.org/2000/01/rdf-schema#label> "Optic radiation" .
+<http://example.org/e9961a63-8434-412b-b9f7-6f03ca2930e4/Konary+m%C3%B3zgu> <http://www.w3.org/2000/01/rdf-schema#label> "Konary m\u00F3zgu" .
+

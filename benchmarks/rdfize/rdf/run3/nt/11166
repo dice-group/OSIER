@@ -1,0 +1,19 @@
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Nix+v.+Hedden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Structure_Determination_Method> .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/McCutcheon+v.+FEC> <http://dbpedia.org/ontology/unitedStatesNationalBridgeId> "United States Supreme Court cases" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/McNally+v.+United+States> <http://dbpedia.org/ontology/unitedStatesNationalBridgeId> "determination" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/McNally+v.+United+States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Structure_Determination_Method> .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/McCutcheon+v.+FEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Structure_Determination_Method> .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Nix+v.+Hedden> <http://www.w3.org/2000/01/rdf-schema#label> "Nix v. Hedden" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Nix+v.+Hedden> <http://dbpedia.org/ontology/unitedStatesNationalBridgeId> "duty" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Nix+v.+Whiteside> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Structure_Determination_Method> .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Walz+v.+Tax+Commission+of+the+City+of+New+York> <http://dbpedia.org/ontology/unitedStatesNationalBridgeId> "legal case" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Walz+v.+Tax+Commission+of+the+City+of+New+York> <http://www.w3.org/2000/01/rdf-schema#label> "Walz v. Tax Commission of the City of New York" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Hansberry+v.+Lee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Structure_Determination_Method> .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Nix+v.+Whiteside> <http://www.w3.org/2000/01/rdf-schema#label> "Nix v. Whiteside" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Hansberry+v.+Lee> <http://www.w3.org/2000/01/rdf-schema#label> "Hansberry v. Lee" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Hansberry+v.+Lee> <http://dbpedia.org/ontology/unitedStatesNationalBridgeId> "United States Supreme Court cases" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Nix+v.+Whiteside> <http://dbpedia.org/ontology/unitedStatesNationalBridgeId> "Event" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/McNally+v.+United+States> <http://www.w3.org/2000/01/rdf-schema#label> "McNally v. United States" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/McCutcheon+v.+FEC> <http://www.w3.org/2000/01/rdf-schema#label> "McCutcheon v. FEC" .
+<http://example.org/f5163415-f00a-4ba8-9290-df92bb6c2b56/Walz+v.+Tax+Commission+of+the+City+of+New+York> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.uniprot.org/core/Structure_Determination_Method> .
+

@@ -1,0 +1,6 @@
+<http://example.org/e7901975-ec1d-4392-becf-05803c7abb87/Gomora+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gomora (moth)" .
+<http://example.org/e7901975-ec1d-4392-becf-05803c7abb87/Luca+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Luca (genus)" .
+<http://example.org/e7901975-ec1d-4392-becf-05803c7abb87/Inga+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Inga (moth)" .
+<http://example.org/e7901975-ec1d-4392-becf-05803c7abb87/Lithium+%28gaeus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lithium (gaeus)" .
+<http://example.org/e7901975-ec1d-4392-becf-05803c7abb87/Holcobius+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Holcobius simplex" .
+

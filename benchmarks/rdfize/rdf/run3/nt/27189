@@ -1,0 +1,16 @@
+<http://example.org/cf81c762-eba2-4e3f-bd8f-08f481bc0b59/Luang_Prabang_Province__City_of_Luang_Prabang__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Causses_and_Cévennes> <http://dbpedia.org/ontology/location> "Location" .
+<http://dbpedia.org/resource/Tunis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/cf81c762-eba2-4e3f-bd8f-08f481bc0b59/Luang_Prabang_Province__City_of_Luang_Prabang__1> <http://dbpedia.org/ontology/location> "Location" .
+<http://dbpedia.org/resource/Sheikh_Safi_al-Din_Khānegāh_and_Shrine_Ensemble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Sheikh_Safi_al-Din_Khānegāh_and_Shrine_Ensemble> <http://www.w3.org/2000/01/rdf-schema#label> "Sheikh Safi al-Din Kh\u0101neg\u0101h and Shrine Ensemble" .
+<http://example.org/cf81c762-eba2-4e3f-bd8f-08f481bc0b59/Luang_Prabang_Province__City_of_Luang_Prabang__1> <http://www.w3.org/2000/01/rdf-schema#label> "Luang_Prabang_Province__City_of_Luang_Prabang__1" .
+<http://dbpedia.org/resource/Sheikh_Safi_al-Din_Khānegāh_and_Shrine_Ensemble> <http://dbpedia.org/ontology/location> "place" .
+<http://dbpedia.org/resource/Christianity_in_Sudan> <http://dbpedia.org/ontology/location> "place" .
+<http://dbpedia.org/resource/Tunis> <http://www.w3.org/2000/01/rdf-schema#label> "Medina of Tunis" .
+<http://dbpedia.org/resource/Causses_and_Cévennes> <http://www.w3.org/2000/01/rdf-schema#label> "Causses and C\u00E9vennes" .
+<http://dbpedia.org/resource/Christianity_in_Sudan> <http://www.w3.org/2000/01/rdf-schema#label> "Christianity in Jordan" .
+<http://dbpedia.org/resource/Christianity_in_Sudan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Causses_and_Cévennes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Tunis> <http://dbpedia.org/ontology/location> "World Heritage Site" .
+

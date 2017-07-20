@@ -1,0 +1,20 @@
+<http://dbpedia.org/resource/Grand_Valley_AVA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Region> .
+<http://dbpedia.org/resource/Grand_Valley_AVA> <http://www.w3.org/2000/01/rdf-schema#label> "Grand Valley AVA" .
+<http://dbpedia.org/resource/Beaujolais> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Region> .
+<http://dbpedia.org/resource/New_York_wine> <http://www.w3.org/2000/01/rdf-schema#label> "New York wine" .
+<http://example.org/27d8da94-cf08-4b47-b41a-5605e4ed291d/Vino+del+Condado+de+Sonoma> <http://www.w3.org/2000/01/rdf-schema#label> "Vino del Condado de Sonoma" .
+<http://dbpedia.org/resource/Ozark_Highlands_AVA> <http://www.w3.org/2000/01/rdf-schema#label> "Ozark Highlands AVA" .
+<http://dbpedia.org/resource/Sonoma_County_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Region> .
+<http://dbpedia.org/resource/New_York_wine> <http://dbpedia.org/ontology/region> "physical entity" .
+<http://dbpedia.org/resource/Sonoma_County_wine> <http://dbpedia.org/ontology/region> "region" .
+<http://dbpedia.org/resource/Sonoma_County_wine> <http://www.w3.org/2000/01/rdf-schema#label> "Sonoma County wine" .
+<http://dbpedia.org/resource/Grand_Valley_AVA> <http://dbpedia.org/ontology/region> "country" .
+<http://dbpedia.org/resource/Ozark_Highlands_AVA> <http://dbpedia.org/ontology/region> "yagoGeoEntity" .
+<http://example.org/27d8da94-cf08-4b47-b41a-5605e4ed291d/Vino+del+Condado+de+Sonoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Region> .
+<http://dbpedia.org/resource/Ozark_Highlands_AVA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Region> .
+<http://dbpedia.org/resource/Beaujolais> <http://www.w3.org/2000/01/rdf-schema#label> "Beaujolais" .
+<http://example.org/27d8da94-cf08-4b47-b41a-5605e4ed291d/Weinbau+in+New+York> <http://www.w3.org/2000/01/rdf-schema#label> "Weinbau in New York" .
+<http://example.org/27d8da94-cf08-4b47-b41a-5605e4ed291d/Weinbau+in+New+York> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Region> .
+<http://dbpedia.org/resource/Beaujolais> <http://dbpedia.org/ontology/region> "region" .
+<http://dbpedia.org/resource/New_York_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Region> .
+

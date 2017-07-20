@@ -1,0 +1,8 @@
+<http://example.org/3093b383-7246-4057-b8b3-ddcabf90114e/TVXQ+Lalbum+discogaWphy> <http://www.w3.org/2000/01/rdf-schema#label> "TVXQ Lalbum discogaWphy" .
+<http://example.org/3093b383-7246-4057-b8b3-ddcabf90114e/BoA+videography> <http://dbpedia.org/ontology/board> "BoA" .
+<http://example.org/3093b383-7246-4057-b8b3-ddcabf90114e/Weird+Al+Yankovic+discography> <http://www.w3.org/2000/01/rdf-schema#label> "Weird Al Yankovic discography" .
+<http://example.org/3093b383-7246-4057-b8b3-ddcabf90114e/Gilbert+O%27Sullivan+discography> <http://www.w3.org/2000/01/rdf-schema#label> "Gilbert O'Sullivan discography" .
+<http://example.org/3093b383-7246-4057-b8b3-ddcabf90114e/Weird+Al+Yankovic+discography> <http://dbpedia.org/ontology/board> "Weird Al Yankovic" .
+<http://example.org/3093b383-7246-4057-b8b3-ddcabf90114e/Country+Gentlemen+discography> <http://www.w3.org/2000/01/rdf-schema#label> "Country Gentlemen discography" .
+<http://example.org/3093b383-7246-4057-b8b3-ddcabf90114e/BoA+videography> <http://www.w3.org/2000/01/rdf-schema#label> "BoA videography" .
+

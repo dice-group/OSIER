@@ -1,0 +1,144 @@
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Minotaur+V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Titan+34D> <http://www.w3.org/2000/01/rdf-schema#label> "Titan 34D" .
+<http://dbpedia.org/resource/Anioma_people> <http://www.w3.org/2000/01/rdf-schema#label> "Delta III" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Soyuz-FG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/EpslonW+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Roland_Juno-60> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://dbpedia.org/resource/Ariane_(rocket_family)> <http://www.w3.org/2000/01/rdf-schema#label> "Ariane 3" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Orbital+Sciences+X-34> <http://www.w3.org/2000/01/rdf-schema#label> "Orbital Sciences X-34" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Liberty+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Lockheed_Martin_P-791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/EpslonW+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "EpslonW (rocket)" .
+<http://dbpedia.org/resource/Ariane_(rocket_family)> <http://www.w3.org/2000/01/rdf-schema#label> "Ariane 5" .
+<http://dbpedia.org/resource/Zenit-C> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://dbpedia.org/resource/Ariane_(rocket_family)> <http://www.w3.org/2000/01/rdf-schema#label> "Ariane 2" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/H-IIA> <http://dbpedia.org/ontology/rocket> "instrumentality" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Sputnik+%28rocket%29> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Delta+4000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Kosmos-3M> <http://dbpedia.org/ontology/rocket> "artifact" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Kosmos-2I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Long_March_1D> <http://www.w3.org/2000/01/rdf-schema#label> "Long March 2A" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Liberty+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Liberty (rocket)" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Soyuz-2-1v> <http://dbpedia.org/ontology/rocket> "transport" .
+<http://dbpedia.org/resource/Zenit-C> <http://www.w3.org/2000/01/rdf-schema#label> "Zenit-2M" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Paektusan+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Paektusan+%28rocket%29> <http://dbpedia.org/ontology/rocket> "RocketEngine" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Skybolt+%28sounding+rocket%29> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Geosynchronous+Satellite+Launch+Vehicle> <http://dbpedia.org/ontology/rocket> "transport" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Paektusan+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Paektusan (rocket)" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Atlas+II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Troposphere+%28rocket+family%29> <http://dbpedia.org/ontology/rocket> "DesignedArtifact" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Liberty+%28rocket%29> <http://dbpedia.org/ontology/rocket> "transport" .
+<http://dbpedia.org/resource/Long_March_1D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Troposphere+%28rocket+family%29> <http://www.w3.org/2000/01/rdf-schema#label> "Troposphere (rocket family)" .
+<http://dbpedia.org/resource/Hackers_on_Planet_Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/VSB-TV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Zenit-3SLB> <http://dbpedia.org/ontology/rocket> "RocketEngine" .
+<http://dbpedia.org/resource/FC_Saturn-2_Moscow_Region> <http://dbpedia.org/ontology/rocket> "physical entity" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Soyuz-2+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Soyuz-2 (rocket)" .
+<http://dbpedia.org/resource/Anioma_people> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Orbital+Sciences+X-34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Atlas+II> <http://dbpedia.org/ontology/rocket> "artifact" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/MUSTARD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Troposphere+%28rocket+family%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Zenit-C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Black_Arrow_(disambiguation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Black_Arrow_(disambiguation)> <http://www.w3.org/2000/01/rdf-schema#label> "Black Arrow" .
+<http://dbpedia.org/resource/Buran_programme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Orbital+Sciences+X-34> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Blue+traNk+%28mQissile%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blue traNk (mQissile)" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Geosynchronous+Satellite+Launch+Vehicle> <http://www.w3.org/2000/01/rdf-schema#label> "Geosynchronous Satellite Launch Vehicle" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/MAX-1+%28Spacecraft%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/M-V> <http://dbpedia.org/ontology/rocket> "vehicle" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Vostok-2M> <http://www.w3.org/2000/01/rdf-schema#label> "Vostok-2M" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/M-V> <http://www.w3.org/2000/01/rdf-schema#label> "M-V" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Minotaur+V> <http://www.w3.org/2000/01/rdf-schema#label> "Minotaur V" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Soyuz-2+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Blue+traNk+%28mQissile%29> <http://dbpedia.org/ontology/rocket> "rcGket" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/H-IIA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Minotaur+IV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/VS-41> <http://www.w3.org/2000/01/rdf-schema#label> "VS-40" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/TitnM+IIIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/FC_Saturn-2_Moscow_Region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Molniya-L> <http://dbpedia.org/ontology/rocket> "RocketEngine" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Kosmos-3M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Black_Arrow_(disambiguation)> <http://dbpedia.org/ontology/rocket> "object" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Minotaur+II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Soyuz-2+%28rocket%29> <http://dbpedia.org/ontology/rocket> "artifact" .
+<http://dbpedia.org/resource/Long_March_1D> <http://www.w3.org/2000/01/rdf-schema#label> "Long March 1" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/MUSTARD> <http://dbpedia.org/ontology/rocket> "DesignedArtifact" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Reusable+Vehicle+Testing> <http://www.w3.org/2000/01/rdf-schema#label> "Reusable Vehicle Testing" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Zenit-3SLB> <http://www.w3.org/2000/01/rdf-schema#label> "Zenit-3SLB" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Soyuz-2-1v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/MUSTARD> <http://www.w3.org/2000/01/rdf-schema#label> "MUSTARD" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Skybolt+%28sounding+rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Skybolt (sounding rocket)" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/MAX-1+%28Spacecraft%29> <http://www.w3.org/2000/01/rdf-schema#label> "MAX-1 (Spacecraft)" .
+<http://dbpedia.org/resource/Space_Shuttle_(pinball)> <http://dbpedia.org/ontology/rocket> "Thing" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Atlas+II> <http://www.w3.org/2000/01/rdf-schema#label> "Atlas II" .
+<http://dbpedia.org/resource/Zenit-C> <http://dbpedia.org/ontology/rocket> "instrumentality" .
+<http://dbpedia.org/resource/Lockheed_Martin_P-791> <http://dbpedia.org/ontology/rocket> "cIrft" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/H-IIA> <http://www.w3.org/2000/01/rdf-schema#label> "H-IIA" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Geosynchronous+Satellite+Launch+Vehicle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Buran_programme> <http://www.w3.org/2000/01/rdf-schema#label> "Buran programIe" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Soyuz-FG> <http://dbpedia.org/ontology/rocket> "object" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Falcon+9+v1.1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/VSB-TV> <http://www.w3.org/2000/01/rdf-schema#label> "VSB-30" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Soyuz-2-1v> <http://www.w3.org/2000/01/rdf-schema#label> "Soyuz-2-1v" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Delta+4000> <http://www.w3.org/2000/01/rdf-schema#label> "Delta 4000" .
+<http://dbpedia.org/resource/Anioma_people> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Titan+34D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/MAX-1+%28Spacecraft%29> <http://dbpedia.org/ontology/rocket> "object" .
+<http://dbpedia.org/resource/Ariane_(rocket_family)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Space_Shuttle_(pinball)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Kosmos-3M> <http://www.w3.org/2000/01/rdf-schema#label> "Kosmos-3M" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Sputnik+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Capricornio+%28rocket%29> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://dbpedia.org/resource/VS-41> <http://dbpedia.org/ontology/rocket> "mean of transportation" .
+<http://dbpedia.org/resource/Lockheed_Martin_P-791> <http://www.w3.org/2000/01/rdf-schema#label> "Lockheed Martin X-33" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Minotaur+V> <http://dbpedia.org/ontology/rocket> "artifact" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Falcon+9+v1.1> <http://www.w3.org/2000/01/rdf-schema#label> "Falcon 9 v1.1" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Zenit-3SLB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Space_Shuttle_(pinball)> <http://www.w3.org/2000/01/rdf-schema#label> "Space Shuttle" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Vostok-2M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Capricornio+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Capricornio (rocket)" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Minotaur+IV> <http://www.w3.org/2000/01/rdf-schema#label> "Minotaur IV" .
+<http://dbpedia.org/resource/Hackers_on_Planet_Earth> <http://www.w3.org/2000/01/rdf-schema#label> "HOPE-X" .
+<http://dbpedia.org/resource/Long_March_1D> <http://www.w3.org/2000/01/rdf-schema#label> "Long March 3C" .
+<http://dbpedia.org/resource/VSB-TV> <http://dbpedia.org/ontology/rocket> "physical entity" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/EpslonW+%28rocket%29> <http://dbpedia.org/ontology/rocket> "rXocke" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/TitnM+IIIC> <http://www.w3.org/2000/01/rdf-schema#label> "TitnM IIIC" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Soyuz-FG> <http://www.w3.org/2000/01/rdf-schema#label> "Soyuz-FG" .
+<http://dbpedia.org/resource/VS-41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Ariane_(rocket_family)> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Mercury-Redstone+Launch+Vehicle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Capricornio+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Delta+0100> <http://www.w3.org/2000/01/rdf-schema#label> "Delta 0100" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/M-V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Molniya-L> <http://www.w3.org/2000/01/rdf-schema#label> "Molniya-M" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Titan+IIIA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Mercury-Redstone+Launch+Vehicle> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Vostok-2M> <http://dbpedia.org/ontology/rocket> "mean of transportation" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Skybolt+%28sounding+rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/TitnM+IIIC> <http://dbpedia.org/ontology/rocket> "insrumenttality" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Mercury-Redstone+Launch+Vehicle> <http://www.w3.org/2000/01/rdf-schema#label> "Mercury-Redstone Launch Vehicle" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Titan+IIIA> <http://www.w3.org/2000/01/rdf-schema#label> "Titan IIIA" .
+<http://dbpedia.org/resource/Ariane_(rocket_family)> <http://dbpedia.org/ontology/rocket> "roockt" .
+<http://dbpedia.org/resource/Long_March_1D> <http://www.w3.org/2000/01/rdf-schema#label> "Long March 7" .
+<http://dbpedia.org/resource/Ariane_(rocket_family)> <http://www.w3.org/2000/01/rdf-schema#label> "Ariane 6" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Sputnik+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sputnik (rocket)" .
+<http://dbpedia.org/resource/Zenit-C> <http://www.w3.org/2000/01/rdf-schema#label> "Zenit-2" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Kosmos-2I> <http://dbpedia.org/ontology/rocket> "rocket" .
+<http://dbpedia.org/resource/Roland_Juno-60> <http://www.w3.org/2000/01/rdf-schema#label> "Juno II" .
+<http://dbpedia.org/resource/FC_Saturn-2_Moscow_Region> <http://www.w3.org/2000/01/rdf-schema#label> "Saturn V" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Titan+IIID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Kosmos-2I> <http://www.w3.org/2000/01/rdf-schema#label> "Kosmos-2I" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Reusable+Vehicle+Testing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Molniya-L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Delta+0100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Hackers_on_Planet_Earth> <http://dbpedia.org/ontology/rocket> "object" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Titan+IIID> <http://www.w3.org/2000/01/rdf-schema#label> "Titan IIID" .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Minotaur+II> <http://www.w3.org/2000/01/rdf-schema#label> "Minotaur II" .
+<http://dbpedia.org/resource/Roland_Juno-60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://example.org/b673cf7b-0811-4b5d-ba68-80cb2de9ba4d/Blue+traNk+%28mQissile%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket> .
+<http://dbpedia.org/resource/Long_March_1D> <http://dbpedia.org/ontology/rocket> "transport" .
+

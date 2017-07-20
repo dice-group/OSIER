@@ -1,0 +1,31 @@
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Alberto+II+di+Thurn+und+Taxis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Alberto+de+Thurn+y+Taxis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis> <http://www.w3.org/2000/01/rdf-schema#label> "Albert, 8th Prince of Thurn and Taxis" .
+<http://dbpedia.org/resource/Ernst,_Prince_of_Saxe-Meiningen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Albert+von+Thurn+und+Taxis+%281867%E2%80%931952%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis> <http://www.w3.org/2000/01/rdf-schema#label> "Albert, 12th Prince of Thurn and Taxis" .
+<http://dbpedia.org/resource/Albert,_12th_Prince_of_Thurn_and_Taxis> <http://www.w3.org/2000/01/rdf-schema#label> "Albert von Thurn und Taxis (1983)" .
+<http://dbpedia.org/resource/Albert_Anton,_Prince_of_Schwarzburg-Rudolstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%88%E3%82%A5%E3%83%AB%E3%83%B3%E3%83%BB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%82%BF%E3%82%AF%E3%82%B7%E3%82%B9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://dbpedia.org/resource/Bernhart,_Prince_of_Sayn-Wittgenstein-Hohenstein> <http://www.w3.org/2000/01/rdf-schema#label> "Bernhart, Prince of Sayn-Wittgenstein-Hohenstein" .
+<http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Alberto+II+di+Thurn+und+Taxis> <http://www.w3.org/2000/01/rdf-schema#label> "Alberto II di Thurn und Taxis" .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Alberto+de+Schwarzburgo-Rudolstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Alberto+de+Schwarzburgo-Rudolstadt> <http://www.w3.org/2000/01/rdf-schema#label> "Alberto de Schwarzburgo-Rudolstadt" .
+<http://dbpedia.org/resource/Albert,_Prince_of_Schwarzburg-Rudolstadt> <http://www.w3.org/2000/01/rdf-schema#label> "Alberto di Schwarzburg-Rudolstadt" .
+<http://dbpedia.org/resource/Albert_Anton,_Prince_of_Schwarzburg-Rudolstadt> <http://www.w3.org/2000/01/rdf-schema#label> "Albert, Prince of Schwarzburg-Rudolstadt" .
+<http://dbpedia.org/resource/Albert,_Prince_of_Schwarzburg-Rudolstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Albert%2C+Prince+Fof+Schwarzurg-Rudlstadht> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Albert+von+Thurn+und+Taxis+%281867%E2%80%931952%29> <http://www.w3.org/2000/01/rdf-schema#label> "Albert von Thurn und Taxis (1867\u20131952)" .
+<http://dbpedia.org/resource/Bernhart,_Prince_of_Sayn-Wittgenstein-Hohenstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://dbpedia.org/resource/Ernst,_Prince_of_Saxe-Meiningen> <http://www.w3.org/2000/01/rdf-schema#label> "Ernst, Prince of Saxe-Meiningen" .
+<http://dbpedia.org/resource/Cicero> <http://www.w3.org/2000/01/rdf-schema#label> "Cicero" .
+<http://dbpedia.org/resource/Cicero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://dbpedia.org/resource/Albert,_12th_Prince_of_Thurn_and_Taxis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Ernesto+Bernardo+de+Sajonia-Meiningen> <http://www.w3.org/2000/01/rdf-schema#label> "Ernesto Bernardo de Sajonia-Meiningen" .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%88%E3%82%A5%E3%83%AB%E3%83%B3%E3%83%BB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%82%BF%E3%82%AF%E3%82%B7%E3%82%B9> <http://www.w3.org/2000/01/rdf-schema#label> "\u30A2\u30EB\u30D9\u30EB\u30C8\u30FB\u30D5\u30A9\u30F3\u30FB\u30C8\u30A5\u30EB\u30F3\u30FB\u30A6\u30F3\u30C8\u30FB\u30BF\u30AF\u30B7\u30B9" .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Alberto+de+Thurn+y+Taxis> <http://www.w3.org/2000/01/rdf-schema#label> "Alberto de Thurn y Taxis" .
+<http://dbpedia.org/resource/Albert,_Prince_of_Schwarzburg-Rudolstadt> <http://www.w3.org/2000/01/rdf-schema#label> "Albet, Prince of SschwaQrzurg-Rudolstadt" .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Albert%2C+Prince+Fof+Schwarzurg-Rudlstadht> <http://www.w3.org/2000/01/rdf-schema#label> "Albert, Prince Fof Schwarzurg-Rudlstadht" .
+<http://example.org/da1fd894-a9fe-43c7-88ba-5b9633d7c8e6/Ernesto+Bernardo+de+Sajonia-Meiningen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+

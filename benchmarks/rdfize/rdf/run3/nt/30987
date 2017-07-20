@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Maryland_Senate> <http://dbpedia.org/ontology/creator> "Agent" .
+<http://dbpedia.org/resource/Municipal_Chamber_of_Porto_Alegre> <http://dbpedia.org/ontology/creator> "Organization" .
+<http://dbpedia.org/resource/Utah_State_Senate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/House_of_Representatives_(Thailand)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Maryland_Senate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Municipal_Chamber_of_Porto_Alegre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Municipal_Chamber_of_Porto_Alegre> <http://www.w3.org/2000/01/rdf-schema#label> "Municipal Chamber of Porto Alegre" .
+<http://dbpedia.org/resource/House_of_Representatives_(Thailand)> <http://dbpedia.org/ontology/creator> "Agent" .
+<http://dbpedia.org/resource/Senate_(Romania)> <http://dbpedia.org/ontology/creator> "SocialPerson" .
+<http://dbpedia.org/resource/Maryland_Senate> <http://www.w3.org/2000/01/rdf-schema#label> "Maryland Senate" .
+<http://dbpedia.org/resource/Senate_(Romania)> <http://www.w3.org/2000/01/rdf-schema#label> "Senate of Romania" .
+<http://dbpedia.org/resource/House_of_Representatives_(Thailand)> <http://www.w3.org/2000/01/rdf-schema#label> "Utah House of Representatives" .
+<http://dbpedia.org/resource/Utah_State_Senate> <http://dbpedia.org/ontology/creator> "Organization" .
+<http://dbpedia.org/resource/Utah_State_Senate> <http://www.w3.org/2000/01/rdf-schema#label> "Utah State Senate" .
+<http://dbpedia.org/resource/Senate_(Romania)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Baum_School_of_Art> <http://dbpedia.org/ontology/location> "organisation" .
+<http://example.org/1f12d427-4cc8-44c1-99da-bef1a1e4fb18/Bartlett+High+School+%28Alaska%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Belen_Jesuit_Preparatory_School> <http://dbpedia.org/ontology/location> "SpatialThing" .
+<http://dbpedia.org/resource/Bartlett_High_School_(Bartlett,_Tennessee)> <http://dbpedia.org/ontology/location> "organisation" .
+<http://example.org/1f12d427-4cc8-44c1-99da-bef1a1e4fb18/Bartlett+High+School+%28Alaska%29> <http://dbpedia.org/ontology/location> "agent" .
+<http://dbpedia.org/resource/Bartlett_High_School_(Bartlett,_Tennessee)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Belen_Jesuit_Preparatory_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Baum_School_of_Art> <http://www.w3.org/2000/01/rdf-schema#label> "Baum School of Art" .
+<http://dbpedia.org/resource/Belen_Jesuit_Preparatory_School> <http://www.w3.org/2000/01/rdf-schema#label> "Belen Jesuit Preparatory School" .
+<http://dbpedia.org/resource/Reading_Memorial_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Banting Memorial High School" .
+<http://example.org/1f12d427-4cc8-44c1-99da-bef1a1e4fb18/Bartlett+High+School+%28Alaska%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bartlett High School (Alaska)" .
+<http://dbpedia.org/resource/Bartlett_High_School_(Bartlett,_Tennessee)> <http://www.w3.org/2000/01/rdf-schema#label> "Bartlett High School (Tennessee)" .
+<http://dbpedia.org/resource/Reading_Memorial_High_School> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Reading_Memorial_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Baum_School_of_Art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+

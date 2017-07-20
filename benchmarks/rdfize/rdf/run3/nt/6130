@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Khazars> <http://dbpedia.org/ontology/country> "Country" .
+<http://dbpedia.org/resource/Kingdom_of_Israel_(Samaria)> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Kingdom_of_Essex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Kingdom_of_Jerusalem> <http://www.w3.org/2000/01/rdf-schema#label> "Kingdom of Jerusalem" .
+<http://dbpedia.org/resource/Kingdom_of_Judah> <http://dbpedia.org/ontology/country> "country" .
+<http://dbpedia.org/resource/Kingdom_of_Judah> <http://www.w3.org/2000/01/rdf-schema#label> "Kingdom of Judah" .
+<http://dbpedia.org/resource/Kingdom_of_Judah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Khazars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Kingdom_of_Jerusalem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Kingdom_of_Israel_(Samaria)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Kingdom_of_Israel_(Samaria)> <http://www.w3.org/2000/01/rdf-schema#label> "Kingdom of Israel (Samaria)" .
+<http://dbpedia.org/resource/Khazars> <http://www.w3.org/2000/01/rdf-schema#label> "Khazars" .
+<http://dbpedia.org/resource/Kingdom_of_Essex> <http://dbpedia.org/ontology/country> "Location_Underspecified" .
+<http://dbpedia.org/resource/Kingdom_of_Essex> <http://www.w3.org/2000/01/rdf-schema#label> "Kingdom of Essex" .
+<http://dbpedia.org/resource/Kingdom_of_Jerusalem> <http://dbpedia.org/ontology/country> "territorial division" .
+

@@ -1,0 +1,130 @@
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Strathbogie+Ranges> <http://www.w3.org/2000/01/rdf-schema#label> "Strathbogie Ranges" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Sugarloaf_Mountain_%28Maryland%29__Sugarloaf_Mountain%2C_Maryland__1> <http://www.w3.org/2000/01/rdf-schema#label> "Sugarloaf_Mountain_(Maryland)__Sugarloaf_Mountain,_Maryland__1" .
+<http://dbpedia.org/resource/Screamin'_Demon> <http://dbpedia.org/ontology/state> "state" .
+<http://dbpedia.org/resource/Road_Runner_Express_(Six_Flags_Discovery_Kingdom)> <http://www.w3.org/2000/01/rdf-schema#label> "Road Runner Express (Six Flags Discovery Kingdom)" .
+<http://dbpedia.org/resource/Wildfire_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Wildfire (Silver Dollar City)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Jasmine+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jasmine (color)" .
+<http://dbpedia.org/resource/Hyakka_Ryōran> <http://dbpedia.org/ontology/state> "event" .
+<http://dbpedia.org/resource/Screamin'_Demon> <http://www.w3.org/2000/01/rdf-schema#label> "Screamin' Demon" .
+<http://dbpedia.org/resource/Mumbo_Jumbo_(roller_coaster)> <http://dbpedia.org/ontology/state> "Thing" .
+<http://dbpedia.org/resource/Mad_Mouse_(Pavilion)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Platinum+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Aquamarine_Power> <http://dbpedia.org/ontology/state> "state" .
+<http://dbpedia.org/resource/Huon_Valley_Council> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Untamed_(roller_coaster)> <http://dbpedia.org/ontology/state> "roller coaster" .
+<http://dbpedia.org/resource/Runaway_Train_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Runaway Train (roller coaster)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Dodger+blue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Burnout+%28ride%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Mad_Mouse_(Pavilion)> <http://www.w3.org/2000/01/rdf-schema#label> "Mad Mouse (Pavilion)" .
+<http://dbpedia.org/resource/Pyramid_Mountains> <http://www.w3.org/2000/01/rdf-schema#label> "Pyramid Mountains" .
+<http://dbpedia.org/resource/Tsunami_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Mumbo_Jumbo_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Mumbo Jumbo (roller coaster)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Platinum+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Platinum (color)" .
+<http://dbpedia.org/resource/Hyakka_Ryōran> <http://www.w3.org/2000/01/rdf-schema#label> "Samurai (ride)" .
+<http://dbpedia.org/resource/Aquamarine_Power> <http://www.w3.org/2000/01/rdf-schema#label> "Aquamarine (color)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Maize+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Cobra_(La_Ronde)> <http://dbpedia.org/ontology/state> "Place" .
+<http://dbpedia.org/resource/Switchback_Railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/White_Canyon_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "White Canyon (roller coaster)" .
+<http://dbpedia.org/resource/Mad_Mouse_(Michigan's_Adventure)> <http://dbpedia.org/ontology/state> "place" .
+<http://dbpedia.org/resource/Road_Runner_Express_(Six_Flags_Discovery_Kingdom)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Runaway_Train_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Switchback_Railway> <http://www.w3.org/2000/01/rdf-schema#label> "Switchback Railway" .
+<http://dbpedia.org/resource/Tsunami_(roller_coaster)> <http://dbpedia.org/ontology/state> "abstract entity" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Kobra+%28ride%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Pyramid_Mountains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Willow_Springs_Canyon> <http://www.w3.org/2000/01/rdf-schema#label> "Willow Springs Canyon" .
+<http://dbpedia.org/resource/Thrillseeker_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Thrillseeker (roller coaster)" .
+<http://dbpedia.org/resource/Dominator_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Dominator (roller coaster)" .
+<http://dbpedia.org/resource/Steel_Eel> <http://www.w3.org/2000/01/rdf-schema#label> "Steel Eel" .
+<http://dbpedia.org/resource/Wildfire_(roller_coaster)> <http://dbpedia.org/ontology/state> "SpatialThing" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Limit+%28rXoSler+caster%29> <http://www.w3.org/2000/01/rdf-schema#label> "Limit (rXoSler caster)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Persian+blue> <http://dbpedia.org/ontology/state> "idea" .
+<http://dbpedia.org/resource/Cordillera_Blanca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Ricochet_(roller_coaster)> <http://dbpedia.org/ontology/state> "abstract entity" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Chartreuse+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/White_Canyon_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Mammoth_Site> <http://www.w3.org/2000/01/rdf-schema#label> "Mammoth (ride)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Goldenrod+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Timberline_Twister> <http://dbpedia.org/ontology/state> "state" .
+<http://dbpedia.org/resource/FireChaser_Express> <http://www.w3.org/2000/01/rdf-schema#label> "FireChaser Express" .
+<http://dbpedia.org/resource/Timberline_Twister> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Cadmium+pigments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Silver_Bullet_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Silver Bullet (roller coaster)" .
+<http://dbpedia.org/resource/Untamed_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Screamin'_Demon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Road_Runner_Express_(Six_Flags_Discovery_Kingdom)> <http://dbpedia.org/ontology/state> "roller coaster" .
+<http://dbpedia.org/resource/Mammoth_Site> <http://dbpedia.org/ontology/state> "abstract entity" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Blue+Hills+%28Washington%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Ricochet_(roller_coaster)> <http://dbpedia.org/ontology/state> "state" .
+<http://dbpedia.org/resource/FireChaser_Express> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Twist_n'_Shout> <http://dbpedia.org/ontology/state> "Thing" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Burnout+%28ride%29> <http://www.w3.org/2000/01/rdf-schema#label> "Burnout (ride)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Strathbogie+Ranges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Vuoristorata> <http://www.w3.org/2000/01/rdf-schema#label> "Vuoristorata" .
+<http://dbpedia.org/resource/Thrillseeker_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Persian+blue> <http://www.w3.org/2000/01/rdf-schema#label> "Persian blue" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Bltnica+VValley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Blue+Hills+%28Washington%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Hills (Washington)" .
+<http://dbpedia.org/resource/Mad_Mouse_(Michigan's_Adventure)> <http://www.w3.org/2000/01/rdf-schema#label> "Mad Mouse (Michigan's Adventure)" .
+<http://dbpedia.org/resource/Dominator_(roller_coaster)> <http://dbpedia.org/ontology/state> "state" .
+<http://dbpedia.org/resource/Vuoristorata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Dominator_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Mad_Mouse_(Michigan's_Adventure)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Aquamarine_Power> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Maize+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Maize (color)" .
+<http://dbpedia.org/resource/Huon_Valley_Council> <http://www.w3.org/2000/01/rdf-schema#label> "Huon Valley" .
+<http://dbpedia.org/resource/Steel_Eel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Cadmium+pigments> <http://dbpedia.org/ontology/state> "noesis" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Persian+blue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Switchback_Railway> <http://dbpedia.org/ontology/state> "state" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Elk+Mountains+%28South+Dakota%29> <http://www.w3.org/2000/01/rdf-schema#label> "Elk Mountains (South Dakota)" .
+<http://dbpedia.org/resource/Thrillseeker_(roller_coaster)> <http://dbpedia.org/ontology/state> "Defunct roller coasters" .
+<http://dbpedia.org/resource/Mumbo_Jumbo_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Mad_Mouse_(Pavilion)> <http://dbpedia.org/ontology/state> "attribute" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Burnout+%28ride%29> <http://dbpedia.org/ontology/state> "event" .
+<http://dbpedia.org/resource/Wildfire_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Goldenrod+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Goldenrod (color)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Kobra+%28ride%29> <http://dbpedia.org/ontology/state> "Location" .
+<http://dbpedia.org/resource/Ravine_Flyer_II> <http://www.w3.org/2000/01/rdf-schema#label> "Ravine Flyer III" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Cadmium+pigments> <http://www.w3.org/2000/01/rdf-schema#label> "Cadmium pigments" .
+<http://dbpedia.org/resource/Tsunami_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Tsunami (roller coaster)" .
+<http://dbpedia.org/resource/Ricochet_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Ricochet (Carowinds)" .
+<http://dbpedia.org/resource/Ricochet_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Chartreuse+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chartreuse (color)" .
+<http://dbpedia.org/resource/Silver_Bullet_(roller_coaster)> <http://dbpedia.org/ontology/state> "attribute" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Limit+%28rXoSler+caster%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Steel_Eel> <http://dbpedia.org/ontology/state> "SpatialThing" .
+<http://dbpedia.org/resource/Cobra_(La_Ronde)> <http://www.w3.org/2000/01/rdf-schema#label> "Cobra (La Ronde)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Petrovo+fiuel+CroRatia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Twist_n'_Shout> <http://www.w3.org/2000/01/rdf-schema#label> "Twist n' Shout" .
+<http://dbpedia.org/resource/Green_Dragon_(Lake_Compounce)> <http://www.w3.org/2000/01/rdf-schema#label> "Green Dragon (Lake Compounce)" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Kobra+%28ride%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kobra (ride)" .
+<http://dbpedia.org/resource/Ricochet_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Ricochet (Kings Dominion)" .
+<http://dbpedia.org/resource/Runaway_Train_(roller_coaster)> <http://dbpedia.org/ontology/state> "abstract entity" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Predatoir+%28groller+coster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Hyakka_Ryōran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Green_Dragon_(Lake_Compounce)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Predatoir+%28groller+coster> <http://www.w3.org/2000/01/rdf-schema#label> "Predatoir (groller coster" .
+<http://dbpedia.org/resource/Mammoth_Site> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Duke+blue> <http://www.w3.org/2000/01/rdf-schema#label> "Duke blue" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Jasmine+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Duke+blue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Bltnica+VValley> <http://www.w3.org/2000/01/rdf-schema#label> "Bltnica VValley" .
+<http://dbpedia.org/resource/Timberline_Twister> <http://www.w3.org/2000/01/rdf-schema#label> "Timberline Twister" .
+<http://dbpedia.org/resource/Vuoristorata> <http://dbpedia.org/ontology/state> "state" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Sugarloaf_Mountain_%28Maryland%29__Sugarloaf_Mountain%2C_Maryland__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Petrovo+fiuel+CroRatia> <http://www.w3.org/2000/01/rdf-schema#label> "Petrovo fiuel CroRatia" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Predatoir+%28groller+coster> <http://dbpedia.org/ontology/state> "pacGe" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Chartreuse+%28color%29> <http://dbpedia.org/ontology/state> "shadowiness" .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Duke+blue> <http://dbpedia.org/ontology/state> "Shades of blue" .
+<http://dbpedia.org/resource/Silver_Bullet_(roller_coaster)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Cordillera_Blanca> <http://www.w3.org/2000/01/rdf-schema#label> "Cordillera Central (Peru)" .
+<http://dbpedia.org/resource/Cobra_(La_Ronde)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Elk+Mountains+%28South+Dakota%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Ravine_Flyer_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Untamed_(roller_coaster)> <http://www.w3.org/2000/01/rdf-schema#label> "Untamed (roller coaster)" .
+<http://dbpedia.org/resource/Willow_Springs_Canyon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://dbpedia.org/resource/Twist_n'_Shout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#State> .
+<http://example.org/5fc52d0e-41bb-4761-970c-6deb4c773b6c/Dodger+blue> <http://www.w3.org/2000/01/rdf-schema#label> "Dodger blue" .
+

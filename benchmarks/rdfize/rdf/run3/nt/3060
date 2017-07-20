@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Buzeyir_cave> <http://www.w3.org/2000/01/rdf-schema#label> "Buzeyir cave" .
+<http://dbpedia.org/resource/Hail_to_the_Sunrise_Statue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://w3id.org/charta77/jup/BellType> .
+<http://dbpedia.org/resource/Lifeboat_Memorial,_Lytham> <http://dbpedia.org/ontology/militaryUnit> "monument" .
+<http://dbpedia.org/resource/Ahmadalilar_Mausoleum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://w3id.org/charta77/jup/BellType> .
+<http://dbpedia.org/resource/Lifeboat_Memorial,_Lytham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://w3id.org/charta77/jup/BellType> .
+<http://dbpedia.org/resource/Tuba_Dei> <http://dbpedia.org/ontology/militaryUnit> "bell" .
+<http://dbpedia.org/resource/Hail_to_the_Sunrise_Statue> <http://dbpedia.org/ontology/militaryUnit> "object" .
+<http://dbpedia.org/resource/Buzeyir_cave> <http://dbpedia.org/ontology/militaryUnit> "monument" .
+<http://dbpedia.org/resource/Tuba_Dei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://w3id.org/charta77/jup/BellType> .
+<http://dbpedia.org/resource/Ahmadalilar_Mausoleum> <http://www.w3.org/2000/01/rdf-schema#label> "Ahmadalilar Mausoleum" .
+<http://dbpedia.org/resource/Ahmadalilar_Mausoleum> <http://dbpedia.org/ontology/militaryUnit> "unit" .
+<http://dbpedia.org/resource/Buzeyir_cave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://w3id.org/charta77/jup/BellType> .
+<http://dbpedia.org/resource/Hail_to_the_Sunrise_Statue> <http://www.w3.org/2000/01/rdf-schema#label> "Hail to the Sunrise Statue" .
+<http://dbpedia.org/resource/Lifeboat_Memorial,_Lytham> <http://www.w3.org/2000/01/rdf-schema#label> "Lifeboat Memorial, Lytham" .
+<http://dbpedia.org/resource/Tuba_Dei> <http://www.w3.org/2000/01/rdf-schema#label> "Tuba Dei" .
+

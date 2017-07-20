@@ -1,0 +1,6 @@
+<http://example.org/5f9dd436-85ef-41b0-a5cd-a58423b35258/Centruroides+ornatus> <http://www.w3.org/2000/01/rdf-schema#label> "Centruroides ornatus" .
+<http://example.org/5f9dd436-85ef-41b0-a5cd-a58423b35258/Amblyseius+begljarovi> <http://www.w3.org/2000/01/rdf-schema#label> "Amblyseius begljarovi" .
+<http://example.org/5f9dd436-85ef-41b0-a5cd-a58423b35258/Centruroides+baergi> <http://www.w3.org/2000/01/rdf-schema#label> "Centruroides baergi" .
+<http://example.org/5f9dd436-85ef-41b0-a5cd-a58423b35258/Chaco+socos> <http://www.w3.org/2000/01/rdf-schema#label> "Chaco socos" .
+<http://example.org/5f9dd436-85ef-41b0-a5cd-a58423b35258/Mongolicosa+gobiensis> <http://www.w3.org/2000/01/rdf-schema#label> "Mongolicosa gobiensis" .
+

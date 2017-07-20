@@ -1,0 +1,81 @@
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__white__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Field_Drab__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Chocolate+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chocolate (color)" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Shades_of_red__OU_Crimson_Red__1> <http://www.w3.org/2000/01/rdf-schema#label> "Shades_of_red__OU_Crimson_Red__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Sand__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__Big_Dip_O%27Ruby__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Amaranth_%28color%29__Amaranth_M%26P__1> <http://www.w3.org/2000/01/rdf-schema#label> "Amaranth_(color)__Amaranth_M&P__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Amaranth_%28color%29__Amaranth_purple__1> <http://www.w3.org/2000/01/rdf-schema#label> "Amaranth_(color)__Amaranth_purple__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Sand_Dune__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_sand_(color)__Sand_Dune__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Apricot_%28color%29__Apricot_Crayola__1> <http://www.w3.org/2000/01/rdf-schema#label> "Apricot_(color)__Apricot_Crayola__1" .
+<http://dbpedia.org/resource/Black_(novel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__white__2> <http://www.w3.org/2000/01/rdf-schema#label> "Ruby_(color)__white__2" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Apricot_%28color%29__Mellow_Apricot__1> <http://www.w3.org/2000/01/rdf-schema#label> "Apricot_(color)__Mellow_Apricot__1" .
+<http://dbpedia.org/resource/Cyan_Worlds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://dbpedia.org/resource/Billie_Joe_Armstrong> <http://www.w3.org/2000/01/rdf-schema#label> "Blue" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Federal+Standard+595+camouflage+colours> <http://www.w3.org/2000/01/rdf-schema#label> "Federal Standard 595 camouflage colours" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Wine_%28color%29__white__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Federal+Standard+595+camouflage+colours> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Apricot_%28color%29__Mellow_Apricot__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Shades_of_red__Barn_Red__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Desert__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_sand_(color)__Desert__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__Ruby_Red__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Dark+purple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Sand_Dune__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Shades_of_red__OU_Crimson_Red__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Amaranth_%28color%29__Amaranth_M%26P__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__white__3> <http://www.w3.org/2000/01/rdf-schema#label> "Ruby_(color)__white__3" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__Ruby_BS_381__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://dbpedia.org/resource/Space_Marines_(Warhammer_40,000)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__white__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Amaranth_%28color%29__Radical_red__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Candy_apple_red_%28color%29__Candy_Pink__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__Ruby_Red__1> <http://www.w3.org/2000/01/rdf-schema#label> "Ruby_(color)__Ruby_Red__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Earth_Yellow__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_sand_(color)__Earth_Yellow__1" .
+<http://dbpedia.org/resource/Beige_(novel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__Ruby_BS_381__1> <http://www.w3.org/2000/01/rdf-schema#label> "Ruby_(color)__Ruby_BS_381__1" .
+<http://dbpedia.org/resource/Space_Marines_(Warhammer_40,000)> <http://www.w3.org/2000/01/rdf-schema#label> "Ultramarine" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Field_Drab__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_sand_(color)__Field_Drab__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Amaranth+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Amaranth (color)" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__white__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Cream+%28colour%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Apricot_%28color%29__Apricot_Crayola__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Amaranth_%28color%29__Radical_red__1> <http://www.w3.org/2000/01/rdf-schema#label> "Amaranth_(color)__Radical_red__1" .
+<http://dbpedia.org/resource/Pretty_Ricky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Shades_of_red__Carmine__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__Big_Dip_O%27Ruby__1> <http://www.w3.org/2000/01/rdf-schema#label> "Ruby_(color)__Big_Dip_O'Ruby__1" .
+<http://dbpedia.org/resource/Homestuck> <http://www.w3.org/2000/01/rdf-schema#label> "Midnight green" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Sandy_Brown__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_sand_(color)__Sandy_Brown__1" .
+<http://dbpedia.org/resource/Homestuck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Marigold+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Amaranth+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Wine_%28color%29__Champagne__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Earth_Yellow__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://dbpedia.org/resource/Pretty_Ricky> <http://www.w3.org/2000/01/rdf-schema#label> "Baby blue" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Amaranth_%28color%29__Amaranth_purple__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://dbpedia.org/resource/Beige_(novel)> <http://www.w3.org/2000/01/rdf-schema#label> "Beige" .
+<http://dbpedia.org/resource/Billie_Joe_Armstrong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Shades_of_red__Turkey_red__1> <http://www.w3.org/2000/01/rdf-schema#label> "Shades_of_red__Turkey_red__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Shades_of_red__Carmine__1> <http://www.w3.org/2000/01/rdf-schema#label> "Shades_of_red__Carmine__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Wine_%28color%29__white__1> <http://www.w3.org/2000/01/rdf-schema#label> "Wine_(color)__white__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__Rubine_Red__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Sandy_Brown__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://dbpedia.org/resource/Black_(novel)> <http://www.w3.org/2000/01/rdf-schema#label> "Black" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Wine_%28color%29__Champagne__1> <http://www.w3.org/2000/01/rdf-schema#label> "Wine_(color)__Champagne__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Dark+purple> <http://www.w3.org/2000/01/rdf-schema#label> "Dark purple" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Capri+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Capri (color)" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Shades_of_red__Turkey_red__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Chocolate+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__white__1> <http://www.w3.org/2000/01/rdf-schema#label> "Ruby_(color)__white__1" .
+<http://dbpedia.org/resource/Cyan_Worlds> <http://www.w3.org/2000/01/rdf-schema#label> "Cyan" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Ruby_%28color%29__Rubine_Red__1> <http://www.w3.org/2000/01/rdf-schema#label> "Ruby_(color)__Rubine_Red__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Capri+%28color%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Cream+%28colour%29> <http://www.w3.org/2000/01/rdf-schema#label> "Cream (colour)" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Sand__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_sand_(color)__Sand__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Wine_%28color%29__white__2> <http://www.w3.org/2000/01/rdf-schema#label> "Wine_(color)__white__2" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Candy_apple_red_%28color%29__Candy_Pink__1> <http://www.w3.org/2000/01/rdf-schema#label> "Candy_apple_red_(color)__Candy_Pink__1" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Marigold+%28color%29> <http://www.w3.org/2000/01/rdf-schema#label> "Marigold (color)" .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Desert_sand_%28color%29__Desert__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Wine_%28color%29__white__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1#Color> .
+<http://example.org/3ca9c044-79f1-4275-89c2-4a3966c620e5/Shades_of_red__Barn_Red__1> <http://www.w3.org/2000/01/rdf-schema#label> "Shades_of_red__Barn_Red__1" .
+

@@ -1,0 +1,45 @@
+<http://example.org/2b81afcd-c9fe-460e-bbbf-d2585aab7fa7/Action+Party+%28Italy%2C+1848%29> <http://www.w3.org/2000/01/rdf-schema#label> "Action Party (Italy, 1848)" .
+<http://dbpedia.org/resource/Bennu> <http://www.w3.org/2000/01/rdf-schema#label> "Benu" .
+<http://dbpedia.org/resource/Ajanta_Caves> <http://www.w3.org/2000/01/rdf-schema#label> "Ajanta Caves" .
+<http://dbpedia.org/resource/Acropolis_of_Athens> <http://www.w3.org/2000/01/rdf-schema#label> "Acropolis of Athens" .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://www.w3.org/2000/01/rdf-schema#label> "National Baseball Hall of Fame and Museum" .
+<http://dbpedia.org/resource/Business_and_Professionals_Alliance_for_Hong_Kong> <http://www.w3.org/2000/01/rdf-schema#label> "Business and Professionals Alliance for Hong Kong" .
+<http://dbpedia.org/resource/First_Baptist_Church_(Fayetteville,_North_Carolina)> <http://www.w3.org/2000/01/rdf-schema#label> "First Baptist Church (Asheville, North Carolina)" .
+<http://dbpedia.org/resource/Socialist_League_(Canada)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://example.org/2b81afcd-c9fe-460e-bbbf-d2585aab7fa7/Fav%C3%A0ritx+Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://example.org/2b81afcd-c9fe-460e-bbbf-d2585aab7fa7/Construction+%28Egyptian+coalition%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Acropolis_of_Athens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://example.org/2b81afcd-c9fe-460e-bbbf-d2585aab7fa7/Construction+%28Egyptian+coalition%29> <http://www.w3.org/2000/01/rdf-schema#label> "Construction (Egyptian coalition)" .
+<http://example.org/2b81afcd-c9fe-460e-bbbf-d2585aab7fa7/Fav%C3%A0ritx+Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Fav\u00E0ritx Lighthouse" .
+<http://dbpedia.org/resource/Century_Flyer> <http://www.w3.org/2000/01/rdf-schema#label> "Century Flyer" .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam Airport Schiphol" .
+<http://dbpedia.org/resource/Lighthouse_of_Alexandria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://example.org/2b81afcd-c9fe-460e-bbbf-d2585aab7fa7/Astley+Hall%2C+Chorley> <http://www.w3.org/2000/01/rdf-schema#label> "Astley Hall, Chorley" .
+<http://dbpedia.org/resource/Business_and_Professionals_Alliance_for_Hong_Kong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/First_Baptist_Church_(Fayetteville,_North_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Socialist_League_(Canada)> <http://www.w3.org/2000/01/rdf-schema#label> "Canadian Socialist League" .
+<http://dbpedia.org/resource/Bennu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Bauhaus> <http://www.w3.org/2000/01/rdf-schema#label> "Bauhaus" .
+<http://dbpedia.org/resource/Longships_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Longships Lighthouse" .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Eddystone_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Eddystone Lighthouse" .
+<http://example.org/2b81afcd-c9fe-460e-bbbf-d2585aab7fa7/Action+Party+%28Italy%2C+1848%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Bressay_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Abbotsford_House> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Abbotsford_House> <http://www.w3.org/2000/01/rdf-schema#label> "Abbotsford House" .
+<http://dbpedia.org/resource/Eddystone_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Behistun_Inscription> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Longships_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Behistun_Inscription> <http://www.w3.org/2000/01/rdf-schema#label> "Behistun Inscription" .
+<http://dbpedia.org/resource/Ajanta_Caves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Baloch_Republican_Party> <http://www.w3.org/2000/01/rdf-schema#label> "Baloch Republican Army" .
+<http://example.org/2b81afcd-c9fe-460e-bbbf-d2585aab7fa7/Astley+Hall%2C+Chorley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Shrines_and_Temples_of_Nikkō> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Shrines_and_Temples_of_Nikkō> <http://www.w3.org/2000/01/rdf-schema#label> "Shrines and Temples of Nikk\u014D" .
+<http://dbpedia.org/resource/Century_Flyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Lighthouse_of_Alexandria> <http://www.w3.org/2000/01/rdf-schema#label> "Lighthouse of Alexandria" .
+<http://dbpedia.org/resource/Bressay_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Bressay Lighthouse" .
+<http://dbpedia.org/resource/Baloch_Republican_Party> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+<http://dbpedia.org/resource/Bauhaus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/ConstructionLanduse> .
+

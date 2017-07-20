@@ -1,0 +1,17 @@
+<http://dbpedia.org/resource/Panama_Canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://vocab.eccenca.com/revision/Branch> .
+<http://dbpedia.org/resource/Ohio_River> <http://www.w3.org/2000/01/rdf-schema#label> "Ohio River" .
+<http://dbpedia.org/resource/Persian_Gulf> <http://www.w3.org/2000/01/rdf-schema#label> "Persian Gulf" .
+<http://dbpedia.org/resource/Panama_Canal> <http://www.w3.org/2000/01/rdf-schema#label> "Panama Canal" .
+<http://dbpedia.org/resource/Ohio_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://vocab.eccenca.com/revision/Branch> .
+<http://dbpedia.org/resource/Pastaza_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://vocab.eccenca.com/revision/Branch> .
+<http://dbpedia.org/resource/Purus_River> <http://www.w3.org/2000/01/rdf-schema#label> "Purus River" .
+<http://dbpedia.org/resource/Red_Sea> <http://www.w3.org/2000/01/rdf-schema#label> "Red Sea" .
+<http://dbpedia.org/resource/Purus_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://vocab.eccenca.com/revision/Branch> .
+<http://dbpedia.org/resource/Persian_Gulf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://vocab.eccenca.com/revision/Branch> .
+<http://dbpedia.org/resource/Norwegian_Sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://vocab.eccenca.com/revision/Branch> .
+<http://dbpedia.org/resource/Pastaza_River> <http://www.w3.org/2000/01/rdf-schema#label> "Pastaza River" .
+<http://dbpedia.org/resource/Puget_Sound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://vocab.eccenca.com/revision/Branch> .
+<http://dbpedia.org/resource/Red_Sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://vocab.eccenca.com/revision/Branch> .
+<http://dbpedia.org/resource/Puget_Sound> <http://www.w3.org/2000/01/rdf-schema#label> "Puget Sound" .
+<http://dbpedia.org/resource/Norwegian_Sea> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Sea" .
+

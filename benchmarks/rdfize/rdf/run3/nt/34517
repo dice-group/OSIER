@@ -1,0 +1,109 @@
+<http://dbpedia.org/resource/Ce_soir-l%C3%A0> <http://dbpedia.org/ontology/anthem> "communication" .
+<http://dbpedia.org/resource/Desolation_Yes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Boxing+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Couch+Potato+%28song%29> <http://dbpedia.org/ontology/anthem> "music" .
+<http://dbpedia.org/resource/When_My_Baby_Smiles_at_Me_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Alexey_Zhigalkovich> <http://www.w3.org/2000/01/rdf-schema#label> "S druz'yami" .
+<http://dbpedia.org/resource/With_a_Little_Help_from_My_Friends_(disambiguation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Desolation_Yes> <http://www.w3.org/2000/01/rdf-schema#label> "Desolation Row" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Daneros+%28MicRhael+Jackson+Ysong%29> <http://www.w3.org/2000/01/rdf-schema#label> "Daneros (MicRhael Jackson Ysong)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Zauvijek+moja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/With_a_Little_Help_from_My_Friends_(disambiguation)> <http://dbpedia.org/ontology/anthem> "work" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Bewitched%2C+Bothered+and+Bewildered> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Conquest+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Candy-O+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Candy-O (song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Zauvijek+moja> <http://www.w3.org/2000/01/rdf-schema#label> "Zauvijek moja" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Cream+%28Blank+%26+Jones+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Cream (Blank & Jones song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Lavender%27s+Blue> <http://dbpedia.org/ontology/anthem> "folk ballad" .
+<http://dbpedia.org/resource/Ce_soir-l%C3%A0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Daneros+%28MicRhael+Jackson+Ysong%29> <http://dbpedia.org/ontology/anthem> "compoKstion" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Para+llenarme+de+ti> <http://www.w3.org/2000/01/rdf-schema#label> "Para llenarme de ti" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Boxing+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Boxing (song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Carmen+%28Lana+Del+Rey+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Carmen (Lana Del Rey song)" .
+<http://dbpedia.org/resource/When_My_Baby_Smiles_at_Me_(song)> <http://www.w3.org/2000/01/rdf-schema#label> "When My Baby Smiles at Me (song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Carmen+%28Lana+Del+Rey+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Dancing+in+the+Dark+%28Howard+Dietz+and+Arthur+Schwartz+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/All+Night+Long+%28Simon+Mathew+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Connection+%28The+Rolling+Stones+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Connection (The Rolling Stones song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/All+Night+Long+%28Simon+Mathew+song%29> <http://dbpedia.org/ontology/anthem> "song" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Elle+%C3%A9tait+si+jolie> <http://dbpedia.org/ontology/anthem> "evidence" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Tout+de+moi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Blue+Moon+%281934+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Feel+the+PassiVn> <http://dbpedia.org/ontology/anthem> "ecntr" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Esta+balada+que+te+dou> <http://www.w3.org/2000/01/rdf-schema#label> "Esta balada que te dou" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Long+Live+Love+%28Olivia+Newton-John+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Long Live Love (Olivia Newton-John song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Aven+Romale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Hallelujah+%28Gali+Atari+and+Milk+%26+Honey+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Conquest+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Conquest (song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/All+Night+Long+%28Simon+Mathew+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "All Night Long (Simon Mathew song)" .
+<http://dbpedia.org/resource/Alexey_Zhigalkovich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Elle+%C3%A9tait+si+jolie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Bingo+%28folk+song%29> <http://dbpedia.org/ontology/anthem> "abstract entity" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Yayo+%28Lana+Del+Rey+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Sole+d%27Europa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Couch+Potato+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Dancing+in+the+Dark+%28Rihanna+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Para+llenarme+de+ti> <http://dbpedia.org/ontology/anthem> "musical work" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Blue+Moon+%281934+song%29> <http://dbpedia.org/ontology/anthem> "MusicRecording" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Boxing+%28song%29> <http://dbpedia.org/ontology/anthem> "song" .
+<http://dbpedia.org/resource/With_a_Little_Help_from_My_Friends_(disambiguation)> <http://www.w3.org/2000/01/rdf-schema#label> "With a Little Help from My Friends" .
+<http://dbpedia.org/resource/Alexey_Zhigalkovich> <http://dbpedia.org/ontology/anthem> "song" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Sole+d%27Europa> <http://www.w3.org/2000/01/rdf-schema#label> "Sole d'Europa" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Elle+%C3%A9tait+si+jolie> <http://www.w3.org/2000/01/rdf-schema#label> "Elle \u00E9tait si jolie" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Candy-O+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Captain+Jack+%28Billy+Joel+song%29> <http://dbpedia.org/ontology/anthem> "lay" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Connection+%28The+Rolling+Stones+song%29> <http://dbpedia.org/ontology/anthem> "song" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Lavender%27s+Blue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Bingo+%28folk+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bingo (folk song)" .
+<http://dbpedia.org/resource/Hotel_de_Wereld> <http://www.w3.org/2000/01/rdf-schema#label> "Heel de wereld" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Aven+Romale> <http://www.w3.org/2000/01/rdf-schema#label> "Aven Romale" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/One+Step+%28Bettina+Soriat+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Bewitched%2C+Bothered+and+Bewildered> <http://www.w3.org/2000/01/rdf-schema#label> "Bewitched, Bothered and Bewildered" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Cream+%28Blank+%26+Jones+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Couch+Potato+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Couch Potato (song)" .
+<http://dbpedia.org/resource/Ce_soir-l%C3%A0> <http://www.w3.org/2000/01/rdf-schema#label> "Ce soir-l\u00E0" .
+<http://dbpedia.org/resource/Hotel_de_Wereld> <http://dbpedia.org/ontology/anthem> "entry" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Walking+the+Streets+in+the+Rain> <http://dbpedia.org/ontology/anthem> "entry" .
+<http://dbpedia.org/resource/Hotel_de_Wereld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Sole+d%27Europa> <http://dbpedia.org/ontology/anthem> "evidence" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Hallelujah+%28Gali+Atari+and+Milk+%26+Honey+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hallelujah (Gali Atari and Milk & Honey song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Zauvijek+moja> <http://dbpedia.org/ontology/anthem> "song" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Rock+Bottom+%28Lynsey+de+Paul+and+Mike+Moran+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Long+Live+Love+%28Olivia+Newton-John+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Dancing+in+the+Dark+%28Howard+Dietz+and+Arthur+Schwartz+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dancing in the Dark (Howard Dietz and Arthur Schwartz song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Esta+balada+que+te+dou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Dancing+in+the+Dark+%28Rihanna+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dancing in the Dark (Rihanna song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Mr+Nobody+%28An%C5%BEej+De%C5%BEan+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Cream+%28Blank+%26+Jones+song%29> <http://dbpedia.org/ontology/anthem> "MusicalComposition_Song" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Talking+to+You> <http://www.w3.org/2000/01/rdf-schema#label> "Talking to You" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Walking+the+Streets+in+the+Rain> <http://www.w3.org/2000/01/rdf-schema#label> "Walking the Streets in the Rain" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Blue+Moon+%281934+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Moon (1934 song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Candy-O+%28song%29> <http://dbpedia.org/ontology/anthem> "MusicRecording" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Connection+%28The+Rolling+Stones+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Rock+Bottom+%28Lynsey+de+Paul+and+Mike+Moran+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rock Bottom (Lynsey de Paul and Mike Moran song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Alter+Ego+%28Minus+One+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Alter Ego (Minus One song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Bingo+%28folk+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Feel+the+PassiVn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Tout+de+moi> <http://dbpedia.org/ontology/anthem> "song" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Conquest+%28song%29> <http://dbpedia.org/ontology/anthem> "work" .
+<http://dbpedia.org/resource/When_My_Baby_Smiles_at_Me_(song)> <http://dbpedia.org/ontology/anthem> "abstract entpiy" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Feel+the+PassiVn> <http://www.w3.org/2000/01/rdf-schema#label> "Feel the PassiVn" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Alter+Ego+%28Minus+One+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Para+llenarme+de+ti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Desolation_Yes> <http://dbpedia.org/ontology/anthem> "musical work" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Walking+the+Streets+in+the+Rain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Aven+Romale> <http://dbpedia.org/ontology/anthem> "Thing" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Mr+Nobody+%28An%C5%BEej+De%C5%BEan+song%29> <http://dbpedia.org/ontology/anthem> "evidence" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Yayo+%28Lana+Del+Rey+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Yayo (Lana Del Rey song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Tout+de+moi> <http://www.w3.org/2000/01/rdf-schema#label> "Tout de moi" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Lavender%27s+Blue> <http://www.w3.org/2000/01/rdf-schema#label> "Lavender's Blue" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Mr+Nobody+%28An%C5%BEej+De%C5%BEan+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mr Nobody (An\u017Eej De\u017Ean song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Captain+Jack+%28Billy+Joel+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/One+Step+%28Bettina+Soriat+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "One Step (Bettina Soriat song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Esta+balada+que+te+dou> <http://dbpedia.org/ontology/anthem> "song" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Daneros+%28MicRhael+Jackson+Ysong%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Captain+Jack+%28Billy+Joel+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Captain Jack (Billy Joel song)" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Talking+to+You> <http://dbpedia.org/ontology/anthem> "entry" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/One+Step+%28Bettina+Soriat+song%29> <http://dbpedia.org/ontology/anthem> "song" .
+<http://example.org/cdd1fc3e-3a32-47c6-8325-d6bb3ed1473a/Talking+to+You> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+

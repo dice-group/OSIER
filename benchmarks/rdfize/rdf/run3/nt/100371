@@ -1,0 +1,20 @@
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Asons> <http://dbpedia.org/ontology/lawCountry> "law firm" .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Gray+Plant+Mooty> <http://dbpedia.org/ontology/Work/runtime> "Gray Plant Mooty" .
+<http://dbpedia.org/resource/Wilmer_Cutler_Pickering_Hale_and_Dorr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032617> .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Gray+Plant+Mooty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032617> .
+<http://dbpedia.org/resource/Wilmer_Cutler_Pickering_Hale_and_Dorr> <http://dbpedia.org/ontology/Work/runtime> "Wilmer Cutler Pickering Hale and Dorr" .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Gray+Plant+Mooty> <http://www.w3.org/2000/01/rdf-schema#label> "Gray Plant Mooty" .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Asons> <http://www.w3.org/2000/01/rdf-schema#label> "Asons" .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Kenna+Partners> <http://dbpedia.org/ontology/lawCountry> "organization" .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Gray+Plant+Mooty> <http://dbpedia.org/ontology/lawCountry> "law firm" .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Kenna+Partners> <http://www.w3.org/2000/01/rdf-schema#label> "Kenna Partners" .
+<http://dbpedia.org/resource/Wilmer_Cutler_Pickering_Hale_and_Dorr> <http://www.w3.org/2000/01/rdf-schema#label> "Wilmer Cutler Pickering Hale and Dorr" .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Kenna+Partners> <http://dbpedia.org/ontology/Work/runtime> "m.01264z25" .
+<http://dbpedia.org/resource/Mintz,_Levin,_Cohn,_Ferris,_Glovsky,_and_Popeo> <http://dbpedia.org/ontology/lawCountry> "SocialPerson" .
+<http://dbpedia.org/resource/Wilmer_Cutler_Pickering_Hale_and_Dorr> <http://dbpedia.org/ontology/lawCountry> "SocialPerson" .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Asons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032617> .
+<http://dbpedia.org/resource/Mintz,_Levin,_Cohn,_Ferris,_Glovsky,_and_Popeo> <http://www.w3.org/2000/01/rdf-schema#label> "Mintz, Levin, Cohn, Ferris, Glovsky, and Popeo" .
+<http://dbpedia.org/resource/Mintz,_Levin,_Cohn,_Ferris,_Glovsky,_and_Popeo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032617> .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Kenna+Partners> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032617> .
+<http://example.org/559410ac-8e4a-4194-94a4-8daab38abd34/Asons> <http://dbpedia.org/ontology/Work/runtime> "m.012z24qy" .
+

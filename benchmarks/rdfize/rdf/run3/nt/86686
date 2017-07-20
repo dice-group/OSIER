@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Rameau_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stone> .
+<http://dbpedia.org/resource/Rameau_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Rameau (crater)" .
+<http://dbpedia.org/resource/Grissom_Hill> <http://www.w3.org/2000/01/rdf-schema#label> "Grissom Hill" .
+<http://dbpedia.org/resource/Wislicenus_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stone> .
+<http://dbpedia.org/resource/Zumba_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Zumba (crater)" .
+<http://dbpedia.org/resource/Wislicenus_(crater)> <http://dbpedia.org/ontology/constructionMaterial> "yagoPermanentlyLocatedEntity" .
+<http://dbpedia.org/resource/Bounce_Rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stone> .
+<http://dbpedia.org/resource/Bounce_Rock> <http://dbpedia.org/ontology/constructionMaterial> "stone" .
+<http://dbpedia.org/resource/Grissom_Hill> <http://dbpedia.org/ontology/constructionMaterial> "Thing" .
+<http://dbpedia.org/resource/Zumba_(crater)> <http://dbpedia.org/ontology/constructionMaterial> "Place" .
+<http://dbpedia.org/resource/Rameau_(crater)> <http://dbpedia.org/ontology/constructionMaterial> "crater" .
+<http://dbpedia.org/resource/Zumba_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stone> .
+<http://dbpedia.org/resource/Bounce_Rock> <http://www.w3.org/2000/01/rdf-schema#label> "Bounce Rock" .
+<http://dbpedia.org/resource/Grissom_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Stone> .
+<http://dbpedia.org/resource/Wislicenus_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Wislicenus (crater)" .
+

@@ -1,0 +1,6 @@
+<http://example.org/6f694307-1350-4fdc-9435-b990593ba862/Neurenteric+canal> <http://www.w3.org/2000/01/rdf-schema#label> "Neurenteric canal" .
+<http://example.org/6f694307-1350-4fdc-9435-b990593ba862/Posterior+cardinal+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Posterior cardinal vein" .
+<http://example.org/6f694307-1350-4fdc-9435-b990593ba862/Hindgut> <http://www.w3.org/2000/01/rdf-schema#label> "Hindgut" .
+<http://example.org/6f694307-1350-4fdc-9435-b990593ba862/Axwial+esoderm> <http://www.w3.org/2000/01/rdf-schema#label> "Axwial esoderm" .
+<http://example.org/6f694307-1350-4fdc-9435-b990593ba862/Fetal+membrane> <http://www.w3.org/2000/01/rdf-schema#label> "Fetal membrane" .
+

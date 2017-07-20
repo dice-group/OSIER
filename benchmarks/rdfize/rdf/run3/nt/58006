@@ -1,0 +1,64 @@
+<http://dbpedia.org/resource/YRC_Worldwide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/MOA-2008-BLG-310L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/NGC+4650A> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 4650A" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/MOA-2008-BLG-310L> <http://dbpedia.org/ontology/ascent> "artifact" .
+<http://dbpedia.org/resource/NGC_362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/YRC_Worldwide> <http://dbpedia.org/ontology/ascent> "Place" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Mekidian+3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Lambdma+Musce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Mekidian+3> <http://www.w3.org/2000/01/rdf-schema#label> "Mekidian 3" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Westerlund+1-26> <http://dbpedia.org/ontology/ascent> "Place" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Soil+Moisture+and+Ocean+Salinity> <http://www.w3.org/2000/01/rdf-schema#label> "Soil Moisture and Ocean Salinity" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Holmberg+IX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Messier_70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Soil+Moisture+and+Ocean+Salinity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/HIP+57274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/NGC+3842> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 3842" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Phobos+And+Deimos+%26+Mars+Environment> <http://www.w3.org/2000/01/rdf-schema#label> "Phobos And Deimos & Mars Environment" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Solar+wind+Magnetosphere+Ionosphere+Link+Explorer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Holmberg+IX> <http://www.w3.org/2000/01/rdf-schema#label> "Holmberg IX" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/NGC+3842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Veil_Nebula> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 4976" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/HIP+57274> <http://www.w3.org/2000/01/rdf-schema#label> "HIP 57274" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/NGC+7332> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 7332" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Lambdma+Musce> <http://www.w3.org/2000/01/rdf-schema#label> "Lambdma Musce" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/NGC+7332> <http://dbpedia.org/ontology/ascent> "Location" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/VERITAS+%28spacecraft%29> <http://www.w3.org/2000/01/rdf-schema#label> "VERITAS (spacecraft)" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Westerlund+1-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Messier_70> <http://www.w3.org/2000/01/rdf-schema#label> "Messier 100" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/VERITAS+%28spacecraft%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/NGC+3842> <http://dbpedia.org/ontology/ascent> "Place" .
+<http://dbpedia.org/resource/Lambda_Coronae_Australis> <http://dbpedia.org/ontology/ascent> "celestial body" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/NGC+7332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Leo+IV+%28dwarf+galaxy%29> <http://dbpedia.org/ontology/ascent> "celestial body" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Leo+V+%28dwarf+galaxy%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/NGC_362> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 262" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Leo+V+%28dwarf+galaxy%29> <http://dbpedia.org/ontology/ascent> "place" .
+<http://dbpedia.org/resource/Lambda_Coronae_Australis> <http://www.w3.org/2000/01/rdf-schema#label> "Gamma Coronae Australis" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/RX+J1242-11> <http://www.w3.org/2000/01/rdf-schema#label> "RX J1242-11" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/RX+J1242-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Solar+wind+Magnetosphere+Ionosphere+Link+Explorer> <http://dbpedia.org/ontology/ascent> "Location" .
+<http://dbpedia.org/resource/Lambda_Coronae_Australis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/NGC+4650A> <http://dbpedia.org/ontology/ascent> "galaxy" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Lambdma+Musce> <http://dbpedia.org/ontology/ascent> "physica enStity" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Leo+IV+%28dwarf+galaxy%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/RX+J1242-11> <http://dbpedia.org/ontology/ascent> "aggregation" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Solar+wind+Magnetosphere+Ionosphere+Link+Explorer> <http://www.w3.org/2000/01/rdf-schema#label> "Solar wind Magnetosphere Ionosphere Link Explorer" .
+<http://dbpedia.org/resource/Veil_Nebula> <http://dbpedia.org/ontology/ascent> "celestial body" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/HIP+57274> <http://dbpedia.org/ontology/ascent> "place" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Leo+V+%28dwarf+galaxy%29> <http://www.w3.org/2000/01/rdf-schema#label> "Leo V (dwarf galaxy)" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Leo+IV+%28dwarf+galaxy%29> <http://www.w3.org/2000/01/rdf-schema#label> "Leo IV (dwarf galaxy)" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/MOA-2008-BLG-310L> <http://www.w3.org/2000/01/rdf-schema#label> "MOA-2008-BLG-310L" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/NGC+4650A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Messier_70> <http://dbpedia.org/ontology/ascent> "preparation" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Westerlund+1-26> <http://www.w3.org/2000/01/rdf-schema#label> "Westerlund 1-26" .
+<http://dbpedia.org/resource/NGC_362> <http://dbpedia.org/ontology/ascent> "Place" .
+<http://dbpedia.org/resource/YRC_Worldwide> <http://www.w3.org/2000/01/rdf-schema#label> "Meridian 3" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Soil+Moisture+and+Ocean+Salinity> <http://dbpedia.org/ontology/ascent> "Satellite" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/VERITAS+%28spacecraft%29> <http://dbpedia.org/ontology/ascent> "Place" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Mekidian+3> <http://dbpedia.org/ontology/ascent> "plcwe" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Phobos+And+Deimos+%26+Mars+Environment> <http://dbpedia.org/ontology/ascent> "celestial body" .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Phobos+And+Deimos+%26+Mars+Environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/bbd4ec64-1434-4c17-a928-86b7c14eed36/Holmberg+IX> <http://dbpedia.org/ontology/ascent> "Interacting galaxies" .
+<http://dbpedia.org/resource/Veil_Nebula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+

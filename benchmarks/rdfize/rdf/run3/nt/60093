@@ -1,0 +1,16 @@
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/%28Blmoper%29+Bunny> <http://www.w3.org/2000/01/rdf-schema#label> "(Blmoper) Bunny" .
+<http://dbpedia.org/resource/Anime_Sh%C5%ABkan_DX!_Mi-Pha-Pu> <http://www.w3.org/2000/01/rdf-schema#label> "Anime Sh\u016Bkan DX! Mi-Pha-Pu" .
+<http://dbpedia.org/resource/Anime_Sh%C5%ABkan_DX!_Mi-Pha-Pu> <http://dbpedia.org/ontology/Work/runtime> "m.05f49xh" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/Berserk+%28TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Berserk (TV series)" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/The+Lyin%27+Mouse> <http://www.w3.org/2000/01/rdf-schema#label> "The Lyin' Mouse" .
+<http://dbpedia.org/resource/Touch_and_Go> <http://www.w3.org/2000/01/rdf-schema#label> "Touch\u00E9 and Go" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/%28Blooper%29+Bunqn> <http://www.w3.org/2000/01/rdf-schema#label> "(Blooper) Bunqn" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/%28Blmoper%29+Bunny> <http://dbpedia.org/ontology/Work/runtime> "m.02663qt" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/Hyde+and+Go+Tweet> <http://www.w3.org/2000/01/rdf-schema#label> "Hyde and Go Tweet" .
+<http://dbpedia.org/resource/Sugar_and_Spice> <http://www.w3.org/2000/01/rdf-schema#label> "Sugar and Spies" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/The+Lyin%27+Mouse> <http://dbpedia.org/ontology/Work/runtime> "The Lyin' Mouse" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/Berserk+%28TV+series%29> <http://dbpedia.org/ontology/Work/runtime> "Berserk" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/Jazz+Rhythm> <http://www.w3.org/2000/01/rdf-schema#label> "Jazz Rhythm" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/Hyde+and+Go+Tweet> <http://dbpedia.org/ontology/Work/runtime> "Hyde and Go Tweet" .
+<http://example.org/bbdc260e-5019-4930-9971-8f6b49d87a26/Aladdin+and+His+Wonderful+Lamp> <http://www.w3.org/2000/01/rdf-schema#label> "Aladdin and His Wonderful Lamp" .
+

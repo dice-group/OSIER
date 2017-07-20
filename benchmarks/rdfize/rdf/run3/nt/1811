@@ -1,0 +1,15 @@
+<http://example.org/6a74b9b1-e6fd-4d24-b48d-835f6ecfc948/Ole+Schemion> <http://dbpedia.org/ontology/playerStatus> "human" .
+<http://example.org/6a74b9b1-e6fd-4d24-b48d-835f6ecfc948/Alex+Millar> <http://www.w3.org/2000/01/rdf-schema#label> "Alex Millar" .
+<http://example.org/6a74b9b1-e6fd-4d24-b48d-835f6ecfc948/Alexander+Millar> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Millar" .
+<http://dbpedia.org/resource/Barry_Shulman> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Shulman" .
+<http://dbpedia.org/resource/Barry_Shulman> <http://dbpedia.org/ontology/playerStatus> "person" .
+<http://example.org/6a74b9b1-e6fd-4d24-b48d-835f6ecfc948/Alex+Millar> <http://dbpedia.org/ontology/onChromosome> "Alexander Millar (born 29 July 1985) is a British professional poker player who specializes in online high-stakes heads-up cash games, specifically No Limit Hold'em, playing under the alias Kanu7 on PokerStars and IReadYrSoul on Full Tilt Poker." .
+<http://dbpedia.org/resource/November_Nine> <http://www.w3.org/2000/01/rdf-schema#label> "Antoine Saout" .
+<http://example.org/6a74b9b1-e6fd-4d24-b48d-835f6ecfc948/Ole+Schemion> <http://www.w3.org/2000/01/rdf-schema#label> "Ole Schemion" .
+<http://example.org/6a74b9b1-e6fd-4d24-b48d-835f6ecfc948/Ole+Schemion> <http://dbpedia.org/ontology/onChromosome> "Ole Schemion (born 1 August 1992) is a German professional poker player from Berlin, Germany. Schemion primarily plays in Europe and has yet to cash in a WSOP event." .
+<http://dbpedia.org/resource/November_Nine> <http://dbpedia.org/ontology/onChromosome> "Antoine Saout, n\u00E9 le 26 juin 1984 \u00E0 Morlaix en France, est un joueur de poker professionnel." .
+<http://dbpedia.org/resource/Jeremy_Gaubert> <http://www.w3.org/2000/01/rdf-schema#label> "Jeremy Gaubert" .
+<http://dbpedia.org/resource/Jeremy_Gaubert> <http://dbpedia.org/ontology/playerStatus> "person" .
+<http://example.org/6a74b9b1-e6fd-4d24-b48d-835f6ecfc948/Alex+Millar> <http://dbpedia.org/ontology/playerStatus> "poker player" .
+<http://dbpedia.org/resource/November_Nine> <http://dbpedia.org/ontology/playerStatus> "person" .
+

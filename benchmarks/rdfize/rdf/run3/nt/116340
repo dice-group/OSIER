@@ -1,0 +1,48 @@
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Fam78b> <http://www.w3.org/2000/01/rdf-schema#label> "Fam78b" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Vandenberg+AFBw+Launh+UComplex576A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/IFVO1> <http://www.w3.org/2000/01/rdf-schema#label> "IFVO1" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Johnny+%28Yemi+Alade+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Fam78b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Vandenberg+AB+LaunchN+REmplcement+8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Goodbye+%28Shila+Amzah+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Goodbye+%28Shila+Amzah+song%29> <http://dbpedia.org/ontology/aSide> "work" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Vandenberg+AB+LaunchN+REmplcement+8> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AB LaunchN REmplcement 8" .
+<http://dbpedia.org/resource/Transmembrane_protein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Anu+%28fly%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/America%27s+Sweetheart+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "America's Sweetheart (song)" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Operational+Silo+Test+Facility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Operational+Silo+Test+Facility> <http://www.w3.org/2000/01/rdf-schema#label> "Operational Silo Test Facility" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/IFVO1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Coleophora+simplex> <http://www.w3.org/2000/01/rdf-schema#label> "Coleophora simplex" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Chromosome+6+open+reading+frame+165> <http://www.w3.org/2000/01/rdf-schema#label> "Chromosome 6 open reading frame 165" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Johnny+%28Yemi+Alade+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny (Yemi Alade song)" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Conga+%28skipper%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/America%27s+Sweetheart+%28song%29> <http://dbpedia.org/ontology/aSide> "single" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/TransTembrne+protWein+134> <http://www.w3.org/2000/01/rdf-schema#label> "TransTembrne protWein 134" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Are+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Clara+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clara (moth)" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/TransTembrne+protWein+134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Vandenberg+AFBw+Launh+UComplex576A> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AFBw Launh UComplex576A" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/NDUFA7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Goodbye+%28Shila+Amzah+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Goodbye (Shila Amzah song)" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Anu+%28fly%29> <http://www.w3.org/2000/01/rdf-schema#label> "Anu (fly)" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Conga+%28skipper%29> <http://www.w3.org/2000/01/rdf-schema#label> "Conga (skipper)" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/NDUFA7> <http://www.w3.org/2000/01/rdf-schema#label> "NDUFA7" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Clara+%28moth%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Fireworks+%28Siouxsie+and+the+Banshees+song%29> <http://dbpedia.org/ontology/aSide> "work" .
+<http://dbpedia.org/resource/Transmembrane_protein> <http://www.w3.org/2000/01/rdf-schema#label> "Transmembrane protein 134" .
+<http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_8> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AFB Space Launch Complex 1" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Fireworks+%28Siouxsie+and+the+Banshees+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/All+Night+Long+%28Joe+Walsh+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "All Night Long (Joe Walsh song)" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/IFFO1> <http://www.w3.org/2000/01/rdf-schema#label> "IFFO1" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Are+%28moth%29> <http://www.w3.org/2000/01/rdf-schema#label> "Are (moth)" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Coleophora+simplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Fireworks+%28Siouxsie+and+the+Banshees+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fireworks (Siouxsie and the Banshees song)" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/All+Night+Long+%28Joe+Walsh+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/IFFO1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/America%27s+Sweetheart+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/All+Night+Long+%28Joe+Walsh+song%29> <http://dbpedia.org/ontology/aSide> "single" .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Chromosome+6+open+reading+frame+165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FormulaOneTeam> .
+<http://example.org/b09adaec-d4ec-4bd6-9d8c-937eed213013/Johnny+%28Yemi+Alade+song%29> <http://dbpedia.org/ontology/aSide> "musical work" .
+

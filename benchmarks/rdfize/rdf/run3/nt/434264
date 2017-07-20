@@ -1,0 +1,15 @@
+<http://dbpedia.org/resource/FC_Astana> <http://www.w3.org/2000/01/rdf-schema#label> "FC Astana" .
+<http://dbpedia.org/resource/FC_Krylia_Sovetov_Samara> <http://www.w3.org/2000/01/rdf-schema#label> "FC Krylia Sovetov Samara" .
+<http://dbpedia.org/resource/Bury_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0229> .
+<http://dbpedia.org/resource/FC_Khimki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0229> .
+<http://example.org/e3acffe8-87f9-41a1-b298-6eea905d9672/FC+stIana> <http://www.w3.org/2000/01/rdf-schema#label> "FC stIana" .
+<http://example.org/e3acffe8-87f9-41a1-b298-6eea905d9672/FC+stIana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0229> .
+<http://dbpedia.org/resource/Carlisle_United_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Carlisle United F.C." .
+<http://example.org/e3acffe8-87f9-41a1-b298-6eea905d9672/Carlislxe+Unied+F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0229> .
+<http://dbpedia.org/resource/Carlisle_United_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0229> .
+<http://dbpedia.org/resource/Bury_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bury F.C." .
+<http://dbpedia.org/resource/FC_Astana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0229> .
+<http://example.org/e3acffe8-87f9-41a1-b298-6eea905d9672/Carlislxe+Unied+F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Carlislxe Unied F.C." .
+<http://dbpedia.org/resource/FC_Khimki> <http://www.w3.org/2000/01/rdf-schema#label> "FC Khimki" .
+<http://dbpedia.org/resource/FC_Krylia_Sovetov_Samara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2001/sw/hcls/ns/transmed/TMO_0229> .
+

@@ -1,0 +1,32 @@
+<http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/Canada_men's_national_soccer_team> <http://www.w3.org/2000/01/rdf-schema#label> "Canada men's national soccer team" .
+<http://example.org/301c7599-6f01-4a62-8c60-24ccd24e0fcb/BristolCity+FE.C.> <http://www.w3.org/2000/01/rdf-schema#label> "BristolCity FE.C." .
+<http://dbpedia.org/resource/Carlisle_United_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/FC_Krylia_Sovetov_Samara> <http://www.w3.org/2000/01/rdf-schema#label> "FC Krylia Sovetov Samara" .
+<http://dbpedia.org/resource/Bristol_City_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/Airbus_UK_Broughton_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Airbus UK Broughton F.C." .
+<http://dbpedia.org/resource/Bognor_Regis_Town_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://example.org/301c7599-6f01-4a62-8c60-24ccd24e0fcb/Bgnr+RegiNs+Towns+F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/Worcester_City_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Worcester Cityw .C." .
+<http://example.org/301c7599-6f01-4a62-8c60-24ccd24e0fcb/Bgnr+RegiNs+Towns+F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bgnr RegiNs Towns F.C." .
+<http://dbpedia.org/resource/FC_Khimki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/Carlisle_United_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Carlisle United F.C." .
+<http://dbpedia.org/resource/Worcester_City_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Worcester City F.C." .
+<http://example.org/301c7599-6f01-4a62-8c60-24ccd24e0fcb/NoSrthwRich+Victor+F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/FC_Astana> <http://www.w3.org/2000/01/rdf-schema#label> "FC Astana" .
+<http://dbpedia.org/resource/Evesham_United_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Evesham nsited F.C." .
+<http://dbpedia.org/resource/Canada_men's_national_soccer_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/FC_Krylia_Sovetov_Samara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/Airbus_UK_Broughton_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/Bury_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bury F.C." .
+<http://example.org/301c7599-6f01-4a62-8c60-24ccd24e0fcb/BristolCity+FE.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/Bury_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Brighton & Hove Albion F.C." .
+<http://dbpedia.org/resource/Bristol_City_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bristol City F.C." .
+<http://dbpedia.org/resource/FC_Khimki> <http://www.w3.org/2000/01/rdf-schema#label> "FC Khimki" .
+<http://dbpedia.org/resource/Bognor_Regis_Town_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Bognor Regis Town F.C." .
+<http://dbpedia.org/resource/Worcester_City_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://dbpedia.org/resource/FC_Astana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+<http://example.org/301c7599-6f01-4a62-8c60-24ccd24e0fcb/NoSrthwRich+Victor+F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "NoSrthwRich Victor F.C." .
+<http://dbpedia.org/resource/Evesham_United_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2010> .
+

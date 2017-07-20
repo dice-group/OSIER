@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Jonah> <http://www.w3.org/2000/01/rdf-schema#label> "Jonah" .
+<http://dbpedia.org/resource/John_the_Evangelist> <http://dbpedia.org/ontology/saint> "agent" .
+<http://dbpedia.org/resource/Jonah> <http://dbpedia.org/ontology/saint> "cleric" .
+<http://dbpedia.org/resource/John_the_Baptist> <http://dbpedia.org/ontology/saint> "human" .
+<http://dbpedia.org/resource/John_the_Baptist> <http://www.w3.org/2000/01/rdf-schema#label> "John the Baptist" .
+<http://dbpedia.org/resource/Joshua> <http://dbpedia.org/ontology/saint> "adjudicator" .
+<http://dbpedia.org/resource/John_the_Evangelist> <http://www.w3.org/2000/01/rdf-schema#label> "John the Evangelist" .
+<http://dbpedia.org/resource/Joshua> <http://www.w3.org/2000/01/rdf-schema#label> "Joshua" .
+<http://dbpedia.org/resource/John_Climacus> <http://www.w3.org/2000/01/rdf-schema#label> "John Climacus" .
+<http://dbpedia.org/resource/John_Climacus> <http://dbpedia.org/ontology/saint> "saint" .
+

@@ -1,0 +1,50 @@
+<http://dbpedia.org/resource/Samsung_Galaxy_Tab_3_Lite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Atari+7800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/HP+TouchSmart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Atari+Lynx> <http://www.w3.org/2000/01/rdf-schema#label> "Atari Lynx" .
+<http://dbpedia.org/resource/Misty_(satellite)> <http://www.w3.org/2000/01/rdf-schema#label> "USA-66" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Dual+Analog+Controller> <http://www.w3.org/2000/01/rdf-schema#label> "Dual Analog Controller" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Atari+5200> <http://www.w3.org/2000/01/rdf-schema#label> "Atari 5200" .
+<http://dbpedia.org/resource/Orbiting_Solar_Observatory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Philips+Videopac+%2B+G7400> <http://www.w3.org/2000/01/rdf-schema#label> "Philips Videopac + G7400" .
+<http://dbpedia.org/resource/Nintendo> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo 64" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/HawkSat+I> <http://www.w3.org/2000/01/rdf-schema#label> "HawkSat I" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Sony+Dash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Atari+Jaguar> <http://www.w3.org/2000/01/rdf-schema#label> "Atari Jaguar" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Atari+Lynx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Atari+7800> <http://www.w3.org/2000/01/rdf-schema#label> "Atari 7800" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Atari+5200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Misty_(satellite)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Canceled_Space_Shuttle_missions> <http://www.w3.org/2000/01/rdf-schema#label> "STS-51" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Nuon+%28DVD+technology%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Philips+CD-i> <http://www.w3.org/2000/01/rdf-schema#label> "Philips CD-i" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Atari+Jaguar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Orbiting_Solar_Observatory> <http://www.w3.org/2000/01/rdf-schema#label> "OSO 7" .
+<http://dbpedia.org/resource/Atari_2700> <http://www.w3.org/2000/01/rdf-schema#label> "Atari 2600" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/HawkSat+I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Jules+Verne+ATV> <http://www.w3.org/2000/01/rdf-schema#label> "Jules Verne ATV" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Kosmos+2403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Intelsat_VI> <http://www.w3.org/2000/01/rdf-schema#label> "Intelsat 605" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/PC-FX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Kosmos+1586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Sega+TeraDrive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Jules+Verne+ATV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Nuon+%28DVD+technology%29> <http://www.w3.org/2000/01/rdf-schema#label> "Nuon (DVD technology)" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/PC-FX> <http://www.w3.org/2000/01/rdf-schema#label> "PC-FX" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Kosmos+1586> <http://www.w3.org/2000/01/rdf-schema#label> "Kosmos 1586" .
+<http://dbpedia.org/resource/Canceled_Space_Shuttle_missions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Sega+TeraDrive> <http://www.w3.org/2000/01/rdf-schema#label> "Sega TeraDrive" .
+<http://dbpedia.org/resource/Atari_2700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Kosmos+2403> <http://www.w3.org/2000/01/rdf-schema#label> "Kosmos 2403" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Sony+Dash> <http://www.w3.org/2000/01/rdf-schema#label> "Sony Dash" .
+<http://dbpedia.org/resource/Samsung_Galaxy_Tab_3_Lite> <http://www.w3.org/2000/01/rdf-schema#label> "Samsung Galaxy Tab 2 7.0" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Kosmos+2440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Philips+CD-i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Dual+Analog+Controller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Philips+Videopac+%2B+G7400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/HP+TouchSmart> <http://www.w3.org/2000/01/rdf-schema#label> "HP TouchSmart" .
+<http://example.org/dbb88de3-17cd-4389-9dcb-2ac2ac838270/Kosmos+2440> <http://www.w3.org/2000/01/rdf-schema#label> "Kosmos 2440" .
+<http://dbpedia.org/resource/Orbiting_Solar_Observatory> <http://www.w3.org/2000/01/rdf-schema#label> "OSO 3" .
+<http://dbpedia.org/resource/Intelsat_VI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+

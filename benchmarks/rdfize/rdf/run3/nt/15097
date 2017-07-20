@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/NBM_Publishing> <http://dbpedia.org/ontology/honours> "Thing" .
+<http://dbpedia.org/resource/Morgan_Kaufmann_Publishers> <http://dbpedia.org/ontology/honours> "organization" .
+<http://dbpedia.org/resource/Orbis_Books> <http://dbpedia.org/ontology/honours> "Organization" .
+<http://dbpedia.org/resource/Palgrave_Macmillan> <http://dbpedia.org/ontology/honours> "grouping" .
+<http://dbpedia.org/resource/Palgrave_Macmillan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Morgan_Kaufmann_Publishers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Orbis_Books> <http://www.w3.org/2000/01/rdf-schema#label> "Orbis Books" .
+<http://dbpedia.org/resource/NBM_Publishing> <http://www.w3.org/2000/01/rdf-schema#label> "NBM Publishing" .
+<http://dbpedia.org/resource/Northwestern_University_Library> <http://dbpedia.org/ontology/honours> "Thing" .
+<http://dbpedia.org/resource/Palgrave_Macmillan> <http://www.w3.org/2000/01/rdf-schema#label> "Palgrave Macmillan" .
+<http://dbpedia.org/resource/Orbis_Books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Northwestern_University_Library> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Northwestern_University_Library> <http://www.w3.org/2000/01/rdf-schema#label> "Northwestern University Press" .
+<http://dbpedia.org/resource/NBM_Publishing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Morgan_Kaufmann_Publishers> <http://www.w3.org/2000/01/rdf-schema#label> "Morgan Kaufmann Publishers" .
+

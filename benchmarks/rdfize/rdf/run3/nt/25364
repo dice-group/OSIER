@@ -1,0 +1,458 @@
+<http://dbpedia.org/resource/Ajmer-Merwara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Second_Spanish_Republic> <http://www.w3.org/2000/01/rdf-schema#label> "Second Polish Republic" .
+<http://dbpedia.org/resource/Macclesfield,_South_Australia> <http://dbpedia.org/ontology/country> "territorial division" .
+<http://dbpedia.org/resource/Aegina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Broome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Lir+vMasal> <http://dbpedia.org/ontology/country> "PCace" .
+<http://dbpedia.org/resource/Aleksandrów,_Jędrzejów_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Fort_Motte> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Motte" .
+<http://dbpedia.org/resource/Otterlo> <http://www.w3.org/2000/01/rdf-schema#label> "Otterlo" .
+<http://dbpedia.org/resource/Gunning,_New_South_Wales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Czechoslovakia> <http://dbpedia.org/ontology/country> "Location_Underspecified" .
+<http://dbpedia.org/resource/Aleksandrów,_Bełchatów_County> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w, Be\u0142chat\u00F3w County" .
+<http://dbpedia.org/resource/Clayton,_Winnebago_County,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Clayton, Winnebago County, Wisconsin" .
+<http://dbpedia.org/resource/Gibson,_Western_Australia> <http://dbpedia.org/ontology/country> "geographical area" .
+<http://dbpedia.org/resource/Abergavenny> <http://www.w3.org/2000/01/rdf-schema#label> "Abergavenny" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Lechmere%2C+Inc.+v.+NLRB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/MacDuff's_Cross> <http://dbpedia.org/ontology/country> "LandmarksOrHistoricalBuildings" .
+<http://dbpedia.org/resource/Apostolic_Vicariate_of_Puerto_Carreño> <http://www.w3.org/2000/01/rdf-schema#label> "Apostolic Vicariate of Puerto Ayacucho" .
+<http://dbpedia.org/resource/ABC_(TV_station)> <http://www.w3.org/2000/01/rdf-schema#label> "Australian Capital Territory" .
+<http://dbpedia.org/resource/Bonaventure_(electoral_district)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica_(Gradiška)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Cummins,_South_Australia> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Foster,_Clark_County,_Wisconsin> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Azores> <http://www.w3.org/2000/01/rdf-schema#label> "Azores" .
+<http://dbpedia.org/resource/Farlow_Hill_Historic_District> <http://www.w3.org/2000/01/rdf-schema#label> "Farlow Hill Historic District" .
+<http://dbpedia.org/resource/Clendenin,_West_Virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Carey,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Gdańsk> <http://dbpedia.org/ontology/country> "human settlement" .
+<http://dbpedia.org/resource/Al-Bayda,_Syria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Fort_Sanders_(Wyoming)> <http://dbpedia.org/ontology/country> "LandmarksOrHistoricalBuildings" .
+<http://dbpedia.org/resource/Masson_(electoral_district)> <http://www.w3.org/2000/01/rdf-schema#label> "Matane (provincial electoral district)" .
+<http://dbpedia.org/resource/Mille_Lacs_Kathio_State_Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Broome> <http://dbpedia.org/ontology/country> "Place" .
+<http://dbpedia.org/resource/Banat_of_Severin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Trung_Thu,_Dien_Bien> <http://dbpedia.org/ontology/country> "commune" .
+<http://dbpedia.org/resource/Bonaventure_(electoral_district)> <http://dbpedia.org/ontology/country> "place" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Diocese+of+eewaticn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Bistricao%28GonGji+Vakuf%29> <http://dbpedia.org/ontology/country> "palce" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Fort+Wane%2C+Indbiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Lir+Taalesh> <http://www.w3.org/2000/01/rdf-schema#label> "Lir Taalesh" .
+<http://dbpedia.org/resource/Fairhope,_Alabama> <http://www.w3.org/2000/01/rdf-schema#label> "Fairhope, Alabama" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Lechmere%2C+Inc.+v.+NLRB> <http://dbpedia.org/ontology/country> "Legal Case" .
+<http://dbpedia.org/resource/Bismark,_Germany> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Corinth> <http://dbpedia.org/ontology/country> "Place" .
+<http://dbpedia.org/resource/Lir-e_Bozorg> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Fairhope,_Alabama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Anglican_Diocese_of_Accra> <http://dbpedia.org/ontology/country> "clerical administrative region" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Baghdad> <http://www.w3.org/2000/01/rdf-schema#label> "Latin Catholic Archdiocese of Baghdad" .
+<http://dbpedia.org/resource/Bismark,_Germany> <http://www.w3.org/2000/01/rdf-schema#label> "Bismark, Germany" .
+<http://dbpedia.org/resource/Fort_Wayne,_Indiana> <http://dbpedia.org/ontology/country> "City" .
+<http://dbpedia.org/resource/Calhoun,_Tennessee> <http://www.w3.org/2000/01/rdf-schema#label> "Calhoun, Tennessee" .
+<http://dbpedia.org/resource/Bicknell,_Utah> <http://dbpedia.org/ontology/country> "town" .
+<http://dbpedia.org/resource/Belišće> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Alcalá_de_Henares> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Alcal\u00E1 de Henares" .
+<http://dbpedia.org/resource/Lir-e_Bozorg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica_(Crna_Trava)> <http://www.w3.org/2000/01/rdf-schema#label> "Bistrica (Crna Trava)" .
+<http://dbpedia.org/resource/Fort_Caspar> <http://dbpedia.org/ontology/country> "Place" .
+<http://dbpedia.org/resource/Sola,_Vanuatu> <http://www.w3.org/2000/01/rdf-schema#label> "Sola, Vanuatu" .
+<http://dbpedia.org/resource/Bicknell,_Utah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Roman_Empire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Savoy> <http://www.w3.org/2000/01/rdf-schema#label> "Savoy" .
+<http://dbpedia.org/resource/Belišće> <http://dbpedia.org/ontology/country> "settlement" .
+<http://dbpedia.org/resource/Al-Bayda,_Syria> <http://www.w3.org/2000/01/rdf-schema#label> "Al-Nahda, Syria" .
+<http://dbpedia.org/resource/MacDuff's_Cross> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aleksandrów,_Kalisz_County> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Bonaventure_(provincial_electoral_district)> <http://dbpedia.org/ontology/country> "location" .
+<http://dbpedia.org/resource/Bistrica_(Leskovac)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Clendenin,_West_Virginia> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Eugene,_Oregon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Maisonneuve_(provincial_electoral_district)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Trung_Thu,_Dien_Bien> <http://www.w3.org/2000/01/rdf-schema#label> "Trung Thu, Dien Bien" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/BuDlder+Island> <http://www.w3.org/2000/01/rdf-schema#label> "BuDlder Island" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Flast+v.+Cohen> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Beerwah,_Queensland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Carbon,_Texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Orange_Beach,_Alabama> <http://www.w3.org/2000/01/rdf-schema#label> "Orange Beach, Alabama" .
+<http://dbpedia.org/resource/Des_Moines,_Iowa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Blanchard,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aleksandrów,_Grójec_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Fort_Sanders_(Wyoming)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Masson_(electoral_district)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica_(Leskovac)> <http://www.w3.org/2000/01/rdf-schema#label> "Bistrica (Leskovac)" .
+<http://dbpedia.org/resource/Azores> <http://dbpedia.org/ontology/country> "human settlement" .
+<http://dbpedia.org/resource/Des_Moines,_Iowa> <http://www.w3.org/2000/01/rdf-schema#label> "Des Moines, Iowa" .
+<http://dbpedia.org/resource/Abergavenny> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Aberfoyle,_Stirling> <http://www.w3.org/2000/01/rdf-schema#label> "Aberfoyle, Stirling" .
+<http://dbpedia.org/resource/Hann_Land_District> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Second_Spanish_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/FairviTw+Cemetey+%28Boton%2C+Massacphusetfts%29> <http://dbpedia.org/ontology/country> "reNgio" .
+<http://dbpedia.org/resource/Cummins,_South_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Shiva,_Iran> <http://www.w3.org/2000/01/rdf-schema#label> "Shiva, Iran" .
+<http://dbpedia.org/resource/Apostolic_Vicariate_of_Puerto_Carreño> <http://dbpedia.org/ontology/country> "region" .
+<http://dbpedia.org/resource/Aberdour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aris,_Messenia> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Aleksandrów,_Biłgoraj_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Brome_(electoral_district)> <http://www.w3.org/2000/01/rdf-schema#label> "Brome (electoral district)" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rio_do_Sul> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Rio do Sul" .
+<http://dbpedia.org/resource/Hann_Land_District> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Ukrainian_Catholic_Eparchy_of_New_Westminster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Macclesfield,_Victoria> <http://www.w3.org/2000/01/rdf-schema#label> "Macclesfield, Victoria" .
+<http://dbpedia.org/resource/Bistrica_(Petrovac)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica_(Gradiška)> <http://www.w3.org/2000/01/rdf-schema#label> "Bistrica (Gradi\u0161ka)" .
+<http://dbpedia.org/resource/Bilbul,_New_South_Wales> <http://www.w3.org/2000/01/rdf-schema#label> "Bigga, New South Wales" .
+<http://dbpedia.org/resource/Clayton,_Crawford_County,_Wisconsin> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Bistrica_(Leskovac)> <http://dbpedia.org/ontology/country> "Location" .
+<http://dbpedia.org/resource/Shivaling,_Nepal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bigga,_Shetland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Orange_Beach,_Alabama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Newton,_Vernon_County,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Miao" .
+<http://dbpedia.org/resource/Roman_Empire> <http://dbpedia.org/ontology/country> "territorial division" .
+<http://dbpedia.org/resource/Fort_Motte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Ellensburg,_Washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Clarion,_Utah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Dimona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/GOay%2C+Indiana> <http://dbpedia.org/ontology/country> "Lokcaion" .
+<http://dbpedia.org/resource/Carlota_Island> <http://www.w3.org/2000/01/rdf-schema#label> "Carlota Island" .
+<http://dbpedia.org/resource/Foster,_Clark_County,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Beaver, Clark County, Wisconsin" .
+<http://dbpedia.org/resource/Roman_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Cyclades> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Meatpacking_District,_Manhattan> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Roman_Republic> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Republic" .
+<http://dbpedia.org/resource/Ajmer-Merwara> <http://www.w3.org/2000/01/rdf-schema#label> "Ajmer-Merwara" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Alcalá_de_Henares> <http://dbpedia.org/ontology/country> "Jurisdiction%3E" .
+<http://dbpedia.org/resource/Bigga,_Shetland> <http://www.w3.org/2000/01/rdf-schema#label> "Bigga, Shetland" .
+<http://dbpedia.org/resource/Beauport—Limoilou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Capel,_Western_Australia> <http://www.w3.org/2000/01/rdf-schema#label> "Capel, Western Australia" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Bistricao%28GonGji+Vakuf%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aegina> <http://dbpedia.org/ontology/country> "deed" .
+<http://dbpedia.org/resource/Savoy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Safa,_Iran> <http://dbpedia.org/ontology/country> "village" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/BuDlder+Island> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Meatpacking_District,_Manhattan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Studenica_monastery> <http://dbpedia.org/ontology/country> "building" .
+<http://dbpedia.org/resource/Bonaventure_(provincial_electoral_district)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Shivaling,_Nepal> <http://www.w3.org/2000/01/rdf-schema#label> "Shivaling, Nepal" .
+<http://dbpedia.org/resource/Detroit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Newton,_Vernon_County,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Bergen, Vernon County, Wisconsin" .
+<http://dbpedia.org/resource/Coral_Sea_Islands> <http://dbpedia.org/ontology/country> "SpatialThing" .
+<http://dbpedia.org/resource/Corinth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Mati,_Greece> <http://www.w3.org/2000/01/rdf-schema#label> "Mati, Greece" .
+<http://dbpedia.org/resource/Bistrica_(Crna_Trava)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Indianapolis> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Fort_Sanders_(Wyoming)> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Sanders (Wyoming)" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Flast+v.+Cohen> <http://www.w3.org/2000/01/rdf-schema#label> "Flast v. Cohen" .
+<http://dbpedia.org/resource/Roman_Kingdom> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Kingdom" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Khanty-Mansi+utonjomoYus+Orug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Kursi,_Lääne-Viru_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Azores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bilbul,_New_South_Wales> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Beauport—Limoilou> <http://www.w3.org/2000/01/rdf-schema#label> "Beauport\u2014Limoilou" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Khanty-Mansi+utonjomoYus+Orug> <http://dbpedia.org/ontology/country> "populaLted plae" .
+<http://dbpedia.org/resource/Shiva,_Iran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Caraquet_(electoral_district)> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Aleksandrów,_Jędrzejów_County> <http://dbpedia.org/ontology/country> "territorial division" .
+<http://dbpedia.org/resource/Athens> <http://dbpedia.org/ontology/country> "Jurisdiction%3E" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/BuDlder+Island> <http://dbpedia.org/ontology/country> "popultehd place" .
+<http://dbpedia.org/resource/Foley,_Alabama> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Aleksandrów,_Gmina_Rybno> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w, Gmina I\u0142\u00F3w" .
+<http://dbpedia.org/resource/Coral_Sea_Islands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/ABC_(TV_station)> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Clay_Banks,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aleksandrów,_Gmina_Rybno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Lir-e_Bozorg> <http://www.w3.org/2000/01/rdf-schema#label> "Lir-e Bozorg" .
+<http://dbpedia.org/resource/Memramcook-Tantramar> <http://dbpedia.org/ontology/country> "district" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Gall+v.+United+States> <http://www.w3.org/2000/01/rdf-schema#label> "Gall v. United States" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Broome> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Bunbury" .
+<http://dbpedia.org/resource/Borovo_(Kraljevo)> <http://www.w3.org/2000/01/rdf-schema#label> "Borovo (Kraljevo)" .
+<http://dbpedia.org/resource/Kursi,_Lääne-Viru_County> <http://dbpedia.org/ontology/country> "SpatialThing" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Novara" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Lir+vMasal> <http://www.w3.org/2000/01/rdf-schema#label> "Lir vMasal" .
+<http://dbpedia.org/resource/Black_Creek,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bilbul,_New_South_Wales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Meatpacking_District,_Manhattan> <http://www.w3.org/2000/01/rdf-schema#label> "Meatpacking District, Manhattan" .
+<http://dbpedia.org/resource/Canaan,_Vermont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Khanty-Mansi_Autonomous_Okrug> <http://dbpedia.org/ontology/country> "administrative region" .
+<http://dbpedia.org/resource/Lerd,_Ardabil> <http://dbpedia.org/ontology/country> "village" .
+<http://dbpedia.org/resource/Clayton,_Winnebago_County,_Wisconsin> <http://dbpedia.org/ontology/country> "Place" .
+<http://dbpedia.org/resource/Fort_Caspar> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Caspar" .
+<http://dbpedia.org/resource/Caraquet_(electoral_district)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Detroit> <http://www.w3.org/2000/01/rdf-schema#label> "Detroit" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Khanty-Mansi+utonjomoYus+Orug> <http://www.w3.org/2000/01/rdf-schema#label> "Khanty-Mansi utonjomoYus Orug" .
+<http://dbpedia.org/resource/Aberfoyle,_Stirling> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Abersychan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/FairviTw+Cemetey+%28Boton%2C+Massacphusetfts%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Clay_Banks,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Clay Banks, Wisconsin" .
+<http://dbpedia.org/resource/Savoy> <http://dbpedia.org/ontology/country> "physical entity" .
+<http://dbpedia.org/resource/Macclesfield,_Victoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Gdańsk> <http://www.w3.org/2000/01/rdf-schema#label> "Gda\u0144sk" .
+<http://dbpedia.org/resource/Canaan,_Vermont> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Belišće> <http://www.w3.org/2000/01/rdf-schema#label> "Beli\u0161\u0107e" .
+<http://dbpedia.org/resource/Aleksandrów,_Koło_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Dedham,_Massachusetts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aris,_Messenia> <http://www.w3.org/2000/01/rdf-schema#label> "Avia, Messenia" .
+<http://dbpedia.org/resource/Orange_Beach,_Alabama> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Aleksandrów,_Garwolin_County> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Fort_Wayne,_Indiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Borovo%2CBlagovgrHad+PrNovince> <http://dbpedia.org/ontology/country> "lcationn" .
+<http://dbpedia.org/resource/Gulf_Shores,_Alabama> <http://www.w3.org/2000/01/rdf-schema#label> "Gulf Shores, Alabama" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Flast+v.+Cohen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aberdour> <http://dbpedia.org/ontology/country> "country" .
+<http://dbpedia.org/resource/Ghent> <http://www.w3.org/2000/01/rdf-schema#label> "Ghent" .
+<http://dbpedia.org/resource/Bonaventure_(electoral_district)> <http://www.w3.org/2000/01/rdf-schema#label> "Bonaventure (electoral district)" .
+<http://dbpedia.org/resource/Abertillery> <http://dbpedia.org/ontology/country> "human settlement" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ventimiglia-San_Remo> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Ventimiglia-San Remo" .
+<http://dbpedia.org/resource/Abertillery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Big_Water,_Utah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Bergen,_Vernon_County,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Bergen, Marathon County, Wisconsin" .
+<http://dbpedia.org/resource/Macclesfield,_Victoria> <http://dbpedia.org/ontology/country> "geographical area" .
+<http://dbpedia.org/resource/Aleksandrów,_Koło_County> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w, Ko\u0142o County" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rio_do_Sul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aleksandrów,_Częstochowa_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Griggs+v.+Duke+Power+Co.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bear_Bluff,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Bear Bluff, Wisconsin" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Abu+Omar%2C+Idlib> <http://www.w3.org/2000/01/rdf-schema#label> "Abu Omar, Idlib" .
+<http://dbpedia.org/resource/Baghdad_Vilayet> <http://www.w3.org/2000/01/rdf-schema#label> "Baghdad Vilayet" .
+<http://dbpedia.org/resource/Bistrica_(Nova_Varoš)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Anglican_Diocese_of_Accra> <http://www.w3.org/2000/01/rdf-schema#label> "Anglican Diocese of Jos" .
+<http://dbpedia.org/resource/Lerd,_Ardabil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Eureka,_Missouri> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Shiva,_Iran> <http://dbpedia.org/ontology/country> "settlement" .
+<http://dbpedia.org/resource/Cannonville,_Utah> <http://www.w3.org/2000/01/rdf-schema#label> "Cannonville, Utah" .
+<http://dbpedia.org/resource/Fort_Caspar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Robertsdale,_Alabama> <http://www.w3.org/2000/01/rdf-schema#label> "Robertsdale, Alabama" .
+<http://dbpedia.org/resource/Clayton,_Crawford_County,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Clayton, Crawford County, Wisconsin" .
+<http://dbpedia.org/resource/Maisonneuve_(provincial_electoral_district)> <http://dbpedia.org/ontology/country> "administrative region" .
+<http://dbpedia.org/resource/Black_Creek,_Wisconsin> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Broome> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Clogher" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Borovo%2CBlagovgrHad+PrNovince> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Kursi,_Lääne-Viru_County> <http://www.w3.org/2000/01/rdf-schema#label> "Kursi, L\u00E4\u00E4ne-Viru County" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ventimiglia-San_Remo> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Aleksandrów,_Biłgoraj_County> <http://dbpedia.org/ontology/country> "location" .
+<http://dbpedia.org/resource/Concord,_Michigan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Gulf_Shores,_Alabama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Foley,_Alabama> <http://www.w3.org/2000/01/rdf-schema#label> "Foley, Alabama" .
+<http://dbpedia.org/resource/Gunning,_New_South_Wales> <http://dbpedia.org/ontology/country> "Place" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Lechmere%2C+Inc.+v.+NLRB> <http://www.w3.org/2000/01/rdf-schema#label> "Lechmere, Inc. v. NLRB" .
+<http://dbpedia.org/resource/Bistrica,_Fojnica> <http://www.w3.org/2000/01/rdf-schema#label> "Bistrica, Fojnica" .
+<http://dbpedia.org/resource/Abersychan> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Bear_Bluff,_Wisconsin> <http://dbpedia.org/ontology/country> "geographical area" .
+<http://dbpedia.org/resource/Second_Spanish_Republic> <http://dbpedia.org/ontology/country> "country" .
+<http://dbpedia.org/resource/Khanty-Mansi_Autonomous_Okrug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Independencia_Province> <http://www.w3.org/2000/01/rdf-schema#label> "Independencia Province" .
+<http://dbpedia.org/resource/Elbląg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bismark,_Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Foster,_Clark_County,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Fort_William,_Scotland> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Tuam" .
+<http://dbpedia.org/resource/Big_Water,_Utah> <http://dbpedia.org/ontology/country> "town" .
+<http://dbpedia.org/resource/The_Jim_Henson_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Shivaling,_Nepal> <http://dbpedia.org/ontology/country> "geographical area" .
+<http://dbpedia.org/resource/Blanchard,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Blanchard, Wisconsin" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Lerd,_Ardabil> <http://www.w3.org/2000/01/rdf-schema#label> "Lerd, Ardabil" .
+<http://dbpedia.org/resource/Carey,_Wisconsin> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Ghent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Corinth> <http://www.w3.org/2000/01/rdf-schema#label> "Corinth" .
+<http://dbpedia.org/resource/Mille_Lacs_Kathio_State_Park> <http://www.w3.org/2000/01/rdf-schema#label> "Mille Lacs Kathio State Park" .
+<http://dbpedia.org/resource/Robertsdale,_Alabama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bicknell,_Utah> <http://www.w3.org/2000/01/rdf-schema#label> "Bicknell, Utah" .
+<http://dbpedia.org/resource/Gulf_Shores,_Alabama> <http://dbpedia.org/ontology/country> "city" .
+<http://dbpedia.org/resource/Czechoslovakia> <http://www.w3.org/2000/01/rdf-schema#label> "Czechoslovakia" .
+<http://dbpedia.org/resource/Ukrainian_Catholic_Eparchy_of_New_Westminster> <http://www.w3.org/2000/01/rdf-schema#label> "Ukrainian Catholic Eparchy of New Westminster" .
+<http://dbpedia.org/resource/Coral_Sea_Islands> <http://www.w3.org/2000/01/rdf-schema#label> "Coral Sea Islands" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Broome> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Baghdad> <http://dbpedia.org/ontology/country> "AdministrativeArea" .
+<http://dbpedia.org/resource/Gibson,_Western_Australia> <http://www.w3.org/2000/01/rdf-schema#label> "Gibson, Western Australia" .
+<http://dbpedia.org/resource/Beauport—Limoilou> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Aleksandrów,_Garwolin_County> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w, Garwolin County" .
+<http://dbpedia.org/resource/Coney_Island_railway_station> <http://www.w3.org/2000/01/rdf-schema#label> "Coney Island, County Sligo" .
+<http://dbpedia.org/resource/Ellensburg,_Washington> <http://dbpedia.org/ontology/country> "SpatialThing" .
+<http://dbpedia.org/resource/Aleksandrów,_Koło_County> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Aleksandrów,_Biłgoraj_County> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w, Bi\u0142goraj County" .
+<http://dbpedia.org/resource/Cyclades> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aleksandrów,_Jędrzejów_County> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w, J\u0119drzej\u00F3w County" .
+<http://dbpedia.org/resource/Banat_of_Severin> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Maisonneuve_(electoral_district)> <http://www.w3.org/2000/01/rdf-schema#label> "Maisonneuve (electoral district)" .
+<http://dbpedia.org/resource/Brome_(electoral_district)> <http://dbpedia.org/ontology/country> "physical entity" .
+<http://dbpedia.org/resource/Borovo_(Kraljevo)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Studenica_monastery> <http://www.w3.org/2000/01/rdf-schema#label> "Studenica Monastery" .
+<http://dbpedia.org/resource/Maisonneuve_(provincial_electoral_district)> <http://www.w3.org/2000/01/rdf-schema#label> "Maisonneuve (provincial electoral district)" .
+<http://dbpedia.org/resource/Bistrica_(Nova_Varoš)> <http://www.w3.org/2000/01/rdf-schema#label> "Bistrica (Nova Varo\u0161)" .
+<http://dbpedia.org/resource/Robertsdale,_Alabama> <http://dbpedia.org/ontology/country> "Location" .
+<http://dbpedia.org/resource/Independencia_Province> <http://dbpedia.org/ontology/country> "location" .
+<http://dbpedia.org/resource/Aleksandrów,_Grójec_County> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w, Gr\u00F3jec County" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Diocese+of+eewaticn> <http://www.w3.org/2000/01/rdf-schema#label> "Diocese of eewaticn" .
+<http://dbpedia.org/resource/Roman_Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/ABC_(TV_station)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Lir+vMasal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Roman_Empire> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Empire" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Indianapolis> <http://www.w3.org/2000/01/rdf-schema#label> "Episcopal Diocese of Indianapolis" .
+<http://dbpedia.org/resource/Fort_Wayne,_Indiana> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Wayne, Indiana" .
+<http://dbpedia.org/resource/Ukrainian_Catholic_Eparchy_of_New_Westminster> <http://dbpedia.org/ontology/country> "region" .
+<http://dbpedia.org/resource/Aleksandrówka,_Kozienice_County> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Memramcook-Tantramar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Carlota_Island> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Maisonneuve_(electoral_district)> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Eugene,_Oregon> <http://dbpedia.org/ontology/country> "Village" .
+<http://dbpedia.org/resource/Dedham,_Massachusetts> <http://dbpedia.org/ontology/country> "human settlement" .
+<http://dbpedia.org/resource/Aleksandrówka,_Kozienice_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aleksandrów,_Garwolin_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Baghdad_Vilayet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aris,_Messenia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Capel,_Western_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aleksandrów,_Grójec_County> <http://dbpedia.org/ontology/country> "geographical area" .
+<http://dbpedia.org/resource/Clendenin,_West_Virginia> <http://www.w3.org/2000/01/rdf-schema#label> "Clendenin, West Virginia" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/GOay%2C+Indiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Fort+Wane%2C+Indbiana> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Wane, Indbiana" .
+<http://dbpedia.org/resource/Canaan,_Vermont> <http://www.w3.org/2000/01/rdf-schema#label> "Canaan, Vermont" .
+<http://dbpedia.org/resource/Carbon,_Texas> <http://dbpedia.org/ontology/country> "Location" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Abu+Omar%2C+Idlib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aleksandrówka,_Kozienice_County> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w, Kozienice County" .
+<http://dbpedia.org/resource/Caraquet_(electoral_district)> <http://www.w3.org/2000/01/rdf-schema#label> "Caraquet (electoral district)" .
+<http://dbpedia.org/resource/Clay_Banks,_Wisconsin> <http://dbpedia.org/ontology/country> "town" .
+<http://dbpedia.org/resource/Aleksandrów,_Kalisz_County> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w, Kalisz County" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Griggs+v.+Duke+Power+Co.> <http://dbpedia.org/ontology/country> "psychological feature" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Duma%2C+Hama> <http://www.w3.org/2000/01/rdf-schema#label> "Duma, Hama" .
+<http://dbpedia.org/resource/Trung_Thu,_Dien_Bien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bigga,_Shetland> <http://dbpedia.org/ontology/country> "object" .
+<http://dbpedia.org/resource/Bistrica_(Crna_Trava)> <http://dbpedia.org/ontology/country> "location" .
+<http://dbpedia.org/resource/Bonaventure_(provincial_electoral_district)> <http://www.w3.org/2000/01/rdf-schema#label> "Bonaventure (provincial electoral district)" .
+<http://dbpedia.org/resource/Clarion,_Utah> <http://dbpedia.org/ontology/country> "human settlement" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Poe+v.+Ulluan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Sola,_Vanuatu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Calhoun,_Tennessee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Gall+v.+United+States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/FairviTw+Cemetey+%28Boton%2C+Massacphusetfts%29> <http://www.w3.org/2000/01/rdf-schema#label> "FairviTw Cemetey (Boton, Massacphusetfts)" .
+<http://dbpedia.org/resource/Cummins,_South_Australia> <http://www.w3.org/2000/01/rdf-schema#label> "Cummins, South Australia" .
+<http://dbpedia.org/resource/Fort_Motte> <http://dbpedia.org/ontology/country> "place" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Poe+v.+Ulluan> <http://www.w3.org/2000/01/rdf-schema#label> "Poe v. Ulluan" .
+<http://dbpedia.org/resource/Borovo_(Kraljevo)> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Safa,_Iran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Independencia_Province> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Duma%2C+Hama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bergen,_Vernon_County,_Wisconsin> <http://dbpedia.org/ontology/country> "place" .
+<http://dbpedia.org/resource/Roman_Kingdom> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Coney_Island_railway_station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica_(Petrovac)> <http://www.w3.org/2000/01/rdf-schema#label> "Bistrica (Petrovac)" .
+<http://dbpedia.org/resource/Beerwah,_Queensland> <http://dbpedia.org/ontology/country> "district" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Lir+Taalesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Detroit> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Otterlo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Concord,_Michigan> <http://www.w3.org/2000/01/rdf-schema#label> "Concord, Michigan" .
+<http://dbpedia.org/resource/Athens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Diocese+of+eewaticn> <http://dbpedia.org/ontology/country> "administratvze trgion" .
+<http://dbpedia.org/resource/MacDuff's_Cross> <http://www.w3.org/2000/01/rdf-schema#label> "MacDuff's Cross" .
+<http://dbpedia.org/resource/Gibson,_Western_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Clarion,_Utah> <http://www.w3.org/2000/01/rdf-schema#label> "Clawson, Utah" .
+<http://dbpedia.org/resource/Beerwah,_Queensland> <http://www.w3.org/2000/01/rdf-schema#label> "Beerwah, Queensland" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://dbpedia.org/ontology/country> "human settlement" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Río_Gallegos> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Newton,_Vernon_County,_Wisconsin> <http://dbpedia.org/ontology/country> "geographical area" .
+<http://dbpedia.org/resource/Blanchard,_Wisconsin> <http://dbpedia.org/ontology/country> "geographical area" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Borovo%2CBlagovgrHad+PrNovince> <http://www.w3.org/2000/01/rdf-schema#label> "Borovo,BlagovgrHad PrNovince" .
+<http://dbpedia.org/resource/Big_Water,_Utah> <http://www.w3.org/2000/01/rdf-schema#label> "Big Water, Utah" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Poe+v.+Ulluan> <http://dbpedia.org/ontology/country> "loctiYon" .
+<http://dbpedia.org/resource/Roman_Republic> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Calhoun,_Tennessee> <http://dbpedia.org/ontology/country> "town" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Gall+v.+United+States> <http://dbpedia.org/ontology/country> "instance" .
+<http://dbpedia.org/resource/Ellensburg,_Washington> <http://www.w3.org/2000/01/rdf-schema#label> "Ellensburg, Washington" .
+<http://dbpedia.org/resource/Elbląg> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Farlow_Hill_Historic_District> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Alcalá_de_Henares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Río_Gallegos> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of R\u00EDo Gallegos" .
+<http://dbpedia.org/resource/Aleksandrów,_Częstochowa_County> <http://dbpedia.org/ontology/country> "locaioln" .
+<http://dbpedia.org/resource/Carter_Islands> <http://dbpedia.org/ontology/country> "island" .
+<http://dbpedia.org/resource/Gdańsk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Gunning,_New_South_Wales> <http://www.w3.org/2000/01/rdf-schema#label> "Gunning, New South Wales" .
+<http://dbpedia.org/resource/Aleksandrów,_Częstochowa_County> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr\u00F3w,TCz\u0119stochoa CounAty" .
+<http://dbpedia.org/resource/Farlow_Hill_Historic_District> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica_(Gradiška)> <http://dbpedia.org/ontology/country> "place" .
+<http://dbpedia.org/resource/Clayton,_Winnebago_County,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Maisonneuve_(electoral_district)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Black_Creek,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Black Brook, Wisconsin" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Lir+Taalesh> <http://dbpedia.org/ontology/country> "pompulate place" .
+<http://dbpedia.org/resource/Capel,_Western_Australia> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Bistrica_(Jajce)> <http://dbpedia.org/ontology/country> "location" .
+<http://dbpedia.org/resource/Fairhope,_Alabama> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Eureka,_Missouri> <http://www.w3.org/2000/01/rdf-schema#label> "Eureka, Missouri" .
+<http://dbpedia.org/resource/Carter_Islands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Confederate_States_of_America> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Apostolic_Vicariate_of_Puerto_Carreño> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Carlota_Island> <http://dbpedia.org/ontology/country> "physical entity" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Fort+Wane%2C+Indbiana> <http://dbpedia.org/ontology/country> "sezttlemen" .
+<http://dbpedia.org/resource/Bear_Bluff,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Aleksandrów,_Gmina_Rybno> <http://dbpedia.org/ontology/country> "Thing" .
+<http://dbpedia.org/resource/Aberdour> <http://www.w3.org/2000/01/rdf-schema#label> "Aberdour" .
+<http://dbpedia.org/resource/Mati,_Greece> <http://dbpedia.org/ontology/country> "place" .
+<http://dbpedia.org/resource/Hann_Land_District> <http://www.w3.org/2000/01/rdf-schema#label> "Hann Land District" .
+<http://dbpedia.org/resource/Bistrica_(Petrovac)> <http://dbpedia.org/ontology/country> "object" .
+<http://dbpedia.org/resource/Brome_(electoral_district)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica_(Jajce)> <http://www.w3.org/2000/01/rdf-schema#label> "Bistrica (Jajce)" .
+<http://dbpedia.org/resource/Fort_William,_Scotland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Bistricao%28GonGji+Vakuf%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bistricao(GonGji Vakuf)" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rio_do_Sul> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Ajmer-Merwara> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/The_Jim_Henson_Company> <http://dbpedia.org/ontology/country> "grouping" .
+<http://dbpedia.org/resource/Dedham,_Massachusetts> <http://www.w3.org/2000/01/rdf-schema#label> "Dedham, Massachusetts" .
+<http://dbpedia.org/resource/Barham,_New_South_Wales> <http://www.w3.org/2000/01/rdf-schema#label> "Barham, New South Wales" .
+<http://dbpedia.org/resource/Confederate_States_of_America> <http://dbpedia.org/ontology/country> "Location_Underspecified" .
+<http://dbpedia.org/resource/Anglican_Diocese_of_Accra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Masson_(electoral_district)> <http://dbpedia.org/ontology/country> "Location" .
+<http://dbpedia.org/resource/Aegina> <http://www.w3.org/2000/01/rdf-schema#label> "Aegina" .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/GOay%2C+Indiana> <http://www.w3.org/2000/01/rdf-schema#label> "GOay, Indiana" .
+<http://dbpedia.org/resource/Abergavenny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Eureka,_Missouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica_(Jajce)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Cannonville,_Utah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica,_Fojnica> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Carbon,_Texas> <http://www.w3.org/2000/01/rdf-schema#label> "Carbon, Texas" .
+<http://dbpedia.org/resource/Confederate_States_of_America> <http://www.w3.org/2000/01/rdf-schema#label> "Confederate States of America" .
+<http://dbpedia.org/resource/Eugene,_Oregon> <http://www.w3.org/2000/01/rdf-schema#label> "Eugene, Oregon" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Río_Gallegos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Baghdad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Baghdad_Vilayet> <http://dbpedia.org/ontology/country> "Jurisdiction%3E" .
+<http://dbpedia.org/resource/Dimona> <http://www.w3.org/2000/01/rdf-schema#label> "Dimona" .
+<http://dbpedia.org/resource/Sola,_Vanuatu> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Aleksandrów,_Bełchatów_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bistrica_(Nova_Varoš)> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Safa,_Iran> <http://www.w3.org/2000/01/rdf-schema#label> "Safa, Iran" .
+<http://dbpedia.org/resource/Aleksandrów,_Kalisz_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Studenica_monastery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Barham,_New_South_Wales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Abertillery> <http://www.w3.org/2000/01/rdf-schema#label> "Abertillery" .
+<http://dbpedia.org/resource/Des_Moines,_Iowa> <http://dbpedia.org/ontology/country> "Location" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Indianapolis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Mati,_Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://example.org/d036fd19-39e1-478c-98ea-20fbbad33196/Griggs+v.+Duke+Power+Co.> <http://www.w3.org/2000/01/rdf-schema#label> "Griggs v. Duke Power Co." .
+<http://dbpedia.org/resource/Cyclades> <http://www.w3.org/2000/01/rdf-schema#label> "Cyclades" .
+<http://dbpedia.org/resource/Abersychan> <http://www.w3.org/2000/01/rdf-schema#label> "Abersychan" .
+<http://dbpedia.org/resource/Fort_William,_Scotland> <http://www.w3.org/2000/01/rdf-schema#label> "Fort William, Highland" .
+<http://dbpedia.org/resource/The_Jim_Henson_Company> <http://www.w3.org/2000/01/rdf-schema#label> "Henson Recording Studios" .
+<http://dbpedia.org/resource/Mille_Lacs_Kathio_State_Park> <http://dbpedia.org/ontology/country> "geographical area" .
+<http://dbpedia.org/resource/Memramcook-Tantramar> <http://www.w3.org/2000/01/rdf-schema#label> "Memramcook-Tantramar" .
+<http://dbpedia.org/resource/Khanty-Mansi_Autonomous_Okrug> <http://www.w3.org/2000/01/rdf-schema#label> "Khanty-Mansi Autonomous Okrug" .
+<http://dbpedia.org/resource/Cannonville,_Utah> <http://dbpedia.org/ontology/country> "Place" .
+<http://dbpedia.org/resource/Macclesfield,_South_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Barham,_New_South_Wales> <http://dbpedia.org/ontology/country> "populated place" .
+<http://dbpedia.org/resource/Carey,_Wisconsin> <http://www.w3.org/2000/01/rdf-schema#label> "Carey, Wisconsin" .
+<http://dbpedia.org/resource/Aleksandrów,_Bełchatów_County> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Bistrica,_Fojnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Banat_of_Severin> <http://www.w3.org/2000/01/rdf-schema#label> "Banat of Severin" .
+<http://dbpedia.org/resource/Elbląg> <http://www.w3.org/2000/01/rdf-schema#label> "Elbl\u0105g" .
+<http://dbpedia.org/resource/Carter_Islands> <http://www.w3.org/2000/01/rdf-schema#label> "Carter Islands" .
+<http://dbpedia.org/resource/Ghent> <http://dbpedia.org/ontology/country> "country" .
+<http://dbpedia.org/resource/Aberfoyle,_Stirling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Bergen,_Vernon_County,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Clayton,_Crawford_County,_Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Foley,_Alabama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Macclesfield,_South_Australia> <http://www.w3.org/2000/01/rdf-schema#label> "Macclesfield, South Australia" .
+<http://dbpedia.org/resource/Athens> <http://www.w3.org/2000/01/rdf-schema#label> "Athens" .
+<http://dbpedia.org/resource/Coney_Island_railway_station> <http://dbpedia.org/ontology/country> "district" .
+<http://dbpedia.org/resource/Dimona> <http://dbpedia.org/ontology/country> "Village" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ventimiglia-San_Remo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+<http://dbpedia.org/resource/Czechoslovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.ordnancesurvey.co.uk/ontology/admingeo/DistrictWard> .
+

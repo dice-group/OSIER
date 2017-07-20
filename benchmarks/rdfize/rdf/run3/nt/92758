@@ -1,0 +1,21 @@
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Greek+Field+Hockey+League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://dbpedia.org/resource/Hockey_World_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Hockey World Cup" .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Lncnoeln_Continental_Mak_VI__Total__1> <http://www.w3.org/2000/01/rdf-schema#label> "Lncnoeln_Continental_Mak_VI__Total__1" .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/MSG_%28album%29__1981__1> <http://www.w3.org/2000/01/rdf-schema#label> "MSG_(album)__1981__1" .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Live...in_the_Heart_of_the_City__UK__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/MSG_%28album%29__1981__4> <http://www.w3.org/2000/01/rdf-schema#label> "MSG_(album)__1981__4" .
+<http://dbpedia.org/resource/Hockey_Junior_World_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Men%27s+FIHHckNey+XWorlxdLeague+Ranking+record> <http://www.w3.org/2000/01/rdf-schema#label> "Men's FIHHckNey XWorlxdLeague Ranking record" .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Lncnoeln_Continental_Mak_VI__Total__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://dbpedia.org/resource/Hockey_Junior_World_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Hockey Junior World Cup" .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/MSG_%28album%29__1981__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Men%27s+FIHHckNey+XWorlxdLeague+Ranking+record> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Hockey+Junior+Asia+Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://dbpedia.org/resource/Hockey_World_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/MSG_%28album%29__1981__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/MSG_%28album%29__1981__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.geospecies.org/ont/geospecies#Omernik_Level_IV_Ecoregion_Classification> .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Greek+Field+Hockey+League> <http://www.w3.org/2000/01/rdf-schema#label> "Greek Field Hockey League" .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/MSG_%28album%29__1981__3> <http://www.w3.org/2000/01/rdf-schema#label> "MSG_(album)__1981__3" .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Live...in_the_Heart_of_the_City__UK__1> <http://www.w3.org/2000/01/rdf-schema#label> "Live...in_the_Heart_of_the_City__UK__1" .
+<http://example.org/c4ae97e5-6393-412a-ac2f-36f583b6f805/Hockey+Junior+Asia+Cup> <http://www.w3.org/2000/01/rdf-schema#label> "Hockey Junior Asia Cup" .
+

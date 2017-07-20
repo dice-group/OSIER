@@ -1,0 +1,7 @@
+<http://example.org/fb1cd216-a80e-4db4-8535-2f7e141dcbe1/Skeleton+%28Programmierung%29> <http://www.w3.org/2000/01/rdf-schema#label> "Skeleton (Programmierung)" .
+<http://example.org/fb1cd216-a80e-4db4-8535-2f7e141dcbe1/Skeleton+%28computer+programming%29> <http://www.w3.org/2000/01/rdf-schema#label> "Skeleton (computer programming)" .
+<http://dbpedia.org/resource/ECL_programming_language> <http://www.w3.org/2000/01/rdf-schema#label> "APL (programming language)" .
+<http://example.org/fb1cd216-a80e-4db4-8535-2f7e141dcbe1/ALGOL> <http://www.w3.org/2000/01/rdf-schema#label> "ALGOL" .
+<http://example.org/fb1cd216-a80e-4db4-8535-2f7e141dcbe1/AWK> <http://www.w3.org/2000/01/rdf-schema#label> "AWK" .
+<http://dbpedia.org/resource/ALGOL_68R> <http://www.w3.org/2000/01/rdf-schema#label> "ALGOL 60" .
+

@@ -1,0 +1,15 @@
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/CIM-10+Bomarc> <http://www.w3.org/2000/01/rdf-schema#label> "CIM-10 Bomarc" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/Curtiss+P-40+Warhawk> <http://www.w3.org/2000/01/rdf-schema#label> "Curtiss P-40 Warhawk" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/De+Havilland+Mosquito> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "airplane" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/DeI+Havilland+osuAito> <http://www.w3.org/2000/01/rdf-schema#label> "DeI Havilland osuAito" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/CSS+Viriniia> <http://www.w3.org/2000/01/rdf-schema#label> "CSS Viriniia" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/CSS+Viriniia> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "amrtifac" .
+<http://dbpedia.org/resource/Concorde_Contemporary_Music_Ensemble> <http://www.w3.org/2000/01/rdf-schema#label> "Concorde" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/Boeing+Vertol+CH-46+Sea+Knight> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "mean of transportation" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/Boeing+Vertol+CH-46+Sea+Knight> <http://www.w3.org/2000/01/rdf-schema#label> "Boeing Vertol CH-46 Sea Knight" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/CIM-10+Bomarc> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "artifact" .
+<http://dbpedia.org/resource/Concorde_Contemporary_Music_Ensemble> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "mean of transportation" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/Curtiss+P-40+Warhawk> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "physuical ntity" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/De+Havilland+Mosquito> <http://www.w3.org/2000/01/rdf-schema#label> "De Havilland Mosquito" .
+<http://example.org/f6146bc5-8fd7-48f2-9e15-3fa8f6e0f68c/DeI+Havilland+osuAito> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "hdevierthanp-air craft" .
+

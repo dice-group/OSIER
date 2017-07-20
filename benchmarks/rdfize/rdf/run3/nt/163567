@@ -1,0 +1,6 @@
+<http://example.org/cccb0a52-a532-44c7-8e1f-de355d69d63e/Carson_Park_%28Eau_Claire%2C_Wisconsin%29__Carson_Park_football_stadium__1> <http://www.w3.org/2000/01/rdf-schema#label> "Carson_Park_(Eau_Claire,_Wisconsin)__Carson_Park_football_stadium__1" .
+<http://example.org/cccb0a52-a532-44c7-8e1f-de355d69d63e/City+of+Champions+Stadium> <http://www.w3.org/2000/01/rdf-schema#label> "City of Champions Stadium" .
+<http://example.org/cccb0a52-a532-44c7-8e1f-de355d69d63e/Christie_Pits__Dominico_Field__1> <http://www.w3.org/2000/01/rdf-schema#label> "Christie_Pits__Dominico_Field__1" .
+<http://dbpedia.org/resource/Memorial_Athletic_and_Convocation_Center> <http://www.w3.org/2000/01/rdf-schema#label> "Memorial Athletic and Convocation Center" .
+<http://example.org/cccb0a52-a532-44c7-8e1f-de355d69d63e/Jawaharlal+Nehru+Stadium%2C+Ghaziabad> <http://www.w3.org/2000/01/rdf-schema#label> "Jawaharlal Nehru Stadium, Ghaziabad" .
+

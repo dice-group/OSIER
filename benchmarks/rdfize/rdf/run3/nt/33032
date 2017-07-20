@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Dr._Dre> <http://www.w3.org/2000/01/rdf-schema#label> "Under Pressure" .
+<http://dbpedia.org/resource/Dr._Dre> <http://dbpedia.org/ontology/location> "musical work" .
+<http://example.org/eca623d1-a981-4650-8f1f-8d5c90edf3e9/The+Rock+Show> <http://dbpedia.org/ontology/location> "communication" .
+<http://example.org/eca623d1-a981-4650-8f1f-8d5c90edf3e9/Watching+the+Wildlife> <http://dbpedia.org/ontology/location> "physical entity" .
+<http://example.org/eca623d1-a981-4650-8f1f-8d5c90edf3e9/Stay+Together+for+the+Kids> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/eca623d1-a981-4650-8f1f-8d5c90edf3e9/The+Rock+Show> <http://www.w3.org/2000/01/rdf-schema#label> "The Rock Show" .
+<http://example.org/eca623d1-a981-4650-8f1f-8d5c90edf3e9/Watching+the+Wildlife> <http://www.w3.org/2000/01/rdf-schema#label> "Watching the Wildlife" .
+<http://example.org/eca623d1-a981-4650-8f1f-8d5c90edf3e9/The+ReVal+Slim+Shad> <http://www.w3.org/2000/01/rdf-schema#label> "The ReVal Slim Shad" .
+<http://example.org/eca623d1-a981-4650-8f1f-8d5c90edf3e9/Stay+Together+for+the+Kids> <http://www.w3.org/2000/01/rdf-schema#label> "Stay Together for the Kids" .
+<http://example.org/eca623d1-a981-4650-8f1f-8d5c90edf3e9/The+ReVal+Slim+Shad> <http://dbpedia.org/ontology/location> "ojRect" .
+

@@ -1,0 +1,16 @@
+<http://example.org/76de2f80-2d44-4773-87cc-3fe40c68434e/25th+Golden+Disk+Awards> <http://dbpedia.org/ontology/honours> "social function" .
+<http://example.org/76de2f80-2d44-4773-87cc-3fe40c68434e/Danuta+Gleed+Literary+Award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Award> .
+<http://dbpedia.org/resource/World_Fantasy_Award> <http://www.w3.org/2000/01/rdf-schema#label> "World Fantasy Award" .
+<http://example.org/76de2f80-2d44-4773-87cc-3fe40c68434e/Gemini+Awards> <http://dbpedia.org/ontology/honours> "communication" .
+<http://example.org/76de2f80-2d44-4773-87cc-3fe40c68434e/25th+Golden+Disk+Awards> <http://www.w3.org/2000/01/rdf-schema#label> "25th Golden Disk Awards" .
+<http://example.org/76de2f80-2d44-4773-87cc-3fe40c68434e/Gemini+Awards> <http://www.w3.org/2000/01/rdf-schema#label> "Gemini Awards" .
+<http://dbpedia.org/resource/14th_TCA_Awards> <http://www.w3.org/2000/01/rdf-schema#label> "11th TCA Awards" .
+<http://example.org/76de2f80-2d44-4773-87cc-3fe40c68434e/Danuta+Gleed+Literary+Award> <http://dbpedia.org/ontology/honours> "short story" .
+<http://dbpedia.org/resource/World_Fantasy_Award> <http://dbpedia.org/ontology/honours> "communication" .
+<http://dbpedia.org/resource/14th_TCA_Awards> <http://dbpedia.org/ontology/honours> "honour" .
+<http://dbpedia.org/resource/14th_TCA_Awards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Award> .
+<http://example.org/76de2f80-2d44-4773-87cc-3fe40c68434e/25th+Golden+Disk+Awards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Award> .
+<http://example.org/76de2f80-2d44-4773-87cc-3fe40c68434e/Danuta+Gleed+Literary+Award> <http://www.w3.org/2000/01/rdf-schema#label> "Danuta Gleed Literary Award" .
+<http://example.org/76de2f80-2d44-4773-87cc-3fe40c68434e/Gemini+Awards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Award> .
+<http://dbpedia.org/resource/World_Fantasy_Award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Award> .
+

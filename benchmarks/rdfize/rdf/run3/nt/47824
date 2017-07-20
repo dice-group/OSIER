@@ -1,0 +1,16 @@
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Median+sacral+artery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artery> .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Median+sacral+artery> <http://www.w3.org/2000/01/rdf-schema#label> "Median sacral artery" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Middle+rectal+artery> <http://www.w3.org/2000/01/rdf-schema#label> "Middle rectal artery" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Middle+rectal+artery> <http://dbpedia.org/ontology/nextEntity> "artery" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Right+gastroepiploic+artery> <http://dbpedia.org/ontology/nextEntity> "physical entity" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Middle+suprarenal+arteries> <http://www.w3.org/2000/01/rdf-schema#label> "Middle suprarenal arteries" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Median+sacral+artery> <http://dbpedia.org/ontology/nextEntity> "thing" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Middle+rectal+artery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artery> .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Lateral+sacral+artery> <http://dbpedia.org/ontology/nextEntity> "physical entity" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Middle+suprarenal+arteries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artery> .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Middle+suprarenal+arteries> <http://dbpedia.org/ontology/nextEntity> "part" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Right+gastroepiploic+artery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artery> .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Lateral+sacral+artery> <http://www.w3.org/2000/01/rdf-schema#label> "Lateral sacral artery" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Right+gastroepiploic+artery> <http://www.w3.org/2000/01/rdf-schema#label> "Right gastroepiploic artery" .
+<http://example.org/cc9729bf-e6ba-406a-b09d-84abc03fbeab/Lateral+sacral+artery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artery> .
+

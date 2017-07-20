@@ -1,0 +1,12 @@
+<http://example.org/5f8c1872-b4d5-4b98-8781-1e94b0dadc79/Aix-en-Provence+Argonautes> <http://www.w3.org/2000/01/rdf-schema#label> "Aix-en-Provence Argonautes" .
+<http://dbpedia.org/resource/West_Flanders_Tribes> <http://www.w3.org/2000/01/rdf-schema#label> "West Flanders Tribes" .
+<http://dbpedia.org/resource/Limburg_Shotguns> <http://dbpedia.org/ontology/creator> "SportsTeam" .
+<http://example.org/5f8c1872-b4d5-4b98-8781-1e94b0dadc79/Panasonic+Impulse> <http://dbpedia.org/ontology/creator> "SocialPerson" .
+<http://dbpedia.org/resource/Limburg_Shotguns> <http://www.w3.org/2000/01/rdf-schema#label> "Limburg Shotguns" .
+<http://example.org/5f8c1872-b4d5-4b98-8781-1e94b0dadc79/Panasonic+Impulse> <http://www.w3.org/2000/01/rdf-schema#label> "Panasonic Impulse" .
+<http://example.org/5f8c1872-b4d5-4b98-8781-1e94b0dadc79/Argonautes+d%27Aix-en-Provence> <http://www.w3.org/2000/01/rdf-schema#label> "Argonautes d'Aix-en-Provence" .
+<http://dbpedia.org/resource/Detroit_Wheels> <http://www.w3.org/2000/01/rdf-schema#label> "Detroit Wheels" .
+<http://dbpedia.org/resource/Detroit_Wheels> <http://dbpedia.org/ontology/creator> "agent" .
+<http://dbpedia.org/resource/West_Flanders_Tribes> <http://dbpedia.org/ontology/creator> "organization" .
+<http://example.org/5f8c1872-b4d5-4b98-8781-1e94b0dadc79/Aix-en-Provence+Argonautes> <http://dbpedia.org/ontology/creator> "agent" .
+

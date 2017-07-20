@@ -1,0 +1,16 @@
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Bipolar+I+disorder> <http://www.w3.org/2000/01/rdf-schema#label> "Bipolar I disorder" .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Bipolar+I+disorder> <http://dbpedia.org/ontology/location> "disease" .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Acute+disseminated+encephalomyelitis> <http://www.w3.org/2000/01/rdf-schema#label> "Acute disseminated encephalomyelitis" .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Bacterial+vaginosis> <http://www.w3.org/2000/01/rdf-schema#label> "Bacterial vaginosis" .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Arteriovenous+malformation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Bacterial+vaginosis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Bacterial+vaginosis> <http://dbpedia.org/ontology/location> "information" .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Arteriovenous+malformation> <http://www.w3.org/2000/01/rdf-schema#label> "Arteriovenous malformation" .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Acute+disseminated+encephalomyelitis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Bipolar+I+disorder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Tinea+nigra> <http://dbpedia.org/ontology/location> "attribute" .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Arteriovenous+malformation> <http://dbpedia.org/ontology/location> "congenital disorder" .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Tinea+nigra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Tinea+nigra> <http://www.w3.org/2000/01/rdf-schema#label> "Tinea nigra" .
+<http://example.org/f4d9e3c9-a275-47eb-96f7-25fd8cc21f35/Acute+disseminated+encephalomyelitis> <http://dbpedia.org/ontology/location> "Thing" .
+

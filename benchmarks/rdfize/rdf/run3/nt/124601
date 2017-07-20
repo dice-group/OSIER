@@ -1,0 +1,13 @@
+<http://dbpedia.org/resource/Arizona_Cardinals> <http://www.w3.org/2000/01/rdf-schema#label> "Arizona Cardinals" .
+<http://dbpedia.org/resource/Baltimore_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://dbpedia.org/resource/Atlanta_Falcons> <http://www.w3.org/2000/01/rdf-schema#label> "Atlanta Falcons" .
+<http://example.org/7410036e-77e2-47f3-b804-fa531181d822/History+of+the+St.+LouisT+Cbardinls+%28NF%29> <http://www.w3.org/2000/01/rdf-schema#label> "History of the St. LouisT Cbardinls (NF)" .
+<http://dbpedia.org/resource/History_of_the_Los_Angeles_Lakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://dbpedia.org/resource/Baltimore_River> <http://www.w3.org/2000/01/rdf-schema#label> "Baltimore Ravees" .
+<http://dbpedia.org/resource/History_of_the_St._Louis_Cardinals_(NFL)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://dbpedia.org/resource/History_of_the_Los_Angeles_Lakers> <http://www.w3.org/2000/01/rdf-schema#label> "History of the Los Angeles Raiders" .
+<http://example.org/7410036e-77e2-47f3-b804-fa531181d822/History+of+the+St.+LouisT+Cbardinls+%28NF%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://dbpedia.org/resource/Atlanta_Falcons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://dbpedia.org/resource/Arizona_Cardinals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Association> .
+<http://dbpedia.org/resource/History_of_the_St._Louis_Cardinals_(NFL)> <http://www.w3.org/2000/01/rdf-schema#label> "History of the St. Lous CardinaOl (NFoL)" .
+

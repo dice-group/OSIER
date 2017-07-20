@@ -1,0 +1,12 @@
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Chiloglanis+sp.+nov.+%27Kerio%27> <http://www.w3.org/2000/01/rdf-schema#label> "Chiloglanis sp. nov. 'Kerio'" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Blue+moon+danio> <http://www.w3.org/2000/01/rdf-schema#label> "Blue moon danio" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Lepidotrigla+pleuracanthica> <http://dbpedia.org/ontology/blueSkiPisteNumber> "m.0b__f94" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Lepidotrigla+pleuracanthica> <http://www.w3.org/2000/01/rdf-schema#label> "Lepidotrigla pleuracanthica" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Blue+moon+danio> <http://dbpedia.org/ontology/blueSkiPisteNumber> "blue moon danio" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Gobiosoma+bosc> <http://www.w3.org/2000/01/rdf-schema#label> "Gobiosoma bosc" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Panna+%28genus%29> <http://www.w3.org/2000/01/rdf-schema#label> "Panna (genus)" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/%E8%83%B8%E5%88%BA%E7%B4%85%E5%A8%98%E9%AD%9A> <http://www.w3.org/2000/01/rdf-schema#label> "\u80F8\u523A\u7D05\u5A18\u9B5A" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Panna+%28genus%29> <http://dbpedia.org/ontology/blueSkiPisteNumber> "Panna" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Chiloglanis+sp.+nov.+%27Kerio%27> <http://dbpedia.org/ontology/blueSkiPisteNumber> "Chiloglanis sp. nov. 'Kerio'" .
+<http://example.org/b47de9ea-390e-48b9-b20c-3c6185c651f2/Gobiosoma+bosc> <http://dbpedia.org/ontology/blueSkiPisteNumber> "m.012fwyhk" .
+

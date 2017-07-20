@@ -1,0 +1,11 @@
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Desert_sand_%28color%29__Earth_Yellow__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://erlangen-crm.org/current/E6_Destruction> .
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Desert_sand_%28color%29__Earth_Yellow__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_sand_(color)__Earth_Yellow__1" .
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Desert_sand_%28color%29__Desert__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://erlangen-crm.org/current/E6_Destruction> .
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Wine_%28color%29__white__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://erlangen-crm.org/current/E6_Destruction> .
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Wine_%28color%29__Champagne__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://erlangen-crm.org/current/E6_Destruction> .
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Wine_%28color%29__white__2> <http://www.w3.org/2000/01/rdf-schema#label> "Wine_(color)__white__2" .
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Wine_%28color%29__white__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://erlangen-crm.org/current/E6_Destruction> .
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Wine_%28color%29__Champagne__1> <http://www.w3.org/2000/01/rdf-schema#label> "Wine_(color)__Champagne__1" .
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Desert_sand_%28color%29__Desert__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_sand_(color)__Desert__1" .
+<http://example.org/df1dd9e6-e463-4720-86e4-4f833b9781ef/Wine_%28color%29__white__1> <http://www.w3.org/2000/01/rdf-schema#label> "Wine_(color)__white__1" .
+

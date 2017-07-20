@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/BBC_Radio_1> <http://dbpedia.org/ontology/administrativeStatus> "SocialPerson" .
+<http://dbpedia.org/resource/KEEL> <http://dbpedia.org/ontology/administrativeStatus> "Agent" .
+<http://dbpedia.org/resource/Big_red_button> <http://www.w3.org/2000/01/rdf-schema#label> "BBC Red Button" .
+<http://dbpedia.org/resource/Australian_Broadcasting_Corporation> <http://dbpedia.org/ontology/administrativeStatus> "administrative body" .
+<http://dbpedia.org/resource/KEEL> <http://www.w3.org/2000/01/rdf-schema#label> "KEEL" .
+<http://dbpedia.org/resource/BBC_Radio_1> <http://www.w3.org/2000/01/rdf-schema#label> "BBC Radio 1" .
+<http://dbpedia.org/resource/BBC_News_(TV_channel)> <http://dbpedia.org/ontology/administrativeStatus> "television station" .
+<http://dbpedia.org/resource/Australian_Broadcasting_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Australian Broadcasting Corporation" .
+<http://dbpedia.org/resource/Big_red_button> <http://dbpedia.org/ontology/administrativeStatus> "artifact" .
+<http://dbpedia.org/resource/BBC_News_(TV_channel)> <http://www.w3.org/2000/01/rdf-schema#label> "BBC News (TV channel)" .
+

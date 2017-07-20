@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Geography_of_Grenada> <http://www.w3.org/2000/01/rdf-schema#label> "Geography of Grenada" .
+<http://example.org/103a288d-eba3-409e-a3b4-0392182303b6/Geograf%C3%ADa+de+Jersey> <http://www.w3.org/2000/01/rdf-schema#label> "Geograf\u00EDa de Jersey" .
+<http://example.org/103a288d-eba3-409e-a3b4-0392182303b6/Geogruaphy+o+reeWnland> <http://www.w3.org/2000/01/rdf-schema#label> "Geogruaphy o reeWnland" .
+<http://dbpedia.org/resource/Geography_of_Jamaica> <http://www.w3.org/2000/01/rdf-schema#label> "Geography of Jamaica" .
+<http://example.org/103a288d-eba3-409e-a3b4-0392182303b6/GeoYgraf%C3%ADa+d+Groenandiea> <http://www.w3.org/2000/01/rdf-schema#label> "GeoYgraf\u00EDa d Groenandiea" .
+<http://dbpedia.org/resource/Geography_of_Jersey> <http://www.w3.org/2000/01/rdf-schema#label> "Geography of Jersey" .
+<http://example.org/103a288d-eba3-409e-a3b4-0392182303b6/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7+%D8%AC%D8%A7%D9%85%D8%A7%D9%8A%D9%83%D8%A7> <http://www.w3.org/2000/01/rdf-schema#label> "\u062C\u063A\u0631\u0627\u0641\u064A\u0627 \u062C\u0627\u0645\u0627\u064A\u0643\u0627" .
+<http://example.org/103a288d-eba3-409e-a3b4-0392182303b6/Geograf%C3%ADa+de+Granada+%28pa%C3%ADs%29> <http://www.w3.org/2000/01/rdf-schema#label> "Geograf\u00EDa de Granada (pa\u00EDs)" .
+<http://dbpedia.org/resource/Geography_of_Guam> <http://www.w3.org/2000/01/rdf-schema#label> "Geography of Guam" .
+

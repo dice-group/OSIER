@@ -1,0 +1,16 @@
+<http://example.org/ea538319-6cd3-4de0-8675-aaccb3bc80a8/Jona+Furrker> <http://www.w3.org/2000/01/rdf-schema#label> "Jona Furrker" .
+<http://dbpedia.org/resource/Juan_de_Oñate> <http://www.w3.org/2000/01/rdf-schema#label> "Juan de O\u00F1ate" .
+<http://dbpedia.org/resource/Janez_Drnovšek> <http://www.w3.org/2000/01/rdf-schema#label> "Janez Drnov\u0161ek" .
+<http://dbpedia.org/resource/Janez_Drnovšek> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/John_Hume> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Juan_de_Oñate> <http://dbpedia.org/ontology/person> "agent" .
+<http://example.org/ea538319-6cd3-4de0-8675-aaccb3bc80a8/Jona+Furrker> <http://dbpedia.org/ontology/person> "civi oflficer" .
+<http://dbpedia.org/resource/John_Hume> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Juan_de_Oñate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://example.org/ea538319-6cd3-4de0-8675-aaccb3bc80a8/Jona+Furrker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/John_Curtin> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/John_Curtin> <http://www.w3.org/2000/01/rdf-schema#label> "John Curtin" .
+<http://dbpedia.org/resource/Janez_Drnovšek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/John_Hume> <http://www.w3.org/2000/01/rdf-schema#label> "John Hume" .
+<http://dbpedia.org/resource/John_Curtin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+

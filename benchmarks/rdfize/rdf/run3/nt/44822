@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Abensberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://dbpedia.org/resource/Dedham,_Massachusetts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://dbpedia.org/resource/Dedham,_Massachusetts> <http://dbpedia.org/ontology/hometown> "place" .
+<http://dbpedia.org/resource/Fairmount,_Indiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://dbpedia.org/resource/Glasnevin> <http://dbpedia.org/ontology/hometown> "Place" .
+<http://dbpedia.org/resource/Dedham,_Massachusetts> <http://www.w3.org/2000/01/rdf-schema#label> "Dedham, Massachusetts" .
+<http://dbpedia.org/resource/Abensberg> <http://www.w3.org/2000/01/rdf-schema#label> "Abensberg" .
+<http://dbpedia.org/resource/Abensberg> <http://dbpedia.org/ontology/hometown> "Thing" .
+<http://dbpedia.org/resource/Aalen> <http://dbpedia.org/ontology/hometown> "town" .
+<http://dbpedia.org/resource/Glasnevin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+<http://dbpedia.org/resource/Aalen> <http://www.w3.org/2000/01/rdf-schema#label> "Aalen" .
+<http://dbpedia.org/resource/Fairmount,_Indiana> <http://dbpedia.org/ontology/hometown> "town" .
+<http://dbpedia.org/resource/Glasnevin> <http://www.w3.org/2000/01/rdf-schema#label> "Glasnevin" .
+<http://dbpedia.org/resource/Fairmount,_Indiana> <http://www.w3.org/2000/01/rdf-schema#label> "Fairmount, Indiana" .
+<http://dbpedia.org/resource/Aalen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Town> .
+

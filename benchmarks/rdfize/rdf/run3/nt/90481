@@ -1,0 +1,26 @@
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/National+Museum+of+Science+and+Technology+%28Bangladesh%29> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/National+Museum+of+Science+and+Technology+%28Bangladesh%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/8th_Canadian_Hussars_%28Princess_Louise%27s%29__8th_Canadian_Hussars_Princess_Louise%27s_Museum__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://www.w3.org/2000/01/rdf-schema#label> "National Softball Hall of Fame and Museum" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Autograph+%28gallery%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Zapata+%28lithograph%29> <http://www.w3.org/2000/01/rdf-schema#label> "Zapata (lithograph)" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Rienzi+vowing+to+obtain+justice+for+the+death+of+his+young+brother%2C+slain+in+a+skirmish+between+the+Colonna+and+the+Orsini+factions> <http://www.w3.org/2000/01/rdf-schema#label> "Rienzi vowing to obtain justice for the death of his young brother, slain in a skirmish between the Colonna and the Orsini factions" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Rienzi+vowing+to+obtain+justice+for+the+death+of+his+young+brother%2C+slain+in+a+skirmish+between+the+Colonna+and+the+Orsini+factions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Autograph+%28gallery%29> <http://dbpedia.org/ontology/location> "museum" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Eyebeam+%28organization%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Autograph+%28gallery%29> <http://www.w3.org/2000/01/rdf-schema#label> "Autograph (gallery)" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/8th_Canadian_Hussars_%28Princess_Louise%27s%29__8th_Canadian_Hussars_Princess_Louise%27s_Museum__1> <http://dbpedia.org/ontology/location> "Location" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Beethoven+%28M%C3%A4hler%2C+1804%E2%80%9305%29> <http://www.w3.org/2000/01/rdf-schema#label> "Beethoven (M\u00E4hler, 1804\u201305)" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Breakfast+Time+%28painting%29> <http://www.w3.org/2000/01/rdf-schema#label> "Breakfast Time (painting)" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/National+Museum+of+Science+and+Technology+%28Bangladesh%29> <http://www.w3.org/2000/01/rdf-schema#label> "National Museum of Science and Technology (Bangladesh)" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Eyebeam+%28organization%29> <http://www.w3.org/2000/01/rdf-schema#label> "Eyebeam (organization)" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/First+Daughter+%28Brack%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/8th_Canadian_Hussars_%28Princess_Louise%27s%29__8th_Canadian_Hussars_Princess_Louise%27s_Museum__1> <http://www.w3.org/2000/01/rdf-schema#label> "8th_Canadian_Hussars_(Princess_Louise's)__8th_Canadian_Hussars_Princess_Louise's_Museum__1" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Breakfast+Time+%28painting%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://dbpedia.org/ontology/location> "museum" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Beethoven+%28M%C3%A4hler%2C+1804%E2%80%9305%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Zapata+%28lithograph%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Museum> .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/First+Daughter+%28Brack%29> <http://www.w3.org/2000/01/rdf-schema#label> "First Daughter (Brack)" .
+<http://example.org/549cfa07-c19f-489a-9845-ab401fe5eb13/Eyebeam+%28organization%29> <http://dbpedia.org/ontology/location> "museum" .
+

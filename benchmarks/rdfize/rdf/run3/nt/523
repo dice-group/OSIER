@@ -1,0 +1,16 @@
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/Google+Search> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://dbpedia.org/resource/Ethnologue> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/Google+Search> <http://www.w3.org/2000/01/rdf-schema#label> "Google Search" .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/HeinOnline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/Hot+or+Not> <http://www.w3.org/2000/01/rdf-schema#label> "Hot or Not" .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/HeinOnline> <http://dbpedia.org/ontology/notableWork> "system" .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/Hot+or+Not> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Ethnologue> <http://www.w3.org/2000/01/rdf-schema#label> "Ethnologue" .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/Free+On-line+Dictionary+of+Computing> <http://dbpedia.org/ontology/notableWork> "instrumentality" .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/HeinOnline> <http://www.w3.org/2000/01/rdf-schema#label> "HeinOnline" .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/Hot+or+Not> <http://dbpedia.org/ontology/notableWork> "unit" .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/Free+On-line+Dictionary+of+Computing> <http://www.w3.org/2000/01/rdf-schema#label> "Free On-line Dictionary of Computing" .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/Google+Search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Ethnologue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8af25320-c56f-4e82-9471-4dc939c9f58a/Free+On-line+Dictionary+of+Computing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+

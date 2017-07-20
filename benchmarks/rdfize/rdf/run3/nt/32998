@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/John_Fuqua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#DivisionNavalEstablishment> .
+<http://dbpedia.org/resource/German_Navy> <http://dbpedia.org/ontology/organisation> "navy" .
+<http://dbpedia.org/resource/German_Navy> <http://www.w3.org/2000/01/rdf-schema#label> "German Navy" .
+<http://dbpedia.org/resource/Georgian_Armed_Forces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#DivisionNavalEstablishment> .
+<http://dbpedia.org/resource/Georgian_Armed_Forces> <http://www.w3.org/2000/01/rdf-schema#label> "Georgian Armed Forces" .
+<http://dbpedia.org/resource/Ghana_Armed_Forces> <http://www.w3.org/2000/01/rdf-schema#label> "Ghana Armed Forces" .
+<http://dbpedia.org/resource/Ghana_Armed_Forces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#DivisionNavalEstablishment> .
+<http://dbpedia.org/resource/Hungarian_Defence_Force> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#DivisionNavalEstablishment> .
+<http://dbpedia.org/resource/Hungarian_Defence_Force> <http://www.w3.org/2000/01/rdf-schema#label> "Hungarian Defence Force" .
+<http://dbpedia.org/resource/Hungarian_Defence_Force> <http://dbpedia.org/ontology/organisation> "military unit" .
+<http://dbpedia.org/resource/Georgian_Armed_Forces> <http://dbpedia.org/ontology/organisation> "organization" .
+<http://dbpedia.org/resource/Ghana_Armed_Forces> <http://dbpedia.org/ontology/organisation> "military unit" .
+<http://dbpedia.org/resource/John_Fuqua> <http://dbpedia.org/ontology/organisation> "organisation" .
+<http://dbpedia.org/resource/German_Navy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.muninn-project.org/ontologies/military#DivisionNavalEstablishment> .
+<http://dbpedia.org/resource/John_Fuqua> <http://www.w3.org/2000/01/rdf-schema#label> "French Foreign Legion" .
+

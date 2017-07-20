@@ -1,0 +1,65 @@
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey Route 23" .
+<http://dbpedia.org/resource/Orange_Crush_interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Orange Crush interchange" .
+<http://dbpedia.org/resource/Sydney_Harbour_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Sydney Harbour Bridge" .
+<http://dbpedia.org/resource/G70_Fuzhou–Yinchuan_Expressway> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "route of transportation" .
+<http://dbpedia.org/resource/Grand_Boulevard_(St._Louis)> <http://www.w3.org/2000/01/rdf-schema#label> "Grand Boulevard (St. Louis)" .
+<http://dbpedia.org/resource/Golden_Glades_Interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Golden Glades Interchange" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "junction" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey Route 3" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey Route 183" .
+<http://dbpedia.org/resource/Newhall_Pass_interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Newhall Pass interchange" .
+<http://example.org/982634cd-8a44-4519-ba0e-a04f300b6935/MassacehusttJs+Route> <http://www.w3.org/2000/01/rdf-schema#label> "MassacehusttJs Route" .
+<http://dbpedia.org/resource/Nevada_State_Route_726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://example.org/982634cd-8a44-4519-ba0e-a04f300b6935/MassacehusttJs+Route> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Madhya_Kailash_Junction> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "Place" .
+<http://dbpedia.org/resource/Orange_Crush_interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Grand_Boulevard,_Joondalup> <http://www.w3.org/2000/01/rdf-schema#label> "Grand Boulevard, Joondalup" .
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "bridge" .
+<http://dbpedia.org/resource/Newhall_Pass_interchange> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "catastrophe" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "line" .
+<http://dbpedia.org/resource/Metro_Manila_Skyway> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "place" .
+<http://dbpedia.org/resource/Mount_Davies_Road> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Davies Road" .
+<http://dbpedia.org/resource/Newhall_Pass_interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "thruway" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "Thing" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey Route 12" .
+<http://dbpedia.org/resource/Golden_Glades_Interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey Route 120" .
+<http://dbpedia.org/resource/Grand_Boulevard_(St._Louis)> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "Thing" .
+<http://dbpedia.org/resource/Gay_Street_(Manhattan)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://www.w3.org/2000/01/rdf-schema#label> "Ponte Vecchio" .
+<http://dbpedia.org/resource/Grand_Boulevard_(St._Louis)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Orange_Crush_interchange> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "thruway" .
+<http://dbpedia.org/resource/Nevada_State_Route_726> <http://www.w3.org/2000/01/rdf-schema#label> "Nevada State Route 796" .
+<http://dbpedia.org/resource/Metro_Manila_Skyway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Sydney_Harbour_Bridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Grand_Boulevard,_Joondalup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Mount_Davies_Road> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Kew_Gardens_Interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Kew Gardens Interchange" .
+<http://dbpedia.org/resource/Kew_Gardens_Interchange> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "object" .
+<http://dbpedia.org/resource/G70_Fuzhou–Yinchuan_Expressway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Sydney_Harbour_Bridge> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "artifact" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey Route 24" .
+<http://dbpedia.org/resource/Metro_Manila_Skyway> <http://www.w3.org/2000/01/rdf-schema#label> "Metro Manila Skyway" .
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Grand_Boulevard_(Detroit)> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "road" .
+<http://dbpedia.org/resource/Madhya_Kailash_Junction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Golden_Glades_Interchange> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "interchange" .
+<http://dbpedia.org/resource/Gay_Street_(Manhattan)> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "thoroughfare" .
+<http://dbpedia.org/resource/Nevada_State_Route_726> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "thruway" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "place" .
+<http://dbpedia.org/resource/Gay_Street_(Manhattan)> <http://www.w3.org/2000/01/rdf-schema#label> "Gay Street (Manhattan)" .
+<http://dbpedia.org/resource/G70_Fuzhou–Yinchuan_Expressway> <http://www.w3.org/2000/01/rdf-schema#label> "G70 Fuzhou\u2013Yinchuan Expressway" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey Route 10" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey Route 29" .
+<http://dbpedia.org/resource/Grand_Boulevard_(Detroit)> <http://www.w3.org/2000/01/rdf-schema#label> "Grand Boulevard (Detroit)" .
+<http://example.org/982634cd-8a44-4519-ba0e-a04f300b6935/MassacehusttJs+Route> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "arcitecVtual struqcture" .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "Street_Generic" .
+<http://dbpedia.org/resource/Kew_Gardens_Interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/New_Jersey_Route_160> <http://www.w3.org/2000/01/rdf-schema#label> "New Jersey Route 26" .
+<http://dbpedia.org/resource/Mount_Davies_Road> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "route of transportation" .
+<http://dbpedia.org/resource/Madhya_Kailash_Junction> <http://www.w3.org/2000/01/rdf-schema#label> "Madhya Kailash Junction" .
+<http://dbpedia.org/resource/Grand_Boulevard,_Joondalup> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "Place" .
+<http://dbpedia.org/resource/Grand_Boulevard_(Detroit)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+

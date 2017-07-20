@@ -1,0 +1,27 @@
+<http://example.org/09254016-e51c-47f9-936f-49a94ffcbbc4/Cowboy+Bebop> <http://dbpedia.org/ontology/notableWork> "Thing" .
+<http://dbpedia.org/resource/Crash_(J._G._Ballard_novel)> <http://www.w3.org/2000/01/rdf-schema#label> "Crash (J. G. Ballard novel)" .
+<http://dbpedia.org/resource/Crash_(J._G._Ballard_novel)> <http://dbpedia.org/ontology/notableWork> "Book" .
+<http://dbpedia.org/resource/Ranma_½> <http://www.w3.org/2000/01/rdf-schema#label> "Ranma \u00BD" .
+<http://dbpedia.org/resource/Constellations_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Cell_Cycle_(journal)> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://dbpedia.org/resource/Nura:_Rise_of_the_Yokai_Clan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/09254016-e51c-47f9-936f-49a94ffcbbc4/Cowboy+Bebop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/09254016-e51c-47f9-936f-49a94ffcbbc4/Nura+%3A+Le+Seigneur+des+Yoka%C3%AF> <http://www.w3.org/2000/01/rdf-schema#label> "Nura : Le Seigneur des Yoka\u00EF" .
+<http://dbpedia.org/resource/Cosmicomics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Cosmicomics> <http://dbpedia.org/ontology/notableWork> "Book" .
+<http://dbpedia.org/resource/Cosmicomics> <http://www.w3.org/2000/01/rdf-schema#label> "Cosmicomics" .
+<http://dbpedia.org/resource/Crash_(J._G._Ballard_novel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Constellations_(journal)> <http://dbpedia.org/ontology/notableWork> "creation" .
+<http://dbpedia.org/resource/Doraemon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Natsu_no_Arashi!> <http://www.w3.org/2000/01/rdf-schema#label> "Natsu no Arashi!" .
+<http://dbpedia.org/resource/Constellations_(journal)> <http://www.w3.org/2000/01/rdf-schema#label> "Constellations (journal)" .
+<http://dbpedia.org/resource/Ranma_½> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Cell_Cycle_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Natsu_no_Arashi!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Natsu_no_Arashi!> <http://www.w3.org/2000/01/rdf-schema#label> "Natsu no arashi!" .
+<http://dbpedia.org/resource/Nura:_Rise_of_the_Yokai_Clan> <http://www.w3.org/2000/01/rdf-schema#label> "Nura: Rise of the Yokai Clan" .
+<http://dbpedia.org/resource/Doraemon> <http://www.w3.org/2000/01/rdf-schema#label> "Doraemon" .
+<http://example.org/09254016-e51c-47f9-936f-49a94ffcbbc4/Nura+%3A+Le+Seigneur+des+Yoka%C3%AF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Cell_Cycle_(journal)> <http://www.w3.org/2000/01/rdf-schema#label> "Cell Cycle (journal)" .
+<http://example.org/09254016-e51c-47f9-936f-49a94ffcbbc4/Cowboy+Bebop> <http://www.w3.org/2000/01/rdf-schema#label> "Cowboy Bebop" .
+

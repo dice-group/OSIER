@@ -1,0 +1,13 @@
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/Finnish+markka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/EuropeanaAggregation> .
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/Swedish+krona> <http://www.w3.org/2000/01/rdf-schema#label> "Swedish krona" .
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/East+Caribbean+dollar> <http://www.w3.org/2000/01/rdf-schema#label> "East Caribbean dollar" .
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/Quasi+Universal+Intergalactic+Denomination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/EuropeanaAggregation> .
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/East+Caribbean+dollar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/EuropeanaAggregation> .
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/Schwedische+Krone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/EuropeanaAggregation> .
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/Finnish+markka> <http://www.w3.org/2000/01/rdf-schema#label> "Finnish markka" .
+<http://dbpedia.org/resource/European-American_Unity_and_Rights_Organization> <http://www.w3.org/2000/01/rdf-schema#label> "Euro" .
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/Schwedische+Krone> <http://www.w3.org/2000/01/rdf-schema#label> "Schwedische Krone" .
+<http://dbpedia.org/resource/European-American_Unity_and_Rights_Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/EuropeanaAggregation> .
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/Swedish+krona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/EuropeanaAggregation> .
+<http://example.org/bf9041e9-cedc-42aa-a221-7df4d28d0065/Quasi+Universal+Intergalactic+Denomination> <http://www.w3.org/2000/01/rdf-schema#label> "Quasi Universal Intergalactic Denomination" .
+

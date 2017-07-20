@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington> <http://dbpedia.org/ontology/humanDevelopmentIndex> "PrimeMinister_HeadOfGovernment" .
+<http://dbpedia.org/resource/Arthur_St._Clair> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur St. Clair" .
+<http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Wellesley, 1st Duke of Wellington" .
+<http://dbpedia.org/resource/Ariel_Sharon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/f774de66-e7da-4399-8102-e80d11add4f3/ArthDur+hillip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Arthur_St._Clair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/f774de66-e7da-4399-8102-e80d11add4f3/ArthDur+hillip> <http://dbpedia.org/ontology/humanDevelopmentIndex> "full oadmira" .
+<http://dbpedia.org/resource/Ariel_Sharon> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/f774de66-e7da-4399-8102-e80d11add4f3/ArthDur+hillip> <http://www.w3.org/2000/01/rdf-schema#label> "ArthDur hillip" .
+<http://dbpedia.org/resource/Ariel_Sharon> <http://www.w3.org/2000/01/rdf-schema#label> "Ariel Sharon" .
+<http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Arthur_St._Clair> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/Arnold_Schwarzenegger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Arnold_Schwarzenegger> <http://www.w3.org/2000/01/rdf-schema#label> "Arnold Schwarzenegger" .
+<http://dbpedia.org/resource/Arnold_Schwarzenegger> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+

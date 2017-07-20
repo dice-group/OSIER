@@ -1,0 +1,16 @@
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Inferior+gluteal+nerve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Inferior+mesenteric+ganglion> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "physical entity" .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Inferior+mesenteric+ganglion> <http://www.w3.org/2000/01/rdf-schema#label> "Inferior mesenteric ganglion" .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Inferior+gluteal+nerve> <http://www.w3.org/2000/01/rdf-schema#label> "Inferior gluteal nerve" .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Deep+temporal+nerves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Inferior+hypogastric+plexus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Inferior+hypogastric+plexus> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "AnimalBodyPart" .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Dorsal+scapular+nerve> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "nervus" .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Inferior+gluteal+nerve> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "Thing" .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Dorsal+scapular+nerve> <http://www.w3.org/2000/01/rdf-schema#label> "Dorsal scapular nerve" .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Deep+temporal+nerves> <http://www.w3.org/2000/01/rdf-schema#label> "Deep temporal nerves" .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Inferior+hypogastric+plexus> <http://www.w3.org/2000/01/rdf-schema#label> "Inferior hypogastric plexus" .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Dorsal+scapular+nerve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Inferior+mesenteric+ganglion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Nerve> .
+<http://example.org/35890d2d-989d-4702-982c-fa1f0292eece/Deep+temporal+nerves> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "anatomical structure" .
+

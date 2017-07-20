@@ -1,0 +1,246 @@
+<http://dbpedia.org/resource/Sweet_Afton> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Journal_of_Experimental_Medicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/1989_Montreal_Expos_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Innovations_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+the+Sea+Monster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Double+Dribble+%28film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Double Dribble (film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Moving+Day+%281936+film%29> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Oh+Teacher+%28film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Scalp+Treatment> <http://dbpedia.org/ontology/location> "object" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Old+an+of+Rthe+Mountain+filml%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Old an of Rthe Mountain filml)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Moving+Day+%281936+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Moving Day (1936 film)" .
+<http://dbpedia.org/resource/2004_Milwaukee_Brewers_season> <http://www.w3.org/2000/01/rdf-schema#label> "1995 Milwaukee Brewers season" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Blackmask+%28comic+book%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blackmask (comic book)" .
+<http://dbpedia.org/resource/Sabbath_Morning_at_Sea> <http://dbpedia.org/ontology/location> "music" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Great+De+Gaulle+Stone+Operation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/University_of_Toronto_Faculty_of_Law> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+King+Ghidorah> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Acta_Crystallographica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/18a72+ClevelandForest+Cits+seacson> <http://dbpedia.org/ontology/location> "objedt" .
+<http://dbpedia.org/resource/Bosko,_the_Talk-Ink_Kid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Duck+Soup+to+Nuts> <http://www.w3.org/2000/01/rdf-schema#label> "Duck Soup to Nuts" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Wear+%28jurnalS%29> <http://www.w3.org/2000/01/rdf-schema#label> "Wear (jurnalS)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/18a72+ClevelandForest+Cits+seacson> <http://www.w3.org/2000/01/rdf-schema#label> "18a72 ClevelandForest Cits seacson" .
+<http://dbpedia.org/resource/Conrad_II,_Holy_Roman_Emperor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Old+MacDonald+Duck> <http://www.w3.org/2000/01/rdf-schema#label> "Old MacDonald Duck" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Mzzoj+DSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/1888+Kansas+City+Cowboys+season> <http://dbpedia.org/ontology/location> "animate thing" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Duck+Soup+to+Nuts> <http://dbpedia.org/ontology/location> "hollywood cartoon" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Chicken+Little+%281943+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chicken Little (1943 film)" .
+<http://dbpedia.org/resource/Heathers_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Heathers" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Ugly+Duckling+%281939+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Ugly Duckling (1939 film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Hell%27s+Bells+%281929+film%29> <http://dbpedia.org/ontology/location> "event" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Witness+%28magainZe%29> <http://dbpedia.org/ontology/location> "arqtifat" .
+<http://dbpedia.org/resource/The_Cleft_Palate-Craniofacial_Journal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Waking_in_the_Blue> <http://www.w3.org/2000/01/rdf-schema#label> "Waking in the Blue" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+the+Sea+Monster> <http://dbpedia.org/ontology/location> "movie" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Mickey%27s+Delayed+Date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+King+Ghidorah> <http://www.w3.org/2000/01/rdf-schema#label> "Godzilla vs. King Ghidorah" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Blafck+Prl> <http://www.w3.org/2000/01/rdf-schema#label> "Blafck Prl" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/All+Night+Long+%28TV+series%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Iowa+LawF+Rview> <http://dbpedia.org/ontology/location> "academic jurnaxl" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/MZezo+Forte> <http://www.w3.org/2000/01/rdf-schema#label> "MZezo Forte" .
+<http://dbpedia.org/resource/Der_Untergang_der_Titanic> <http://dbpedia.org/ontology/location> "1978 poems" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tweet+Zoo> <http://www.w3.org/2000/01/rdf-schema#label> "Tweet Zoo" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/...And+Justice+for+All+%28film%29> <http://www.w3.org/2000/01/rdf-schema#label> "...And Justice for All (film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/...And+Justice+for+All+%28film%29> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Mzzoj+DSA> <http://www.w3.org/2000/01/rdf-schema#label> "Mzzoj DSA" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Scalp+Treatment> <http://www.w3.org/2000/01/rdf-schema#label> "Scalp Treatment" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/High+Diving+Hare> <http://dbpedia.org/ontology/location> "creation" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Beneath+the+lacnet+om+the+Apes> <http://www.w3.org/2000/01/rdf-schema#label> "Beneath the lacnet om the Apes" .
+<http://dbpedia.org/resource/Heathers_(band)> <http://dbpedia.org/ontology/location> "production" .
+<http://dbpedia.org/resource/Steamboat_Williams> <http://www.w3.org/2000/01/rdf-schema#label> "Steamboat Willie" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/All+Night+Long+%28TV+series%29> <http://dbpedia.org/ontology/location> "work" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Iowa+LawF+Rview> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Hell%27s+Bells+%281929+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/18a72+ClevelandForest+Cits+seacson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/MZezo+Forte> <http://dbpedia.org/ontology/location> "gropiFng" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Double+Dribble+%28film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/All+Night+Long+%28TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "All Night Long (TV series)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Jeepers+Creepers+%281939+animated+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Alfresco+%28TFV+sries%29> <http://dbpedia.org/ontology/location> "attivity" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Great+De+Gaulle+Stone+Operation> <http://www.w3.org/2000/01/rdf-schema#label> "The Great De Gaulle Stone Operation" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Fraidy+Cat+%28film%29> <http://dbpedia.org/ontology/location> "movie" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Pied+Piper+%281933+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Pied Piper (1933 film)" .
+<http://dbpedia.org/resource/Transactions_of_the_American_Neurological_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Waking_in_the_Blue> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tweet+Zoo> <http://dbpedia.org/ontology/location> "cartoon" .
+<http://dbpedia.org/resource/Innovations_(journal)> <http://www.w3.org/2000/01/rdf-schema#label> "Innovations (journal)" .
+<http://dbpedia.org/resource/Journal_of_Herbal_Medicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Double+Dribble+%28film%29> <http://dbpedia.org/ontology/location> "production" .
+<http://dbpedia.org/resource/The_Lonesome_Road> <http://dbpedia.org/ontology/location> "CreativeWork" .
+<http://dbpedia.org/resource/World_Health_Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/High+Diving+Hare> <http://www.w3.org/2000/01/rdf-schema#label> "High Diving Hare" .
+<http://dbpedia.org/resource/Sabbath_Morning_at_Sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Big_Shot_Comics> <http://dbpedia.org/ontology/location> "production" .
+<http://dbpedia.org/resource/Heathers_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Trick-or-treating> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Abov+ltheQ+Lin+%28TV+series%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+Mothra> <http://www.w3.org/2000/01/rdf-schema#label> "Godzilla vs. Mothra" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Summer+%281930+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Summer (1930 film)" .
+<http://dbpedia.org/resource/Simple_Minds> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/High+Diving+Hare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Claws+in+the+Lease> <http://dbpedia.org/ontology/location> "work" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Up-Standing+Sitter> <http://dbpedia.org/ontology/location> "cartoon" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Annie+%281999+film%29> <http://dbpedia.org/ontology/location> "production" .
+<http://dbpedia.org/resource/Big_Shot_Comics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Elmer_the_Patchwork_Elephant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Black_Knight_(manga)> <http://dbpedia.org/ontology/location> "comic" .
+<http://dbpedia.org/resource/Sabbath_Morning_at_Sea> <http://www.w3.org/2000/01/rdf-schema#label> "Sabbath Morning at Sea" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Chicken+Little+%281943+film%29> <http://dbpedia.org/ontology/location> "objert" .
+<http://dbpedia.org/resource/World_Health_Report> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Up-Standing+Sitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Simple_Minds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+aZvy> <http://www.w3.org/2000/01/rdf-schema#label> "The aZvy" .
+<http://dbpedia.org/resource/Administrative_Science_Quarterly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Journal_of_Herbal_Medicine> <http://www.w3.org/2000/01/rdf-schema#label> "Journal of Internal Medicine" .
+<http://dbpedia.org/resource/Baker_Street_(comics)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Scalp+Treatment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+Megalon> <http://www.w3.org/2000/01/rdf-schema#label> "Godzilla vs. Megalon" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Summer+%281930+film%29> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Jeepers+Creepers+%281939+animated+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jeepers Creepers (1939 animated film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Blackmask+%28comic+book%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Conrad_II,_Holy_Roman_Emperor> <http://dbpedia.org/ontology/location> "CreativeWork" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Up-Standing+Sitter> <http://www.w3.org/2000/01/rdf-schema#label> "The Up-Standing Sitter" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Witness+%28magainZe%29> <http://www.w3.org/2000/01/rdf-schema#label> "Witness (magainZe)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Beneath+the+lacnet+om+the+Apes> <http://dbpedia.org/ontology/location> "wrpk" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Oh+Teacher+%28film%29> <http://dbpedia.org/ontology/location> "work" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Swan+%28film%29> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+aZvy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Sweet_Afton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Mzzoj+DSA> <http://dbpedia.org/ontology/location> "CreaFiveWork" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Old+an+of+Rthe+Mountain+filml%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+aZvy> <http://dbpedia.org/ontology/location> "wozk" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Fraidy+Cat+%28film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fraidy Cat (film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+Mothra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Administrative_Science_Quarterly> <http://www.w3.org/2000/01/rdf-schema#label> "Administrative Science Quarterly" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tweetie+Pie> <http://dbpedia.org/ontology/location> "artifact" .
+<http://dbpedia.org/resource/Big_Shot_Comics> <http://www.w3.org/2000/01/rdf-schema#label> "Big Shot Comics" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Sand+Pebbles+%28film%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Sand Pebbles (film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/JouFrnal+of+uElectrnic+Mateials> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Shock_Journal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Iowa+LawF+Rview> <http://www.w3.org/2000/01/rdf-schema#label> "Iowa LawF Rview" .
+<http://dbpedia.org/resource/Baker_Street_(comics)> <http://www.w3.org/2000/01/rdf-schema#label> "Baker Street (comics)" .
+<http://dbpedia.org/resource/Conrad_II,_Holy_Roman_Emperor> <http://www.w3.org/2000/01/rdf-schema#label> "Conrad the Sailor" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tweet+Zoo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Jeepers+Creepers+%281939+animated+film%29> <http://dbpedia.org/ontology/location> "production" .
+<http://dbpedia.org/resource/Wave_Motion_(journal)> <http://www.w3.org/2000/01/rdf-schema#label> "Wave Motion (journal)" .
+<http://dbpedia.org/resource/Bosko,_the_Talk-Ink_Kid> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Black_Knight_(manga)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Pied+Piper+%281933+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Ugly+Duckling+%281931+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Mickey%27s+Delayed+Date> <http://www.w3.org/2000/01/rdf-schema#label> "Mickey's Delayed Date" .
+<http://dbpedia.org/resource/The_Cleft_Palate-Craniofacial_Journal> <http://dbpedia.org/ontology/location> "production" .
+<http://dbpedia.org/resource/Simple_Minds> <http://www.w3.org/2000/01/rdf-schema#label> "The Simple Things" .
+<http://dbpedia.org/resource/1989_Montreal_Expos_season> <http://www.w3.org/2000/01/rdf-schema#label> "1999 Montreal Expos season" .
+<http://dbpedia.org/resource/Journal_of_Experimental_Medicine> <http://dbpedia.org/ontology/location> "medium" .
+<http://dbpedia.org/resource/Acta_Crystallographica> <http://www.w3.org/2000/01/rdf-schema#label> "Acta Crystallographica" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tweet+Tweet+Tweety> <http://www.w3.org/2000/01/rdf-schema#label> "Tweet Tweet Tweety" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Hare+Ribbin%27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Hare+Ribbin%27> <http://dbpedia.org/ontology/location> "event" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Abov+ltheQ+Lin+%28TV+series%29> <http://dbpedia.org/ontology/location> "physical xenity" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+Mothra> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+Megalon> <http://dbpedia.org/ontology/location> "Movie" .
+<http://dbpedia.org/resource/The_Lonesome_Road> <http://www.w3.org/2000/01/rdf-schema#label> "The Lonesome Mouse" .
+<http://dbpedia.org/resource/Journal_of_Experimental_Medicine> <http://www.w3.org/2000/01/rdf-schema#label> "Journal of Experimental Medicine" .
+<http://dbpedia.org/resource/World_Health_Report> <http://www.w3.org/2000/01/rdf-schema#label> "World Health Report" .
+<http://dbpedia.org/resource/Transactions_of_the_American_Neurological_Association> <http://dbpedia.org/ontology/location> "work" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tucker+%282000+TV+series%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tucker+%282000+TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Tucker (2000 TV series)" .
+<http://dbpedia.org/resource/University_of_Toronto_Faculty_of_Law> <http://dbpedia.org/ontology/location> "artifact" .
+<http://dbpedia.org/resource/2004_Milwaukee_Brewers_season> <http://www.w3.org/2000/01/rdf-schema#label> "1994 Milwaukee Brewers season" .
+<http://dbpedia.org/resource/University_of_Toronto_Faculty_of_Law> <http://www.w3.org/2000/01/rdf-schema#label> "University of Toronto Faculty of Law Review" .
+<http://dbpedia.org/resource/Innovations_(journal)> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Swan+%28film%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Swan (film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tucker+%282000+TV+series%29> <http://dbpedia.org/ontology/location> "work" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Ugly+Duckling+%281939+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Krazy%27s+Waterloo> <http://www.w3.org/2000/01/rdf-schema#label> "Krazy's Waterloo" .
+<http://dbpedia.org/resource/Acta_Crystallographica> <http://dbpedia.org/ontology/location> "periodical literature" .
+<http://dbpedia.org/resource/Steamboat_Williams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Alfresco+%28TFV+sries%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/1989_Montreal_Expos_season> <http://dbpedia.org/ontology/location> "baseball season" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Summer+%281930+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Pied+Piper+%281933+film%29> <http://dbpedia.org/ontology/location> "hollywood cartoon" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Abov+ltheQ+Lin+%28TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Abov ltheQ Lin (TV series)" .
+<http://dbpedia.org/resource/Baker_Street_(comics)> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Ugly+Duckling+%281931+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Ugly Duckling (1931 film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tweetie+Pie> <http://www.w3.org/2000/01/rdf-schema#label> "Tweetie Pie" .
+<http://dbpedia.org/resource/Bosko,_the_Talk-Ink_Kid> <http://www.w3.org/2000/01/rdf-schema#label> "Bosko, the Talk-Ink Kid" .
+<http://dbpedia.org/resource/Waking_in_the_Blue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/1888+Kansas+City+Cowboys+season> <http://www.w3.org/2000/01/rdf-schema#label> "1888 Kansas City Cowboys season" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Witness+%28magainZe%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Alice's_Adventures_in_Wonderland> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Hell%27s+Bells+%281929+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hell's Bells (1929 film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Blafck+Prl> <http://dbpedia.org/ontology/location> "writteYn ork" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Rocky+III> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Claws+in+the+Lease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Rocky+III> <http://dbpedia.org/ontology/location> "event" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Let+It+Be+Me+%281936+film%29> <http://dbpedia.org/ontology/location> "CreativeWork" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Sand+Pebbles+%28film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Swan+%28film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Krazy%27s+Waterloo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Old+MacDonald+Duck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Alfresco+%28TFV+sries%29> <http://www.w3.org/2000/01/rdf-schema#label> "Alfresco (TFV sries)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Ugly+Duckling+%281939+film%29> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/...And+Justice+for+All+%28film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/2004_Milwaukee_Brewers_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Elmer_the_Patchwork_Elephant> <http://dbpedia.org/ontology/location> "creation" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/1888+Kansas+City+Cowboys+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/MZezo+Forte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Gall+Force> <http://dbpedia.org/ontology/location> "cartoon" .
+<http://dbpedia.org/resource/Trick-or-treating> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Ugly+Duckling+%281931+film%29> <http://dbpedia.org/ontology/location> "hollywood cartoon" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Krazy%27s+Waterloo> <http://dbpedia.org/ontology/location> "production" .
+<http://dbpedia.org/resource/Wave_Motion_(journal)> <http://dbpedia.org/ontology/location> "physical entity" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+the+Sea+Monster> <http://www.w3.org/2000/01/rdf-schema#label> "Godzilla vs. the Sea Monster" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Beneath+the+lacnet+om+the+Apes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Trick-or-treating> <http://www.w3.org/2000/01/rdf-schema#label> "Trick or Tweet" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+Megalon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Wave_Motion_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Mickey%27s+Delayed+Date> <http://dbpedia.org/ontology/location> "artifact" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Godzilla+vs.+King+Ghidorah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Der_Untergang_der_Titanic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Rocky+III> <http://www.w3.org/2000/01/rdf-schema#label> "Rocky III" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Hare+Ribbin%27> <http://www.w3.org/2000/01/rdf-schema#label> "Hare Ribbin'" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Let+It+Be+Me+%281936+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Let It Be Me (1936 film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Let+It+Be+Me+%281936+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Gall+Force> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Sand+Pebbles+%28film%29> <http://dbpedia.org/ontology/location> "creation" .
+<http://dbpedia.org/resource/Alice's_Adventures_in_Wonderland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Old+MacDonald+Duck> <http://dbpedia.org/ontology/location> "creation" .
+<http://dbpedia.org/resource/Black_Knight_(manga)> <http://www.w3.org/2000/01/rdf-schema#label> "Black Knight (manga)" .
+<http://dbpedia.org/resource/Journal_of_Herbal_Medicine> <http://dbpedia.org/ontology/location> "academic journal" .
+<http://dbpedia.org/resource/Blue_Monday_(comics)> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Monday (comics)" .
+<http://dbpedia.org/resource/Steamboat_Williams> <http://dbpedia.org/ontology/location> "movie" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tweet+Tweet+Tweety> <http://dbpedia.org/ontology/location> "CreativeWork" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Chicken+Little+%281943+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Blue_Monday_(comics)> <http://dbpedia.org/ontology/location> "deed" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Annie+%281999+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Annie (1999 film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Duck+Soup+to+Nuts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Gall+Force> <http://www.w3.org/2000/01/rdf-schema#label> "Gall Force" .
+<http://dbpedia.org/resource/Shock_Journal> <http://www.w3.org/2000/01/rdf-schema#label> "Shock (journal)" .
+<http://dbpedia.org/resource/Shock_Journal> <http://dbpedia.org/ontology/location> "artifact" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Fraidy+Cat+%28film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Old+an+of+Rthe+Mountain+filml%29> <http://dbpedia.org/ontology/location> "crtoion" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Oh+Teacher+%28film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Oh Teacher (film)" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Annie+%281999+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Der_Untergang_der_Titanic> <http://www.w3.org/2000/01/rdf-schema#label> "Der Untergang der Titanic" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Blafck+Prl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Wear+%28jurnalS%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/The+Great+De+Gaulle+Stone+Operation> <http://dbpedia.org/ontology/location> "movie" .
+<http://dbpedia.org/resource/Sweet_Afton> <http://www.w3.org/2000/01/rdf-schema#label> "Sweet Afton" .
+<http://dbpedia.org/resource/Blue_Monday_(comics)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Elmer_the_Patchwork_Elephant> <http://www.w3.org/2000/01/rdf-schema#label> "Elmer Elephant" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/JouFrnal+of+uElectrnic+Mateials> <http://www.w3.org/2000/01/rdf-schema#label> "JouFrnal of uElectrnic Mateials" .
+<http://dbpedia.org/resource/The_Lonesome_Road> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tweetie+Pie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/2004_Milwaukee_Brewers_season> <http://dbpedia.org/ontology/location> "object" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Claws+in+the+Lease> <http://www.w3.org/2000/01/rdf-schema#label> "Claws in the Lease" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Tweet+Tweet+Tweety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/The_Cleft_Palate-Craniofacial_Journal> <http://www.w3.org/2000/01/rdf-schema#label> "The Cleft Palate-Craniofacial Journal" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Blackmask+%28comic+book%29> <http://dbpedia.org/ontology/location> "event" .
+<http://dbpedia.org/resource/2004_Milwaukee_Brewers_season> <http://dbpedia.org/ontology/location> "production" .
+<http://example.org/8d14669d-6347-4264-b1f6-1dbeb612717b/Moving+Day+%281936+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Alice's_Adventures_in_Wonderland> <http://www.w3.org/2000/01/rdf-schema#label> "Alice's Wonderland" .
+<http://dbpedia.org/resource/Transactions_of_the_American_Neurological_Association> <http://www.w3.org/2000/01/rdf-schema#label> "Transactions of the American Philological Association" .
+

@@ -1,0 +1,6 @@
+<http://example.org/8a902362-09fe-4692-9806-65c8e000e60e/Axwial+esoderm> <http://www.w3.org/2000/01/rdf-schema#label> "Axwial esoderm" .
+<http://example.org/8a902362-09fe-4692-9806-65c8e000e60e/Fetal+membrane> <http://www.w3.org/2000/01/rdf-schema#label> "Fetal membrane" .
+<http://example.org/8a902362-09fe-4692-9806-65c8e000e60e/Neurenteric+canal> <http://www.w3.org/2000/01/rdf-schema#label> "Neurenteric canal" .
+<http://example.org/8a902362-09fe-4692-9806-65c8e000e60e/Hindgut> <http://www.w3.org/2000/01/rdf-schema#label> "Hindgut" .
+<http://example.org/8a902362-09fe-4692-9806-65c8e000e60e/Posterior+cardinal+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Posterior cardinal vein" .
+

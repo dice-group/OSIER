@@ -1,0 +1,131 @@
+<http://dbpedia.org/resource/Paul_Bartolotta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Josep_Lladonosa_i_Giró> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/Nita+MhtAa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Kaysie_Lackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Charles_Ranhofer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Robbie_Millar> <http://www.w3.org/2000/01/rdf-schema#label> "Robbie Millar" .
+<http://dbpedia.org/resource/Shane_Lyons> <http://www.w3.org/2000/01/rdf-schema#label> "Shane Lyons" .
+<http://dbpedia.org/resource/Tiffany_Derry> <http://www.w3.org/2000/01/rdf-schema#label> "Tiffany Derry" .
+<http://dbpedia.org/resource/Bobby_Flay> <http://www.w3.org/2000/01/rdf-schema#label> "Bobby Flay" .
+<http://dbpedia.org/resource/Gérald_Passédat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Emmanuel_Renaut> <http://www.w3.org/2000/01/rdf-schema#label> "Emmanuel Renaut" .
+<http://dbpedia.org/resource/Aktar_Islam> <http://www.w3.org/2000/01/rdf-schema#label> "Aktar Islam" .
+<http://dbpedia.org/resource/Normand_Laprise> <http://www.w3.org/2000/01/rdf-schema#label> "Normand Laprise" .
+<http://dbpedia.org/resource/Yves_Thuriès> <http://www.w3.org/2000/01/rdf-schema#label> "Yves Thuri\u00E8s" .
+<http://dbpedia.org/resource/Graham_Kerr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Kelly_Liken> <http://www.w3.org/2000/01/rdf-schema#label> "Kelly Liken" .
+<http://dbpedia.org/resource/Gianfranco_Chiarini> <http://www.w3.org/2000/01/rdf-schema#label> "Gianfranco Chiarini" .
+<http://dbpedia.org/resource/Tanya_Holland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Ben_O'Donoghue> <http://www.w3.org/2000/01/rdf-schema#label> "Ben O'Donoghue" .
+<http://dbpedia.org/resource/Marc_Meneau> <http://www.w3.org/2000/01/rdf-schema#label> "Marc Meneau" .
+<http://dbpedia.org/resource/Shane_Lyons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Romy_Gill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Jean_Joho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/Mehboob+Khan+%28chef%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Björn_Frantzén> <http://www.w3.org/2000/01/rdf-schema#label> "Bj\u00F6rn Frantz\u00E9n" .
+<http://dbpedia.org/resource/Lillian_Harris_Dean> <http://www.w3.org/2000/01/rdf-schema#label> "Lillian Harris Dean" .
+<http://dbpedia.org/resource/Édouard_Loubet> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C9douard Loubet" .
+<http://dbpedia.org/resource/Josep_Lladonosa_i_Giró> <http://www.w3.org/2000/01/rdf-schema#label> "Josep Lladonosa i Gir\u00F3" .
+<http://dbpedia.org/resource/Juan-Carlos_Cruz> <http://www.w3.org/2000/01/rdf-schema#label> "Juan-Carlos Cruz" .
+<http://dbpedia.org/resource/Kaysie_Lackey> <http://www.w3.org/2000/01/rdf-schema#label> "Kaysie Lackey" .
+<http://dbpedia.org/resource/Sara_Moulton> <http://www.w3.org/2000/01/rdf-schema#label> "Sara Moulton" .
+<http://dbpedia.org/resource/Lisa_Allen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Whitney_Miller> <http://www.w3.org/2000/01/rdf-schema#label> "Whitney Miller" .
+<http://dbpedia.org/resource/Isa_Chandra_Moskowitz> <http://www.w3.org/2000/01/rdf-schema#label> "Isa Chandra Moskowitz" .
+<http://dbpedia.org/resource/Jean-François_Piège> <http://www.w3.org/2000/01/rdf-schema#label> "Jean-Fran\u00E7ois Pi\u00E8ge" .
+<http://dbpedia.org/resource/Luca_Manca> <http://www.w3.org/2000/01/rdf-schema#label> "Luca Manf\u00E8" .
+<http://dbpedia.org/resource/Gianfranco_Chiarini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Daniel_Boulud> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Boulud" .
+<http://dbpedia.org/resource/Dan_Barber> <http://www.w3.org/2000/01/rdf-schema#label> "Dan Barber" .
+<http://dbpedia.org/resource/Gérald_Passédat> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E9rald Pass\u00E9dat" .
+<http://dbpedia.org/resource/Marco_Pierre_White> <http://www.w3.org/2000/01/rdf-schema#label> "Marco Pierre White" .
+<http://dbpedia.org/resource/Paul_Bartolotta> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Bartolotta" .
+<http://dbpedia.org/resource/Ben_O'Donoghue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Fabio_Viviani_(chef)> <http://www.w3.org/2000/01/rdf-schema#label> "Fabio Viviani (chef)" .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/Mehboob+Khan+%28chef%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mehboob Khan (chef)" .
+<http://dbpedia.org/resource/Giada_De_Laurentiis> <http://www.w3.org/2000/01/rdf-schema#label> "Giada De Laurentiis" .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/Nita+MhtAa> <http://www.w3.org/2000/01/rdf-schema#label> "Nita MhtAa" .
+<http://dbpedia.org/resource/Michael_Deane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Guy_Martin_(chef)> <http://www.w3.org/2000/01/rdf-schema#label> "Guy Martin (chef)" .
+<http://dbpedia.org/resource/Fabio_Viviani_(chef)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Ching_He_Huang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Alain_Roux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Tanya_Holland> <http://www.w3.org/2000/01/rdf-schema#label> "Tanya Holland" .
+<http://dbpedia.org/resource/Georges_Blanc_(chef)> <http://www.w3.org/2000/01/rdf-schema#label> "Georges Blanc (chef)" .
+<http://dbpedia.org/resource/Édouard_Loubet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Luca_Manca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Lillian_Harris_Dean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Robbie_Millar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Melissa_d'Arabian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Emmanuel_Renaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Isa_Chandra_Moskowitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Whitney_Miller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Dominick_Cerrone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Chef_Jolly> <http://www.w3.org/2000/01/rdf-schema#label> "Chef Jolly" .
+<http://dbpedia.org/resource/Giada_De_Laurentiis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Gilles_Goujon> <http://www.w3.org/2000/01/rdf-schema#label> "Gilles Goujon" .
+<http://dbpedia.org/resource/Yves_Camdeborde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Guy_Martin_(chef)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Hector_Jimenez-Bravo> <http://www.w3.org/2000/01/rdf-schema#label> "Hector Jimenez-Bravo" .
+<http://dbpedia.org/resource/Matthew_Kenney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Charles_Ranhofer> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Ranhofer" .
+<http://dbpedia.org/resource/Rokusaburo_Michiba> <http://www.w3.org/2000/01/rdf-schema#label> "Rokusaburo Michiba" .
+<http://dbpedia.org/resource/Éric_Fréchon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/RogUer+erg%C3%A9> <http://www.w3.org/2000/01/rdf-schema#label> "RogUer erg\u00E9" .
+<http://dbpedia.org/resource/Graham_Kerr> <http://www.w3.org/2000/01/rdf-schema#label> "Graham Kerr" .
+<http://dbpedia.org/resource/Gilles_Goujon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Brian_Hill_(chef)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Aktar_Islam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Frédéric_Anton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Spike_Mendelsohn> <http://www.w3.org/2000/01/rdf-schema#label> "Spike Mendelsohn" .
+<http://dbpedia.org/resource/Éric_Fréchon> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C9ric Fr\u00E9chon" .
+<http://dbpedia.org/resource/Henry_Salgado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Jacques_Pépin> <http://www.w3.org/2000/01/rdf-schema#label> "Jacques P\u00E9pin" .
+<http://dbpedia.org/resource/Brian_Hill_(chef)> <http://www.w3.org/2000/01/rdf-schema#label> "Brian Hill (chef)" .
+<http://dbpedia.org/resource/Dan_Barber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Sara_Moulton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Spike_Mendelsohn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Marc_Meneau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Yves_Camdeborde> <http://www.w3.org/2000/01/rdf-schema#label> "Yves Camdeborde" .
+<http://dbpedia.org/resource/Normand_Laprise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Jean_Joho> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Joho" .
+<http://dbpedia.org/resource/Melissa_d'Arabian> <http://www.w3.org/2000/01/rdf-schema#label> "Melissa d'Arabian" .
+<http://dbpedia.org/resource/Romy_Gill> <http://www.w3.org/2000/01/rdf-schema#label> "Romy Gill" .
+<http://dbpedia.org/resource/Björn_Frantzén> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Chuck_Hughes_(chef)> <http://www.w3.org/2000/01/rdf-schema#label> "Chuck Hughes (chef)" .
+<http://dbpedia.org/resource/Chef_Jolly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Jean-François_Piège> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Ismail_Tosun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Bobby_Flay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/Pau+Bocfuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Georges_Blanc_(chef)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Marco_Pierre_White> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Ismail_Tosun> <http://www.w3.org/2000/01/rdf-schema#label> "Ismail Tosun" .
+<http://dbpedia.org/resource/Christophe_Aribert> <http://www.w3.org/2000/01/rdf-schema#label> "Christophe Aribert" .
+<http://dbpedia.org/resource/Michael_Deane> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Deane" .
+<http://dbpedia.org/resource/Frédéric_Anton> <http://www.w3.org/2000/01/rdf-schema#label> "Fr\u00E9d\u00E9ric Anton" .
+<http://dbpedia.org/resource/Chuck_Hughes_(chef)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Dominick_Cerrone> <http://www.w3.org/2000/01/rdf-schema#label> "Dominick Cerrone" .
+<http://dbpedia.org/resource/Matthew_Kenney> <http://www.w3.org/2000/01/rdf-schema#label> "Matthew Kenney" .
+<http://dbpedia.org/resource/Devin_Alexander> <http://www.w3.org/2000/01/rdf-schema#label> "Devin Alexander" .
+<http://dbpedia.org/resource/Yves_Thuriès> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/Jaden+Hair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Rokusaburo_Michiba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Ching_He_Huang> <http://www.w3.org/2000/01/rdf-schema#label> "Ching He Huang" .
+<http://dbpedia.org/resource/Daniel_Boulud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Christophe_Aribert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Caesar_Cardini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Juan-Carlos_Cruz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/RogUer+erg%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Hector_Jimenez-Bravo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/Jaden+Hair> <http://www.w3.org/2000/01/rdf-schema#label> "Jaden Hair" .
+<http://dbpedia.org/resource/Alain_Roux> <http://www.w3.org/2000/01/rdf-schema#label> "Alain Roux" .
+<http://dbpedia.org/resource/Lisa_Allen> <http://www.w3.org/2000/01/rdf-schema#label> "Lisa Allen" .
+<http://dbpedia.org/resource/Tiffany_Derry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Jacques_Pépin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Kelly_Liken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Henry_Salgado> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Salgado" .
+<http://dbpedia.org/resource/Devin_Alexander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://securitytoolbox.appspot.com/MASO#Cookie> .
+<http://dbpedia.org/resource/Caesar_Cardini> <http://www.w3.org/2000/01/rdf-schema#label> "Caesar Cardini" .
+<http://example.org/9a2fcbb3-9fc2-4b70-aced-aef1ec935a33/Pau+Bocfuse> <http://www.w3.org/2000/01/rdf-schema#label> "Pau Bocfuse" .
+

@@ -1,0 +1,16 @@
+<http://example.org/869897db-b425-4f8c-b4dd-83c6a4c84aab/Bubblegu+Crisqis> <http://www.w3.org/2000/01/rdf-schema#label> "Bubblegu Crisqis" .
+<http://example.org/869897db-b425-4f8c-b4dd-83c6a4c84aab/Bubblegu+Crisqis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://example.org/869897db-b425-4f8c-b4dd-83c6a4c84aab/Bugzilla> <http://dbpedia.org/ontology/gameArtist> "application program" .
+<http://dbpedia.org/resource/Cahiers_du_cinéma> <http://www.w3.org/2000/01/rdf-schema#label> "Cahiers du cin\u00E9ma" .
+<http://example.org/869897db-b425-4f8c-b4dd-83c6a4c84aab/Bubble+Bobble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://example.org/869897db-b425-4f8c-b4dd-83c6a4c84aab/Bubble+Bobble> <http://www.w3.org/2000/01/rdf-schema#label> "Bubble Bobble" .
+<http://dbpedia.org/resource/Buffy_the_Vampire_Slayer_DVDs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://example.org/869897db-b425-4f8c-b4dd-83c6a4c84aab/Bubble+Bobble> <http://dbpedia.org/ontology/gameArtist> "video game" .
+<http://dbpedia.org/resource/Buffy_the_Vampire_Slayer_DVDs> <http://dbpedia.org/ontology/gameArtist> "work" .
+<http://dbpedia.org/resource/Buffy_the_Vampire_Slayer_DVDs> <http://www.w3.org/2000/01/rdf-schema#label> "Buffy the Vampire Slayer (film)" .
+<http://dbpedia.org/resource/Cahiers_du_cinéma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Cahiers_du_cinéma> <http://dbpedia.org/ontology/gameArtist> "magazine" .
+<http://example.org/869897db-b425-4f8c-b4dd-83c6a4c84aab/Bubblegu+Crisqis> <http://dbpedia.org/ontology/gameArtist> "wlrk" .
+<http://example.org/869897db-b425-4f8c-b4dd-83c6a4c84aab/Bugzilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://example.org/869897db-b425-4f8c-b4dd-83c6a4c84aab/Bugzilla> <http://www.w3.org/2000/01/rdf-schema#label> "Bugzilla" .
+

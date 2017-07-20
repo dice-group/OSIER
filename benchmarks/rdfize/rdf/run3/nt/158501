@@ -1,0 +1,29 @@
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/No.+5+%28manga%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Xenon_(manga)> <http://www.w3.org/2000/01/rdf-schema#label> "Bio Diver Xenon" .
+<http://dbpedia.org/resource/Pineapple_Army> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Jaco_the_Galactic_Patrolman> <http://www.w3.org/2000/01/rdf-schema#label> "Jaco the Galactic Patrolman" .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Liselotte+%26+Witch%27s+Forest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Pineapple_Army> <http://www.w3.org/2000/01/rdf-schema#label> "Pineapple Army" .
+<http://dbpedia.org/resource/Batman:_The_Killing_Joke> <http://www.w3.org/2000/01/rdf-schema#label> "Batman: The Killing Joke" .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Gate+%28light+novel%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gate (light novel)" .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/CowboUy+ebop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/%D8%A8%D8%A7%D8%AA%D9%85%D8%A7%D9%86%3A+%D8%A7%D9%84%D9%86%D9%83%D8%AA%D8%A9+%D8%A7%D9%84%D9%82%D8%A7%D8%AA%D9%84%D8%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Liselotte+et+la+for%C3%AAt+des+sorci%C3%A8res> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Magical_Record_Lyrical_Nanoha_Force> <http://www.w3.org/2000/01/rdf-schema#label> "Magical Girl Lyrical Nanoha ViVid" .
+<http://dbpedia.org/resource/Batman:_The_Killing_Joke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Magical_Record_Lyrical_Nanoha_Force> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Xenon+%28manga%29> <http://www.w3.org/2000/01/rdf-schema#label> "Xenon (manga)" .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Gate+%28light+novel%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/No.+5+%28manga%29> <http://www.w3.org/2000/01/rdf-schema#label> "No. 5 (manga)" .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/%D8%A8%D8%A7%D8%AA%D9%85%D8%A7%D9%86%3A+%D8%A7%D9%84%D9%86%D9%83%D8%AA%D8%A9+%D8%A7%D9%84%D9%82%D8%A7%D8%AA%D9%84%D8%A9> <http://www.w3.org/2000/01/rdf-schema#label> "\u0628\u0627\u062A\u0645\u0627\u0646: \u0627\u0644\u0646\u0643\u062A\u0629 \u0627\u0644\u0642\u0627\u062A\u0644\u0629" .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Gate+%28novel+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gate (novel series)" .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Gate+%28novel+series%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Xenon+%28manga%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/CowboUy+ebop> <http://www.w3.org/2000/01/rdf-schema#label> "CowboUy ebop" .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Liselotte+et+la+for%C3%AAt+des+sorci%C3%A8res> <http://www.w3.org/2000/01/rdf-schema#label> "Liselotte et la for\u00EAt des sorci\u00E8res" .
+<http://dbpedia.org/resource/Xenon_(manga)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96+%E5%90%BE> <http://www.w3.org/2000/01/rdf-schema#label> "\u30CA\u30F3\u30D0\u30FC\u30D5\u30A1\u30A4\u30D6 \u543E" .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96+%E5%90%BE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/1fa115dd-7be5-48c0-86e0-ad3af9da89a8/Liselotte+%26+Witch%27s+Forest> <http://www.w3.org/2000/01/rdf-schema#label> "Liselotte & Witch's Forest" .
+<http://dbpedia.org/resource/Jaco_the_Galactic_Patrolman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+

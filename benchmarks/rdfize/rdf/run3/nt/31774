@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Iran%E2%80%93Iraq_War> <http://www.w3.org/2000/01/rdf-schema#label> "Iran\u2013Iraq War" .
+<http://dbpedia.org/resource/Iran%E2%80%93Iraq_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://online-presence.net/opo/ns#Action> .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/First+Punic+War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://online-presence.net/opo/ns#Action> .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/First+Punic+War> <http://www.w3.org/2000/01/rdf-schema#label> "First Punic War" .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/First+Italo-Ethiopian+War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://online-presence.net/opo/ns#Action> .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/First+Italo-Ethiopian+War> <http://dbpedia.org/ontology/nextEvent> "Event" .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/Finnish+Civil+War> <http://dbpedia.org/ontology/nextEvent> "societal event" .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/First+Battle+of+El+Alamein> <http://dbpedia.org/ontology/nextEvent> "conflict" .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/First+Punic+War> <http://dbpedia.org/ontology/nextEvent> "Event" .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/First+Battle+of+El+Alamein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://online-presence.net/opo/ns#Action> .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/Finnish+Civil+War> <http://www.w3.org/2000/01/rdf-schema#label> "Finnish Civil War" .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/Finnish+Civil+War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://online-presence.net/opo/ns#Action> .
+<http://dbpedia.org/resource/Iran%E2%80%93Iraq_War> <http://dbpedia.org/ontology/nextEvent> "action" .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/First+Battle+of+El+Alamein> <http://www.w3.org/2000/01/rdf-schema#label> "First Battle of El Alamein" .
+<http://example.org/18875519-3adc-4a80-a075-fa6206b971ab/First+Italo-Ethiopian+War> <http://www.w3.org/2000/01/rdf-schema#label> "First Italo-Ethiopian War" .
+

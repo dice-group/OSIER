@@ -1,0 +1,848 @@
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Henry+Howse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/FIU_Panthers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://www.w3.org/2000/01/rdf-schema#label> "List of German football transfers summer 2014" .
+<http://dbpedia.org/resource/Alaina_Johnson> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Brothers_Grimm_(comics)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Patrick_Henry_affair> <http://www.w3.org/2000/01/rdf-schema#label> "Patrick Henry affair" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dane+Dobbie> <http://www.w3.org/2000/01/rdf-schema#label> "Dane Dobbie" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Harry+Maclean+%28speedway+rider%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Henry_Casimir_II,_Prince_of_Nassau-Dietz> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Jet_Li> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Stephen_Youll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Wong_Choong_Hann> <http://www.w3.org/2000/01/rdf-schema#label> "Wong Choong Hann" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sakura+Hayakawa> <http://www.w3.org/2000/01/rdf-schema#label> "Sakura Hayakawa" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kim+Sang-woo+%28volleyball%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://dbpedia.org/resource/List_of_English_football_transfers_winter_2011–12> <http://www.w3.org/2000/01/rdf-schema#label> "List of Swedish football transfers winter 2013\u201314" .
+<http://dbpedia.org/resource/Eliezer_Spiegel> <http://www.w3.org/2000/01/rdf-schema#label> "Eliezer Spiegel" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Afshan+Anjum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Grzegorz+Wagner> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Rafael+Ramos+%28boxer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rafael Ramos (boxer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kim+Se-jin+%28volleyball%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kim Se-jin (volleyball)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/K%C3%BCbra+Y%C4%B1lmaz> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Ren%C3%A9+Barents> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Rhonda_Shear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Hermann_II,_Landgrave_of_Hesse> <http://dbpedia.org/ontology/humanDevelopmentIndex> "blue blood" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+White+%28New+Zealand+cricketer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/Thomas_Reap> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Manager" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Jones+%28British+politician%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Nessa+%28personality%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Hethenr+Parker> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Prersn" .
+<http://dbpedia.org/resource/Palmer_baronets> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jack+Thomas+%28swimmer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Michel+van+der+Horst> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Annie_Sprinkle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/H._Guy_Bedwell> <http://www.w3.org/2000/01/rdf-schema#label> "H. Guy Bedwell" .
+<http://dbpedia.org/resource/Davy_(Hampshire_cricketer)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Louis_Frederick_I,_Prince_of_Schwarzburg-Rudolstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Alexandra_Rosenfeld> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandra Rosenfeld" .
+<http://dbpedia.org/resource/Henri,_Prince_of_Condé_(1552–1588)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "nolpe" .
+<http://dbpedia.org/resource/Punt_and_Dennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Charles_Evans_Hughes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kim+Sang-woo+%28volleyball%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kim Sang-woo (volleyball)" .
+<http://dbpedia.org/resource/Clyde_Van_Dusen> <http://dbpedia.org/ontology/humanDevelopmentIndex> "personality" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Vasanti+Khadilkar> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Ryan+Ward+%28gymnast%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alan+Davidson+%28cricketer%2C+born+1929%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alo+Sila> <http://www.w3.org/2000/01/rdf-schema#label> "Alo Sila" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Paul+Batchelor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Punt_and_Dennis> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Trudy+Haynes> <http://www.w3.org/2000/01/rdf-schema#label> "Trudy Haynes" .
+<http://dbpedia.org/resource/List_of_mayors_of_Oklahoma_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Greg_Norman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Saul+%28nutrition%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "scientist" .
+<http://dbpedia.org/resource/Plaid_Cymru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Le+Mjin-gyu> <http://www.w3.org/2000/01/rdf-schema#label> "Le Mjin-gyu" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Grzegorz+Wagner> <http://www.w3.org/2000/01/rdf-schema#label> "Grzegorz Wagner" .
+<http://dbpedia.org/resource/Ian_Thorpe> <http://dbpedia.org/ontology/humanDevelopmentIndex> "athlete" .
+<http://dbpedia.org/resource/Piotr_Janowski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Annie+Warren+Gill> <http://www.w3.org/2000/01/rdf-schema#label> "Annie Warren Gill" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jean+Sulpice> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Joseph_%22Mad_Dog%22_Taborsky> <http://dbpedia.org/ontology/humanDevelopmentIndex> "criminal" .
+<http://dbpedia.org/resource/List_of_Cypriot_football_transfers_summer_2008> <http://www.w3.org/2000/01/rdf-schema#label> "List of Maltese football transfers summer 2013" .
+<http://dbpedia.org/resource/Annie_Sprinkle> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://dbpedia.org/resource/Müller_(footballer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Yngve+Viebke> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Lou_Ferrigno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Patrick+Treacy> <http://www.w3.org/2000/01/rdf-schema#label> "Patrick Treacy" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Douglas+Rolland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Frank_L._Brothers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Vasanti+Khadilkar> <http://www.w3.org/2000/01/rdf-schema#label> "Vasanti Khadilkar" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alan+Davidson+%28cricketer%2C+born+1929%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Cecelia+Cortes> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Anabel+Balkenhol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/James+Stutr+racckets%29> <http://www.w3.org/2000/01/rdf-schema#label> "James Stutr racckets)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Lillann+Jebsen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Braz+Fernandes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/John_Duffy_and_David_Mulcahy> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sarah+Corbett+%28poet%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Oleksii+Lesyk> <http://www.w3.org/2000/01/rdf-schema#label> "Oleksii Lesyk" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Josh+Payne+%28darts+player%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Darren+Deon+Vann> <http://www.w3.org/2000/01/rdf-schema#label> "Darren Deon Vann" .
+<http://dbpedia.org/resource/Greg_Norman> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Ted+Jennings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sharon+Prins> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://dbpedia.org/resource/Peja_Lindholm> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Henry_Ellis_Harris> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Ellis Harris" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Clinton+Anderson+%28horse+trainer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clinton Anderson (horse trainer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Joseph+Naso> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Naso" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1989" .
+<http://dbpedia.org/resource/List_of_Swedish_football_transfers_winter_2013–14> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Organisation member" .
+<http://dbpedia.org/resource/Evan_Williams_(jockey)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Veronika_Poláčková> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Clara+Amfo> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Antônio_Wilson_Vieira_Honório> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Kyoko_Ishida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Tempus_(comics)> <http://www.w3.org/2000/01/rdf-schema#label> "Tempus (comics)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Henry+Dwight+Holton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Oscar+Abolafia> <http://www.w3.org/2000/01/rdf-schema#label> "Oscar Abolafia" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Chaz+Green> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Execution+of+Joseph+Wood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Stella+Hagelstam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Cecelia+Cortes> <http://www.w3.org/2000/01/rdf-schema#label> "Cecelia Cortes" .
+<http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/John+Stevenson+%28Queensland+politician%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "member of parliament" .
+<http://dbpedia.org/resource/Tempus_(comics)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jean+Sulpice> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Sulpice" .
+<http://dbpedia.org/resource/Henry_Casimir_II,_Prince_of_Nassau-Dietz> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Casimir II, Prince of Nassau-Dietz" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Liu+Jun+%28badminton%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Rafał_Okoniewski> <http://dbpedia.org/ontology/humanDevelopmentIndex> "athlete" .
+<http://dbpedia.org/resource/Jet_Li> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Actor" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Jones+%28British+politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dirk+Demeersman> <http://www.w3.org/2000/01/rdf-schema#label> "Dirk Demeersman" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Clinton+Anderson+%28horse+trainer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/List_of_Slovak_football_transfers_winter_2011–12> <http://dbpedia.org/ontology/humanDevelopmentIndex> "perkon" .
+<http://dbpedia.org/resource/Kyoko_Ishida> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://dbpedia.org/resource/Plaid_Cymru> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Vasanti+Khadilkar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/1._FC_Slov%C3%A1cko__Eldar_Civi%C4%8D__1> <http://www.w3.org/2000/01/rdf-schema#label> "1._FC_Slov\u00E1cko__Eldar_Civi\u010D__1" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://www.w3.org/2000/01/rdf-schema#label> "List of Estonian football transfers summer 2014" .
+<http://dbpedia.org/resource/Mansueto_Velasco> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Michel+van+der+Horst> <http://www.w3.org/2000/01/rdf-schema#label> "Michel van der Horst" .
+<http://dbpedia.org/resource/Georg_Semper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Louis_Frederick_I,_Prince_of_Schwarzburg-Rudolstadt> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Gérard_de_Balorre> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E9rard de Balorre" .
+<http://dbpedia.org/resource/Leo_Goodwin,_Jr.> <http://www.w3.org/2000/01/rdf-schema#label> "Leo Goodwin, Jr." .
+<http://dbpedia.org/resource/Herbert_Wagner_(politician)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Daniel+Poleshchuk> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Poleshchuk" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Prabagaran> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://dbpedia.org/resource/Brendan_Foley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Stella+Hagelstam> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Julia_Child> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bill+Brown+%28basketball%2C+born+1951%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/William+Haynes+%28comedian%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Bert_Bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/James_E._Pugh> <http://www.w3.org/2000/01/rdf-schema#label> "James E. Purdy" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Steve+Holden+%28speedway+rider%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Asif_Khan_(German_cricketer)> <http://www.w3.org/2000/01/rdf-schema#label> "Asif Shah" .
+<http://dbpedia.org/resource/Henri,_Prince_of_Condé_(1552–1588)> <http://www.w3.org/2000/01/rdf-schema#label> "Henri, Prince of Cond\u00E9 (1552\u20131588)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Henry+Howse> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Howse" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Ren%C3%A9+Barents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bian+Jones+X%28quartrbacgk%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bian Jones X(quartrbacgk)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/John+Matisonn> <http://www.w3.org/2000/01/rdf-schema#label> "John Matisonn" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Martin+Dahinden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Cypriot_football_transfers_summer_2008> <http://www.w3.org/2000/01/rdf-schema#label> "List of Maltese football transfers summer 2011" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Vital+Heynen> <http://www.w3.org/2000/01/rdf-schema#label> "Vital Heynen" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Nessa+%28personality%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Scott+Johnson+%28gymnast%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Thomas+Warner+%28poet%29> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Warner (poet)" .
+<http://dbpedia.org/resource/Frank_Martin_(equestrian)> <http://www.w3.org/2000/01/rdf-schema#label> "Frank Martin (equestrian)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jack+Thomas+%28swimmer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Thomas (swimmer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Anabel+Balkenhol> <http://www.w3.org/2000/01/rdf-schema#label> "Anabel Balkenhol" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Trudy+Haynes> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Rafał_Okoniewski> <http://www.w3.org/2000/01/rdf-schema#label> "Rafa\u0142 Antoniewski" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jahangir+Seyed-Abbasi> <http://www.w3.org/2000/01/rdf-schema#label> "Jahangir Seyed-Abbasi" .
+<http://dbpedia.org/resource/Danny_Rubinstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Georg_Semper> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kim+Se-jin+%28volleyball%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Abel_Ferreira> <http://dbpedia.org/ontology/humanDevelopmentIndex> "jock" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Eric+Smith+%28footballer%2C+born+1934%29> <http://www.w3.org/2000/01/rdf-schema#label> "Eric Smith (footballer, born 1934)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Burcu+Pirin%C3%A7ci> <http://www.w3.org/2000/01/rdf-schema#label> "Burcu Pirin\u00E7ci" .
+<http://dbpedia.org/resource/Mansueto_Velasco> <http://www.w3.org/2000/01/rdf-schema#label> "Mansueto Velasco" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/AQl+Capoe> <http://www.w3.org/2000/01/rdf-schema#label> "AQl Capoe" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://dbpedia.org/resource/Henry_Casimir_II,_Prince_of_Nassau-Dietz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Bill_Walsh_(American_football_coach)> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Walsh (American football coach)" .
+<http://dbpedia.org/resource/Claude_Gagnon> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/Tempus_(comics)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Brendan_Foley> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/James_Beard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Rafael+Ramos+%28boxer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Maltese_football_transfers_summer_2011> <http://www.w3.org/2000/01/rdf-schema#label> "List of Maltese football transfers winter 2010\u201311" .
+<http://dbpedia.org/resource/Robert_John_Hoos> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/List_of_Swedish_football_transfers_winter_2013–14> <http://www.w3.org/2000/01/rdf-schema#label> "List of Swedish football transfers summer 2011" .
+<http://dbpedia.org/resource/Richard_Marsh_(horseman)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Morris+D.+DBsby> <http://www.w3.org/2000/01/rdf-schema#label> "Morris D. DBsby" .
+<http://dbpedia.org/resource/Miho_Tanaka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Sandro_Marcos> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kyle+DeWoody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Miho_Tanaka> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Brian+Jones+%28quarterback%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sam+Penwarden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Smith+%28golfer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Lou_Ferrigno> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Actor" .
+<http://dbpedia.org/resource/Hot_Shot_Hamish_and_Mighty_Mouse> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Aleksandr+Maltsev+%28synchronised+swimmer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr Maltsev (synchronised swimmer)" .
+<http://dbpedia.org/resource/Punt_and_Dennis> <http://www.w3.org/2000/01/rdf-schema#label> "Punt and Dennis" .
+<http://dbpedia.org/resource/Asif_Khan_(German_cricketer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Isabela+Onyshko> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/List_of_Maltese_football_transfers_summer_2011> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Aleksandr+Maltsev+%28synchronised+swimmer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Lees+%28vaccinologist%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/DaBn+Shell+Smith> <http://www.w3.org/2000/01/rdf-schema#label> "DaBn Shell Smith" .
+<http://dbpedia.org/resource/Hot_Shot_Hamish_and_Mighty_Mouse> <http://www.w3.org/2000/01/rdf-schema#label> "Hot Shot Hamish and Mighty Mouse" .
+<http://dbpedia.org/resource/Hot_Shot_Hamish_and_Mighty_Mouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Poul+Petersen+%28badminton%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Aleksandr+Maltsev+%28synchronised+swimmer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Braz+Fernandes> <http://www.w3.org/2000/01/rdf-schema#label> "Braz Fernandes" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sham+Yen+Yi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Linc+Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Gérard_de_Balorre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1960" .
+<http://dbpedia.org/resource/H._Guy_Bedwell> <http://dbpedia.org/ontology/humanDevelopmentIndex> "personality" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Josh+Payne+%28darts+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "Josh Payne (darts player)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Eric+Smith+%28footballer%2C+born+1934%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kym+%28singer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Brian+Jones+%28quarterback%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Julian+%28actor%29> <http://www.w3.org/2000/01/rdf-schema#label> "Julian (actor)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Drew+Petkoff> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alo+Sila> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Michele+Gismondi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Roger+Gorayeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Mary+Jane+Veloso> <http://www.w3.org/2000/01/rdf-schema#label> "Mary Jane Veloso" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/G%C3%B6zde+Y%C4%B1lmaz> <http://dbpedia.org/ontology/humanDevelopmentIndex> "volleyball player" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Poul+Petersen+%28badminton%29> <http://www.w3.org/2000/01/rdf-schema#label> "Poul Petersen (badminton)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bob+Whalen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Henry+Hall+%28American+revolution%29> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Hall (American revolution)" .
+<http://dbpedia.org/resource/Bert_Bell> <http://www.w3.org/2000/01/rdf-schema#label> "Bert Bell" .
+<http://dbpedia.org/resource/List_of_Spanish_football_transfers_winter_2010–11> <http://www.w3.org/2000/01/rdf-schema#label> "List of Latvian football transfers winter 2010\u201311" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dan+Burns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jakub+Bednaruk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dane+Dobbie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/2013–14_Viborg_FF_season> <http://www.w3.org/2000/01/rdf-schema#label> "2014\u201315 Viborg FF season" .
+<http://dbpedia.org/resource/James_E._Pugh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Jet_Li> <http://www.w3.org/2000/01/rdf-schema#label> "Jet Li" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/George+Huntelr%28fspedway+rider%29> <http://www.w3.org/2000/01/rdf-schema#label> "George Huntelr(fspedway rider)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Le+Mjin-gyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Rod+Hunter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Samelt+MaxwellN+%28oxer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Samelt MaxwellN (oxer)" .
+<http://dbpedia.org/resource/Piotr_Janowski> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Ryan+Ward+%28gymnast%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Eli_Whitney> <http://www.w3.org/2000/01/rdf-schema#label> "Eli Whitney" .
+<http://dbpedia.org/resource/Barb_Wire> <http://www.w3.org/2000/01/rdf-schema#label> "Barb Wire" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://www.w3.org/2000/01/rdf-schema#label> "List of Slovak football transfers summer 2014" .
+<http://dbpedia.org/resource/Jeffrey_Dahmer> <http://www.w3.org/2000/01/rdf-schema#label> "Jeffrey Dahmer" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Cansu+%C3%87etin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Asif_Khan_(German_cricketer)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Louis_Frederick_I,_Prince_of_Schwarzburg-Rudolstadt> <http://www.w3.org/2000/01/rdf-schema#label> "John Frederick, Prince of Schwarzburg-Rudolstadt" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/G%C3%B6zde+Y%C4%B1lmaz> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00F6zde Y\u0131lmaz" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alexandre+Constant> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Francis_Hopkinson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Alicia_Machado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Swedish_football_transfers_winter_2013–14> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Henry+Dwight+Holton> <http://dbpedia.org/ontology/humanDevelopmentIndex> "scientist" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/M.+A.+Aleem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Morris+D.+DBsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sayaka+Yoshimura> <http://www.w3.org/2000/01/rdf-schema#label> "Sayaka Yoshimura" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Henry+Dwight+Holton> <http://www.w3.org/2000/01/rdf-schema#label> "Henry Dwight Holton" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Ryan+Ward+%28gymnast%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ryan Ward (gymnast)" .
+<http://dbpedia.org/resource/Antonius_Ariantho> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Brandon+Goodwin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Rolando_Bohol> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://dbpedia.org/resource/Claude_Gagnon> <http://www.w3.org/2000/01/rdf-schema#label> "Claude Magni" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Vital+Heynen> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Rafał_Okoniewski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Thomas+Buchan-Hepburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/1._FC_Slov%C3%A1cko__Eldar_Civi%C4%8D__1> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Execution+of+Joseph+Wood> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://dbpedia.org/resource/Annie_Sprinkle> <http://www.w3.org/2000/01/rdf-schema#label> "Annie Sprinkle" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+Anderson+%28cricketer%29> <http://www.w3.org/2000/01/rdf-schema#label> "David Anderson (cricketer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Gwen+van+Poorten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Arthur_Schultz> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Schultz" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Braz+Fernandes> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Peter_A._Levine> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Frank_Martin_(equestrian)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Illya_Rylinski> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jowhn+Fawcett+%28enTtrerenur%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jowhn Fawcett (enTtrerenur)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sham+Yen+Yi> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Flavia+Tumusiime> <http://dbpedia.org/ontology/humanDevelopmentIndex> "radio host" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dirk+Demeersman> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Rolf-Göran_Bengtsson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Anne+Haast> <http://www.w3.org/2000/01/rdf-schema#label> "Anne Haast" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jacek+Nawrocki> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sakura+Hayakawa> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/Veronika_Poláčková> <http://www.w3.org/2000/01/rdf-schema#label> "Veronika Polyakova" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Paul+Gachet+%28speedway+rider%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "motorcycle rider" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/DaBn+Shell+Smith> <http://dbpedia.org/ontology/humanDevelopmentIndex> "aenjt" .
+<http://dbpedia.org/resource/Sir_John_Keane,_1st_Baronet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Francho+Columb> <http://dbpedia.org/ontology/humanDevelopmentIndex> "jEok" .
+<http://dbpedia.org/resource/Eli_Whitney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Drew+Petkoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Alexandra_Rosenfeld> <http://dbpedia.org/ontology/humanDevelopmentIndex> "beauty queen" .
+<http://dbpedia.org/resource/Robert_John_Hoos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/NadiDne+Lehman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Greg_Norman> <http://www.w3.org/2000/01/rdf-schema#label> "Greg Norman" .
+<http://dbpedia.org/resource/Veronika_Poláčková> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Janne+Pitko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Sir_John_Keane,_1st_Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "Sir John Kennaway, 1st Baronet" .
+<http://dbpedia.org/resource/List_of_Swedish_football_transfers_winter_2013–14> <http://www.w3.org/2000/01/rdf-schema#label> "List of Swedish football transfers summer 2014" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Clara+Amfo> <http://www.w3.org/2000/01/rdf-schema#label> "Clara Amfo" .
+<http://dbpedia.org/resource/Patrick_Henry_affair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Douglas+Rolland> <http://www.w3.org/2000/01/rdf-schema#label> "Douglas Rolland" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sham+Yen+Yi> <http://www.w3.org/2000/01/rdf-schema#label> "Sham Yen Yi" .
+<http://dbpedia.org/resource/Ernest_I,_Prince_of_Anhalt-Dessau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1972" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Paul+Batchelor> <http://dbpedia.org/ontology/humanDevelopmentIndex> "poet" .
+<http://dbpedia.org/resource/FIU_Panthers> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Organisation member" .
+<http://dbpedia.org/resource/Henry_Ellis_Harris> <http://dbpedia.org/ontology/humanDevelopmentIndex> "bourgeois" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Mona+Arshi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Vivian+Loyd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Josh+Grajczonek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Albert_Anton,_Prince_of_Schwarzburg-Rudolstadt> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bian+Jones+X%28quartrbacgk%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Vital+Heynen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Georg_Semper> <http://www.w3.org/2000/01/rdf-schema#label> "Georg Semper" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alexandre+Constant> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandre Constant" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Black+Orchid+%28comics%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Brian+Hill+%28swimmer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://dbpedia.org/resource/Lesa_Lewis> <http://www.w3.org/2000/01/rdf-schema#label> "Lesa Lewis" .
+<http://dbpedia.org/resource/Leo_Goodwin,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Ian_Thorpe> <http://www.w3.org/2000/01/rdf-schema#label> "Ian Thorpe" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Linoy+Ashram> <http://www.w3.org/2000/01/rdf-schema#label> "Linoy Ashram" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Black+Orchid+%28comics%29> <http://www.w3.org/2000/01/rdf-schema#label> "Black Orchid (comics)" .
+<http://dbpedia.org/resource/Antonius_Ariantho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Francho+Columb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/2013–14_Viborg_FF_season> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Sandro_Marcos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/George+Parker+%28squash+player%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kym+%28singer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Michel+van+der+Horst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Francis_Hopkinson> <http://www.w3.org/2000/01/rdf-schema#label> "Francis Hopkinson" .
+<http://dbpedia.org/resource/Peter_A._Levine> <http://www.w3.org/2000/01/rdf-schema#label> "Peter G. Levine" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Emilia+Papadopoulos> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Campbell+%28golfer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Davy_(Hampshire_cricketer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dennis+Leston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Execution+of+Joseph+Wood> <http://www.w3.org/2000/01/rdf-schema#label> "Execution of Joseph Wood" .
+<http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis> <http://www.w3.org/2000/01/rdf-schema#label> "Albert, 12th Prince of Thurn and Taxis" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Mary+Jane+Veloso> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Hristo+Dimitrov> <http://www.w3.org/2000/01/rdf-schema#label> "Hristo Dimitrov" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Afshan+Anjum> <http://www.w3.org/2000/01/rdf-schema#label> "Afshan Anjum" .
+<http://dbpedia.org/resource/Rhonda_Shear> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Rafael+Ramos+%28boxer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Samelt+MaxwellN+%28oxer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Aoent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Roger+Gorayeb> <http://www.w3.org/2000/01/rdf-schema#label> "Roger Gorayeb" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dan+Burns> <http://www.w3.org/2000/01/rdf-schema#label> "Dan Burns" .
+<http://dbpedia.org/resource/Imogen_Oona_Lehmann> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/%C3%81ngel+Oca%C3%B1a> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C1ngel Oca\u00F1a" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bryue+Rasmusenf+%28basketball%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Linoy+Ashram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Darwin_Angeles> <http://dbpedia.org/ontology/humanDevelopmentIndex> "causal agency" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Campbell+%28golfer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Campbell (golfer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Burcu+Pirin%C3%A7ci> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://dbpedia.org/resource/Bob_Marshall_(California_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Claire+Martin+%28gymnast%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Efetobor+Wesley+Apochi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/J.+Hugh+Liedtke> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Maria+Ines+Garcia> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Bernhart,_Prince_of_Sayn-Wittgenstein-Hohenstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Darius+Labanauskas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Saffron+Herndon> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bill+Grant+%28curler%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Grant (curler)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Gwen+van+Poorten> <http://www.w3.org/2000/01/rdf-schema#label> "Gwen van Poorten" .
+<http://dbpedia.org/resource/Sir_Philip_Jennings-Clerke,_1st_Baronet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Claudia+Fassaert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/John+Stevenson+%28Queensland+politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Sandro_Marcos> <http://www.w3.org/2000/01/rdf-schema#label> "Sandro Mareco" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bian+Jones+X%28quartrbacgk%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "permso" .
+<http://dbpedia.org/resource/Rolf-Göran_Bengtsson> <http://www.w3.org/2000/01/rdf-schema#label> "Rolf-G\u00F6ran Bengtsson" .
+<http://dbpedia.org/resource/Salvador_de_Vives> <http://www.w3.org/2000/01/rdf-schema#label> "Salvador de Vives" .
+<http://dbpedia.org/resource/Kyoko_Ishida> <http://www.w3.org/2000/01/rdf-schema#label> "Kyoko Oshima" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Morris+D.+DBsby> <http://dbpedia.org/ontology/humanDevelopmentIndex> "PesoUn" .
+<http://dbpedia.org/resource/Chris_Dickerson_(bodybuilder)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Hethenr+Parker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Spanish_football_transfers_winter_2010–11> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Organisation member" .
+<http://dbpedia.org/resource/Richard_Marsh_(horseman)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jane+AElden+Sevens> <http://dbpedia.org/ontology/humanDevelopmentIndex> "perown" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Isabela+Onyshko> <http://www.w3.org/2000/01/rdf-schema#label> "Isabela Onyshko" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Peter+F.+B.+Alsop> <http://www.w3.org/2000/01/rdf-schema#label> "Peter F. B. Alsop" .
+<http://dbpedia.org/resource/Eliezer_Spiegel> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kim+Se-jin+%28volleyball%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Paul+Batchelor> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Batchelor" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Darius+Labanauskas> <http://www.w3.org/2000/01/rdf-schema#label> "Darius Labanauskas" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jahangir+Seyed-Abbasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Albert_Anton,_Prince_of_Schwarzburg-Rudolstadt> <http://www.w3.org/2000/01/rdf-schema#label> "Albert, Prince of Schwarzburg-Rudolstadt" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Rod+Hunter> <http://www.w3.org/2000/01/rdf-schema#label> "Rod Hunter" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bob+Whalen> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://dbpedia.org/resource/Brothers_Grimm_(comics)> <http://www.w3.org/2000/01/rdf-schema#label> "Brothers Grimm (comics)" .
+<http://dbpedia.org/resource/Albert_Anton,_Prince_of_Schwarzburg-Rudolstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Lees+%28vaccinologist%29> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Lees (vaccinologist)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kyle+DeWoody> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Darren+Deon+Vann> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/M.+A.+Aleem> <http://www.w3.org/2000/01/rdf-schema#label> "M. A. Aleem" .
+<http://dbpedia.org/resource/Kamil_Sedláček> <http://dbpedia.org/ontology/humanDevelopmentIndex> "darts player" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kevin+Garcia+Maldonado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Martin+Dahinden> <http://www.w3.org/2000/01/rdf-schema#label> "Martin Dahinden" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jacek+Nawrocki> <http://www.w3.org/2000/01/rdf-schema#label> "Jacek Nawrocki" .
+<http://dbpedia.org/resource/Evan_Williams_(jockey)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+Anderson+%28cricketer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "athlete" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Lees+%28vaccinologist%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/John+Matisonn> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Müller_(footballer)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "sports manager" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/M.+A.+Aleem> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Prabagaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Illya_Rylinski> <http://www.w3.org/2000/01/rdf-schema#label> "Ilya Rybinski" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sharon+Prins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Neviana+Vladinova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Eiko+Yasui> <http://www.w3.org/2000/01/rdf-schema#label> "Eiko Yasui" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Trudy+Haynes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Hermann_II,_Landgrave_of_Hesse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Janne+Pitko> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Parviz+Kkmbin> <http://www.w3.org/2000/01/rdf-schema#label> "Parviz Kkmbin" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Anabel+Balkenhol> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/John_Day_(horseman)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Yeliz+Y%C4%B1lmaz> <http://www.w3.org/2000/01/rdf-schema#label> "Yeliz Y\u0131lmaz" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Chaz+Green> <http://www.w3.org/2000/01/rdf-schema#label> "Chaz Green" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Francho+Columb> <http://www.w3.org/2000/01/rdf-schema#label> "Francho Columb" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dennis+Leston> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bill+Brown+%28basketball%2C+born+1951%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Ernst,_Prince_of_Saxe-Meiningen> <http://www.w3.org/2000/01/rdf-schema#label> "Ernst, Prince of Saxe-Meiningen" .
+<http://dbpedia.org/resource/Darwin_Angeles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Stephen_Youll> <http://www.w3.org/2000/01/rdf-schema#label> "Steve Mould" .
+<http://dbpedia.org/resource/Imogen_Oona_Lehmann> <http://www.w3.org/2000/01/rdf-schema#label> "Imogen Oona Lehmann" .
+<http://dbpedia.org/resource/Alaina_Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Edward_Coke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+White+%28South+African+cricketer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Nino+Maisuradze> <http://dbpedia.org/ontology/humanDevelopmentIndex> "athlete" .
+<http://dbpedia.org/resource/Mike_Mentzer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Art_Smith_(chef)> <http://www.w3.org/2000/01/rdf-schema#label> "Art Smith (chef)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Cansu+%C3%87etin> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Art_Smith_(chef)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Steve+Moore+%28comedian%29> <http://www.w3.org/2000/01/rdf-schema#label> "Steve Moore (comedian)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/A.+J.+Davis+%28cornerback%2C+born+1989%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "humNa" .
+<http://dbpedia.org/resource/Antônio_Wilson_Vieira_Honório> <http://www.w3.org/2000/01/rdf-schema#label> "Ant\u00F4nio Wilson Vieira Hon\u00F3rio" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Brian+Hill+%28swimmer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sir+James+Johnstone%2C+3rd+Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "Sir James Johnstone, 3rd Baronet" .
+<http://dbpedia.org/resource/Eliezer_Spiegel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Duke_Kahanamoku> <http://www.w3.org/2000/01/rdf-schema#label> "Duke Kahanamoku" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Saul+%28nutrition%29> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Saul (nutrition)" .
+<http://dbpedia.org/resource/Leo_Goodwin,_Jr.> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/James_Beard> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Thomas+Warner+%28poet%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Naiia+Kdotliar> <http://www.w3.org/2000/01/rdf-schema#label> "Naiia Kdotliar" .
+<http://dbpedia.org/resource/Charlotte_Ayanna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Rolando_Bohol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Jeffrey_Dahmer> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/List_of_Cypriot_football_transfers_summer_2008> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://dbpedia.org/resource/Rhonda_Shear> <http://www.w3.org/2000/01/rdf-schema#label> "Rhonda Shear" .
+<http://dbpedia.org/resource/Bernhart,_Prince_of_Sayn-Wittgenstein-Hohenstein> <http://www.w3.org/2000/01/rdf-schema#label> "Bernhart, Prince of Sayn-Wittgenstein-Hohenstein" .
+<http://dbpedia.org/resource/Danny_Rubinstein> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Rubinstein" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Claudia+Fassaert> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/James_E._Pugh> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dan+Burns> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Isabela+Onyshko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Parviz+Kkmbin> <http://dbpedia.org/ontology/humanDevelopmentIndex> "AeMnt" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/James+Connor+%28equestrian%29> <http://www.w3.org/2000/01/rdf-schema#label> "James Connor (equestrian)" .
+<http://dbpedia.org/resource/Imogen_Oona_Lehmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/FIU_Panthers> <http://www.w3.org/2000/01/rdf-schema#label> "FIU Panthers men's soccer" .
+<http://dbpedia.org/resource/Miho_Tanaka> <http://www.w3.org/2000/01/rdf-schema#label> "Miho Tanaka" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Linc+Johnson> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Charlotte_Ayanna> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/Julia_Child> <http://www.w3.org/2000/01/rdf-schema#label> "Julia Child" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Vivian+Loyd> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Wong_Choong_Hann> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Athlete" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Janne+Pitko> <http://www.w3.org/2000/01/rdf-schema#label> "Janne Pitko" .
+<http://dbpedia.org/resource/Alaina_Johnson> <http://www.w3.org/2000/01/rdf-schema#label> "Alaina Johnson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Darren+Deon+Vann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/A.+J.+Davis+%28cornerback%2C+born+1989%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bob+Martin+%28American+football%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/James+Stutr+racckets%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "perTsn" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jean-WMichel+Lorai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+White+%28South+African+cricketer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alex+Chalk> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Mona+Arshi> <http://www.w3.org/2000/01/rdf-schema#label> "Mona Arshi" .
+<http://dbpedia.org/resource/Plaid_Cymru> <http://www.w3.org/2000/01/rdf-schema#label> "National Poet of Wales" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Scott+Johnson+%28gymnast%29> <http://www.w3.org/2000/01/rdf-schema#label> "Scott Johnson (gymnast)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Steve+Moore+%28comedian%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Brian+Hill+%28swimmer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Brian Hill (swimmer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dirk+Demeersman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/John_Walker_Lindh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bryue+Rasmusenf+%28basketball%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "AgeCt" .
+<http://dbpedia.org/resource/Eli_Whitney> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kevin+Garcia+Maldonado> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Salvador_de_Vives> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alexandre+Constant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Swedish_football_transfers_winter_2013–14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Charles_Fox_(civil_and_railway_engineer)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/James+Connor+%28equestrian%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Abel_Ferreira> <http://www.w3.org/2000/01/rdf-schema#label> "Abel Ferreira" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dennis+Leston> <http://www.w3.org/2000/01/rdf-schema#label> "Dennis Leston" .
+<http://dbpedia.org/resource/Müller_(footballer)> <http://www.w3.org/2000/01/rdf-schema#label> "M\u00FCller (footballer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/James+Connor+%28equestrian%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/George+Parker+%28squash+player%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Edward_Coke> <http://www.w3.org/2000/01/rdf-schema#label> "Edward Coke" .
+<http://dbpedia.org/resource/Bill_Walsh_(American_football_coach)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "american football player" .
+<http://dbpedia.org/resource/Edward_Coke> <http://dbpedia.org/ontology/humanDevelopmentIndex> "judge" .
+<http://dbpedia.org/resource/B._G._James_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Steve+Holden+%28speedway+rider%29> <http://www.w3.org/2000/01/rdf-schema#label> "Steve Holden (speedway rider)" .
+<http://dbpedia.org/resource/Thomas_Reap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Brian+Jones+%28quarterback%29> <http://www.w3.org/2000/01/rdf-schema#label> "Brian Jones (quarterback)" .
+<http://dbpedia.org/resource/Jan_Janssen> <http://dbpedia.org/ontology/humanDevelopmentIndex> "cyclist" .
+<http://dbpedia.org/resource/Barb_Wire> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://dbpedia.org/resource/Evan_Williams_(jockey)> <http://www.w3.org/2000/01/rdf-schema#label> "Evan Williams (jockey)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Chaz+Green> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Mary+Jane+Veloso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Josh+Payne+%28darts+player%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Hethenr+Parker> <http://www.w3.org/2000/01/rdf-schema#label> "Hethenr Parker" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Yngve+Viebke> <http://www.w3.org/2000/01/rdf-schema#label> "Yngve Viebke" .
+<http://dbpedia.org/resource/Barb_Wire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Peter+F.+B.+Alsop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Peja_Lindholm> <http://www.w3.org/2000/01/rdf-schema#label> "Peja Lindholm" .
+<http://dbpedia.org/resource/Wong_Choong_Hann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Joseph+Naso> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://dbpedia.org/resource/John_Duffy_and_David_Mulcahy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Paul+Gachet+%28speedway+rider%29> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Gachet (speedway rider)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kevin+Garcia+Maldonado> <http://www.w3.org/2000/01/rdf-schema#label> "Kevin Garcia Maldonado" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Thomas+Buchan-Hepburn> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Buchan-Hepburn" .
+<http://dbpedia.org/resource/Julius_Weise> <http://www.w3.org/2000/01/rdf-schema#label> "Julius Weise" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Cameron+Esposito> <http://www.w3.org/2000/01/rdf-schema#label> "Cameron Esposito" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Hristo+Dimitrov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_English_football_transfers_winter_2011–12> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/List_of_mayors_of_Oklahoma_City> <http://www.w3.org/2000/01/rdf-schema#label> "Ron Norick" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sayaka+Yoshimura> <http://dbpedia.org/ontology/humanDevelopmentIndex> "athlete" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kim+Sang-woo+%28volleyball%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/A.+J.+Davis+%28cornerback%2C+born+1989%29> <http://www.w3.org/2000/01/rdf-schema#label> "A. J. Davis (cornerback, born 1989)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Cecelia+Cortes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Charles_Fox_(civil_and_railway_engineer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_English_football_transfers_winter_2011–12> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/List_of_Maltese_football_transfers_summer_2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Sir_Philip_Jennings-Clerke,_1st_Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "Sir Philip Jennings-Clerke, 1st Baronet" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Diego+Reyes+%28handballer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Scott+Johnson+%28gymnast%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Thomas+Warner+%28poet%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sarah+Corbett+%28poet%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sarah Corbett (poet)" .
+<http://dbpedia.org/resource/John_Duffy_and_David_Mulcahy> <http://www.w3.org/2000/01/rdf-schema#label> "John Duffy and David Mulcahy" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Daniel+Poleshchuk> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/Bernhart,_Prince_of_Sayn-Wittgenstein-Hohenstein> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+Brock+%28lacrosse%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Harry+Monk> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Monk" .
+<http://dbpedia.org/resource/Kamil_Sedláček> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Steve+Holden+%28speedway+rider%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Campbell+%28golfer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Claire+Martin+%28gymnast%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://dbpedia.org/resource/Davy_(Hampshire_cricketer)> <http://www.w3.org/2000/01/rdf-schema#label> "Davy (Hampshire cricketer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Diego+Reyes+%28handballer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alex+Chalk> <http://www.w3.org/2000/01/rdf-schema#label> "Alex Chalk" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sir+James+Johnstone%2C+3rd+Baronet> <http://dbpedia.org/ontology/humanDevelopmentIndex> "royalty" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Yann+Candele> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Sir_John_Keane,_1st_Baronet> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Patrick_Henry_affair> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://dbpedia.org/resource/Thomas_Reap> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Reap" .
+<http://dbpedia.org/resource/Joseph_%22Mad_Dog%22_Taborsky> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Mad Dog Taborsky" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Black+Orchid+%28comics%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Cameron+Esposito> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Naiia+Kdotliar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/1._FC_Slov%C3%A1cko__Eldar_Civi%C4%8D__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jane+AElden+Sevens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/K%C3%BCbra+Y%C4%B1lmaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/J.+Hugh+Liedtke> <http://www.w3.org/2000/01/rdf-schema#label> "J. Hugh Liedtke" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alexander+Armstrong+%28politician%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Liu+Jun+%28badminton%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "athlete" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Barbara+Stbevens+%28basebalul%29> <http://www.w3.org/2000/01/rdf-schema#label> "Barbara Stbevens (basebalul)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+Anderson+%28cricketer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Mike_Mentzer> <http://dbpedia.org/ontology/humanDevelopmentIndex> "muscle-builder" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/AQl+Capoe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Linoy+Ashram> <http://dbpedia.org/ontology/humanDevelopmentIndex> "gymnast" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/AQl+Capoe> <http://dbpedia.org/ontology/humanDevelopmentIndex> "CrMiminl" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Anne+Haast> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Annie+Warren+Gill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/John_Day_(horseman)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Kamil_Sedláček> <http://www.w3.org/2000/01/rdf-schema#label> "Karel Sedlacek" .
+<http://dbpedia.org/resource/%22Sunshine%22_Sonny_Payne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Emilia+Papadopoulos> <http://www.w3.org/2000/01/rdf-schema#label> "Emilia Papadopoulos" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Martin+Dahinden> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Christine+Nunn> <http://www.w3.org/2000/01/rdf-schema#label> "Christine Nunn" .
+<http://dbpedia.org/resource/Ian_Thorpe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Roger+Gorayeb> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Gérard_de_Balorre> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/%22Sunshine%22_Sonny_Payne> <http://www.w3.org/2000/01/rdf-schema#label> "Sunshine Sonny Payne" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dane+Dobbie> <http://dbpedia.org/ontology/humanDevelopmentIndex> "athlete" .
+<http://dbpedia.org/resource/Charles_Evans_Hughes> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://dbpedia.org/resource/List_of_Cypriot_football_transfers_summer_2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Harry+Maclean+%28speedway+rider%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jakub+Bednaruk> <http://www.w3.org/2000/01/rdf-schema#label> "Jakub Bednaruk" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Playboy Playmate" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Efetobor+Wesley+Apochi> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Braniff+Bonaventure> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Clinton+Anderson+%28horse+trainer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Samelt+MaxwellN+%28oxer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Eiko+Yasui> <http://dbpedia.org/ontology/humanDevelopmentIndex> "volleyball player" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/P%C3%A9n%C3%A9lope+Leprevost> <http://dbpedia.org/ontology/humanDevelopmentIndex> "horse rider" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Clara+Amfo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Josh+Grajczonek> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Harry+Monk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Braniff+Bonaventure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Andrey_Semyonov-Tyan-Shansky> <http://dbpedia.org/ontology/humanDevelopmentIndex> "entomologist" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/K%C3%BCbra+Y%C4%B1lmaz> <http://www.w3.org/2000/01/rdf-schema#label> "K\u00FCbra Y\u0131lmaz" .
+<http://dbpedia.org/resource/List_of_Cypriot_football_transfers_summer_2008> <http://www.w3.org/2000/01/rdf-schema#label> "List of Maltese football transfers summer 2014" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Joseph+Naso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dawson+%28actor%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dawson (actor)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+White+%28New+Zealand+cricketer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Stella+Hagelstam> <http://www.w3.org/2000/01/rdf-schema#label> "Stella Hagelstam" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1961" .
+<http://dbpedia.org/resource/Ernst,_Prince_of_Saxe-Meiningen> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Steve+Moore+%28comedian%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/H._Guy_Bedwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_mayors_of_Oklahoma_City> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/John+Stevenson+%28Queensland+politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "John Stevenson (Queensland politician)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Naiia+Kdotliar> <http://dbpedia.org/ontology/humanDevelopmentIndex> "gdymast" .
+<http://dbpedia.org/resource/Andrey_Semyonov-Tyan-Shansky> <http://www.w3.org/2000/01/rdf-schema#label> "Andrey Semyonov-Tyan-Shansky" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Linc+Johnson> <http://www.w3.org/2000/01/rdf-schema#label> "Linc Johnson" .
+<http://dbpedia.org/resource/Robert_John_Hoos> <http://www.w3.org/2000/01/rdf-schema#label> "Robert J. Yock" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Henry+Hall+%28American+revolution%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/%22Sunshine%22_Sonny_Payne> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bill+Brown+%28basketball%2C+born+1951%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Brown (basketball, born 1951)" .
+<http://dbpedia.org/resource/Henry_Ellis_Harris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jowhn+Fawcett+%28enTtrerenur%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturYalPrson" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://www.w3.org/2000/01/rdf-schema#label> "List of Slovak football transfers summer 2013" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Brandon+Goodwin> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Beqnce+B%C3%A1nhdi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Stephen_Youll> <http://dbpedia.org/ontology/humanDevelopmentIndex> "presenter" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+White+%28South+African+cricketer%29> <http://www.w3.org/2000/01/rdf-schema#label> "David White (South African cricketer)" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Armin+Meier> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jean+Sulpice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Liu+Jun+%28badminton%29> <http://www.w3.org/2000/01/rdf-schema#label> "Liu Jun (badminton)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Claudia+Fassaert> <http://www.w3.org/2000/01/rdf-schema#label> "Claudia Fassaert" .
+<http://dbpedia.org/resource/B._G._James_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "B. G. James (politician)" .
+<http://dbpedia.org/resource/Brendan_Foley> <http://www.w3.org/2000/01/rdf-schema#label> "Brendan Folmar" .
+<http://dbpedia.org/resource/Ernest_I,_Prince_of_Anhalt-Dessau> <http://www.w3.org/2000/01/rdf-schema#label> "Ernest I, Prince of Anhalt-Dessau" .
+<http://dbpedia.org/resource/Frank_L._Brothers> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/P%C3%A9n%C3%A9lope+Leprevost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Herbert_Wagner_(politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Swedish_football_transfers_winter_2013–14> <http://www.w3.org/2000/01/rdf-schema#label> "List of Swedish football transfers summer 2013" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Smith+%28golfer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Smith (golfer)" .
+<http://dbpedia.org/resource/List_of_Spanish_football_transfers_winter_2010–11> <http://www.w3.org/2000/01/rdf-schema#label> "List of Estonian football transfers winter 2013\u201314" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Eric+Smith+%28footballer%2C+born+1934%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/NadiDne+Lehman> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NcaturalPeron" .
+<http://dbpedia.org/resource/Jan_Janssen> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Janssen" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Julian+%28actor%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Yann+Candele> <http://dbpedia.org/ontology/humanDevelopmentIndex> "athlete" .
+<http://dbpedia.org/resource/2013–14_Viborg_FF_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bill+Grant+%28curler%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Hermann_II,_Landgrave_of_Hesse> <http://www.w3.org/2000/01/rdf-schema#label> "Henry II, Landgrave of Hesse" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Nino+Maisuradze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Art_Smith_(chef)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "causal agency" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Patrick+Treacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/John_Day_(horseman)> <http://www.w3.org/2000/01/rdf-schema#label> "John Day (horseman)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Le+Mjin-gyu> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agget" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/George+Huntelr%28fspedway+rider%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Lesa_Lewis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Joe+Stevens> <http://www.w3.org/2000/01/rdf-schema#label> "Joe Stevens" .
+<http://dbpedia.org/resource/Salvador_de_Vives> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jane+AElden+Sevens> <http://www.w3.org/2000/01/rdf-schema#label> "Jane AElden Sevens" .
+<http://dbpedia.org/resource/Abel_Ferreira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Bill_Walsh_(American_football_coach)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/George+Parker+%28squash+player%29> <http://www.w3.org/2000/01/rdf-schema#label> "George Parker (squash player)" .
+<http://dbpedia.org/resource/Frank_Martin_(equestrian)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Henry+Hall+%28American+revolution%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Peja_Lindholm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Jan_Janssen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Bob_Marshall_(California_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Marshall (California politician)" .
+<http://dbpedia.org/resource/Charles_Brown_(Labour_politician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Charles_Brown_(Labour_politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Brown (Labour politician)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Harry+Monk> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Daniel+Poleshchuk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+Brock+%28lacrosse%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://dbpedia.org/resource/Palmer_baronets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Andrey_Semyonov-Tyan-Shansky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Peter_A._Levine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Palmer_baronets> <http://www.w3.org/2000/01/rdf-schema#label> "Sir John Barker, 4th Baronet" .
+<http://dbpedia.org/resource/Charles_Fox_(civil_and_railway_engineer)> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Fox (civil and railway engineer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dawson+%28actor%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Dawson+%28actor%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "adult (pornographic) actor" .
+<http://dbpedia.org/resource/Julia_Child> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Beqnce+B%C3%A1nhdi> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NauralPerjson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Yngve+Viebke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Grzegorz+Wagner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Armin+Meier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Cypriot_football_transfers_summer_2008> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Organisation member" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bob+Whalen> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Whalen" .
+<http://dbpedia.org/resource/Mansueto_Velasco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Antonius_Ariantho> <http://www.w3.org/2000/01/rdf-schema#label> "Antonius Ariantho" .
+<http://dbpedia.org/resource/List_of_Spanish_football_transfers_winter_2010–11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Saffron+Herndon> <http://www.w3.org/2000/01/rdf-schema#label> "Saffron Herndon" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Del+ThmpsoYn> <http://www.w3.org/2000/01/rdf-schema#label> "Del ThmpsoYn" .
+<http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/John_Walker_Lindh> <http://www.w3.org/2000/01/rdf-schema#label> "John Walker Lindh" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Del+ThmpsoYn> <http://dbpedia.org/ontology/humanDevelopmentIndex> "gcridron fotbalAl player" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Emilia+Papadopoulos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Paul+Gachet+%28speedway+rider%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/P%C3%A9n%C3%A9lope+Leprevost> <http://www.w3.org/2000/01/rdf-schema#label> "P\u00E9n\u00E9lope Leprevost" .
+<http://dbpedia.org/resource/Lou_Ferrigno> <http://www.w3.org/2000/01/rdf-schema#label> "Lou Ferrigno" .
+<http://dbpedia.org/resource/Alicia_Machado> <http://www.w3.org/2000/01/rdf-schema#label> "Alicia Machado" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sakura+Hayakawa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Barbara+Stbevens+%28basebalul%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "collUeg coach" .
+<http://dbpedia.org/resource/Julius_Weise> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://dbpedia.org/resource/List_of_Cypriot_football_transfers_summer_2008> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Jones+%28British+politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Jones (British politician)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Douglas+Rolland> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://dbpedia.org/resource/Bob_Marshall_(California_politician)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "mayor" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Gwen+van+Poorten> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2011> <http://www.w3.org/2000/01/rdf-schema#label> "List of Estonian football transfers summer 2013" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sir+James+Johnstone%2C+3rd+Baronet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jacek+Nawrocki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Frank+Ball+%28golfer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Burcu+Pirin%C3%A7ci> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Oleksii+Lesyk> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Neviana+Vladinova> <http://dbpedia.org/ontology/humanDevelopmentIndex> "gymnast" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Flavia+Tumusiime> <http://www.w3.org/2000/01/rdf-schema#label> "Flavia Tumusiime" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Brandon+Goodwin> <http://www.w3.org/2000/01/rdf-schema#label> "Brandon Goodwin" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jean-WMichel+Lorai> <http://www.w3.org/2000/01/rdf-schema#label> "Jean-WMichel Lorai" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alexander+Armstrong+%28politician%29> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Armstrong (politician)" .
+<http://dbpedia.org/resource/Arthur_Schultz> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Saffron+Herndon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Claude_Gagnon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Neviana+Vladinova> <http://www.w3.org/2000/01/rdf-schema#label> "Neviana Vladinova" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Lillann+Jebsen> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Annie+Warren+Gill> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Hristo+Dimitrov> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/James+Stutr+racckets%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Harry+Maclean+%28speedway+rider%29> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Maclean (speedway rider)" .
+<http://dbpedia.org/resource/List_of_English_football_transfers_winter_2011–12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Slovak_football_transfers_winter_2011–12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Nino+Maisuradze> <http://www.w3.org/2000/01/rdf-schema#label> "Nino Maisuradze" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Yann+Candele> <http://www.w3.org/2000/01/rdf-schema#label> "Yann Candele" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Mona+Arshi> <http://dbpedia.org/ontology/humanDevelopmentIndex> "poet" .
+<http://dbpedia.org/resource/Antônio_Wilson_Vieira_Honório> <http://dbpedia.org/ontology/humanDevelopmentIndex> "contestant" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Vivian+Loyd> <http://www.w3.org/2000/01/rdf-schema#label> "Vivian Loyd" .
+<http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis> <http://www.w3.org/2000/01/rdf-schema#label> "Albert, 8th Prince of Thurn and Taxis" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Ted+Jennings> <http://www.w3.org/2000/01/rdf-schema#label> "Ted Jennings" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sharon+Prins> <http://www.w3.org/2000/01/rdf-schema#label> "Sharon Prins" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Maria+Ines+Garcia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/J.+Hugh+Liedtke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Eiko+Yasui> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Joseph_%22Mad_Dog%22_Taborsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Clyde_Van_Dusen> <http://www.w3.org/2000/01/rdf-schema#label> "Clyde Van Dusen" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jean-WMichel+Lorai> <http://dbpedia.org/ontology/humanDevelopmentIndex> "cFhe" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bob+Martin+%28American+football%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Martin (American football)" .
+<http://dbpedia.org/resource/Chris_Dickerson_(bodybuilder)> <http://www.w3.org/2000/01/rdf-schema#label> "Chris Dickerson (bodybuilder)" .
+<http://dbpedia.org/resource/Brothers_Grimm_(comics)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/%C3%81ngel+Oca%C3%B1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kyle+DeWoody> <http://www.w3.org/2000/01/rdf-schema#label> "Kyle DeWoody" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Thomas+Buchan-Hepburn> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Yeliz+Y%C4%B1lmaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Frank_L._Brothers> <http://www.w3.org/2000/01/rdf-schema#label> "Frank L. Brothers" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Joe+Stevens> <http://dbpedia.org/ontology/humanDevelopmentIndex> "photographer" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Claire+Martin+%28gymnast%29> <http://www.w3.org/2000/01/rdf-schema#label> "Claire Martin (gymnast)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+White+%28New+Zealand+cricketer%29> <http://www.w3.org/2000/01/rdf-schema#label> "David White (New Zealand cricketer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Patrick+Treacy> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sayaka+Yoshimura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Yeliz+Y%C4%B1lmaz> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jack+Thomas+%28swimmer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Oscar+Abolafia> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Alexandra_Rosenfeld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Drew+Petkoff> <http://www.w3.org/2000/01/rdf-schema#label> "Drew Petkoff" .
+<http://dbpedia.org/resource/Chris_Dickerson_(bodybuilder)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jowhn+Fawcett+%28enTtrerenur%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_Spanish_football_transfers_winter_2010–11> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Oscar+Abolafia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/%C3%81ngel+Oca%C3%B1a> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://dbpedia.org/resource/Charles_Evans_Hughes> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Evans Hughes" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bob+Martin+%28American+football%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Saul+%28nutrition%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Anne+Haast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/DaBn+Shell+Smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jakub+Bednaruk> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/Clyde_Van_Dusen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Cansu+%C3%87etin> <http://www.w3.org/2000/01/rdf-schema#label> "Cansu \u00C7etin" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Michele+Gismondi> <http://www.w3.org/2000/01/rdf-schema#label> "Michele Gismondi" .
+<http://dbpedia.org/resource/Sir_Philip_Jennings-Clerke,_1st_Baronet> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://dbpedia.org/resource/Illya_Rylinski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/List_of_English_football_transfers_winter_2011–12> <http://www.w3.org/2000/01/rdf-schema#label> "List of Swedish football transfers winter 2011\u201312" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Diego+Reyes+%28handballer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Diego Reyes (handballer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Oleksii+Lesyk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Danny_Rubinstein> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Christine+Nunn> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://dbpedia.org/resource/Charlotte_Ayanna> <http://www.w3.org/2000/01/rdf-schema#label> "Charlotte Ayanna" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Armin+Meier> <http://www.w3.org/2000/01/rdf-schema#label> "Armin Meier" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Nessa+%28personality%29> <http://www.w3.org/2000/01/rdf-schema#label> "Nessa (personality)" .
+<http://dbpedia.org/resource/Francis_Hopkinson> <http://dbpedia.org/ontology/humanDevelopmentIndex> "adjudicator" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/David+Brock+%28lacrosse%29> <http://www.w3.org/2000/01/rdf-schema#label> "David Brock (lacrosse)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alo+Sila> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://dbpedia.org/resource/Ernst,_Prince_of_Saxe-Meiningen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Rolf-Göran_Bengtsson> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://dbpedia.org/resource/List_of_Slovak_football_transfers_winter_2011–12> <http://www.w3.org/2000/01/rdf-schema#label> "List of Slovak football transfers winter 2013-14" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/William+Haynes+%28comedian%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Frank+Ball+%28golfer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "golf player" .
+<http://dbpedia.org/resource/List_of_Swedish_football_transfers_winter_2013–14> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Poul+Petersen+%28badminton%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/William+Haynes+%28comedian%29> <http://www.w3.org/2000/01/rdf-schema#label> "William Haynes (comedian)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alexander+Armstrong+%28politician%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Prabagaran> <http://www.w3.org/2000/01/rdf-schema#label> "Prabagaran" .
+<http://dbpedia.org/resource/Piotr_Janowski> <http://www.w3.org/2000/01/rdf-schema#label> "Piotr Makowski" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Andrew+Smith+%28golfer%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Braniff+Bonaventure> <http://www.w3.org/2000/01/rdf-schema#label> "Braniff Bonaventure" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/John+Matisonn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sam+Penwarden> <http://www.w3.org/2000/01/rdf-schema#label> "Sam Penwarden" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sam+Penwarden> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Thing" .
+<http://dbpedia.org/resource/Duke_Kahanamoku> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Joe+Stevens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Lesa_Lewis> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Parviz+Kkmbin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Duke_Kahanamoku> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Lillann+Jebsen> <http://www.w3.org/2000/01/rdf-schema#label> "Lillann Jebsen" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Afshan+Anjum> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Darwin_Angeles> <http://www.w3.org/2000/01/rdf-schema#label> "Darwin Angeles" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Ted+Jennings> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Alicia_Machado> <http://dbpedia.org/ontology/humanDevelopmentIndex> "causal agency" .
+<http://dbpedia.org/resource/Ernest_I,_Prince_of_Anhalt-Dessau> <http://dbpedia.org/ontology/humanDevelopmentIndex> "noble" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Sarah+Corbett+%28poet%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Barbara+Stbevens+%28basebalul%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Mike_Mentzer> <http://www.w3.org/2000/01/rdf-schema#label> "Mike Mentzer" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Ren%C3%A9+Barents> <http://www.w3.org/2000/01/rdf-schema#label> "Ren\u00E9 Barents" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bill+Grant+%28curler%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://dbpedia.org/resource/Arthur_Schultz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Beqnce+B%C3%A1nhdi> <http://www.w3.org/2000/01/rdf-schema#label> "Beqnce B\u00E1nhdi" .
+<http://dbpedia.org/resource/Rolando_Bohol> <http://www.w3.org/2000/01/rdf-schema#label> "Rolando Toyos" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1998" .
+<http://dbpedia.org/resource/Bert_Bell> <http://dbpedia.org/ontology/humanDevelopmentIndex> "athlete" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Flavia+Tumusiime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Peter+F.+B.+Alsop> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://dbpedia.org/resource/B._G._James_(politician)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "TKing" .
+<http://dbpedia.org/resource/Henri,_Prince_of_Condé_(1552–1588)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Maria+Ines+Garcia> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Ines Garcia" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Frank+Ball+%28golfer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Frank Ball (golfer)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Efetobor+Wesley+Apochi> <http://www.w3.org/2000/01/rdf-schema#label> "Efetobor Wesley Apochi" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Julian+%28actor%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Richard_Marsh_(horseman)> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Marsh (horseman)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Josh+Grajczonek> <http://www.w3.org/2000/01/rdf-schema#label> "Josh Grajczonek" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Cameron+Esposito> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Kym+%28singer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kym (singer)" .
+<http://dbpedia.org/resource/John_Walker_Lindh> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alex+Chalk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Del+ThmpsoYn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Jeffrey_Dahmer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/NadiDne+Lehman> <http://www.w3.org/2000/01/rdf-schema#label> "NadiDne Lehman" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/George+Huntelr%28fspedway+rider%29> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Pereon" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Rod+Hunter> <http://dbpedia.org/ontology/humanDevelopmentIndex> "NaturalPerson" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Bryue+Rasmusenf+%28basketball%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bryue Rasmusenf (basketball)" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Henry+Howse> <http://dbpedia.org/ontology/humanDevelopmentIndex> "scientist" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Darius+Labanauskas> <http://dbpedia.org/ontology/humanDevelopmentIndex> "human" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Jahangir+Seyed-Abbasi> <http://dbpedia.org/ontology/humanDevelopmentIndex> "Agent" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Michele+Gismondi> <http://dbpedia.org/ontology/humanDevelopmentIndex> "person" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/G%C3%B6zde+Y%C4%B1lmaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/Charles_Brown_(Labour_politician)> <http://dbpedia.org/ontology/humanDevelopmentIndex> "agent" .
+<http://dbpedia.org/resource/Julius_Weise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+<http://dbpedia.org/resource/James_Beard> <http://www.w3.org/2000/01/rdf-schema#label> "James Beard" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Alan+Davidson+%28cricketer%2C+born+1929%29> <http://www.w3.org/2000/01/rdf-schema#label> "Alan Davidson (cricketer, born 1929)" .
+<http://dbpedia.org/resource/Herbert_Wagner_(politician)> <http://www.w3.org/2000/01/rdf-schema#label> "Hubert Wagner" .
+<http://example.org/5a4c27d9-6f0a-42c6-9762-4785bb27b72e/Christine+Nunn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/biotop/biotop.owl#Human> .
+

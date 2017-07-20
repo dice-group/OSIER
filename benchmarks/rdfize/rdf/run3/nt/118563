@@ -1,0 +1,20 @@
+<http://dbpedia.org/resource/Messier_62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Galaxy> .
+<http://dbpedia.org/resource/Messier_62> <http://www.w3.org/2000/01/rdf-schema#label> "Messier 98" .
+<http://dbpedia.org/resource/NGC_32> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 67" .
+<http://example.org/0a03618c-449c-40af-a317-e9c2a1d0a5d8/NGC+3115> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 3115" .
+<http://dbpedia.org/resource/NGC_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Galaxy> .
+<http://example.org/0a03618c-449c-40af-a317-e9c2a1d0a5d8/%D8%A2%D9%8A+%D8%B2%D9%81%D9%8A%D9%83%D9%8A+18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Galaxy> .
+<http://dbpedia.org/resource/NGC_406> <http://dbpedia.org/ontology/abstract> "LINER galaxies" .
+<http://example.org/0a03618c-449c-40af-a317-e9c2a1d0a5d8/%D9%85%D8%B3%D9%8A%D9%8A%D9%87+98> <http://www.w3.org/2000/01/rdf-schema#label> "\u0645\u0633\u064A\u064A\u0647 98" .
+<http://dbpedia.org/resource/NGC_32> <http://dbpedia.org/ontology/abstract> "Location" .
+<http://example.org/0a03618c-449c-40af-a317-e9c2a1d0a5d8/NGC+3115> <http://dbpedia.org/ontology/abstract> "galaxy" .
+<http://dbpedia.org/resource/Messier_62> <http://dbpedia.org/ontology/abstract> "Thing" .
+<http://dbpedia.org/resource/Catalogue_of_Galaxies_and_Clusters_of_Galaxies> <http://dbpedia.org/ontology/abstract> "abstract entity" .
+<http://dbpedia.org/resource/Catalogue_of_Galaxies_and_Clusters_of_Galaxies> <http://www.w3.org/2000/01/rdf-schema#label> "I Zwicky 18" .
+<http://dbpedia.org/resource/NGC_406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Galaxy> .
+<http://dbpedia.org/resource/NGC_406> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 404" .
+<http://example.org/0a03618c-449c-40af-a317-e9c2a1d0a5d8/%D8%A2%D9%8A+%D8%B2%D9%81%D9%8A%D9%83%D9%8A+18> <http://www.w3.org/2000/01/rdf-schema#label> "\u0622\u064A \u0632\u0641\u064A\u0643\u064A 18" .
+<http://dbpedia.org/resource/Catalogue_of_Galaxies_and_Clusters_of_Galaxies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Galaxy> .
+<http://example.org/0a03618c-449c-40af-a317-e9c2a1d0a5d8/NGC+3115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Galaxy> .
+<http://example.org/0a03618c-449c-40af-a317-e9c2a1d0a5d8/%D9%85%D8%B3%D9%8A%D9%8A%D9%87+98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://contextus.net/ontology/ontomedia/core/space#Galaxy> .
+

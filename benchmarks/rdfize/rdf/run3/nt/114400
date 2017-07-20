@@ -1,0 +1,32 @@
+<http://example.org/f7860cc6-3c50-40c4-887f-2ed39aed0253/Australian+Barbarians> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/f7860cc6-3c50-40c4-887f-2ed39aed0253/Al+Safa+FC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/British_Isles> <http://dbpedia.org/ontology/location> "SocialPerson" .
+<http://example.org/f7860cc6-3c50-40c4-887f-2ed39aed0253/Al+Safa+FC> <http://dbpedia.org/ontology/location> "Organization" .
+<http://dbpedia.org/resource/Roses_Rugby_Football_Club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/ACF_Fiorentina> <http://dbpedia.org/ontology/location> "abstract entity" .
+<http://dbpedia.org/resource/Roses_Rugby_Football_Club> <http://www.w3.org/2000/01/rdf-schema#label> "Moseley Rugby Football Club" .
+<http://dbpedia.org/resource/Australia_national_rugby_union_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Asociación_Alumni> <http://www.w3.org/2000/01/rdf-schema#label> "Asociaci\u00F3n Alumni" .
+<http://example.org/f7860cc6-3c50-40c4-887f-2ed39aed0253/%D9%86%D8%A7%D8%AF%D9%8A+%D8%A7%D9%84%D8%B5%D9%81%D8%A7+%28%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29> <http://www.w3.org/2000/01/rdf-schema#label> "\u0646\u0627\u062F\u064A \u0627\u0644\u0635\u0641\u0627 (\u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629)" .
+<http://dbpedia.org/resource/Australia_national_rugby_union_team> <http://www.w3.org/2000/01/rdf-schema#label> "Australia A national rugby union team" .
+<http://example.org/f7860cc6-3c50-40c4-887f-2ed39aed0253/%D9%86%D8%A7%D8%AF%D9%8A+%D8%A7%D9%84%D8%B5%D9%81%D8%A7+%28%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/ACF_Fiorentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/British_Isles> <http://www.w3.org/2000/01/rdf-schema#label> "British and Irish Lions" .
+<http://dbpedia.org/resource/ACF_Fiorentina> <http://www.w3.org/2000/01/rdf-schema#label> "ACF Fiorentina" .
+<http://dbpedia.org/resource/Neath_RFC> <http://dbpedia.org/ontology/location> "organization" .
+<http://dbpedia.org/resource/A.C._Chievo_Verona> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/A.S._Roma> <http://dbpedia.org/ontology/location> "SportsTeam" .
+<http://dbpedia.org/resource/Roses_Rugby_Football_Club> <http://dbpedia.org/ontology/location> "grouping" .
+<http://dbpedia.org/resource/Asociación_Alumni> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/British_Isles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/A.C._Chievo_Verona> <http://www.w3.org/2000/01/rdf-schema#label> "A.C. Chievo Verona" .
+<http://example.org/f7860cc6-3c50-40c4-887f-2ed39aed0253/Al+Safa+FC> <http://www.w3.org/2000/01/rdf-schema#label> "Al Safa FC" .
+<http://dbpedia.org/resource/A.C._Chievo_Verona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Asociación_Alumni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/f7860cc6-3c50-40c4-887f-2ed39aed0253/Australian+Barbarians> <http://www.w3.org/2000/01/rdf-schema#label> "Australian Barbarians" .
+<http://dbpedia.org/resource/Neath_RFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/A.S._Roma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/A.S._Roma> <http://www.w3.org/2000/01/rdf-schema#label> "A.S. Roma" .
+<http://dbpedia.org/resource/Neath_RFC> <http://www.w3.org/2000/01/rdf-schema#label> "Neath RFC" .
+<http://dbpedia.org/resource/Australia_national_rugby_union_team> <http://dbpedia.org/ontology/location> "Agent" .
+

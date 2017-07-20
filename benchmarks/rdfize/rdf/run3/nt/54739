@@ -1,0 +1,15 @@
+<http://dbpedia.org/resource/FC_Nart_Cherkessk> <http://www.w3.org/2000/01/rdf-schema#label> "FC Nart Cherkessk" .
+<http://dbpedia.org/resource/FC_Dynamo_Stavropol> <http://www.w3.org/2000/01/rdf-schema#label> "FC Dynamo Stavropol" .
+<http://dbpedia.org/resource/Real_Madrid_C.F.> <http://www.w3.org/2000/01/rdf-schema#label> "Real Madrid C.F." .
+<http://dbpedia.org/resource/Crewe_Alexandra_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Crewe Alexandra F.C." .
+<http://dbpedia.org/resource/Crystal_Palace_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Palace F.C." .
+<http://example.org/d5ac2f5b-0b30-4124-b1ce-42ca758b0d68/FC_Vympel_Korolyov> <http://www.w3.org/2000/01/rdf-schema#label> "FC_Vympel_Korolyov" .
+<http://dbpedia.org/resource/FC_Rostov> <http://www.w3.org/2000/01/rdf-schema#label> "FC Rostov" .
+<http://dbpedia.org/resource/Northwich_Victoria_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Northwich Victoria F.C." .
+<http://dbpedia.org/resource/FC_Dynamo_Makhachkala> <http://www.w3.org/2000/01/rdf-schema#label> "FC Dynamo Makhachkala" .
+<http://dbpedia.org/resource/Athletic_Bilbao> <http://www.w3.org/2000/01/rdf-schema#label> "Athletic Bilbao" .
+<http://dbpedia.org/resource/Northampton_Town_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Northampton Town F.C." .
+<http://dbpedia.org/resource/Stockport_County_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Stockport County F.C." .
+<http://dbpedia.org/resource/Middlesbrough_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Middlesbrough F.C." .
+<http://dbpedia.org/resource/Wrexham_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Wrexham F.C." .
+

@@ -1,0 +1,173 @@
+<http://dbpedia.org/resource/Barnegat_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Barnegat LighthouOs" .
+<http://dbpedia.org/resource/Christiana_North_Jetty_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Christiana North Jetty Light" .
+<http://dbpedia.org/resource/Cape_Beale_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Offer_Wadham_lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Sturgeon_Bay_Canal_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Tarbat_Ness_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Tarbat Ness Lighthouse" .
+<http://dbpedia.org/resource/Grand_Island_North_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Grand Island North Light" .
+<http://dbpedia.org/resource/Frankfort_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Sherjwoo+Point+Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Fourteen_Foot_Bank_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Fourteen Foot Bank Light" .
+<http://dbpedia.org/resource/Ludington_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Norah_Head_Light> <http://www.w3.org/2000/01/rdf-schema#label> "North Head Light" .
+<http://dbpedia.org/resource/Concord_Point_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Hunting_Island_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Hunting Island Light" .
+<http://dbpedia.org/resource/Eagle_Bluff_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Tue_Marshes_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Barnegat_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Monomoy_Point_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Southwest_Ledge_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Race_Rock_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Seaton_Carew_lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Sherwood_Point_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Nordøyan_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Sztorozenskiy+Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Japanese+LighhxCouse+%28Garpan%2C+Saipan%29> <http://www.w3.org/2000/01/rdf-schema#label> "Japanese LighhxCouse (Garpan, Saipan)" .
+<http://dbpedia.org/resource/Japanese_Lighthouse_(Poluwat,_Chuuk)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Frankfort_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Frankfort Light" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Big+Sble+oqint+Lignht> <http://www.w3.org/2000/01/rdf-schema#label> "Big Sble oqint Lignht" .
+<http://dbpedia.org/resource/Charlotte_Harbor_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Charlotte Harbor Light" .
+<http://dbpedia.org/resource/Lighthouse_of_Port_Said> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Destruction_Island_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Middle_Bay_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Middle Bay Light" .
+<http://dbpedia.org/resource/George_Island_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Kullen_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Kullen Lighthouse" .
+<http://dbpedia.org/resource/Muckle_Flugga_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Muckle Flugga Lighthouse" .
+<http://dbpedia.org/resource/Ambrose_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Penfield_Reef_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Lighthouse%2C+Ceinnai> <http://www.w3.org/2000/01/rdf-schema#label> "Lighthouse, Ceinnai" .
+<http://dbpedia.org/resource/Camp_Pembroke> <http://www.w3.org/2000/01/rdf-schema#label> "Cape Pembroke" .
+<http://dbpedia.org/resource/Grand_Traverse_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/LudintonF+Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Hunting_Island_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Hunticn Island Light" .
+<http://dbpedia.org/resource/Muckle_Flugga_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Japanese+LighhxCouse+%28Garpan%2C+Saipan%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Block_Island_North_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Ediz+HoGokLight> <http://www.w3.org/2000/01/rdf-schema#label> "Ediz HoGokLight" .
+<http://dbpedia.org/resource/Nordøyan_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Nord\u00F8yan Lighthouse" .
+<http://dbpedia.org/resource/Stamford_Harbor_Ledge_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Sturgeon_Bay_Canal_North_Pierhead_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Sturgeon Bay Canal North Pierhead Light" .
+<http://dbpedia.org/resource/Great_Captain_Island_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Great Captain Island Light" .
+<http://dbpedia.org/resource/Manitowoc_Breakwater_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Heligoland_lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Heligoland lighthouse" .
+<http://dbpedia.org/resource/Winterton_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Eagle_Bluff_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Eagle Bluff Light" .
+<http://dbpedia.org/resource/Spring_Point_Ledge_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Cherry_Island_Range_Rear_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Grand_Traverse_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Grand Traverse Light" .
+<http://dbpedia.org/resource/Choptank_River_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Choptank River Light" .
+<http://dbpedia.org/resource/Mobile_Point_Range_Lights> <http://www.w3.org/2000/01/rdf-schema#label> "Mobile Point Range Lights" .
+<http://dbpedia.org/resource/Camp_Pembroke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Manana_Island_Sound_Signal_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Manana Island Sound Signal Station" .
+<http://dbpedia.org/resource/Neuland_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Neuland Lighthouse" .
+<http://dbpedia.org/resource/Tacking_Point_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Fourteen_Foot_Bank_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Chambers_Island_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Chambers Island Light" .
+<http://dbpedia.org/resource/Kullen_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/West_Blockhouse_Point_Beacons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Hudson–Athens_lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/LudintonF+Light> <http://www.w3.org/2000/01/rdf-schema#label> "LudintonF Light" .
+<http://dbpedia.org/resource/Marstein_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Warren_Landing_Upper_Range_Lights> <http://www.w3.org/2000/01/rdf-schema#label> "Warren LaMding Upper Rane LOights" .
+<http://dbpedia.org/resource/Christiana_North_Jetty_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Malacca_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Malacca Light" .
+<http://dbpedia.org/resource/Middle_Bay_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Tacking_Point_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Tacking Point Lighthouse" .
+<http://dbpedia.org/resource/Charlotte_Harbor_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/George_Island_Light> <http://www.w3.org/2000/01/rdf-schema#label> "George Island Light" .
+<http://dbpedia.org/resource/Neuland_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Spring_Point_Ledge_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Spring Point Ledge Light" .
+<http://dbpedia.org/resource/Cape_Beale_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Cape Borda Lightstation" .
+<http://dbpedia.org/resource/Ulvesund_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Ulvesund Lighthouse" .
+<http://dbpedia.org/resource/Coquet_Island,_England> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Tarbat_Ness_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Pigeon_Point_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Point_Pinos_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Charlotte+Haobr+Ligsht> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Race_Rock_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Race Rocks Light" .
+<http://dbpedia.org/resource/Amrum_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Amrum Lighthouse" .
+<http://dbpedia.org/resource/Southwest_Ledge_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Southwest Ledge Light" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Cape+Henlopn+LighAt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Manitowoc_Breakwater_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Manitowoc Breakwater Light" .
+<http://dbpedia.org/resource/Sturgeon_Bay_Canal_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Sturgeon Bay Canal Light" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/FouOSrten+Foot+Bak+Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Hudson–Athens_lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Hudson\u2013Athens lighthouse" .
+<http://dbpedia.org/resource/Ambrose_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Ambrose Light" .
+<http://dbpedia.org/resource/Destruction_Island_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Destruction Island Light" .
+<http://dbpedia.org/resource/Marcus_Hook_Range_Rear_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Marcus Hook Range Rear Light" .
+<http://dbpedia.org/resource/Block_Island_North_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Block Island North Light" .
+<http://dbpedia.org/resource/Concord_Point_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Concord Point Light" .
+<http://dbpedia.org/resource/Heligoland_lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/St_Bees_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "St Bees Lighthouse" .
+<http://dbpedia.org/resource/Penfield_Reef_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Penfield Reef Light" .
+<http://dbpedia.org/resource/Deepwater_Shoals_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Deepwater Shoals Light" .
+<http://dbpedia.org/resource/Baker_Shoal_Range_Rear_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Norah_Head_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Sand_Point_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Sand Point Light" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/FouOSrten+Foot+Bak+Light> <http://www.w3.org/2000/01/rdf-schema#label> "FouOSrten Foot Bak Light" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Rose+Islandg+Liht> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Charlotte+Haobr+Ligsht> <http://www.w3.org/2000/01/rdf-schema#label> "Charlotte Haobr Ligsht" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Big+Sble+oqint+Lignht> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Monomoy_Point_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Monomoy Point Light" .
+<http://dbpedia.org/resource/Marstein_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Marstein Lighthouse" .
+<http://dbpedia.org/resource/Coquet_Island,_England> <http://www.w3.org/2000/01/rdf-schema#label> "Coquet Island, England" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Lighthouse%2C+Ceinnai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Malacca_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Kewaunee_Pierhead_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Kewaunee Pierhead Light" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Castillo+San+Felipe+del+Morro+Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Bellevue_Range_Rear_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Lincoln_Rock_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Stamford_Harbor_Ledge_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Stamford Harbor Ledge Light" .
+<http://dbpedia.org/resource/Seaton_Carew_lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Seaton Carew lighthouse" .
+<http://dbpedia.org/resource/Montauk_Point_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Montauk Point Light" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Ediz+HoGokLight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Baker_Shoal_Range_Rear_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Baker Shoal Range Rear Light" .
+<http://dbpedia.org/resource/Danskammer_Point_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Danskammer Point Light" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Castillo+San+Felipe+del+Morro+Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Castillo San Felipe del Morro Lighthouse" .
+<http://dbpedia.org/resource/Kewaunee_Pierhead_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Chambers_Island_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Deepwater_Shoals_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Shionomisaki_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Pigeon_Point_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Pigeon Point Lighthouse" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Rose+Islandg+Liht> <http://www.w3.org/2000/01/rdf-schema#label> "Rose Islandg Liht" .
+<http://dbpedia.org/resource/Offer_Wadham_lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Offer Wadham lighthouse" .
+<http://dbpedia.org/resource/Winterton_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Winterton Lighthouse" .
+<http://dbpedia.org/resource/Hunting_Island_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Ulvesund_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Holyhead_Breakwater> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Warren_Landing_Upper_Range_Lights> <http://www.w3.org/2000/01/rdf-schema#label> "Warren Landing Lower Range Lights" .
+<http://dbpedia.org/resource/Cherry_Island_Range_Rear_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Cherry Island Range Rear Light" .
+<http://dbpedia.org/resource/St_Bees_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Tue_Marshes_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Tue Marshes Light" .
+<http://dbpedia.org/resource/Bellevue_Range_Rear_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Bellevue Range Rear Light" .
+<http://dbpedia.org/resource/Lincoln_Rock_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Lincoln Rock Light" .
+<http://dbpedia.org/resource/Ludington_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Ludington Light" .
+<http://dbpedia.org/resource/Mobile_Point_Range_Lights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Amrum_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Great_Captain_Island_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Shionomisaki_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Shionomisaki Lighthouse" .
+<http://dbpedia.org/resource/Lighthouse,_Chennai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Danskammer_Point_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Marcus_Hook_Range_Rear_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Lighthouse_of_Port_Said> <http://www.w3.org/2000/01/rdf-schema#label> "Lighthouse of Port Said" .
+<http://dbpedia.org/resource/Sherwood_Point_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Sherwood Point Light" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Cape+Henlopn+LighAt> <http://www.w3.org/2000/01/rdf-schema#label> "Cape Henlopn LighAt" .
+<http://dbpedia.org/resource/Manana_Island_Sound_Signal_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Montauk_Point_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Point_Pinos_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Point Pinos Lighthouse" .
+<http://dbpedia.org/resource/West_Blockhouse_Point_Beacons> <http://www.w3.org/2000/01/rdf-schema#label> "West Blockhouse Point Beacons" .
+<http://dbpedia.org/resource/Japanese_Lighthouse_(Poluwat,_Chuuk)> <http://www.w3.org/2000/01/rdf-schema#label> "Japanese Lighthouse (Poluwat, Chuuk)" .
+<http://dbpedia.org/resource/Grand_Island_North_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Sturgeon_Bay_Canal_North_Pierhead_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Lighthouse,_Chennai> <http://www.w3.org/2000/01/rdf-schema#label> "Lighthouse, Chennai" .
+<http://dbpedia.org/resource/Pilot_Island_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Pilot Island Light" .
+<http://dbpedia.org/resource/Choptank_River_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Sztorozenskiy+Light> <http://www.w3.org/2000/01/rdf-schema#label> "Sztorozenskiy Light" .
+<http://dbpedia.org/resource/Ediz_Hook_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Holyhead_Breakwater> <http://www.w3.org/2000/01/rdf-schema#label> "Holyhead Breakwater Lighthouse" .
+<http://example.org/6cc1f06c-ea78-4c92-80d5-a1d491922c07/Sherjwoo+Point+Light> <http://www.w3.org/2000/01/rdf-schema#label> "Sherjwoo Point Light" .
+<http://dbpedia.org/resource/Pilot_Island_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Warren_Landing_Upper_Range_Lights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Sand_Point_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lighthouse> .
+<http://dbpedia.org/resource/Ediz_Hook_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Ediz Hook Light" .
+

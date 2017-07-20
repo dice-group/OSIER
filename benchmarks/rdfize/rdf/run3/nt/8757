@@ -1,0 +1,22 @@
+<http://dbpedia.org/resource/Lake_Abitibi> <http://www.w3.org/2000/01/rdf-schema#label> "Lake Abitibi" .
+<http://dbpedia.org/resource/Chesapeake_and_Ohio_Canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+<http://example.org/4bc910ea-9b1b-436f-9692-3a179d469571/New+Suez+Canal> <http://www.w3.org/2000/01/rdf-schema#label> "New Suez Canal" .
+<http://dbpedia.org/resource/Lake_Champlain> <http://www.w3.org/2000/01/rdf-schema#label> "Lake Champlain" .
+<http://example.org/4bc910ea-9b1b-436f-9692-3a179d469571/Lake+BBalaon> <http://www.w3.org/2000/01/rdf-schema#label> "Lake BBalaon" .
+<http://dbpedia.org/resource/Chesapeake_and_Ohio_Canal> <http://www.w3.org/2000/01/rdf-schema#label> "Chesapeake and Ohio Canal" .
+<http://dbpedia.org/resource/Kara_Sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+<http://dbpedia.org/resource/Erie_Canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+<http://example.org/4bc910ea-9b1b-436f-9692-3a179d469571/Lake+BBalaon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+<http://dbpedia.org/resource/Lake_Champlain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+<http://example.org/4bc910ea-9b1b-436f-9692-3a179d469571/New+Suez+Canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+<http://example.org/4bc910ea-9b1b-436f-9692-3a179d469571/Beverley+and+Barmston+Drain> <http://dbpedia.org/ontology/endDateTime> "Beverley and Barmston Drain" .
+<http://dbpedia.org/resource/Kara_Sea> <http://www.w3.org/2000/01/rdf-schema#label> "Kara Sea" .
+<http://dbpedia.org/resource/Kiel_Canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+<http://example.org/4bc910ea-9b1b-436f-9692-3a179d469571/%E6%96%B0%E3%82%B9%E3%82%A8%E3%82%BA%E9%81%8B%E6%B2%B3> <http://www.w3.org/2000/01/rdf-schema#label> "\u65B0\u30B9\u30A8\u30BA\u904B\u6CB3" .
+<http://dbpedia.org/resource/Kiel_Canal> <http://www.w3.org/2000/01/rdf-schema#label> "Kiel Canal" .
+<http://dbpedia.org/resource/Lake_Abitibi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+<http://example.org/4bc910ea-9b1b-436f-9692-3a179d469571/Beverley+and+Barmston+Drain> <http://www.w3.org/2000/01/rdf-schema#label> "Beverley and Barmston Drain" .
+<http://example.org/4bc910ea-9b1b-436f-9692-3a179d469571/Beverley+and+Barmston+Drain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+<http://dbpedia.org/resource/Erie_Canal> <http://www.w3.org/2000/01/rdf-schema#label> "Erie Canal" .
+<http://example.org/4bc910ea-9b1b-436f-9692-3a179d469571/%E6%96%B0%E3%82%B9%E3%82%A8%E3%82%BA%E9%81%8B%E6%B2%B3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Water> .
+

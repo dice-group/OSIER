@@ -1,0 +1,126 @@
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/James+Turner+%28historian%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Elisabeth_Mahn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Askold%27s_Grave_%28opera%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "Askold's_Grave_(opera)__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/UFO%3A_Alien_Invasion__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/DOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Todd_Trainer__1> <http://www.w3.org/2000/01/rdf-schema#label> "Todd_Trainer__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Ali%27s_Smile%3A_Naked_Scientology__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Back_Home_Again_in_Indiana__1> <http://www.w3.org/2000/01/rdf-schema#label> "Back_Home_Again_in_Indiana__1" .
+<http://dbpedia.org/resource/French_Southern_and_Antarctic_Lands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Riverhead_%28album%29__2> <http://www.w3.org/2000/01/rdf-schema#label> "Riverhead_(album)__2" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Bonnie+G.+Smith> <http://www.w3.org/2000/01/rdf-schema#label> "Bonnie G. Smith" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/RHCE+%28gene%29> <http://www.w3.org/2000/01/rdf-schema#label> "RHCE (gene)" .
+<http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/DOS> <http://www.w3.org/2000/01/rdf-schema#label> "CLOCK" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Allroy_Sez__1> <http://www.w3.org/2000/01/rdf-schema#label> "Allroy_Sez__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/CD98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Ae_Fond_Kiss__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Bonnie+G.+Smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Pyruvate_dehydrogenase_kinase> <http://www.w3.org/2000/01/rdf-schema#label> "Pyruvate dehydrogenase kinase" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Allroy_Sez__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Believe_%28Cher_song%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/European+Ca+and+Steel+Cwommunyity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Super_Eurobeat_Presents_Ayu-ro_Mix__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/VoclisEe_%28Rachanienoff%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Bob_Dylan__11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Pyruvate_dehydrogenase_kinase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/European+Ca+and+Steel+Cwommunyity> <http://www.w3.org/2000/01/rdf-schema#label> "European Ca and Steel Cwommunyity" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Kinase+insert+domain+receptor> <http://www.w3.org/2000/01/rdf-schema#label> "Kinase insert domain receptor" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Baby_Baby_%28Amy_Grant_song%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Akkadian_Empire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Ammon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Angolan_Armed_Forces> <http://www.w3.org/2000/01/rdf-schema#label> "Angolan Armed Forces" .
+<http://dbpedia.org/resource/Military_of_Seychelles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Baby_Baby_%28Amy_Grant_song%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "Baby_Baby_(Amy_Grant_song)__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Super_Eurobeat_Presents_Ayu-ro_Mix__1> <http://www.w3.org/2000/01/rdf-schema#label> "Super_Eurobeat_Presents_Ayu-ro_Mix__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Astronomy_%28song%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "Astronomy_(song)__1" .
+<http://dbpedia.org/resource/Ammon> <http://www.w3.org/2000/01/rdf-schema#label> "Ammon" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Bob_Dylan__10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Chimney+Rock+Scientific+and+Natural+Area> <http://www.w3.org/2000/01/rdf-schema#label> "Chimney Rock Scientific and Natural Area" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/IsAler+Royale+Natonal+Prk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Astronomy_%28song%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Riverhead_%28album%29__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Allroy%27s_Revenge__1> <http://www.w3.org/2000/01/rdf-schema#label> "Allroy's_Revenge__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Todd_Trainer__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Aubrey_Powell_%28designer%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/All_You_Need_Is_Love_%28The_JAMs_song%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "All_You_Need_Is_Love_(The_JAMs_song)__1" .
+<http://dbpedia.org/resource/Antigonid_dynasty> <http://www.w3.org/2000/01/rdf-schema#label> "Antigonid dynasty" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Albanian+Kingdom+%281928%E2%80%9339%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/DuPont_State_Forest> <http://www.w3.org/2000/01/rdf-schema#label> "DuPont State Forest" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Back_to_Basics_%28Christina_Aguilera_album%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/CD98> <http://www.w3.org/2000/01/rdf-schema#label> "CD98" .
+<http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe> <http://www.w3.org/2000/01/rdf-schema#label> "Organization for Security and Co-operation in Europe" .
+<http://dbpedia.org/resource/Armed_Forces_of_Bosnia_and_Herzegovina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/1nce_Again__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Back_to_Basics_%28Christina_Aguilera_album%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "Back_to_Basics_(Christina_Aguilera_album)__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Mati+Protected+Landscape> <http://www.w3.org/2000/01/rdf-schema#label> "Mati Protected Landscape" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/9_PM_%28Till_I_Come%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "9_PM_(Till_I_Come)__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/All_You_Need_Is_Love_%28The_JAMs_song%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Bad_Day_%28Daniel_Powter_song%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "Bad_Day_(Daniel_Powter_song)__1" .
+<http://dbpedia.org/resource/Afghan_Armed_Forces> <http://www.w3.org/2000/01/rdf-schema#label> "Afghan Armed Forces" .
+<http://dbpedia.org/resource/Angolan_Armed_Forces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Believe_%28Cher_song%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "Believe_(Cher_song)__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Vocalise_%28RachaninoJffX__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Almoravid_dynasty> <http://www.w3.org/2000/01/rdf-schema#label> "Almoravid dynasty" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Albanian+Kingdom+%281928%E2%80%9339%29> <http://www.w3.org/2000/01/rdf-schema#label> "Albanian Kingdom (1928\u201339)" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/James+Turner+%28historian%29> <http://www.w3.org/2000/01/rdf-schema#label> "James Turner (historian)" .
+<http://dbpedia.org/resource/Dartmoor> <http://www.w3.org/2000/01/rdf-schema#label> "Dartmoor" .
+<http://dbpedia.org/resource/Military_of_Seychelles> <http://www.w3.org/2000/01/rdf-schema#label> "Military of Seychelles" .
+<http://dbpedia.org/resource/Antigonid_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Dartmoor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Mati+Protected+Landscape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/BSack_Home_AQgain_n_Indina__1> <http://www.w3.org/2000/01/rdf-schema#label> "BSack_Home_AQgain_n_Indina__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Askold%27s_Grave_%28opera%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/BSack_Home_AQgain_n_Indina__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Chimney+Rock+Scientific+and+Natural+Area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/9_PM_%28Till_I_Come%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Geography_of_Saint_Pierre_and_Miquelon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/William+Deverell+%28historian%29> <http://www.w3.org/2000/01/rdf-schema#label> "William Deverell (historian)" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/IsAler+Royale+Natonal+Prk> <http://www.w3.org/2000/01/rdf-schema#label> "IsAler Royale Natonal Prk" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Andros_Trophy__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Edward+S.+Shapiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Almoravid_dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Riverhead_%28album%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/DuPont_State_Forest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Military_of_Mauritius> <http://www.w3.org/2000/01/rdf-schema#label> "Military of Mauritius" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Riverhead_%28album%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "Riverhead_(album)__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Award_Tour__1> <http://www.w3.org/2000/01/rdf-schema#label> "Award_Tour__1" .
+<http://dbpedia.org/resource/Military_of_Mauritius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Ain%27t_No_Other_Man__1> <http://www.w3.org/2000/01/rdf-schema#label> "Ain't_No_Other_Man__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Aubrey_Powell_%28designer%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "Aubrey_Powell_(designer)__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Antonio_Bazzini__1> <http://www.w3.org/2000/01/rdf-schema#label> "Antonio_Bazzini__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Antonio_Bazzini__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Ain%27t_No_Other_Man__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Elisabeth_Mahn> <http://www.w3.org/2000/01/rdf-schema#label> "Lisbeth Haas" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/All_You_Need_Is_Love_%28The_JAMs_song%29__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Akkadian_Empire> <http://www.w3.org/2000/01/rdf-schema#label> "Akkadian Empire" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Back_Home_Again_in_Indiana__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/RHCE+%28gene%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/Afghan_Armed_Forces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/All_You_Need_Is_Love_%28The_JAMs_song%29__2> <http://www.w3.org/2000/01/rdf-schema#label> "All_You_Need_Is_Love_(The_JAMs_song)__2" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Bob_Dylan__10> <http://www.w3.org/2000/01/rdf-schema#label> "Bob_Dylan__10" .
+<http://dbpedia.org/resource/Armed_Forces_of_Bosnia_and_Herzegovina> <http://www.w3.org/2000/01/rdf-schema#label> "Armed Forces of Bosnia and Herzegovina" .
+<http://dbpedia.org/resource/History_of_Libya_under_Muammar_Gaddafi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/VoclisEe_%28Rachanienoff%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "VoclisEe_(Rachanienoff)__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Kinase+insert+domain+receptor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Award_Tour__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Vocalise_%28Rachmaninoff%29__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Ae_Fond_Kiss__1> <http://www.w3.org/2000/01/rdf-schema#label> "Ae_Fond_Kiss__1" .
+<http://dbpedia.org/resource/Geography_of_Saint_Pierre_and_Miquelon> <http://www.w3.org/2000/01/rdf-schema#label> "Geography of Saint Pierre and Miquelon" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Angel_Band_%28song%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/History_of_Libya_under_Muammar_Gaddafi> <http://www.w3.org/2000/01/rdf-schema#label> "History of Libya under Muammar Gaddafi" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Vocalise_%28RachaninoJffX__1> <http://www.w3.org/2000/01/rdf-schema#label> "Vocalise_(RachaninoJffX__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/1nce_Again__1> <http://www.w3.org/2000/01/rdf-schema#label> "1nce_Again__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Ali%27s_Smile%3A_Naked_Scientology__1> <http://www.w3.org/2000/01/rdf-schema#label> "Ali's_Smile:_Naked_Scientology__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/William+Deverell+%28historian%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Bob_Dylan__11> <http://www.w3.org/2000/01/rdf-schema#label> "Bob_Dylan__11" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Vocalise_%28Rachmaninoff%29__3> <http://www.w3.org/2000/01/rdf-schema#label> "Vocalise_(Rachmaninoff)__3" .
+<http://dbpedia.org/resource/Pyruvate_dehydrogenase_kinase> <http://www.w3.org/2000/01/rdf-schema#label> "Pyruvate d\u00E9shydrog\u00E9nase kinase" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Edward+S.+Shapiro> <http://www.w3.org/2000/01/rdf-schema#label> "Edward S. Shapiro" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/UFO%3A_Alien_Invasion__1> <http://www.w3.org/2000/01/rdf-schema#label> "UFO:_Alien_Invasion__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Allroy%27s_Revenge__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Bad_Day_%28Daniel_Powter_song%29__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Country> .
+<http://dbpedia.org/resource/French_Southern_and_Antarctic_Lands> <http://www.w3.org/2000/01/rdf-schema#label> "French Southern and Antarctic Lands" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Angel_Band_%28song%29__1> <http://www.w3.org/2000/01/rdf-schema#label> "Angel_Band_(song)__1" .
+<http://example.org/a969ec9e-761d-40a9-b36e-7fcffbdb68e9/Andros_Trophy__1> <http://www.w3.org/2000/01/rdf-schema#label> "Andros_Trophy__1" .
+

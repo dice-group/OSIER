@@ -1,0 +1,11 @@
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/Emepa+Alerce> <http://www.w3.org/2000/01/rdf-schema#label> "Emepa Alerce" .
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/KiHa+285+series> <http://www.w3.org/2000/01/rdf-schema#label> "KiHa 285 series" .
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/Emepa+Alerce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2015> .
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/Manor+series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2015> .
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/British+Rail+Classes+316+and+457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2015> .
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/Manor+series> <http://www.w3.org/2000/01/rdf-schema#label> "Manor series" .
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/Ultra+Dome> <http://www.w3.org/2000/01/rdf-schema#label> "Ultra Dome" .
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/British+Rail+Classes+316+and+457> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Classes 316 and 457" .
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/Ultra+Dome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2015> .
+<http://example.org/4348fd47-cf0b-4d89-bfe6-05dc5420f610/KiHa+285+series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iflastandards.info/ns/isbd/elements/C2015> .
+

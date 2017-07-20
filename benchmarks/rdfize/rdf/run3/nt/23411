@@ -1,0 +1,16 @@
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Mermaid+%28Roy+Lichtenstein%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mermaid (Roy Lichtenstein)" .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Puddle+%28M.+C.+Escher%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Picture> .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Sundial%2C+Boy+with+Spider> <http://www.w3.org/2000/01/rdf-schema#label> "Sundial, Boy with Spider" .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Mermaid+%28Roy+Lichtenstein%29> <http://dbpedia.org/ontology/picture> "picture" .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Stephen+Foster+%28sculpture%29> <http://www.w3.org/2000/01/rdf-schema#label> "Stephen Foster (sculpture)" .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Stephen+Foster+%28sculpture%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Picture> .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Mermaid+%28Roy+Lichtenstein%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Picture> .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Stephen+Foster+%28sculpture%29> <http://dbpedia.org/ontology/picture> "artifact" .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Sundial%2C+Boy+with+Spider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Picture> .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Reptiles+%28M.+C.+Escher%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Picture> .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Reptiles+%28M.+C.+Escher%29> <http://www.w3.org/2000/01/rdf-schema#label> "Reptiles (M. C. Escher)" .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Sundial%2C+Boy+with+Spider> <http://dbpedia.org/ontology/picture> "fine art" .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Puddle+%28M.+C.+Escher%29> <http://www.w3.org/2000/01/rdf-schema#label> "Puddle (M. C. Escher)" .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Puddle+%28M.+C.+Escher%29> <http://dbpedia.org/ontology/picture> "fine art" .
+<http://example.org/774270d2-89f7-4685-a2e2-773d9fb82661/Reptiles+%28M.+C.+Escher%29> <http://dbpedia.org/ontology/picture> "physical entity" .
+

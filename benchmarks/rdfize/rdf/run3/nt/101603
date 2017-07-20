@@ -1,0 +1,96 @@
+<http://dbpedia.org/resource/Ashmore_and_Cartier_Islands> <http://dbpedia.org/ontology/locatedInArea> "island" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Isla+%28given+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Prehistoric_pile_dwellings_around_the_Alps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Luke+%28name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Aden+Province> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Historic+Cities+of+the+Straits+of+Malacca> <http://www.w3.org/2000/01/rdf-schema#label> "Historic Cities of the Straits of Malacca" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Isla+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Isla (given name)" .
+<http://dbpedia.org/resource/North_Carolina_wine> <http://www.w3.org/2000/01/rdf-schema#label> "South Carolina wine" .
+<http://dbpedia.org/resource/Aalen> <http://dbpedia.org/ontology/locatedInArea> "geographical area" .
+<http://dbpedia.org/resource/DuPont_State_Forest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Baudin+Conservation+Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Abakan> <http://dbpedia.org/ontology/locatedInArea> "PopulatedPlace" .
+<http://dbpedia.org/resource/Landry's,_Inc.> <http://dbpedia.org/ontology/locatedInArea> "Thing" .
+<http://dbpedia.org/resource/DuPont_State_Forest> <http://www.w3.org/2000/01/rdf-schema#label> "DuPont State Forest" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Mati+Protected+Landscape> <http://www.w3.org/2000/01/rdf-schema#label> "Mati Protected Landscape" .
+<http://dbpedia.org/resource/Arkansas_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Great_Rift_Valley,_Kenya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Balti_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Buildings_and_architecture_of_Bath> <http://www.w3.org/2000/01/rdf-schema#label> "Buildings and architecture of Bath" .
+<http://dbpedia.org/resource/Dartmoor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Historic+Cities+of+the+Straits+of+Malacca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Nara%2C_Nara__Historic_Monuments_of_Ancient_Nara__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Mati+Protected+Landscape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/WashigtHon+wine> <http://www.w3.org/2000/01/rdf-schema#label> "WashigtHon wine" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Nara%2C_Nara__Historic_Monuments_of_Ancient_Nara__1> <http://www.w3.org/2000/01/rdf-schema#label> "Nara,_Nara__Historic_Monuments_of_Ancient_Nara__1" .
+<http://dbpedia.org/resource/Balti_wine> <http://www.w3.org/2000/01/rdf-schema#label> "Balti (wine)" .
+<http://dbpedia.org/resource/Ashmore_and_Cartier_Islands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/North_Carolina_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Abdera,_Thrace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Arkansas_wine> <http://dbpedia.org/ontology/locatedInArea> "Thing" .
+<http://dbpedia.org/resource/Landry's,_Inc.> <http://www.w3.org/2000/01/rdf-schema#label> "Cadillac AOC" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Vall_de_Bo%C3%AD__Catalan_Romanesque_Churches_of_the_Vall_de_Bo%C3%AD__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/World_Heritage_Sites_of_the_Routes_of_Santiago_de_Compostela_in_France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Aarau> <http://dbpedia.org/ontology/locatedInArea> "Location" .
+<http://dbpedia.org/resource/Landry's,_Inc.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Annie+%28given+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Oklahoma_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Rasteau_AOC> <http://www.w3.org/2000/01/rdf-schema#label> "Rasteau AOC" .
+<http://dbpedia.org/resource/Aarau> <http://www.w3.org/2000/01/rdf-schema#label> "Aarau" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Adelaide+Hills+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Adelaide Hills wine region" .
+<http://dbpedia.org/resource/North_Carolina_wine> <http://dbpedia.org/ontology/locatedInArea> "yagoLegalActorGeo" .
+<http://dbpedia.org/resource/Buildings_and_architecture_of_Bath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Rasteau_AOC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Abdera,_Thrace> <http://www.w3.org/2000/01/rdf-schema#label> "Abdera, Thrace" .
+<http://dbpedia.org/resource/Arkansas_wine> <http://www.w3.org/2000/01/rdf-schema#label> "Arkansas wine" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Baudin+Conservation+Park> <http://dbpedia.org/ontology/locatedInArea> "place" .
+<http://dbpedia.org/resource/Aetorrachi,_Elis> <http://dbpedia.org/ontology/locatedInArea> "PopulatedPlace" .
+<http://dbpedia.org/resource/Aalen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Militello_in_Val_di_Catania__Late_Baroque_Towns_of_the_Val_di_Noto_South-Easter__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Militello_in_Val_di_Catania__Late_Baroque_Towns_of_the_Val_di_Noto_South-Easter__1> <http://www.w3.org/2000/01/rdf-schema#label> "Militello_in_Val_di_Catania__Late_Baroque_Towns_of_the_Val_di_Noto_South-Easter__1" .
+<http://dbpedia.org/resource/Abakan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/WashigtHon+wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Kansas_City,_Missouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Vall_de_Bo%C3%AD__Catalan_Romanesque_Churches_of_the_Vall_de_Bo%C3%AD__1> <http://www.w3.org/2000/01/rdf-schema#label> "Vall_de_Bo\u00ED__Catalan_Romanesque_Churches_of_the_Vall_de_Bo\u00ED__1" .
+<http://dbpedia.org/resource/Kansas_City,_Missouri> <http://www.w3.org/2000/01/rdf-schema#label> "Kansas City, Missouri" .
+<http://dbpedia.org/resource/Ashmore_and_Cartier_Islands> <http://www.w3.org/2000/01/rdf-schema#label> "Ashmore and Cartier Islands" .
+<http://dbpedia.org/resource/Aalen> <http://www.w3.org/2000/01/rdf-schema#label> "Aalen" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Annie+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Annie (given name)" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Aden+Province> <http://www.w3.org/2000/01/rdf-schema#label> "Aden Province" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Baudin+Rocks+Conservation+Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Baudin+Rocks+Conservation+Park> <http://www.w3.org/2000/01/rdf-schema#label> "Baudin Rocks Conservation Park" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Chimney+Rock+Scientific+and+Natural+Area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Baudin+Conservation+Park> <http://www.w3.org/2000/01/rdf-schema#label> "Baudin Conservation Park" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Chimney+Rock+Scientific+and+Natural+Area> <http://www.w3.org/2000/01/rdf-schema#label> "Chimney Rock Scientific and Natural Area" .
+<http://dbpedia.org/resource/Észak-Dunántúl_wine_region> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C9szak-Dun\u00E1nt\u00FAl wine region" .
+<http://dbpedia.org/resource/Nasrallah_Boutros_Sfeir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Oklahoma_wine> <http://dbpedia.org/ontology/locatedInArea> "region" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Arc-et-Senans__From_the_Great_Saltworks_of_Salins-les-Bains_to_th__1> <http://www.w3.org/2000/01/rdf-schema#label> "Arc-et-Senans__From_the_Great_Saltworks_of_Salins-les-Bains_to_th__1" .
+<http://dbpedia.org/resource/Great_Rift_Valley,_Kenya> <http://www.w3.org/2000/01/rdf-schema#label> "Great Rift Valley, Kenya" .
+<http://dbpedia.org/resource/Lake_County_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/IsAler+Royale+Natonal+Prk> <http://www.w3.org/2000/01/rdf-schema#label> "IsAler Royale Natonal Prk" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/WashigtHon+wine> <http://dbpedia.org/ontology/locatedInArea> "yFagoGeoEntty" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/IsAler+Royale+Natonal+Prk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Dartmoor> <http://www.w3.org/2000/01/rdf-schema#label> "Dartmoor" .
+<http://dbpedia.org/resource/Aarau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Aden+Province> <http://dbpedia.org/ontology/locatedInArea> "region" .
+<http://dbpedia.org/resource/Lake_County_wine> <http://www.w3.org/2000/01/rdf-schema#label> "Lake County wine" .
+<http://dbpedia.org/resource/Aetorrachi,_Elis> <http://www.w3.org/2000/01/rdf-schema#label> "Aetorrachi, Elis" .
+<http://dbpedia.org/resource/Abakan> <http://www.w3.org/2000/01/rdf-schema#label> "Abakan" .
+<http://dbpedia.org/resource/Abdera,_Thrace> <http://dbpedia.org/ontology/locatedInArea> "Location" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Aladdin+%28name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Aladdin (name)" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Baudin+Rocks+Conservation+Park> <http://dbpedia.org/ontology/locatedInArea> "place" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Yagul__Prehistoric_Caves_of_Yagul_and_Mitla_in_the_Centra__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Észak-Dunántúl_wine_region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Prehistoric_pile_dwellings_around_the_Alps> <http://www.w3.org/2000/01/rdf-schema#label> "Prehistoric pile dwellings around Lake Zurich" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Yagul__Prehistoric_Caves_of_Yagul_and_Mitla_in_the_Centra__1> <http://www.w3.org/2000/01/rdf-schema#label> "Yagul__Prehistoric_Caves_of_Yagul_and_Mitla_in_the_Centra__1" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Aladdin+%28name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Luke+%28name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Luke (name)" .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Adelaide+Hills+wine+region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/Aetorrachi,_Elis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://example.org/7fc11fb3-462e-4951-8dd4-543d4b1d1b3f/Arc-et-Senans__From_the_Great_Saltworks_of_Salins-les-Bains_to_th__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Island> .
+<http://dbpedia.org/resource/World_Heritage_Sites_of_the_Routes_of_Santiago_de_Compostela_in_France> <http://www.w3.org/2000/01/rdf-schema#label> "Routes of Santiago de Compostela in France" .
+<http://dbpedia.org/resource/Kansas_City,_Missouri> <http://dbpedia.org/ontology/locatedInArea> "Place" .
+<http://dbpedia.org/resource/Oklahoma_wine> <http://www.w3.org/2000/01/rdf-schema#label> "Oklahoma wine" .
+<http://dbpedia.org/resource/Nasrallah_Boutros_Sfeir> <http://www.w3.org/2000/01/rdf-schema#label> "Boutros" .
+

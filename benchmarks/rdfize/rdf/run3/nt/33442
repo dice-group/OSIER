@@ -1,0 +1,11 @@
+<http://example.org/dc00ac8f-e8df-45bd-8301-46503e4cd3a1/Great+cardacy+vein> <http://www.w3.org/2000/01/rdf-schema#label> "Great cardacy vein" .
+<http://example.org/dc00ac8f-e8df-45bd-8301-46503e4cd3a1/Short+gastric+veins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://example.org/dc00ac8f-e8df-45bd-8301-46503e4cd3a1/Thymic+veins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://example.org/dc00ac8f-e8df-45bd-8301-46503e4cd3a1/Short+gastric+veins> <http://www.w3.org/2000/01/rdf-schema#label> "Short gastric veins" .
+<http://dbpedia.org/resource/Internal_pudendal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://example.org/dc00ac8f-e8df-45bd-8301-46503e4cd3a1/Internal+auditory+veins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://example.org/dc00ac8f-e8df-45bd-8301-46503e4cd3a1/Thymic+veins> <http://www.w3.org/2000/01/rdf-schema#label> "Thymic veins" .
+<http://example.org/dc00ac8f-e8df-45bd-8301-46503e4cd3a1/Great+cardacy+vein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Internal_pudendal> <http://www.w3.org/2000/01/rdf-schema#label> "Internal pudendal veins" .
+<http://example.org/dc00ac8f-e8df-45bd-8301-46503e4cd3a1/Internal+auditory+veins> <http://www.w3.org/2000/01/rdf-schema#label> "Internal auditory veins" .
+

@@ -1,0 +1,357 @@
+<http://dbpedia.org/resource/Abraham_Lincoln_High_School_(San_Jose,_California)> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln High School (San Jose, California)" .
+<http://dbpedia.org/resource/James_Madison_University> <http://www.w3.org/2000/01/rdf-schema#label> "James Madison University" .
+<http://dbpedia.org/resource/University_High_School_(Orange_City)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Bergen> <http://www.w3.org/2000/01/rdf-schema#label> "University of Bergen" .
+<http://dbpedia.org/resource/Westlake_High_School_(Texas)> <http://www.w3.org/2000/01/rdf-schema#label> "Westlake High School (Texas)" .
+<http://dbpedia.org/resource/Albia_Community_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Argo Community High School" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/WsestlakeK+High+Shool+%28Uta%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Academy+o+he+wHoly+Names+%28Fltorida%29> <http://www.w3.org/2000/01/rdf-schema#label> "Academy o he wHoly Names (Fltorida)" .
+<http://dbpedia.org/resource/National_Taiwan_University> <http://www.w3.org/2000/01/rdf-schema#label> "National Taiwan University" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Univershty+wf+Helsinki> <http://www.w3.org/2000/01/rdf-schema#label> "Univershty wf Helsinki" .
+<http://dbpedia.org/resource/University_of_Michigan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Acadia_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Billerica_Memorial_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Billerica Memorial High School" .
+<http://dbpedia.org/resource/Leipzig_University> <http://www.w3.org/2000/01/rdf-schema#label> "Leipzig University" .
+<http://dbpedia.org/resource/Bishop_Amat_Memorial_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Abraham_Lincoln_High_School_(San_Jose,_California)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Dalhousie_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/KAIST> <http://www.w3.org/2000/01/rdf-schema#label> "KAIST" .
+<http://dbpedia.org/resource/Beloit_Memorial_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Beloit Memorial High School" .
+<http://dbpedia.org/resource/Billerica_Memorial_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Westlake_High_School_(Ohio)> <http://www.w3.org/2000/01/rdf-schema#label> "Westlake High School (Ohio)" .
+<http://dbpedia.org/resource/Alice_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Alice High School" .
+<http://dbpedia.org/resource/University_of_Bergen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/King%27+ovllege+LondCon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/CM.+K.+clatchy+Hligh+School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Chalmers+LfUniversityof+Tecnology> <http://www.w3.org/2000/01/rdf-schema#label> "Chalmers LfUniversityof Tecnology" .
+<http://dbpedia.org/resource/Academy_of_the_Holy_Names_(Silver_Spring,_Maryland)> <http://www.w3.org/2000/01/rdf-schema#label> "Academy of the Holy Names (Silver Spring, Maryland)" .
+<http://dbpedia.org/resource/Harvey_Mudd_College> <http://www.w3.org/2000/01/rdf-schema#label> "Harvey Mudd College" .
+<http://dbpedia.org/resource/The_Heights_School_(Maryland)> <http://www.w3.org/2000/01/rdf-schema#label> "The Heights School (Maryland)" .
+<http://dbpedia.org/resource/Occidental_College> <http://www.w3.org/2000/01/rdf-schema#label> "Occidental College" .
+<http://dbpedia.org/resource/University_of_Alberta> <http://www.w3.org/2000/01/rdf-schema#label> "University of Alberta" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Abraham+Lincoln+Hih+SchooUl+%28ouncil+BlIuffWs%2C+Iwa%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Villa_Maria_College,_Christchurch> <http://www.w3.org/2000/01/rdf-schema#label> "Villa Maria College, Christchurch" .
+<http://dbpedia.org/resource/Australian_National_University> <http://www.w3.org/2000/01/rdf-schema#label> "Australian National University" .
+<http://dbpedia.org/resource/Ave_Maria_College_(Melbourne,_Victoria)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Library_of_Alexandria> <http://www.w3.org/2000/01/rdf-schema#label> "Library of Alexandria" .
+<http://dbpedia.org/resource/University_High_School_(Waco,_Texas)> <http://www.w3.org/2000/01/rdf-schema#label> "University High School (Waco, Texas)" .
+<http://dbpedia.org/resource/Tantramar_Regional_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Tantramar Regional High School" .
+<http://dbpedia.org/resource/The_Heights_School_(Australia)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Abraham_Lincoln_High_School_(Denver)> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln High School (Denver)" .
+<http://dbpedia.org/resource/Grinnell_College> <http://www.w3.org/2000/01/rdf-schema#label> "Grinnell College" .
+<http://dbpedia.org/resource/University_of_Vienna> <http://www.w3.org/2000/01/rdf-schema#label> "University of Vienna" .
+<http://dbpedia.org/resource/Calcutta_Boys'_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_High_School_(Tolleson)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/ETH_Zurich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Adarsh_Vidya_Mandir> <http://www.w3.org/2000/01/rdf-schema#label> "Adarsha Vidya Mandir" .
+<http://dbpedia.org/resource/CUHK_Faculty_of_Arts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Columbia_University> <http://www.w3.org/2000/01/rdf-schema#label> "Columbia University" .
+<http://dbpedia.org/resource/University_of_Florida> <http://www.w3.org/2000/01/rdf-schema#label> "University of Florida" .
+<http://dbpedia.org/resource/Aldershot_Shots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_College_Cork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Amityville_Memorial_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Amityville Memorial High School" .
+<http://dbpedia.org/resource/University_of_Tehran> <http://www.w3.org/2000/01/rdf-schema#label> "University of Tehran" .
+<http://dbpedia.org/resource/Westlake_High_School_(Maryland)> <http://www.w3.org/2000/01/rdf-schema#label> "Westlake High School (Maryland)" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/American+Scolol+of+Kulwat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/An-Najah_National_University> <http://www.w3.org/2000/01/rdf-schema#label> "An-Najah National University" .
+<http://dbpedia.org/resource/Ryle_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/WsestlakeK+High+Shool+%28Uta%29> <http://www.w3.org/2000/01/rdf-schema#label> "WsestlakeK High Shool (Uta)" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/University+High+ScjJhYool+%28pane+Valley%2C+Washington%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Redlands_Citrus_Valley_High> <http://www.w3.org/2000/01/rdf-schema#label> "Redlands Citrus Valley High" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/ETHD+urich> <http://www.w3.org/2000/01/rdf-schema#label> "ETHD urich" .
+<http://dbpedia.org/resource/West_Island_College> <http://www.w3.org/2000/01/rdf-schema#label> "West Island College" .
+<http://dbpedia.org/resource/Oxford_University_RFC> <http://www.w3.org/2000/01/rdf-schema#label> "University of Oxford" .
+<http://dbpedia.org/resource/University_of_New_South_Wales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Kansas_State_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Maribor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Western_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Benjamin_Franklin_High_School_(Philadelphia)> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Franklin High School (Philadelphia)" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Andover+hHigMh+School%28innesota%29> <http://www.w3.org/2000/01/rdf-schema#label> "Andover hHigMh School(innesota)" .
+<http://dbpedia.org/resource/University_of_Virginia> <http://www.w3.org/2000/01/rdf-schema#label> "University of Virginia" .
+<http://dbpedia.org/resource/Calcutta_Boys'_School> <http://www.w3.org/2000/01/rdf-schema#label> "Calcutta Boys' School" .
+<http://dbpedia.org/resource/Peking_University> <http://www.w3.org/2000/01/rdf-schema#label> "Peking University" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Peking+UnivrsiIty> <http://www.w3.org/2000/01/rdf-schema#label> "Peking UnivrsiIty" .
+<http://dbpedia.org/resource/Eindhoven_University_of_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Albemarle_High_School_(Virginia)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Bryanston_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/West_Island_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Westlake_High_School_(California)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Tantramar_Regional_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Duisburg-Essen> <http://www.w3.org/2000/01/rdf-schema#label> "University of Duisburg-Essen" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/UnRiversty+Xof+Lncoln> <http://www.w3.org/2000/01/rdf-schema#label> "UnRiversty Xof Lncoln" .
+<http://dbpedia.org/resource/University_College_Cork> <http://www.w3.org/2000/01/rdf-schema#label> "University College Cork" .
+<http://dbpedia.org/resource/Massey_University> <http://www.w3.org/2000/01/rdf-schema#label> "Massey University" .
+<http://dbpedia.org/resource/Carleton_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/George_Mason_University> <http://www.w3.org/2000/01/rdf-schema#label> "George Mason University" .
+<http://dbpedia.org/resource/Benjamin_Franklin_High_School_(New_Orleans)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Kng%27s+CollegeD+Lodzon> <http://www.w3.org/2000/01/rdf-schema#label> "Kng's CollegeD Lodzon" .
+<http://dbpedia.org/resource/Macquarie_University_AFC> <http://www.w3.org/2000/01/rdf-schema#label> "Macquarie University" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Universty+onf+Meanitba> <http://www.w3.org/2000/01/rdf-schema#label> "Universty onf Meanitba" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Kng%27s+CollegeD+Lodzon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Calgary> <http://www.w3.org/2000/01/rdf-schema#label> "University of Calgary" .
+<http://dbpedia.org/resource/Arizona_State_University_at_the_West_campus> <http://www.w3.org/2000/01/rdf-schema#label> "Arizona State University" .
+<http://dbpedia.org/resource/University_High_School_(Morgantown,_West_Virginia)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Vienna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Toronto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Mercantile_Marine_Academy,_Chittagong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Bremen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/David_Cummins_Octagon_House> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Technical_University_of_Mombasa> <http://www.w3.org/2000/01/rdf-schema#label> "Technical University of Denmark" .
+<http://dbpedia.org/resource/University_of_Stirling> <http://www.w3.org/2000/01/rdf-schema#label> "University of Stirling" .
+<http://dbpedia.org/resource/Rock_Bridge_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Rock Bridge High School" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Universicty+o+Bremen> <http://www.w3.org/2000/01/rdf-schema#label> "Universicty o Bremen" .
+<http://dbpedia.org/resource/Andover_High_School_(Massachusetts)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/American_International_School_of_Budapest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Queen's_University> <http://www.w3.org/2000/01/rdf-schema#label> "Queen's University" .
+<http://dbpedia.org/resource/University_High_School_(Carmel,_Indiana)> <http://www.w3.org/2000/01/rdf-schema#label> "University High School (Carmel, Indiana)" .
+<http://dbpedia.org/resource/University_of_Zurich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/George_Mason_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Bell_High_School_(Bell,_California)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Aldershot_Shots> <http://www.w3.org/2000/01/rdf-schema#label> "Aldershot School" .
+<http://dbpedia.org/resource/Ballard_Memorial_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Ballard Memorial High School" .
+<http://dbpedia.org/resource/University_of_Manitoba> <http://www.w3.org/2000/01/rdf-schema#label> "University of Manitoba" .
+<http://dbpedia.org/resource/Technical_University_of_Mombasa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Amityville_Memorial_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Tehran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Abraham_Lincoln_High_School_(Brooklyn)> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln High School (Brooklyn)" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Abraham+Lincoln+Hih+SchooUl+%28ouncil+BlIuffWs%2C+Iwa%29> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln Hih SchooUl (ouncil BlIuffWs, Iwa)" .
+<http://dbpedia.org/resource/Chicora_Wood_Plantation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Monash_University> <http://www.w3.org/2000/01/rdf-schema#label> "Monash University" .
+<http://dbpedia.org/resource/Mercantile_Marine_Academy,_Chittagong> <http://www.w3.org/2000/01/rdf-schema#label> "Bangladesh Police Academy" .
+<http://dbpedia.org/resource/University_High_School_(Orlando,_Florida)> <http://www.w3.org/2000/01/rdf-schema#label> "University High School (Orlando, Florida)" .
+<http://dbpedia.org/resource/Dartmouth_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Benjamin_Franklin_High_School_(Philadelphia)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Middlesex_University> <http://www.w3.org/2000/01/rdf-schema#label> "Middlesex University" .
+<http://dbpedia.org/resource/Westlake_High_School_(Georgia)> <http://www.w3.org/2000/01/rdf-schema#label> "Westlake High School (Georgia)" .
+<http://dbpedia.org/resource/Redlands_Citrus_Valley_High> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Ezra_Carll_Homestead> <http://www.w3.org/2000/01/rdf-schema#label> "Ezra Carll Homestead" .
+<http://dbpedia.org/resource/Albany_High_School_(Albany,_Louisiana)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Havo_voor_Muziek_en_Dans> <http://www.w3.org/2000/01/rdf-schema#label> "Havo voor Muziek en Dans" .
+<http://dbpedia.org/resource/Lund_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Tromsø> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/National_War_College> <http://www.w3.org/2000/01/rdf-schema#label> "National War College" .
+<http://dbpedia.org/resource/University_of_Duisburg-Essen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Calgary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Bristol> <http://www.w3.org/2000/01/rdf-schema#label> "University of Bristol" .
+<http://dbpedia.org/resource/An-Najah_National_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Pretoria> <http://www.w3.org/2000/01/rdf-schema#label> "University of Pretoria" .
+<http://dbpedia.org/resource/Langley_Park_School_for_Girls> <http://www.w3.org/2000/01/rdf-schema#label> "Langley Park School for Girls" .
+<http://dbpedia.org/resource/University_of_Surrey> <http://www.w3.org/2000/01/rdf-schema#label> "University of Surrey" .
+<http://dbpedia.org/resource/University_of_Ottawa_Faculty_of_Law> <http://www.w3.org/2000/01/rdf-schema#label> "University of Ottawa" .
+<http://dbpedia.org/resource/Ballard_Memorial_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Queen_Elizabeth's_Grammar_School,_Alford> <http://www.w3.org/2000/01/rdf-schema#label> "Queen Elizabeth's Grammar School, Faversham" .
+<http://dbpedia.org/resource/Andover_High_School_(Michigan)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Zurich> <http://www.w3.org/2000/01/rdf-schema#label> "University of Zurich" .
+<http://dbpedia.org/resource/McMaster_University> <http://www.w3.org/2000/01/rdf-schema#label> "McMaster University" .
+<http://dbpedia.org/resource/Albemarle_High_School_(Virginia)> <http://www.w3.org/2000/01/rdf-schema#label> "Albemarle High School (Virginia)" .
+<http://dbpedia.org/resource/Cadogan_Hotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Universty+onf+Meanitba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/James_Madison_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Queen_Elizabeth's_Grammar_School_for_Boys> <http://www.w3.org/2000/01/rdf-schema#label> "Queen Elizabeth's Grammar School, Horncastle" .
+<http://dbpedia.org/resource/University_High_School_(Orange_City)> <http://www.w3.org/2000/01/rdf-schema#label> "University High School (Orange City)" .
+<http://dbpedia.org/resource/Debs_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Universicty+o+Bremen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/David_Cummins_Octagon_House> <http://www.w3.org/2000/01/rdf-schema#label> "David Cummins Octagon House" .
+<http://dbpedia.org/resource/Grinnell_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Queen_Elizabeth's_Grammar_School,_Alford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Betty_H._Fairfax_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Cadogan_Hotel> <http://www.w3.org/2000/01/rdf-schema#label> "Cadogan Hotel" .
+<http://dbpedia.org/resource/Poznań_University_of_Technology> <http://www.w3.org/2000/01/rdf-schema#label> "Pozna\u0144 University of Technology" .
+<http://dbpedia.org/resource/Crandall_University> <http://www.w3.org/2000/01/rdf-schema#label> "Crandall University" .
+<http://dbpedia.org/resource/Bishop_Amat_Memorial_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Bishop Amat Memorial High School" .
+<http://dbpedia.org/resource/Geneva_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Chulalongkorn_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Aberdeen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Middlesex_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Chalmers+LfUniversityof+Tecnology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Mishima_High_School,_Ehime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Villa_Maria_College,_Christchurch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/National_War_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Australian_National_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Massey_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Occidental_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Pretoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Chulalongkorn_University> <http://www.w3.org/2000/01/rdf-schema#label> "Chulalongkorn University" .
+<http://dbpedia.org/resource/University_of_Glasgow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Andover+hHigMh+School%28innesota%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Lincoln> <http://www.w3.org/2000/01/rdf-schema#label> "University of Lincoln" .
+<http://dbpedia.org/resource/Mattawan_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Arizona_State_University_at_the_West_campus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/UnRiversty+Xof+Lncoln> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Mount_Saint_Vincent_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/KAIST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Daimler_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Abraham_Lincoln_High_School_(Denver)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/University+High+ScjJhYool+%28pane+Valley%2C+Washington%29> <http://www.w3.org/2000/01/rdf-schema#label> "University High ScjJhYool (pane Valley, Washington)" .
+<http://dbpedia.org/resource/University_of_Adelaide> <http://www.w3.org/2000/01/rdf-schema#label> "University of Adelaide" .
+<http://dbpedia.org/resource/The_Heights_School_(Maryland)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Library_of_Alexandria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Stirling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Acadia_University> <http://www.w3.org/2000/01/rdf-schema#label> "Acadia University" .
+<http://dbpedia.org/resource/Norwood_Public_School_District> <http://www.w3.org/2000/01/rdf-schema#label> "Boxwood Public School" .
+<http://dbpedia.org/resource/Poznań_University_of_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Ohio_State_University> <http://www.w3.org/2000/01/rdf-schema#label> "Ohio State University" .
+<http://dbpedia.org/resource/Kent_State_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Academy_of_the_Holy_Names_(Silver_Spring,_Maryland)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Hamburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/ETH_Zurich> <http://www.w3.org/2000/01/rdf-schema#label> "ETH Zurich" .
+<http://dbpedia.org/resource/De_Montfort_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Univershty+wf+Helsinki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Rock_Bridge_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/National_Taiwan_University> <http://www.w3.org/2000/01/rdf-schema#label> "National Taiwan Uwnivesity" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/UnivGesity+High+School+%28ew+Jersevy%29> <http://www.w3.org/2000/01/rdf-schema#label> "UnivGesity High School (ew Jersevy)" .
+<http://dbpedia.org/resource/University_of_Ottawa_Faculty_of_Law> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/American_International_School_of_Budapest> <http://www.w3.org/2000/01/rdf-schema#label> "American International School of Budapest" .
+<http://dbpedia.org/resource/Harvey_Mudd_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Millsaps_College> <http://www.w3.org/2000/01/rdf-schema#label> "Millsaps College" .
+<http://dbpedia.org/resource/University_High_School_(Waco,_Texas)> <http://www.w3.org/2000/01/rdf-schema#label> "University High School (Fresno)" .
+<http://dbpedia.org/resource/Westlake_High_School_(Georgia)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Albright_College> <http://www.w3.org/2000/01/rdf-schema#label> "American Collegiate Institute" .
+<http://dbpedia.org/resource/Drexel_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_New_South_Wales> <http://www.w3.org/2000/01/rdf-schema#label> "University of New South Wales" .
+<http://dbpedia.org/resource/Crandall_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/McMaster_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Oberlin_College> <http://www.w3.org/2000/01/rdf-schema#label> "Oberlin College" .
+<http://dbpedia.org/resource/Millsaps_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Abraham_Lincoln_High_School_(Philadelphia)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/ETHD+urich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Oxford_Brookes_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Toronto> <http://www.w3.org/2000/01/rdf-schema#label> "University of Toronto" .
+<http://dbpedia.org/resource/International_Organization_for_Migration> <http://www.w3.org/2000/01/rdf-schema#label> "International Organization for Migration" .
+<http://dbpedia.org/resource/University_of_Lausanne> <http://www.w3.org/2000/01/rdf-schema#label> "University of Lausanne" .
+<http://dbpedia.org/resource/Westlake_High_School_(Texas)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Mishima_High_School,_Ehime> <http://www.w3.org/2000/01/rdf-schema#label> "Mishima High School, Ehime" .
+<http://dbpedia.org/resource/University_of_Maribor> <http://www.w3.org/2000/01/rdf-schema#label> "University of Maribor" .
+<http://dbpedia.org/resource/Chicora_Wood_Plantation> <http://www.w3.org/2000/01/rdf-schema#label> "Chicora Wood Plantation" .
+<http://dbpedia.org/resource/Drexel_University> <http://www.w3.org/2000/01/rdf-schema#label> "Drexel University" .
+<http://dbpedia.org/resource/University_of_Konstanz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Burlington-Edison_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Glasgow> <http://www.w3.org/2000/01/rdf-schema#label> "University of Glasgow" .
+<http://dbpedia.org/resource/Ohio_State_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Sussex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Lincoln> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Westlake_High_School_(Maryland)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Albright_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Beloit_Memorial_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Columbia_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Basingbourgnj+Vilage+College> <http://www.w3.org/2000/01/rdf-schema#label> "Basingbourgnj Vilage College" .
+<http://dbpedia.org/resource/Ave_Maria_College_(Melbourne,_Victoria)> <http://www.w3.org/2000/01/rdf-schema#label> "Ave Maria College(Melbourne, Vcbtooria)" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/American+Scolol+of+Kulwat> <http://www.w3.org/2000/01/rdf-schema#label> "American Scolol of Kulwat" .
+<http://dbpedia.org/resource/Benjamin_Franklin_High_School_(New_Orleans)> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Franklin High School (New Orleans)" .
+<http://dbpedia.org/resource/Boulder_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Knox_College,_Jamaica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Academy+o+he+wHoly+Names+%28Fltorida%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Bremen> <http://www.w3.org/2000/01/rdf-schema#label> "University of Bremen" .
+<http://dbpedia.org/resource/University_of_Surrey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Universir+of+SVictoria> <http://www.w3.org/2000/01/rdf-schema#label> "Universir of SVictoria" .
+<http://dbpedia.org/resource/Leipzig_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Anddover+High+Scool%28Kansasx%29> <http://www.w3.org/2000/01/rdf-schema#label> "Anddover High Scool(Kansasx)" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Anddover+High+Scool%28Kansasx%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Mount_Saint_Vincent_University> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Saint Vincent University" .
+<http://dbpedia.org/resource/City_University_of_New_York> <http://www.w3.org/2000/01/rdf-schema#label> "City University of New York" .
+<http://dbpedia.org/resource/Westlake_High_School_(Ohio)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Daimler_AG> <http://www.w3.org/2000/01/rdf-schema#label> "Daimler AG" .
+<http://dbpedia.org/resource/University_of_Warwick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Blue_School> <http://www.w3.org/2000/01/rdf-schema#label> "Blue School" .
+<http://dbpedia.org/resource/University_of_Victoria> <http://www.w3.org/2000/01/rdf-schema#label> "University of Victoria" .
+<http://dbpedia.org/resource/Westlake_High_School_(California)> <http://www.w3.org/2000/01/rdf-schema#label> "Westlake High School (California)" .
+<http://dbpedia.org/resource/Geneva_College> <http://www.w3.org/2000/01/rdf-schema#label> "Geneva College" .
+<http://dbpedia.org/resource/Massachusetts_Institute_of_Technology> <http://www.w3.org/2000/01/rdf-schema#label> "Massachusetts Institute of Technology" .
+<http://dbpedia.org/resource/Alice_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Monash_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Ryle_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Ryle High School" .
+<http://dbpedia.org/resource/Albany_High_School_(Albany,_Louisiana)> <http://www.w3.org/2000/01/rdf-schema#label> "Albany High School (Louisiana)" .
+<http://dbpedia.org/resource/University_of_Limerick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Banaras_Hindu_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/International_Organization_for_Migration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Queen's_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Dalhousie_University> <http://www.w3.org/2000/01/rdf-schema#label> "Dalhousie University" .
+<http://dbpedia.org/resource/University_of_Victoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/UnivGesity+High+School+%28ew+Jersevy%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Limerick> <http://www.w3.org/2000/01/rdf-schema#label> "University of Limerick" .
+<http://dbpedia.org/resource/Blackford_High_School_(Indiana)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Kent_State_University> <http://www.w3.org/2000/01/rdf-schema#label> "Kent State University" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Basingbourgnj+Vilage+College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Gadjah_Mada_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Adelaide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Oberlin_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Kansas_State_University> <http://www.w3.org/2000/01/rdf-schema#label> "Kansas State University" .
+<http://dbpedia.org/resource/University_High_School_(Tolleson)> <http://www.w3.org/2000/01/rdf-schema#label> "University High School (Tolleson)" .
+<http://dbpedia.org/resource/Northern_Michigan_University> <http://www.w3.org/2000/01/rdf-schema#label> "Northern Michigan University" .
+<http://dbpedia.org/resource/Albia_Community_High_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Burlington-Edison_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Burlington-Edison High School" .
+<http://dbpedia.org/resource/Bell_High_School_(Bell,_California)> <http://www.w3.org/2000/01/rdf-schema#label> "Bell High School (California)" .
+<http://dbpedia.org/resource/Debs_School> <http://www.w3.org/2000/01/rdf-schema#label> "Debs School" .
+<http://dbpedia.org/resource/Northern_Michigan_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Oxford_University_RFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Norwood_Public_School_District> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/CUHK_Faculty_of_Arts> <http://www.w3.org/2000/01/rdf-schema#label> "CUHK Faculty of Law" .
+<http://dbpedia.org/resource/Blue_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Central_Catholic_High_School_(Canton,_Ohio)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/The_John_Bentley_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Manitoba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Mattawan_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Mattawan HighVSchool" .
+<http://dbpedia.org/resource/Peking_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Western_States> <http://www.w3.org/2000/01/rdf-schema#label> "University of Western Ontario" .
+<http://dbpedia.org/resource/Havo_voor_Muziek_en_Dans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/De_Montfort_University> <http://www.w3.org/2000/01/rdf-schema#label> "De Montfort University" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Universir+of+SVictoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_High_School_(Carmel,_Indiana)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_High_School_(Waco,_Texas)> <http://www.w3.org/2000/01/rdf-schema#label> "University High School (Tucson)" .
+<http://dbpedia.org/resource/University_of_Cologne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Gadjah_Mada_University> <http://www.w3.org/2000/01/rdf-schema#label> "Gadjah Mada University" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/King%27+ovllege+LondCon> <http://www.w3.org/2000/01/rdf-schema#label> "King' ovllege LondCon" .
+<http://dbpedia.org/resource/Betty_H._Fairfax_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Betty H. Fairfax High School" .
+<http://dbpedia.org/resource/Sheffield_Hallam_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Alberta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Ezra_Carll_Homestead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Sussex> <http://www.w3.org/2000/01/rdf-schema#label> "University of Sussex" .
+<http://dbpedia.org/resource/University_of_Warwick> <http://www.w3.org/2000/01/rdf-schema#label> "University of Warwick" .
+<http://dbpedia.org/resource/Queen_Elizabeth's_Grammar_School,_Blackburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Michigan> <http://www.w3.org/2000/01/rdf-schema#label> "University of Michigan" .
+<http://dbpedia.org/resource/The_Heights_School_(Australia)> <http://www.w3.org/2000/01/rdf-schema#label> "Heights School (Australia)" .
+<http://dbpedia.org/resource/Abraham_Lincoln_High_School_(Philadelphia)> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln High School (Philadelphia)" .
+<http://dbpedia.org/resource/Abraham_Lincoln_High_School_(Brooklyn)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Cologne> <http://www.w3.org/2000/01/rdf-schema#label> "University of Cologne" .
+<http://dbpedia.org/resource/University_High_School_(Orlando,_Florida)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Andover_High_School_(Massachusetts)> <http://www.w3.org/2000/01/rdf-schema#label> "Andover High School (Massachusetts)" .
+<http://dbpedia.org/resource/University_of_Tampere> <http://www.w3.org/2000/01/rdf-schema#label> "University of Tampere" .
+<http://dbpedia.org/resource/Massachusetts_Institute_of_Technology> <http://www.w3.org/2000/01/rdf-schema#label> "Massachusetts Institute rof Technolog" .
+<http://dbpedia.org/resource/Sheffield_Hallam_University> <http://www.w3.org/2000/01/rdf-schema#label> "Sheffield Hallam University" .
+<http://dbpedia.org/resource/University_of_Tampere> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Hamburg> <http://www.w3.org/2000/01/rdf-schema#label> "University of Hamburg" .
+<http://dbpedia.org/resource/Queen_Elizabeth's_Grammar_School_for_Boys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Macquarie_University_AFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Lausanne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Florida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Eindhoven_University_of_Technology> <http://www.w3.org/2000/01/rdf-schema#label> "Eindhoven University of Technology" .
+<http://dbpedia.org/resource/University_of_Virginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/City_University_of_New_York> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Dassault_Aviation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Queen_Elizabeth's_Grammar_School,_Blackburn> <http://www.w3.org/2000/01/rdf-schema#label> "Queen Elizabeth's Grammar School, Ashbourne" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/Peking+UnivrsiIty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Tromsø> <http://www.w3.org/2000/01/rdf-schema#label> "University of Troms\u00F8" .
+<http://dbpedia.org/resource/Boulder_High_School> <http://www.w3.org/2000/01/rdf-schema#label> "Boulder High School" .
+<http://dbpedia.org/resource/Dassault_Aviation> <http://www.w3.org/2000/01/rdf-schema#label> "Dassault Aviation" .
+<http://dbpedia.org/resource/Massachusetts_Institute_of_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Bryanston_School> <http://www.w3.org/2000/01/rdf-schema#label> "Bryanston School" .
+<http://dbpedia.org/resource/Langley_Park_School_for_Girls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Dartmouth_College> <http://www.w3.org/2000/01/rdf-schema#label> "Dartmouth College" .
+<http://dbpedia.org/resource/National_Taiwan_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Oxford_Brookes_University> <http://www.w3.org/2000/01/rdf-schema#label> "Oxford Brookes University" .
+<http://dbpedia.org/resource/Banaras_Hindu_University> <http://www.w3.org/2000/01/rdf-schema#label> "Banaras Hindu University" .
+<http://dbpedia.org/resource/Andover_High_School_(Michigan)> <http://www.w3.org/2000/01/rdf-schema#label> "Andover High School (Michigan)" .
+<http://dbpedia.org/resource/Blackford_High_School_(Indiana)> <http://www.w3.org/2000/01/rdf-schema#label> "Blackford High School (Indiana)" .
+<http://dbpedia.org/resource/Carleton_University> <http://www.w3.org/2000/01/rdf-schema#label> "Carleton University" .
+<http://dbpedia.org/resource/Lund_University> <http://www.w3.org/2000/01/rdf-schema#label> "Lund University" .
+<http://dbpedia.org/resource/University_High_School_(Morgantown,_West_Virginia)> <http://www.w3.org/2000/01/rdf-schema#label> "University High School (Morgantown, West Virginia)" .
+<http://dbpedia.org/resource/Knox_College,_Jamaica> <http://www.w3.org/2000/01/rdf-schema#label> "Knox College, Jamaica" .
+<http://dbpedia.org/resource/Adarsh_Vidya_Mandir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/Central_Catholic_High_School_(Canton,_Ohio)> <http://www.w3.org/2000/01/rdf-schema#label> "Allentown Central Catholic High School" .
+<http://dbpedia.org/resource/University_of_Bristol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Konstanz> <http://www.w3.org/2000/01/rdf-schema#label> "University of Konstanz" .
+<http://dbpedia.org/resource/The_John_Bentley_School> <http://www.w3.org/2000/01/rdf-schema#label> "The John Bentley School" .
+<http://dbpedia.org/resource/University_High_School_(Waco,_Texas)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#School> .
+<http://dbpedia.org/resource/University_of_Aberdeen> <http://www.w3.org/2000/01/rdf-schema#label> "University of Aberdeen" .
+<http://example.org/8b1b4324-0284-4f91-8c2e-db364ca3c85e/CM.+K.+clatchy+Hligh+School> <http://www.w3.org/2000/01/rdf-schema#label> "CM. K. clatchy Hligh School" .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Armed_forces_of_the_Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Farmyard> .
+<http://dbpedia.org/resource/Australian_Army> <http://www.w3.org/2000/01/rdf-schema#label> "Australian Army" .
+<http://dbpedia.org/resource/Azerbaijani_Air_Forces> <http://www.w3.org/2000/01/rdf-schema#label> "Azerbaijani Armed Forces" .
+<http://dbpedia.org/resource/Australian_Army> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Farmyard> .
+<http://dbpedia.org/resource/Armed_Forces_of_the_Republic_of_Kosovo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Farmyard> .
+<http://dbpedia.org/resource/Armed_Forces_of_the_Republic_of_Kosovo> <http://www.w3.org/2000/01/rdf-schema#label> "Armed Forces of the Republic of the Congo" .
+<http://dbpedia.org/resource/Republic_of_Macedonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Farmyard> .
+<http://dbpedia.org/resource/Armed_Forces_of_the_Republic_of_Kosovo> <http://dbpedia.org/ontology/abstract> "abstract entity" .
+<http://dbpedia.org/resource/Azerbaijani_Air_Forces> <http://dbpedia.org/ontology/abstract> "organization" .
+<http://dbpedia.org/resource/Armed_forces_of_the_Netherlands> <http://www.w3.org/2000/01/rdf-schema#label> "Armed forces of the Netherlands" .
+<http://dbpedia.org/resource/Azerbaijani_Air_Forces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Farmyard> .
+<http://dbpedia.org/resource/Australian_Army> <http://dbpedia.org/ontology/abstract> "army" .
+<http://dbpedia.org/resource/Republic_of_Macedonia> <http://dbpedia.org/ontology/abstract> "SocialPerson" .
+<http://dbpedia.org/resource/Republic_of_Macedonia> <http://www.w3.org/2000/01/rdf-schema#label> "Army of the Republic of Macedonia" .
+<http://dbpedia.org/resource/Armed_forces_of_the_Netherlands> <http://dbpedia.org/ontology/abstract> "organization" .
+

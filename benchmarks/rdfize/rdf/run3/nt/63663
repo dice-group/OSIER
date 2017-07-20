@@ -1,0 +1,17 @@
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Brujos+y+Guerreros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Acquirement> .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Amber+Diceless+Roleplaying+Game> <http://www.w3.org/2000/01/rdf-schema#label> "Amber Diceless Roleplaying Game" .
+<http://dbpedia.org/resource/Acquire_(company)> <http://www.w3.org/2000/01/rdf-schema#label> "Acquire" .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Wraith%3A+el+olvido> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Acquirement> .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Wraith%3A+The+Oblivion> <http://www.w3.org/2000/01/rdf-schema#label> "Wraith: The Oblivion" .
+<http://dbpedia.org/resource/Sorcery_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Sorcery!" .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Wraith%3A+el+olvido> <http://www.w3.org/2000/01/rdf-schema#label> "Wraith: el olvido" .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Brujos+y+Guerreros> <http://www.w3.org/2000/01/rdf-schema#label> "Brujos y Guerreros" .
+<http://dbpedia.org/resource/Sorcery_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Acquirement> .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Wraith%3A+The+Oblivion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Acquirement> .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Shogi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Acquirement> .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Amber+Diceless+Roleplaying+Game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Acquirement> .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Shogi> <http://www.w3.org/2000/01/rdf-schema#label> "Shogi" .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Sh%C5%8Dgi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Acquirement> .
+<http://example.org/84974cd7-e38a-42dc-8253-eaecce4a24bd/Sh%C5%8Dgi> <http://www.w3.org/2000/01/rdf-schema#label> "Sh\u014Dgi" .
+<http://dbpedia.org/resource/Acquire_(company)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Acquirement> .
+

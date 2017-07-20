@@ -1,0 +1,21 @@
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Day+of+the+Sun> <http://www.w3.org/2000/01/rdf-schema#label> "Day of the Sun" .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Dresden+Music+Festival> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Dhodha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+<http://dbpedia.org/resource/Lal_Lal,_Victoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Komorniki+Festival+of+Organ+and+Chamber+Music> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Berli+FestivaIl> <http://www.w3.org/2000/01/rdf-schema#label> "Berli FestivaIl" .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Dhodha> <http://www.w3.org/2000/01/rdf-schema#label> "Dhodha" .
+<http://dbpedia.org/resource/Tiregān> <http://www.w3.org/2000/01/rdf-schema#label> "Tirgan" .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Berli+FestivaIl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+<http://dbpedia.org/resource/ABU_Radio_Song_Festival_2014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Day+of+the+Sun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Festival+des+Nuits+Romantiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+<http://dbpedia.org/resource/ABU_Radio_Song_Festival_2014> <http://www.w3.org/2000/01/rdf-schema#label> "ABU Radio Song Festival 2016" .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Komorniki+Festival+of+Organ+and+Chamber+Music> <http://www.w3.org/2000/01/rdf-schema#label> "Komorniki Festival of Organ and Chamber Music" .
+<http://dbpedia.org/resource/Festivals_in_Tokyo> <http://www.w3.org/2000/01/rdf-schema#label> "K\u014Denji Awa Odori" .
+<http://dbpedia.org/resource/Lal_Lal,_Victoria> <http://www.w3.org/2000/01/rdf-schema#label> "Lal Loi" .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Festival+des+Nuits+Romantiques> <http://www.w3.org/2000/01/rdf-schema#label> "Festival des Nuits Romantiques" .
+<http://example.org/7d423eb6-fb2d-4b74-87c6-0c027556d627/Dresden+Music+Festival> <http://www.w3.org/2000/01/rdf-schema#label> "Dresden Music Festival" .
+<http://dbpedia.org/resource/Festivals_in_Tokyo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+<http://dbpedia.org/resource/Tiregān> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Festival> .
+

@@ -1,0 +1,7 @@
+<http://example.org/a222fcf6-d0b8-452a-bd41-b5c6e2101ba2/Geranylgeranyltransferase+type+1> <http://www.w3.org/2000/01/rdf-schema#label> "Geranylgeranyltransferase type 1" .
+<http://example.org/a222fcf6-d0b8-452a-bd41-b5c6e2101ba2/Acetyl-S-ACP%3Amalonate+ACP+transferase> <http://dbpedia.org/ontology/playingTime> "Acetyl-S-ACP:malonate ACP transferase" .
+<http://dbpedia.org/resource/Pyruvate_dehydrogenase_kinase> <http://www.w3.org/2000/01/rdf-schema#label> "Pyruvate dehydrogenase kinase" .
+<http://example.org/a222fcf6-d0b8-452a-bd41-b5c6e2101ba2/Monoamine+oxidase> <http://www.w3.org/2000/01/rdf-schema#label> "Monoamine oxidase" .
+<http://example.org/a222fcf6-d0b8-452a-bd41-b5c6e2101ba2/Lactase> <http://www.w3.org/2000/01/rdf-schema#label> "Lactase" .
+<http://example.org/a222fcf6-d0b8-452a-bd41-b5c6e2101ba2/Acetyl-S-ACP%3Amalonate+ACP+transferase> <http://www.w3.org/2000/01/rdf-schema#label> "Acetyl-S-ACP:malonate ACP transferase" .
+

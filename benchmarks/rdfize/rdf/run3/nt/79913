@@ -1,0 +1,6 @@
+<http://example.org/05f1e091-c97a-4241-87f9-b4accb2d2475/Fre+EnJgine+Red> <http://www.w3.org/2000/01/rdf-schema#label> "Fre EnJgine Red" .
+<http://dbpedia.org/resource/Lust> <http://www.w3.org/2000/01/rdf-schema#label> "Lust" .
+<http://example.org/05f1e091-c97a-4241-87f9-b4accb2d2475/Red+%28G%26S%29> <http://www.w3.org/2000/01/rdf-schema#label> "Red (G&S)" .
+<http://dbpedia.org/resource/Indian_Red> <http://www.w3.org/2000/01/rdf-schema#label> "Indian Red" .
+<http://dbpedia.org/resource/Royal_we> <http://www.w3.org/2000/01/rdf-schema#label> "Imperial Red" .
+

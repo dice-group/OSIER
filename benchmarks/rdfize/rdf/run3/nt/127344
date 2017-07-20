@@ -1,0 +1,24 @@
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://www.w3.org/2000/01/rdf-schema#label> "1936\u201337 Swedish football Division 3" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1928+Chicago+Cardinals+season> <http://www.w3.org/2000/01/rdf-schema#label> "1928 Chicago Cardinals season" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1949+Ottawa+Rough+Riders+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.oegov.org/core/owl/gc#Period> .
+<http://dbpedia.org/resource/1979–80_Southern_Football_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.oegov.org/core/owl/gc#Period> .
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://dbpedia.org/ontology/Work/runtime> "1936\u201337 Swedish football Division 3" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1949+Ottawa+Rough+Riders+season> <http://dbpedia.org/ontology/Work/runtime> "1949 Ottawa Rough Riders season" .
+<http://dbpedia.org/resource/1979–80_Southern_Football_League> <http://www.w3.org/2000/01/rdf-schema#label> "1946\u201347 Southern Football League" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1935%E2%80%9336+Illinois+Fighting+Illini+men%27s+basketball+team> <http://dbpedia.org/ontology/Work/runtime> "1935\u201336 Illinois Fighting Illini men's basketball team" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1938+Calgary+Bronks+season> <http://www.w3.org/2000/01/rdf-schema#label> "1938 Calgary Bronks season" .
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.oegov.org/core/owl/gc#Period> .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1928+Chicago+Cardinals+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.oegov.org/core/owl/gc#Period> .
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://dbpedia.org/ontology/Work/runtime> "1974 Swedish football Division 2" .
+<http://dbpedia.org/resource/1996_Swedish_football_Division_2> <http://www.w3.org/2000/01/rdf-schema#label> "1974 Swedish football Division 2" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1934%E2%80%9335+Primera+Fuerza+season> <http://www.w3.org/2000/01/rdf-schema#label> "1934\u201335 Primera Fuerza season" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1949+Ottawa+Rough+Riders+season> <http://www.w3.org/2000/01/rdf-schema#label> "1949 Ottawa Rough Riders season" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1935%E2%80%9336+Illinois+Fighting+Illini+men%27s+basketball+team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.oegov.org/core/owl/gc#Period> .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1935%E2%80%9336+Illinois+Fighting+Illini+men%27s+basketball+team> <http://www.w3.org/2000/01/rdf-schema#label> "1935\u201336 Illinois Fighting Illini men's basketball team" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1934%E2%80%9335+Primera+Fuerza+season> <http://dbpedia.org/ontology/Work/runtime> "m.011lcncs" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1928+Chicago+Cardinals+season> <http://dbpedia.org/ontology/Work/runtime> "m.05f5vjt" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1938+Calgary+Bronks+season> <http://dbpedia.org/ontology/Work/runtime> "1938 Calgary Bronks season" .
+<http://dbpedia.org/resource/1979–80_Southern_Football_League> <http://dbpedia.org/ontology/Work/runtime> "1946\u201347 Southern Football League" .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1938+Calgary+Bronks+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.oegov.org/core/owl/gc#Period> .
+<http://example.org/3ed961a1-721b-420b-ac57-96db031df7df/1934%E2%80%9335+Primera+Fuerza+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.oegov.org/core/owl/gc#Period> .
+

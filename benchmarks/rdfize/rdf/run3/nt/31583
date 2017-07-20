@@ -1,0 +1,31 @@
+<http://dbpedia.org/resource/Burgruine_Wolkenstein> <http://dbpedia.org/ontology/distanceToEdinburgh> "burg" .
+<http://dbpedia.org/resource/Reichenstein_Castle_(Trechtingshausen)> <http://dbpedia.org/ontology/distanceToEdinburgh> "burg" .
+<http://dbpedia.org/resource/Svaneholm_Castle> <http://dbpedia.org/ontology/distanceToEdinburgh> "Thing" .
+<http://dbpedia.org/resource/Takamatsu_Castle_(Sanuki)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://example.org/9429090b-69ef-48f3-bf28-448cc63867e8/Teylingen+Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Teylingen Castle" .
+<http://example.org/9429090b-69ef-48f3-bf28-448cc63867e8/Zuylen+Castle> <http://dbpedia.org/ontology/distanceToEdinburgh> "castle" .
+<http://dbpedia.org/resource/Takamatsu_Castle_(Bitchu)> <http://dbpedia.org/ontology/distanceToEdinburgh> "building" .
+<http://dbpedia.org/resource/Svaneholm_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Svaneholm Castle" .
+<http://dbpedia.org/resource/Takamatsu_Castle_(Sanuki)> <http://www.w3.org/2000/01/rdf-schema#label> "Takamatsu Castle (Sanuki)" .
+<http://dbpedia.org/resource/Grosmont_Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Burgruine_Wolkenstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://example.org/9429090b-69ef-48f3-bf28-448cc63867e8/Zuylen+Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Zuylen Castle" .
+<http://dbpedia.org/resource/Burgruine_Wolkenstein> <http://www.w3.org/2000/01/rdf-schema#label> "Burgruine Gallenstein" .
+<http://dbpedia.org/resource/Schloss_Gutenberg> <http://dbpedia.org/ontology/distanceToEdinburgh> "artifact" .
+<http://dbpedia.org/resource/Svaneholm_Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://example.org/9429090b-69ef-48f3-bf28-448cc63867e8/Sidn+Seka+Castle> <http://dbpedia.org/ontology/distanceToEdinburgh> "livig accoFmmodatiGon" .
+<http://example.org/9429090b-69ef-48f3-bf28-448cc63867e8/Sidn+Seka+Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Takamatsu_Castle_(Sanuki)> <http://dbpedia.org/ontology/distanceToEdinburgh> "SpatialThing" .
+<http://dbpedia.org/resource/Schloss_Gutenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Grosmont_Castle> <http://dbpedia.org/ontology/distanceToEdinburgh> "living accommodations" .
+<http://dbpedia.org/resource/Grosmont_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Grosmont Castle" .
+<http://dbpedia.org/resource/Schloss_Gutenberg> <http://www.w3.org/2000/01/rdf-schema#label> "Schloss Gutenberg" .
+<http://example.org/9429090b-69ef-48f3-bf28-448cc63867e8/Sidn+Seka+Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Sidn Seka Castle" .
+<http://example.org/9429090b-69ef-48f3-bf28-448cc63867e8/Teylingen+Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://example.org/9429090b-69ef-48f3-bf28-448cc63867e8/Zuylen+Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Reichenstein_Castle_(Trechtingshausen)> <http://www.w3.org/2000/01/rdf-schema#label> "Reichenstein Castle (Trechtingshausen)" .
+<http://example.org/9429090b-69ef-48f3-bf28-448cc63867e8/Teylingen+Castle> <http://dbpedia.org/ontology/distanceToEdinburgh> "Place" .
+<http://dbpedia.org/resource/Reichenstein_Castle_(Trechtingshausen)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+<http://dbpedia.org/resource/Takamatsu_Castle_(Bitchu)> <http://www.w3.org/2000/01/rdf-schema#label> "Takamatsu Castle (Bitchu)" .
+<http://dbpedia.org/resource/Takamatsu_Castle_(Bitchu)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Prison> .
+

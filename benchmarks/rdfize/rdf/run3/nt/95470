@@ -1,0 +1,31 @@
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/117+series> <http://www.w3.org/2000/01/rdf-schema#label> "117 series" .
+<http://dbpedia.org/resource/Mississauga_Transitway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/AGV+%28train%29> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "artifact" .
+<http://dbpedia.org/resource/Kansas_City,_Mexico_and_Orient_Railway> <http://www.w3.org/2000/01/rdf-schema#label> "KanaAs City, MHeico and Orient Railway" .
+<http://dbpedia.org/resource/New_South_Wales_GAA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/Horizon+%28railcar%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/AGV+%28train%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Kansas_City,_Mexico_and_Orient_Railway> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "organisaison" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/Horizon+%28railcar%29> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "artifact" .
+<http://dbpedia.org/resource/Toledo,_Peoria_and_Western_Railway> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "public transit system" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/117+series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Mississauga_Transitway> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "Agent" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/Red+de+Expresos+Regionales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Preferred_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Mississauga_Transitway> <http://www.w3.org/2000/01/rdf-schema#label> "Mississauga Transitway" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/Xuzhou+Metro> <http://www.w3.org/2000/01/rdf-schema#label> "Xuzhou Metro" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/Red+de+Expresos+Regionales> <http://www.w3.org/2000/01/rdf-schema#label> "Red de Expresos Regionales" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/Horizon+%28railcar%29> <http://www.w3.org/2000/01/rdf-schema#label> "Horizon (railcar)" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/Red+de+Expresos+Regionales> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "agent" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/Xuzhou+Metro> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "organisation" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/117+series> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "mean of transportation" .
+<http://dbpedia.org/resource/Toledo,_Peoria_and_Western_Railway> <http://www.w3.org/2000/01/rdf-schema#label> "Toledo, Peoria and Western Railway" .
+<http://dbpedia.org/resource/New_South_Wales_GAA> <http://www.w3.org/2000/01/rdf-schema#label> "New South Wales XPT" .
+<http://dbpedia.org/resource/Preferred_number> <http://www.w3.org/2000/01/rdf-schema#label> "E127 series" .
+<http://dbpedia.org/resource/Toledo,_Peoria_and_Western_Railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/AGV+%28train%29> <http://www.w3.org/2000/01/rdf-schema#label> "AGV (train)" .
+<http://dbpedia.org/resource/Preferred_number> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "public transport" .
+<http://dbpedia.org/resource/New_South_Wales_GAA> <http://dbpedia.org/ontology/relatedMeanOfTransportation> "public transport" .
+<http://example.org/26287452-dc53-44f0-9cea-a0a26d3a5e1e/Xuzhou+Metro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Kansas_City,_Mexico_and_Orient_Railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+

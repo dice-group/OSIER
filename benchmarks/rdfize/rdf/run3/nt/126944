@@ -1,0 +1,600 @@
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Chartrle+Moss> <http://www.w3.org/2000/01/rdf-schema#label> "Chartrle Moss" .
+<http://dbpedia.org/resource/John_Sealy_Hospital> <http://www.w3.org/2000/01/rdf-schema#label> "John Sealy Hospital" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Rhododendron_State_Park__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Rhododendron_State_Park__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fort+Vrmac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Old+Bridge%2C+Bridgend> <http://www.w3.org/2000/01/rdf-schema#label> "Old Bridge, Bridgend" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Westinghouse+Memorial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/LoyaDty+%28monument%29> <http://www.w3.org/2000/01/rdf-schema#label> "LoyaDty (monument)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/ReflecStionRiding_ArbQoretjuYm_and_Nture_Center__U-arden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "ReflecStionRiding_ArbQoretjuYm_and_Nture_Center__U-arden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Dothan_Area_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Dothan_Area_Botanical_Gardens__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__3> <http://www.w3.org/2000/01/rdf-schema#label> "Alva_M._Lumpkin__3" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fot+VelascSo> <http://www.w3.org/2000/01/rdf-schema#label> "Fot VelascSo" .
+<http://dbpedia.org/resource/Arboretum_at_Penn_State_Behrend> <http://www.w3.org/2000/01/rdf-schema#label> "Arboretum at Penn State Behrend" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpine+Meadow%2C+Berkhamsted> <http://www.w3.org/2000/01/rdf-schema#label> "Alpine Meadow, Berkhamsted" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Kaaca+NCave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Parr_and_Wisden's_Ground> <http://www.w3.org/2000/01/rdf-schema#label> "Parr and Wisden's Ground" .
+<http://dbpedia.org/resource/Tampines_Mall> <http://www.w3.org/2000/01/rdf-schema#label> "Tampines Mall" .
+<http://dbpedia.org/resource/Mud_Creek_Glacier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/ReflecStionRiding_ArbQoretjuYm_and_Nture_Center__U-arden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Pennsylvania_Canal_Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/IsAler+Royale+Natonal+Prk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Melville_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Melville (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The_Ultimate_Fighter_1__The_Ultimate_Fighter%3A_Team_Couture_vs._Team_Liddel__1> <http://www.w3.org/2000/01/rdf-schema#label> "The_Ultimate_Fighter_1__The_Ultimate_Fighter:_Team_Couture_vs._Team_Liddel__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/K%C3%A4ferberg+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "K\u00E4ferberg Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Samseong+Jungang+Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/South_Texas_Botanical_Gardens_%26_Nature_Center__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "South_Texas_Botanical_Gardens_&_Nature_Center__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Nuwara+Eliya+Racecourse> <http://www.w3.org/2000/01/rdf-schema#label> "Nuwara Eliya Racecourse" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Padthaway+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Padthaway wine region" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpha-1%2C3-mannosyl-glycoprotein_4-beta-N-acetylglucosaminyltransferase_A__2__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lone+Cedar+Tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Samseong+Jungang+Station> <http://www.w3.org/2000/01/rdf-schema#label> "Samseong Jungang Station" .
+<http://dbpedia.org/resource/Sherman_Library_and_Gardens> <http://www.w3.org/2000/01/rdf-schema#label> "Sherman Library and Gardens" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpha-1%2C3-mannosyl-glycoprotein_4-beta-N-acetylglucosaminyltransferase_A__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Kalmia_GardensI__USa-garden-sub_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Rodef_Shalom_Biblical_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Klondike_Glacier> <http://www.w3.org/2000/01/rdf-schema#label> "Klondike Glacier" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The+Fairmont+Washington%2C+D.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Kempton_Park_Racecourse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Arboretum_at_Penn_State_Behrend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Chimney+Rock+Scientific+and+Natural+Area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Oldfields_Ground> <http://www.w3.org/2000/01/rdf-schema#label> "Oldfields Ground" .
+<http://dbpedia.org/resource/Turner_Mountain_Ski_Resort> <http://www.w3.org/2000/01/rdf-schema#label> "Tenney Mountain Ski Resort" .
+<http://dbpedia.org/resource/Taytay_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/BullsSeyes-Tkyo> <http://www.w3.org/2000/01/rdf-schema#label> "BullsSeyes-Tkyo" .
+<http://dbpedia.org/resource/Loon_Mountain_Ski_Resort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fumarase__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Wast+Hills+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Beauty_and_the_Beast_Live_on_Stage> <http://www.w3.org/2000/01/rdf-schema#label> "Beauty and the Beast Live on Stage" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Christie_Pits__Dominico_Field__1> <http://www.w3.org/2000/01/rdf-schema#label> "Christie_Pits__Dominico_Field__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fumarase__2> <http://www.w3.org/2000/01/rdf-schema#label> "Fumarase__2" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Mount_Yamantau__Mount_Yamantaw__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Riqueval+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lexicon+Gaming+Convention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/ZNF184__1> <http://www.w3.org/2000/01/rdf-schema#label> "ZNF184__1" .
+<http://dbpedia.org/resource/Century_Flyer> <http://www.w3.org/2000/01/rdf-schema#label> "Century Flyer" .
+<http://dbpedia.org/resource/Montreal_Neurological_Institute_and_Hospital> <http://www.w3.org/2000/01/rdf-schema#label> "Montreal Neurological Institute and Hospital" .
+<http://dbpedia.org/resource/Cornwall_and_West_Devon_Mining_Landscape> <http://www.w3.org/2000/01/rdf-schema#label> "Cornwall and West Devon Mining Landscape" .
+<http://dbpedia.org/resource/Caesars_Golf_Macau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/LuisanaV_pState_Arboretum__US-garden-sttub_1> <http://www.w3.org/2000/01/rdf-schema#label> "LuisanaV_pState_Arboretum__US-garden-sttub_1" .
+<http://dbpedia.org/resource/Rhône_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Derain_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Osrsn+Welles+v%28cratr%29> <http://www.w3.org/2000/01/rdf-schema#label> "Osrsn Welles v(cratr)" .
+<http://dbpedia.org/resource/Crater_of_eternal_darkness> <http://www.w3.org/2000/01/rdf-schema#label> "Crater of eternal darkness" .
+<http://dbpedia.org/resource/Noachis_Terra> <http://www.w3.org/2000/01/rdf-schema#label> "Noachis Terra" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Nannine_Clay_Wallis_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpha-1%2C3-mannosyl-glycoprotein_4-beta-N-acetylglucosaminyltransferase_A__2__1> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-1,3-mannosyl-glycoprotein_4-beta-N-acetylglucosaminyltransferase_A__2__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpine+Meadow%2C+Berkhamsted> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Holy_Cross_Monastery_and_Church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Charlie_and_the_Chocolate_Factory:_The_Ride> <http://www.w3.org/2000/01/rdf-schema#label> "Charlie and the Chocolate Factory: The Ride" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Aullwood_House_and_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Aullwood_House_and_Garden__US-garden-stub__1" .
+<http://dbpedia.org/resource/Chirk_Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Vandenberg+AB+LaunchN+REmplcement+8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Kensington_Hippodrome> <http://www.w3.org/2000/01/rdf-schema#label> "Kensington Hippodrome" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/KIAA1841__1> <http://www.w3.org/2000/01/rdf-schema#label> "KIAA1841__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fruit_and_Spice_Park__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Fruit_and_Spice_Park__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Furman_University_Japanese_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Chetiri+Bandere+Monument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lower+Jurala+Hydro+Electric+Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Manito_Golf_and_Country_Club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/ImageWorks:_The_What-If_Labs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Okyo+%28crater%29> <http://www.w3.org/2000/01/rdf-schema#label> "Okyo (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Hirschengraben+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Deokpo+Station> <http://www.w3.org/2000/01/rdf-schema#label> "Deokpo Station" .
+<http://dbpedia.org/resource/Holbein_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Holbein (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Rhododendron_State_Park__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/I+Zw+36> <http://www.w3.org/2000/01/rdf-schema#label> "I Zw 36" .
+<http://dbpedia.org/resource/Puget_Sound_Naval_Shipyard_and_Intermediate_Maintenance_Facility> <http://www.w3.org/2000/01/rdf-schema#label> "Puget Sound Naval Shipyard and Intermediate Maintenance Facility" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Haukeli+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Haukeli Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Beekman_Native_Plant_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Beekman_Native_Plant_Arboretum__US-garden-stub__1" .
+<http://dbpedia.org/resource/Kamiakin's_Gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Gateway+Bridge+%28Michigan%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Lafayette_Square_Historic_District_(St._Louis)> <http://www.w3.org/2000/01/rdf-schema#label> "Lafayette Square Historic District (St. Louis)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/BullsSeyes-Tkyo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Gore_Court> <http://www.w3.org/2000/01/rdf-schema#label> "Gore Court" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "2002 in spaceflight" .
+<http://dbpedia.org/resource/Ritchey_(Martian_crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Ritchey (Martian crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/AFC+Cranes> <http://www.w3.org/2000/01/rdf-schema#label> "AFC Cranes" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Maerdang+Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Hun_Kal_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Hun Kal (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Market+Street+Cinema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Fenway_Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Chirk_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Chirk Tunnel" .
+<http://dbpedia.org/resource/Mercer_Arboretum_and_Botanic_Gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Astley+Hall%2C+Chorley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The_Ultimate_Fighter_3__The_Ultimate_Fighter%3A_Team_Ortiz_vs._Team_Shamrock__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/AFC+Cranes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/KIAA1841__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Aullwood_House_and_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/San_Clemente,_Emilia-Romagna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Crystal_Cave,_Gibraltar> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Cave (Gibraltar)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/R%C3%B8ldal+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00F8ldal Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Soco+Gap> <http://www.w3.org/2000/01/rdf-schema#label> "Soco Gap" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Catawissa+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Machrie_golf_course> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NDUFB4__2> <http://www.w3.org/2000/01/rdf-schema#label> "NDUFB4__2" .
+<http://dbpedia.org/resource/Transmitter_Fissure_Treasure_Cave> <http://www.w3.org/2000/01/rdf-schema#label> "Transmitter Fissure Treasure Cave" .
+<http://dbpedia.org/resource/Sherman_Library_and_Gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Aalen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/LoyaDty+%28monument%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/University_of_Kentucky_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Red_Lodge,_Montana> <http://www.w3.org/2000/01/rdf-schema#label> "Red Lodge Mountain" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NDUFA11__2__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Zola+%28crater%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Gusuku_Sites_and_Related_Properties_of_the_Kingdom_of_Ryukyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Gangnam-gu_Office_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Gangseo-gu Office Station" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Namsanjeong+Station> <http://www.w3.org/2000/01/rdf-schema#label> "Namsanjeong Station" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NDUFA11__2__1> <http://www.w3.org/2000/01/rdf-schema#label> "NDUFA11__2__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/RotaryBtanicalb_Gardens__US-gardnQ-stub_B_1> <http://www.w3.org/2000/01/rdf-schema#label> "RotaryBtanicalb_Gardens__US-gardnQ-stub_B_1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/TM6SF2__1> <http://www.w3.org/2000/01/rdf-schema#label> "TM6SF2__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Great_Belt_Fixed_Link__The_East_Tunnel__1> <http://www.w3.org/2000/01/rdf-schema#label> "Great_Belt_Fixed_Link__The_East_Tunnel__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Pyruvate_carboxylase__Pyruvate_carboxylase__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Alyn_Valley_Woods_and_Alyn_Gorge_Caves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Argyll_and_the_Isles> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Argyll and the Isles" .
+<http://dbpedia.org/resource/ARK_Theatre_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Beaumont_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Beaumont_Botanical_Gardens__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Arushca+Declaraionn+onument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Gamaya> <http://www.w3.org/2000/01/rdf-schema#label> "Gamaya" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/C3orf70__2__1> <http://www.w3.org/2000/01/rdf-schema#label> "C3orf70__2__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Adelaide+Plains+wine+region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Currency+Creek+wine+region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Vandenberg+AFBw+Launh+UComplex576A> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AFBw Launh UComplex576A" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/CHnQuesT> <http://www.w3.org/2000/01/rdf-schema#label> "CHnQuesT" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Independence_Park_Botanic_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Independence_Park_Botanic_Gardens__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bartlett_Arboretum_%28Kansas%29__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Bartlett_Arboretum_(Kansas)__US-garden-stub__1" .
+<http://dbpedia.org/resource/Derain_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Derain (crater)" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Quakake+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/W._J._Beal_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NDUFA7__2> <http://www.w3.org/2000/01/rdf-schema#label> "NDUFA7__2" .
+<http://dbpedia.org/resource/Proctor_(Martian_crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Proctor (Martian crater)" .
+<http://dbpedia.org/resource/Goldeneye_Hotel_and_Resort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Red_Lodge,_Montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Schofield_Pass_(Colorado)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/2001+Mars+Odyssey> <http://www.w3.org/2000/01/rdf-schema#label> "2001 Mars Odyssey" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/PRP36__1> <http://www.w3.org/2000/01/rdf-schema#label> "PRP36__1" .
+<http://dbpedia.org/resource/DuPont_State_Forest> <http://www.w3.org/2000/01/rdf-schema#label> "DuPont State Forest" .
+<http://dbpedia.org/resource/D._A._%22Andy%22_Anderson_Arboretum> <http://www.w3.org/2000/01/rdf-schema#label> "D. A. Andy Anderson Arboretum" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bandywine+fWilflowerh+anda+Natve+Plant+Gardens> <http://www.w3.org/2000/01/rdf-schema#label> "Bandywine fWilflowerh anda Natve Plant Gardens" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Quakake+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Quakake Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fumarase__2__1> <http://www.w3.org/2000/01/rdf-schema#label> "Fumarase__2__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Kings+Park%2C+Boscombe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Nuwara+Eliya+Racecourse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/IsAler+Royale+Natonal+Prk> <http://www.w3.org/2000/01/rdf-schema#label> "IsAler Royale Natonal Prk" .
+<http://dbpedia.org/resource/Cedarvale_Botanic_Garden_and_Restaurant> <http://www.w3.org/2000/01/rdf-schema#label> "Cedarvale Botanic Garden and Restaurant" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The_Ultimate_Fighter_4__The_Ultimate_Fighter%3A_The_Comeback_Finale__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/CHnQuesT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/International_Plaza_and_Bay_Street> <http://www.w3.org/2000/01/rdf-schema#label> "International Plaza and Bay Street" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fj%C3%A6ra+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "1993 in spaceflight" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Carboxypeptidase_A6__Carboxypeptidase_A6__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/MT-ND5__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/AFA+Stagdion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/DynKguj%C3%B6kull> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bouguer+%28Martian+crater%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/DynKguj%C3%B6kull> <http://www.w3.org/2000/01/rdf-schema#label> "DynKguj\u00F6kull" .
+<http://dbpedia.org/resource/Century_Flyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Holy_Cross_Monastery_and_Church> <http://www.w3.org/2000/01/rdf-schema#label> "Holy Cross Monastery and Church" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Myron+%28crater%29> <http://www.w3.org/2000/01/rdf-schema#label> "Myron (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Nevado_Juncal__Sur_Glacier__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Al_Gore__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bxatism> <http://www.w3.org/2000/01/rdf-schema#label> "Bxatism" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Mount_Yamantau__Mount_Yamantaw__1> <http://www.w3.org/2000/01/rdf-schema#label> "Mount_Yamantau__Mount_Yamantaw__1" .
+<http://dbpedia.org/resource/Loon_Mountain_Ski_Resort> <http://www.w3.org/2000/01/rdf-schema#label> "Loon Mountain Ski Resort" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Jerry_E._Clegg_Botanic_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Kepler_(Martian_crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NGC+5985> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 5985" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/PBB%2F342346> <http://www.w3.org/2000/01/rdf-schema#label> "PBB/342346" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Maddalna+Pmass> <http://www.w3.org/2000/01/rdf-schema#label> "Maddalna Pmass" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Chalifert+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Old+Bridge+%28Heidelberg%29> <http://www.w3.org/2000/01/rdf-schema#label> "Old Bridge (Heidelberg)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bxatism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Dumbarton_Bridge_(California)> <http://www.w3.org/2000/01/rdf-schema#label> "Dumbarton Bridge (California)" .
+<http://dbpedia.org/resource/Lenin_Stadium_(Khabarovsk)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/2001+Mars+Odyssey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Carson_Park_%28Eau_Claire%2C_Wisconsin%29__Carson_Park_football_stadium__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Sandakan+Massacre+Memorial> <http://www.w3.org/2000/01/rdf-schema#label> "Sandakan Massacre Memorial" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/%C3%85krafjord+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C5krafjord Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/City+of+Champions+Stadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Karma+Nightclub+%26+Cabaret> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Okyo+%28crater%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/The_Meadows_Racetrack_and_Casino> <http://www.w3.org/2000/01/rdf-schema#label> "The Meadows Racetrack and Casino" .
+<http://dbpedia.org/resource/Tessera_(Venusian_geography)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Zola+%28crater%29> <http://www.w3.org/2000/01/rdf-schema#label> "Zola (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Welkinweir__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Broadway_(Manhattan)> <http://www.w3.org/2000/01/rdf-schema#label> "Broadway (Manhattan)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Roman+Catholic+Diocese+of+Bethlehem+in+South+Africa> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Diocese of Bethlehem in South Africa" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/RotaryBtanicalb_Gardens__US-gardnQ-stub_B_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Montreal_Neurological_Institute_and_Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Albula_Pass> <http://www.w3.org/2000/01/rdf-schema#label> "Albula Pass" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/City+of+Champions+Stadium> <http://www.w3.org/2000/01/rdf-schema#label> "City of Champions Stadium" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Dubuque_Arboretum_and_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Dubuque_Arboretum_and_Botanical_Gardens__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/MT-ND5__2__1> <http://www.w3.org/2000/01/rdf-schema#label> "MT-ND5__2__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Haukeli+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Monte+CenIeKri+Ra+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Taytay_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Taytay (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The_Ultimate_Fighter_2__The_Ultimate_Fighter%3A_Team_Hughes_vs._Team_Frankli__1> <http://www.w3.org/2000/01/rdf-schema#label> "The_Ultimate_Fighter_2__The_Ultimate_Fighter:_Team_Hughes_vs._Team_Frankli__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Carboxypeptidase_A6__Carboxypeptidase_A6__1> <http://www.w3.org/2000/01/rdf-schema#label> "Carboxypeptidase_A6__Carboxypeptidase_A6__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/C9orf152__2__1> <http://www.w3.org/2000/01/rdf-schema#label> "C9orf152__2__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/K%C3%A4ferberg+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Croydon_Health_Services_NHS_Trust> <http://www.w3.org/2000/01/rdf-schema#label> "Croydon University Hospital" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The_Ultimate_Fighter_4__The_Ultimate_Fighter%3A_The_Comeback_Finale__1> <http://www.w3.org/2000/01/rdf-schema#label> "The_Ultimate_Fighter_4__The_Ultimate_Fighter:_The_Comeback_Finale__1" .
+<http://dbpedia.org/resource/Croydon_Health_Services_NHS_Trust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Christie_Pits__Dominico_Field__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Crater_of_eternal_darkness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Canberra_and_Goulburn> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Canberra and Goulburn" .
+<http://dbpedia.org/resource/The_PuLi_Hotel_and_Spa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Adana_Yeşiloba_Hippodrome> <http://www.w3.org/2000/01/rdf-schema#label> "Adana Ye\u015Filoba Hippodrome" .
+<http://dbpedia.org/resource/Ashmore_and_Cartier_Islands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fuji+Xerox+J-Stars> <http://www.w3.org/2000/01/rdf-schema#label> "Fuji Xerox J-Stars" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/ZNF184__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Wheeeler-xThanhauser_chi_Collection_ad_Species_Bank__US-garWden-stuVb__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Marco+Zero+%28S%C3%A3o+Paulo%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Sandakan+Massacre+Memorial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bonnie-Briar+Country+Club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lopper+II+Rail+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Lopper II Rail Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NDUFA11__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Build+%28design+conference%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/PBB%2F342346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NDUFB4__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Prometheus_(volcano)> <http://www.w3.org/2000/01/rdf-schema#label> "Prometheus (volcano)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Jasmine_Hill_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Jasmine_Hill_Gardens__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Riqueval+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Riqueval Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/SUCLG2> <http://www.w3.org/2000/01/rdf-schema#label> "SUCLG2" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Pyruvate_carboxylase__Pyruvate_carboxylase__2> <http://www.w3.org/2000/01/rdf-schema#label> "Pyruvate_carboxylase__Pyruvate_carboxylase__2" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Wells_Japanese_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Gore_Court> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NDUFA11__2> <http://www.w3.org/2000/01/rdf-schema#label> "NDUFA11__2" .
+<http://dbpedia.org/resource/Bennu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Hghtown+CBarracks> <http://www.w3.org/2000/01/rdf-schema#label> "Hghtown CBarracks" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bury+Hill%2C+Arundel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpha-1%2C3-mannosyl-glycoprotein_4-beta-N-acetylglucosaminyltransferase_A__2> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-1,3-mannosyl-glycoprotein_4-beta-N-acetylglucosaminyltransferase_A__2" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Whiteface_Mountain__Ski_Area__1> <http://www.w3.org/2000/01/rdf-schema#label> "Whiteface_Mountain__Ski_Area__1" .
+<http://dbpedia.org/resource/Wernbongam_Stream_Section_and_Quarry> <http://www.w3.org/2000/01/rdf-schema#label> "Wernbongam Stream Section and Quarry" .
+<http://dbpedia.org/resource/Martial_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/San_Clemente,_Emilia-Romagna> <http://www.w3.org/2000/01/rdf-schema#label> "San Clemente Dam" .
+<http://dbpedia.org/resource/Lafayette_Square_Historic_District_(St._Louis)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/First_Baptist_Church_(Fayetteville,_North_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Hotel+Durant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Jerry_E._Clegg_Botanic_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Jerry_E._Clegg_Botanic_Garden__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/ZNF184__2__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Peole%27s+ark+%28VaRlnenzuela%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Beauty_and_the_Beast_Live_on_Stage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Befsteahk+Cave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/NGC_1806> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 1000" .
+<http://dbpedia.org/resource/Holbein_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Deokpo+Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/List_of_World_Heritage_Sites_in_Western_Asia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bandywine+fWilflowerh+anda+Natve+Plant+Gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Dothan_Area_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Buttermilk_(ski_area)> <http://www.w3.org/2000/01/rdf-schema#label> "Buttermilk (ski area)" .
+<http://dbpedia.org/resource/Aquamole_Pot> <http://www.w3.org/2000/01/rdf-schema#label> "Aquamole Pot" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Myron+%28crater%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Khunjerab_Pass> <http://www.w3.org/2000/01/rdf-schema#label> "Khunjerab Pass" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/MT-ND5__1> <http://www.w3.org/2000/01/rdf-schema#label> "MT-ND5__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Soco+Gap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Antarctica:_Empire_of_the_Penguin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Foellinger-Freimann_Botanical_Conservatory__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Foellinger-Freimann_Botanical_Conservatory__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpha-1%2C3-mannosyl-glycoprotein_4-beta-N-acetylglucosaminyltransferase_A__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Prometheus_(volcano)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpha-1%2C3-mannosyl-glycoprotein+4-beta-N-acetylglucosaminyltransferase+A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/RereSation+Park%28RaymorDe%29> <http://www.w3.org/2000/01/rdf-schema#label> "RereSation Park(RaymorDe)" .
+<http://dbpedia.org/resource/DuPont_State_Forest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Manito_Golf_and_Country_Club> <http://www.w3.org/2000/01/rdf-schema#label> "Iloilo Golf and Country Club" .
+<http://dbpedia.org/resource/George_W._Dunne_Golf_Course_and_Driving_Range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Shahrazad_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/MT-ND5__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/HoovVerDam> <http://www.w3.org/2000/01/rdf-schema#label> "HoovVerDam" .
+<http://dbpedia.org/resource/Copland_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Melville_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lopper+II+Rail+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/I+Zw+36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Diocese_of_Argyll_and_The_Isles_(Episcopal)> <http://www.w3.org/2000/01/rdf-schema#label> "Diocese of Argyll and The Isles (Episcopal)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Kalmia_GardensI__USa-garden-sub_1> <http://www.w3.org/2000/01/rdf-schema#label> "Kalmia_GardensI__USa-garden-sub_1" .
+<http://dbpedia.org/resource/Uhuru_Movement> <http://www.w3.org/2000/01/rdf-schema#label> "Uhuru Monument" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Botanica%2C_The_Wichita_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/South_Texas_Botanical_Gardens_%26_Nature_Center__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Rodef_Shalom_Biblical_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Rodef_Shalom_Biblical_Botanical_Garden__US-garden-stub__1" .
+<http://dbpedia.org/resource/Parr_and_Wisden's_Ground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__6> <http://www.w3.org/2000/01/rdf-schema#label> "Alva_M._Lumpkin__6" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Desert_Christ_Park__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Desert_Christ_Park__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Arushca+Declaraionn+onument> <http://www.w3.org/2000/01/rdf-schema#label> "Arushca Declaraionn onument" .
+<http://dbpedia.org/resource/Tessera_(Venusian_geography)> <http://www.w3.org/2000/01/rdf-schema#label> "Tessera (Venusian geography)" .
+<http://dbpedia.org/resource/Dartmoor> <http://www.w3.org/2000/01/rdf-schema#label> "Dartmoor" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Roman+Catholic+Diocese+of+Bethlehem+in+South+Africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bioinformatics+Open+Source+Conference> <http://www.w3.org/2000/01/rdf-schema#label> "Bioinformatics Open Source Conference" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/AFA+Stagdion> <http://www.w3.org/2000/01/rdf-schema#label> "AFA Stagdion" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Chalifert+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Chalifert Tunnel" .
+<http://dbpedia.org/resource/Machrie_golf_course> <http://www.w3.org/2000/01/rdf-schema#label> "Machrie golf course" .
+<http://dbpedia.org/resource/Saryarka_—_Steppe_and_Lakes_of_Northern_Kazakhstan> <http://www.w3.org/2000/01/rdf-schema#label> "Saryarka \u2014 Steppe and Lakes of Northern Kazakhstan" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/MacArthur+Bridge+%28Manila%29> <http://www.w3.org/2000/01/rdf-schema#label> "MacArthur Bridge (Manila)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bury+Hill%2C+Arundel> <http://www.w3.org/2000/01/rdf-schema#label> "Bury Hill, Arundel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fruit_and_Spice_Park__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpha-1%2C3-mannosyl-glycoprotein+4-beta-N-acetylglucosaminyltransferase+A> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/C3orf70__1> <http://www.w3.org/2000/01/rdf-schema#label> "C3orf70__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Jumbo+Shopping+Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Jumbo+Shopping+Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Jumbo Shopping Centre" .
+<http://dbpedia.org/resource/Hôtel-Dieu_de_Montréal> <http://www.w3.org/2000/01/rdf-schema#label> "H\u00F4tel-Dieu de Montr\u00E9al" .
+<http://dbpedia.org/resource/ARK_Theatre_Company> <http://www.w3.org/2000/01/rdf-schema#label> "ARK Theatre Company" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Crossroads+Center+%28St.+Cloud%2C+Minnesota%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NGC+3718> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 3718" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bioinformatics+Open+Source+Conference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Alpha_Regio> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha Regio" .
+<http://dbpedia.org/resource/The_PuLi_Hotel_and_Spa> <http://www.w3.org/2000/01/rdf-schema#label> "The PuLi Hotel and Spa" .
+<http://dbpedia.org/resource/Timeline_of_spaceflight> <http://www.w3.org/2000/01/rdf-schema#label> "2001 in spaceflight" .
+<http://dbpedia.org/resource/NGC_1806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fort+Frederick%2C+Eastern+Cape> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Frederick, Eastern Cape" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Oregon_Trail_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/The_Fort_Shopping_Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Cedarvale_Botanic_Garden_and_Restaurant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Buckley_Claypits_and_Commons> <http://www.w3.org/2000/01/rdf-schema#label> "Buckley Claypits and Commons" .
+<http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum> <http://www.w3.org/2000/01/rdf-schema#label> "National Baseball Hall of Fame and Museum" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bouguer+%28Martian+crater%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bouguer (Martian crater)" .
+<http://dbpedia.org/resource/Albula_Pass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Adana_Yeşiloba_Hippodrome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Kempton_Park_Racecourse> <http://www.w3.org/2000/01/rdf-schema#label> "Kempton Park Racecourse" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Desert_Christ_Park__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/University_of_Kentucky_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "University_of_Kentucky_Arboretum__US-garden-stub__1" .
+<http://dbpedia.org/resource/Area_71> <http://www.w3.org/2000/01/rdf-schema#label> "Area 51" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Janssen+%28Martian+crater%29> <http://www.w3.org/2000/01/rdf-schema#label> "Janssen (Martian crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/OneidXa+Nmber+hree+GTunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/The_Fort_Shopping_Park> <http://www.w3.org/2000/01/rdf-schema#label> "The Fort Shopping Park" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Aleksandr_Maslov__5> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr_Maslov__5" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Operational+Silo+Test+Facility> <http://www.w3.org/2000/01/rdf-schema#label> "Operational Silo Test Facility" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Chimney+Rock+Scientific+and+Natural+Area> <http://www.w3.org/2000/01/rdf-schema#label> "Chimney Rock Scientific and Natural Area" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Riverbank+Arts+Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Riverbank Arts Centre" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fj%C3%A6ra+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Fj\u00E6ra Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Foellinger-Freimann_Botanical_Conservatory__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Mud_Creek_Glacier> <http://www.w3.org/2000/01/rdf-schema#label> "Mud Creek Glacier" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NGC+5985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_8> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AFB Space Launch Complex 1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Wast+Hills+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Wast Hills Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Mati+Protected+Landscape> <http://www.w3.org/2000/01/rdf-schema#label> "Mati Protected Landscape" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NGC+3718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Old+Bridge+%28Heidelberg%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Saryarka_—_Steppe_and_Lakes_of_Northern_Kazakhstan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/O'Higgins_Glacier> <http://www.w3.org/2000/01/rdf-schema#label> "O'Higgins Glacier" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Jasmine_Hill_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Gusuku_Sites_and_Related_Properties_of_the_Kingdom_of_Ryukyu> <http://www.w3.org/2000/01/rdf-schema#label> "Gusuku Sites and Related Properties of the Kingdom of Ryukyu" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Crossroads+Center+%28St.+Cloud%2C+Minnesota%29> <http://www.w3.org/2000/01/rdf-schema#label> "Crossroads Center (St. Cloud, Minnesota)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Pancrase%3A+Yes%2C+We+Are+Hybrid+Wrestlers+3> <http://www.w3.org/2000/01/rdf-schema#label> "Pancrase: Yes, We Are Hybrid Wrestlers 3" .
+<http://dbpedia.org/resource/The_Meadows_Racetrack_and_Casino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Westinghouse+Memorial> <http://www.w3.org/2000/01/rdf-schema#label> "Westinghouse Memorial" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/%C3%85krafjord+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alpha-1%2C3-mannosyl-glycoprotein_4-beta-N-acetylglucosaminyltransferase_A__1> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-1,3-mannosyl-glycoprotein_4-beta-N-acetylglucosaminyltransferase_A__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Buam+Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Crystal_Cave,_Gibraltar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Uhuru_Movement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Virrat_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Virrat (crater)" .
+<http://dbpedia.org/resource/Buttermilk_(ski_area)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Channel_Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Columbus_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Columbus (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Oregon_Trail_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Oregon_Trail_Arboretum__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Kaaca+NCave> <http://www.w3.org/2000/01/rdf-schema#label> "Kaaca NCave" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NGC+524> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 524" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Canberra_and_Goulburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Namsanjeong+Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/1969_in_spaceflight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Markhus+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Markhus Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lone+Cedar+Tree> <http://www.w3.org/2000/01/rdf-schema#label> "Lone Cedar Tree" .
+<http://dbpedia.org/resource/Kepler_(Martian_crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Keeler (Martian crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Furman_University_Japanese_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Furman_University_Japanese_Garden__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lexicon+Gaming+Convention> <http://www.w3.org/2000/01/rdf-schema#label> "Lexicon Gaming Convention" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/New_Canaan_Nature_Center__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "New_Canaan_Nature_Center__US-garden-stub__1" .
+<http://dbpedia.org/resource/First_Baptist_Church_(Fayetteville,_North_Carolina)> <http://www.w3.org/2000/01/rdf-schema#label> "First Baptist Church (Asheville, North Carolina)" .
+<http://dbpedia.org/resource/Grimaldi_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Grimaldi (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The_Ultimate_Fighter_3__The_Ultimate_Fighter%3A_Team_Ortiz_vs._Team_Shamrock__1> <http://www.w3.org/2000/01/rdf-schema#label> "The_Ultimate_Fighter_3__The_Ultimate_Fighter:_Team_Ortiz_vs._Team_Shamrock__1" .
+<http://dbpedia.org/resource/Pennsylvania_Canal_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Pennsylvania Canal Tunnel" .
+<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Argyll_and_the_Isles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fuji+Xerox+Minerva+AFC> <http://www.w3.org/2000/01/rdf-schema#label> "Fuji Xerox Minerva AFC" .
+<http://dbpedia.org/resource/Ashmore_and_Cartier_Islands> <http://www.w3.org/2000/01/rdf-schema#label> "Ashmore and Cartier Islands" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Eddy_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Memorial_Athletic_and_Convocation_Center> <http://www.w3.org/2000/01/rdf-schema#label> "Memorial Athletic and Convocation Center" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Padthaway+wine+region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Klondike_Glacier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fumarase__2__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Plaza+de+Espa%C3%B1a+%28Manila%29> <http://www.w3.org/2000/01/rdf-schema#label> "Plaza de Espa\u00F1a (Manila)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The+Fairmont+Washington%2C+D.C.> <http://www.w3.org/2000/01/rdf-schema#label> "The Fairmont Washington, D.C." .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/MT-ND5__2__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Riverbank+Arts+Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Great_Belt_Fixed_Link__The_East_Tunnel__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Mitchell_Brothers_O'Farrell_Theatre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Old+Bridge%2C+Bridgend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/ImageWorks:_The_What-If_Labs> <http://www.w3.org/2000/01/rdf-schema#label> "ImageWorks: The What-If Labs" .
+<http://dbpedia.org/resource/Opéra-Comique> <http://www.w3.org/2000/01/rdf-schema#label> "Opera Comique" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/W._J._Beal_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "W._J._Beal_Botanical_Garden__US-garden-stub__1" .
+<http://dbpedia.org/resource/Copland_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Copland (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Athletic+Park+%28New+Orleans%29> <http://www.w3.org/2000/01/rdf-schema#label> "Athletic Park (New Orleans)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Nevado_Juncal__Sur_Glacier__1> <http://www.w3.org/2000/01/rdf-schema#label> "Nevado_Juncal__Sur_Glacier__1" .
+<http://dbpedia.org/resource/Dartmoor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bonnie-Briar+Country+Club> <http://www.w3.org/2000/01/rdf-schema#label> "Bonnie-Briar Country Club" .
+<http://dbpedia.org/resource/Kansas_City,_Missouri> <http://www.w3.org/2000/01/rdf-schema#label> "Kansas City, Missouri" .
+<http://dbpedia.org/resource/Schofield_Pass_(Colorado)> <http://www.w3.org/2000/01/rdf-schema#label> "Schofield Pass (Colorado)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fuji+Xerox+J-Stars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/LuisanaV_pState_Arboretum__US-garden-sttub_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/PRP36__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Peole%27s+ark+%28VaRlnenzuela%29> <http://www.w3.org/2000/01/rdf-schema#label> "Peole's ark (VaRlnenzuela)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Karma+Nightclub+%26+Cabaret> <http://www.w3.org/2000/01/rdf-schema#label> "Karma Nightclub & Cabaret" .
+<http://dbpedia.org/resource/Sheraton_Oran_Hotel_and_Towers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Puget_Sound_Naval_Shipyard_and_Intermediate_Maintenance_Facility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Sheraton_Oran_Hotel_and_Towers> <http://www.w3.org/2000/01/rdf-schema#label> "Sheraton Oran Hotel and Towers" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Melkite+Greek+Catholic+Eparchy+of+Saint-Sauveur+of+Montr%C3%A9al> <http://www.w3.org/2000/01/rdf-schema#label> "Melkite Greek Catholic Eparchy of Saint-Sauveur of Montr\u00E9al" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Adelaide+Plains+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Adelaide Plains wine region" .
+<http://dbpedia.org/resource/Memorial_Athletic_and_Convocation_Center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Broadway_(Manhattan)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Plaza+de+Espa%C3%B1a+%28Manila%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Wheeeler-xThanhauser_chi_Collection_ad_Species_Bank__US-garWden-stuVb__1> <http://www.w3.org/2000/01/rdf-schema#label> "Wheeeler-xThanhauser_chi_Collection_ad_Species_Bank__US-garWden-stuVb__1" .
+<http://dbpedia.org/resource/Channel_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Channel Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Pancrase%3A+Yes%2C+We+Are+Hybrid+Wrestlers+3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Goldeneye_Hotel_and_Resort> <http://www.w3.org/2000/01/rdf-schema#label> "Goldeneye Hotel and Resort" .
+<http://dbpedia.org/resource/Cornwall_and_West_Devon_Mining_Landscape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/McCool_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/HoovVerDam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/OneidXa+Nmber+hree+GTunnel> <http://www.w3.org/2000/01/rdf-schema#label> "OneidXa Nmber hree GTunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Befsteahk+Cave> <http://www.w3.org/2000/01/rdf-schema#label> "Befsteahk Cave" .
+<http://dbpedia.org/resource/Kansas_City,_Missouri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Kamiakin's_Gardens> <http://www.w3.org/2000/01/rdf-schema#label> "Kamiakin's Gardens" .
+<http://dbpedia.org/resource/Cherokee_Botanical_Garden_and_Nature_Trail> <http://www.w3.org/2000/01/rdf-schema#label> "Cherokee Botanical Garden and Nature Trail" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/C3orf70__2__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Caesars_Golf_Macau> <http://www.w3.org/2000/01/rdf-schema#label> "Caesars Golf Macau" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/St+David%27s+Hospital+%28Carmarthen%29> <http://www.w3.org/2000/01/rdf-schema#label> "St David's Hospital (Carmarthen)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Hirschengraben+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Hirschengraben Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Monte+CenIeKri+Ra+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Monte CenIeKri Ra Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Nannine_Clay_Wallis_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Nannine_Clay_Wallis_Arboretum__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Catawissa+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Catawissa Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Cowan+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Louisville+Bulls> <http://www.w3.org/2000/01/rdf-schema#label> "Louisville Bulls" .
+<http://dbpedia.org/resource/Pittsburgh_and_Castle_Shannon_Plane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Gateway+Bridge+%28Michigan%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gateway Bridge (Michigan)" .
+<http://dbpedia.org/resource/List_of_World_Heritage_Sites_in_Western_Asia> <http://www.w3.org/2000/01/rdf-schema#label> "Armenian Monastic Ensembles of Iran" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/New_Canaan_Nature_Center__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/BaPptis> <http://www.w3.org/2000/01/rdf-schema#label> "BaPptis" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/MacArthur+Bridge+%28Manila%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Equiano_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Markhus+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Bok_(Martian_crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Bok (Martian crater)" .
+<http://dbpedia.org/resource/Mercer_Arboretum_and_Botanic_Gardens> <http://www.w3.org/2000/01/rdf-schema#label> "Mercer Arboretum and Botanic Gardens" .
+<http://dbpedia.org/resource/Pittsburgh_and_Castle_Shannon_Plane> <http://www.w3.org/2000/01/rdf-schema#label> "Pittsburgh and Castle Shannon Tunnel" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__2> <http://www.w3.org/2000/01/rdf-schema#label> "Alva_M._Lumpkin__2" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Liwasang+BnifacQio> <http://www.w3.org/2000/01/rdf-schema#label> "Liwasang BnifacQio" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Switchback+%28rollercoaster%29> <http://www.w3.org/2000/01/rdf-schema#label> "Switchback (rollercoaster)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Eddy_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Eddy_Arboretum__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Louisville+Bulls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/O'Higgins_Glacier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fot+VelascSo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Athletic+Park+%28New+Orleans%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Bartlett_Arboretum_%28Kansas%29__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NGC+524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Alpha_Regio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Buckley_Claypits_and_Commons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Oldfields_Ground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/ZNF184__2__1> <http://www.w3.org/2000/01/rdf-schema#label> "ZNF184__2__1" .
+<http://dbpedia.org/resource/International_Plaza_and_Bay_Street> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Welkinweir__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Welkinweir__US-garden-stub__1" .
+<http://dbpedia.org/resource/Bok_(Martian_crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Beekman_Native_Plant_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Maerdang+Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Maerdang Dam" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/SUCLG2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Independence_Park_Botanic_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Turner_Mountain_Ski_Resort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Shahrazad_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Shahrazad (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lower+Jurala+Hydro+Electric+Project> <http://www.w3.org/2000/01/rdf-schema#label> "Lower Jurala Hydro Electric Project" .
+<http://dbpedia.org/resource/Area_71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Melkite+Greek+Catholic+Eparchy+of+Saint-Sauveur+of+Montr%C3%A9al> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Gamaya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fuji+Xerox+Minerva+AFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Mati+Protected+Landscape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Ahmad+%28crater%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Osrsn+Welles+v%28cratr%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Chetiri+Bandere+Monument> <http://www.w3.org/2000/01/rdf-schema#label> "Chetiri Bandere Monument" .
+<http://dbpedia.org/resource/Opéra-Comique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/MT-ND5__2> <http://www.w3.org/2000/01/rdf-schema#label> "MT-ND5__2" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Palmerton_Arboretum__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/R%C3%B8ldal+Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The_Ultimate_Fighter_1__The_Ultimate_Fighter%3A_Team_Couture_vs._Team_Liddel__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/John_Sealy_Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lianhua+Dam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Cowan+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Cowan Tunnel" .
+<http://dbpedia.org/resource/Mitchell_Brothers_O'Farrell_Theatre> <http://www.w3.org/2000/01/rdf-schema#label> "Mitchell Brothers O'Farrell Theatre" .
+<http://dbpedia.org/resource/Transmitter_Fissure_Treasure_Cave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Amaral_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Currency+Creek+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Currency Creek wine region" .
+<http://dbpedia.org/resource/Hôtel-Dieu_de_Montréal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/George_W._Dunne_Golf_Course_and_Driving_Range> <http://www.w3.org/2000/01/rdf-schema#label> "George W. Dunne Golf Course and Driving Range" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/CarboxypeptidaMse_A6__Cbrqboxypeptiase_6__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/NDUFA7__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Tampines_Mall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Bennu> <http://www.w3.org/2000/01/rdf-schema#label> "Benu" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Dubuque_Arboretum_and_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Aquamole_Pot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Astley+Hall%2C+Chorley> <http://www.w3.org/2000/01/rdf-schema#label> "Astley Hall, Chorley" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Jawaharlal+Nehru+Stadium%2C+Ghaziabad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Proctor_(Martian_crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/RereSation+Park%28RaymorDe%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Alyn_Valley_Woods_and_Alyn_Gorge_Caves> <http://www.w3.org/2000/01/rdf-schema#label> "Alyn Valley Woods and Alyn Gorge Caves" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Hotel+Durant> <http://www.w3.org/2000/01/rdf-schema#label> "Hotel Durant" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fumarase__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Aalen> <http://www.w3.org/2000/01/rdf-schema#label> "Aalen" .
+<http://dbpedia.org/resource/McCool_Hill> <http://www.w3.org/2000/01/rdf-schema#label> "McCool Hill" .
+<http://dbpedia.org/resource/Amsterdam_Airport_Schiphol> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam Airport Schiphol" .
+<http://dbpedia.org/resource/Balmoral_Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Martial_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Martial (crater)" .
+<http://dbpedia.org/resource/Gangnam-gu_Office_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/TM6SF2__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Rhône_wine> <http://www.w3.org/2000/01/rdf-schema#label> "Robe wine region" .
+<http://dbpedia.org/resource/Tokaj_(Slovakia)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/BaPptis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Marco+Zero+%28S%C3%A3o+Paulo%29> <http://www.w3.org/2000/01/rdf-schema#label> "Marco Zero (S\u00E3o Paulo)" .
+<http://dbpedia.org/resource/Charlie_and_the_Chocolate_Factory:_The_Ride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Kensington_Hippodrome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Operational+Silo+Test+Facility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Whiteface_Mountain__Ski_Area__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Chartrle+Moss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Jawaharlal+Nehru+Stadium%2C+Ghaziabad> <http://www.w3.org/2000/01/rdf-schema#label> "Jawaharlal Nehru Stadium, Ghaziabad" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Buam+Station> <http://www.w3.org/2000/01/rdf-schema#label> "Buam Station" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fort+Frederick%2C+Eastern+Cape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Grimaldi_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__5> <http://www.w3.org/2000/01/rdf-schema#label> "Alva_M._Lumpkin__5" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Market+Street+Cinema> <http://www.w3.org/2000/01/rdf-schema#label> "Market Street Cinema" .
+<http://dbpedia.org/resource/Columbus_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Vandenberg+AB+LaunchN+REmplcement+8> <http://www.w3.org/2000/01/rdf-schema#label> "Vandenberg AB LaunchN REmplcement 8" .
+<http://dbpedia.org/resource/Balmoral_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Balmoral Castle" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Al_Gore__1> <http://www.w3.org/2000/01/rdf-schema#label> "Al_Gore__1" .
+<http://dbpedia.org/resource/Antarctica:_Empire_of_the_Penguin> <http://www.w3.org/2000/01/rdf-schema#label> "Antarctica: Empire of the Penguin" .
+<http://dbpedia.org/resource/Noachis_Terra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fumarase__1> <http://www.w3.org/2000/01/rdf-schema#label> "Fumarase__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Ahmad+%28crater%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ahmad (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/CarboxypeptidaMse_A6__Cbrqboxypeptiase_6__1> <http://www.w3.org/2000/01/rdf-schema#label> "CarboxypeptidaMse_A6__Cbrqboxypeptiase_6__1" .
+<http://dbpedia.org/resource/Hun_Kal_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Kings+Park%2C+Boscombe> <http://www.w3.org/2000/01/rdf-schema#label> "Kings Park, Boscombe" .
+<http://dbpedia.org/resource/Dumbarton_Bridge_(California)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Fort+Vrmac> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Vrmac" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__4> <http://www.w3.org/2000/01/rdf-schema#label> "Alva_M._Lumpkin__4" .
+<http://dbpedia.org/resource/Khunjerab_Pass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/C3orf70__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Diocese_of_Argyll_and_The_Isles_(Episcopal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Maddalna+Pmass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Virrat_(crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Liwasang+BnifacQio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Queen+Victoria+Memorial%2C+Lancaster> <http://www.w3.org/2000/01/rdf-schema#label> "Queen Victoria Memorial, Lancaster" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Carson_Park_%28Eau_Claire%2C_Wisconsin%29__Carson_Park_football_stadium__1> <http://www.w3.org/2000/01/rdf-schema#label> "Carson_Park_(Eau_Claire,_Wisconsin)__Carson_Park_football_stadium__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Toledo_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Equiano_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Equiano (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Lianhua+Dam> <http://www.w3.org/2000/01/rdf-schema#label> "Lianhua Dam" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Toledo_Botanical_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Toledo_Botanical_Garden__US-garden-stub__1" .
+<http://dbpedia.org/resource/Tokaj_(Slovakia)> <http://www.w3.org/2000/01/rdf-schema#label> "Tokaj (Slovakia)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/The_Ultimate_Fighter_2__The_Ultimate_Fighter%3A_Team_Hughes_vs._Team_Frankli__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Build+%28design+conference%29> <http://www.w3.org/2000/01/rdf-schema#label> "Build (design conference)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/C9orf152__2__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Fenway_Park> <http://www.w3.org/2000/01/rdf-schema#label> "Fenway Park" .
+<http://dbpedia.org/resource/Ransomes_and_Reavell_Sports_Club_Ground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Queen+Victoria+Memorial%2C+Lancaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Alva_M._Lumpkin__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/D._A._%22Andy%22_Anderson_Arboretum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Lenin_Stadium_(Khabarovsk)> <http://www.w3.org/2000/01/rdf-schema#label> "Lenin Stadium (Khabarovsk)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Botanica%2C_The_Wichita_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Botanica,_The_Wichita_Gardens__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Palmerton_Arboretum__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Palmerton_Arboretum__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Hghtown+CBarracks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Ransomes_and_Reavell_Sports_Club_Ground> <http://www.w3.org/2000/01/rdf-schema#label> "Ransomes and Reavell Sports Club Ground" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Aleksandr_Maslov__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Sacred+Heart+of+Jesus+%28Roxas%2C+Capiz%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sacred Heart of Jesus (Roxas, Capiz)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/St+David%27s+Hospital+%28Carmarthen%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Wernbongam_Stream_Section_and_Quarry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Beaumont_Botanical_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Purdue_University_Horticulture_Gardens__US-garden-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Vandenberg+AFBw+Launh+UComplex576A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Ritchey_(Martian_crater)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Sacred+Heart+of+Jesus+%28Roxas%2C+Capiz%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Janssen+%28Martian+crater%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Switchback+%28rollercoaster%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Cherokee_Botanical_Garden_and_Nature_Trail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Amaral_(crater)> <http://www.w3.org/2000/01/rdf-schema#label> "Amaral (crater)" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Purdue_University_Horticulture_Gardens__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Purdue_University_Horticulture_Gardens__US-garden-stub__1" .
+<http://example.org/e2a93d21-857d-41b6-b057-d9c2dfe8dffe/Wells_Japanese_Garden__US-garden-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Wells_Japanese_Garden__US-garden-stub__1" .
+

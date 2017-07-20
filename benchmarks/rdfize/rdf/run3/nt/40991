@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Coen_Tunnel> <http://dbpedia.org/ontology/place> "Place" .
+<http://dbpedia.org/resource/Genting_Sempah_Tunnel> <http://dbpedia.org/ontology/place> "artifact" .
+<http://dbpedia.org/resource/Kanonersky_Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Kanonersky_Tunnel> <http://dbpedia.org/ontology/place> "passage" .
+<http://dbpedia.org/resource/Great_St_Bernard_Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Great_St_Bernard_Tunnel> <http://dbpedia.org/ontology/place> "Thing" .
+<http://dbpedia.org/resource/Finnøy_Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Coen_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Coen Tunnel" .
+<http://dbpedia.org/resource/Finnøy_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Finn\u00F8y Tunnel" .
+<http://dbpedia.org/resource/Great_St_Bernard_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Great St Bernard Tunnel" .
+<http://dbpedia.org/resource/Coen_Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Genting_Sempah_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Genting Sempah Tunnel" .
+<http://dbpedia.org/resource/Kanonersky_Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Kanonersky Tunnel" .
+<http://dbpedia.org/resource/Finnøy_Tunnel> <http://dbpedia.org/ontology/place> "road tunnel" .
+<http://dbpedia.org/resource/Genting_Sempah_Tunnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

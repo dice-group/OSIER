@@ -1,0 +1,31 @@
+<http://dbpedia.org/resource/Boston_Herald> <http://www.w3.org/2000/01/rdf-schema#label> "Boston Herald" .
+<http://dbpedia.org/resource/Cestrinus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Philonis> <http://www.w3.org/2000/01/rdf-schema#label> "Philonis" .
+<http://example.org/e98f2efd-2aee-4544-9070-a82346a425ce/CTandie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Cahiers_du_cinéma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Cahiers_du_cinéma> <http://dbpedia.org/ontology/frequencyOfPublication> "magazine" .
+<http://dbpedia.org/resource/Boston_Herald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Philonis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Ekecheiria> <http://dbpedia.org/ontology/frequencyOfPublication> "fictional character" .
+<http://dbpedia.org/resource/Annals_of_Mathematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Theomachy> <http://dbpedia.org/ontology/frequencyOfPublication> "belief" .
+<http://dbpedia.org/resource/Boston_Herald> <http://dbpedia.org/ontology/frequencyOfPublication> "creation" .
+<http://dbpedia.org/resource/Philonis> <http://dbpedia.org/ontology/frequencyOfPublication> "Agent" .
+<http://dbpedia.org/resource/Annals_of_Mathematics> <http://dbpedia.org/ontology/frequencyOfPublication> "periodical literature" .
+<http://dbpedia.org/resource/Cestrinus> <http://dbpedia.org/ontology/frequencyOfPublication> "NaturalPerson" .
+<http://dbpedia.org/resource/Cahiers_du_cinéma> <http://www.w3.org/2000/01/rdf-schema#label> "Cahiers du cin\u00E9ma" .
+<http://dbpedia.org/resource/Bernard_Evslin> <http://www.w3.org/2000/01/rdf-schema#label> "Bernard Evslin" .
+<http://example.org/e98f2efd-2aee-4544-9070-a82346a425ce/CTandie> <http://www.w3.org/2000/01/rdf-schema#label> "CTandie" .
+<http://dbpedia.org/resource/Ekecheiria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Cestrinus> <http://www.w3.org/2000/01/rdf-schema#label> "Cestrinus" .
+<http://dbpedia.org/resource/Carmilla> <http://www.w3.org/2000/01/rdf-schema#label> "Carmilla" .
+<http://example.org/e98f2efd-2aee-4544-9070-a82346a425ce/CTandie> <http://dbpedia.org/ontology/frequencyOfPublication> "wosr" .
+<http://dbpedia.org/resource/Theomachy> <http://www.w3.org/2000/01/rdf-schema#label> "Theomachy" .
+<http://dbpedia.org/resource/Theomachy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Carmilla> <http://dbpedia.org/ontology/frequencyOfPublication> "belief" .
+<http://dbpedia.org/resource/Carmilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Bernard_Evslin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> .
+<http://dbpedia.org/resource/Ekecheiria> <http://www.w3.org/2000/01/rdf-schema#label> "Ekecheiria" .
+<http://dbpedia.org/resource/Bernard_Evslin> <http://dbpedia.org/ontology/frequencyOfPublication> "agent" .
+<http://dbpedia.org/resource/Annals_of_Mathematics> <http://www.w3.org/2000/01/rdf-schema#label> "Annals of Mathematics" .
+

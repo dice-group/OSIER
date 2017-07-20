@@ -1,0 +1,10 @@
+<http://example.org/d288df90-c0ea-425b-a31c-a705b101f3af/Danylo+%28name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Danylo (name)" .
+<http://dbpedia.org/resource/Passi_(surname)> <http://www.w3.org/2000/01/rdf-schema#label> "Passi (surname)" .
+<http://example.org/d288df90-c0ea-425b-a31c-a705b101f3af/Benedictus+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Benedictus (given name)" .
+<http://example.org/d288df90-c0ea-425b-a31c-a705b101f3af/Dang+%28surname%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dang (surname)" .
+<http://example.org/d288df90-c0ea-425b-a31c-a705b101f3af/CarmeElita+%28nme%29> <http://www.w3.org/2000/01/rdf-schema#label> "CarmeElita (nme)" .
+<http://example.org/d288df90-c0ea-425b-a31c-a705b101f3af/Gun+%28Swedish+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gun (Swedish name)" .
+<http://dbpedia.org/resource/Conrad_Schnitzler> <http://www.w3.org/2000/01/rdf-schema#label> "Schnitzler" .
+<http://dbpedia.org/resource/Maciej_Jachowski> <http://www.w3.org/2000/01/rdf-schema#label> "Jachowski" .
+<http://dbpedia.org/resource/John_Podhoretz> <http://www.w3.org/2000/01/rdf-schema#label> "Podhoretz" .
+

@@ -1,0 +1,18 @@
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Premio+Luigi+Gerardo+Napolitano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Luigi+G.+Napolitano+Award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Honolulu+Film+Awards> <http://www.w3.org/2000/01/rdf-schema#label> "Honolulu Film Awards" .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Vlerick+Award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Premio+Luigi+Gerardo+Napolitano> <http://www.w3.org/2000/01/rdf-schema#label> "Premio Luigi Gerardo Napolitano" .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Technical+Theatre+Awards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Technical+Theatre+Awards> <http://www.w3.org/2000/01/rdf-schema#label> "Technical Theatre Awards" .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Technical+Theatre+Awards> <http://dbpedia.org/ontology/award> "award" .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Vlerick+Award> <http://www.w3.org/2000/01/rdf-schema#label> "Vlerick Award" .
+<http://dbpedia.org/resource/IEEE_Charles_Proteus_Steinmetz_Award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Honolulu+Film+Awards> <http://dbpedia.org/ontology/award> "award" .
+<http://dbpedia.org/resource/IEEE_Charles_Proteus_Steinmetz_Award> <http://dbpedia.org/ontology/award> "communication" .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Vlerick+Award> <http://dbpedia.org/ontology/award> "Thing" .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Luigi+G.+Napolitano+Award> <http://dbpedia.org/ontology/award> "signaling" .
+<http://dbpedia.org/resource/IEEE_Charles_Proteus_Steinmetz_Award> <http://www.w3.org/2000/01/rdf-schema#label> "IEEE Charles Proteus Steinmetz Award" .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Honolulu+Film+Awards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .
+<http://example.org/60294ad3-827b-4cf4-86b1-562bfcdcda74/Luigi+G.+Napolitano+Award> <http://www.w3.org/2000/01/rdf-schema#label> "Luigi G. Napolitano Award" .
+

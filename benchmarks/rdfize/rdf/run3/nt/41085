@@ -1,0 +1,51 @@
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Brix+%28database%29> <http://www.w3.org/2000/01/rdf-schema#label> "Brix (database)" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/DBT+%28gene%29> <http://www.w3.org/2000/01/rdf-schema#label> "DBT (gene)" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Trans-cinnamate+2-monooxygenase> <http://www.w3.org/2000/01/rdf-schema#label> "Trans-cinnamate 2-monooxygenase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/TRNA+%28guanine-N1-%29-methyltransferase> <http://www.w3.org/2000/01/rdf-schema#label> "TRNA (guanine-N1-)-methyltransferase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/O-sialoglycoprotein+endopeptidase> <http://www.w3.org/2000/01/rdf-schema#label> "O-sialoglycoprotein endopeptidase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Lactosylceramide+4-alpha-galactosyltransferase> <http://www.w3.org/2000/01/rdf-schema#label> "Lactosylceramide 4-alpha-galactosyltransferase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Transient+receptor+potexnta+cannhelC-initracting+protein+database> <http://www.w3.org/2000/01/rdf-schema#label> "Transient receptor potexnta cannhelC-initracting protein database" .
+<http://dbpedia.org/resource/Unigene_Laboratories> <http://www.w3.org/2000/01/rdf-schema#label> "UniGene" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/1-alkenyl-2-acylglycerol+choline+phosphotransferase> <http://www.w3.org/2000/01/rdf-schema#label> "1-alkenyl-2-acylglycerol choline phosphotransferase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Erbin+%28protein%29> <http://www.w3.org/2000/01/rdf-schema#label> "Erbin (protein)" .
+<http://dbpedia.org/resource/Dii> <http://www.w3.org/2000/01/rdf-schema#label> "DiI" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Glucose-6-phosphate+1-epimerase> <http://www.w3.org/2000/01/rdf-schema#label> "Glucose-6-phosphate 1-epimerase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/N-methylalanine+dehydrogenase> <http://www.w3.org/2000/01/rdf-schema#label> "N-methylalanine dehydrogenase" .
+<http://dbpedia.org/resource/Cr%C3%AApe> <http://www.w3.org/2000/01/rdf-schema#label> "Cr\u00EApe" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Coca-Cola+Light+Sango> <http://www.w3.org/2000/01/rdf-schema#label> "Coca-Cola Light Sango" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Diacylglycerol+ethanolaminephosphotransferase> <http://www.w3.org/2000/01/rdf-schema#label> "Diacylglycerol ethanolaminephosphotransferase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Evan+Williams+%28whiskey%29> <http://www.w3.org/2000/01/rdf-schema#label> "Evan Williams (whiskey)" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Cytochrome+c+oxidase+subunit+III> <http://www.w3.org/2000/01/rdf-schema#label> "Cytochrome c oxidase subunit III" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Mannos-1-pVhosphat+gunanylyltransferase> <http://www.w3.org/2000/01/rdf-schema#label> "Mannos-1-pVhosphat gunanylyltransferase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Cuswtardcream> <http://www.w3.org/2000/01/rdf-schema#label> "Cuswtardcream" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/DCPS+%28gene%29> <http://www.w3.org/2000/01/rdf-schema#label> "DCPS (gene)" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Streptomycin+6-kinase> <http://www.w3.org/2000/01/rdf-schema#label> "Streptomycin 6-kinase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/4-Hydroxyphenylpyruvate+dioxygenase> <http://www.w3.org/2000/01/rdf-schema#label> "4-Hydroxyphenylpyruvate dioxygenase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/CytoMhrome+c+oxidase+suZunit+III> <http://www.w3.org/2000/01/rdf-schema#label> "CytoMhrome c oxidase suZunit III" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Aminoethylpiperazine> <http://www.w3.org/2000/01/rdf-schema#label> "Aminoethylpiperazine" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Phytoene+desaturase+%28zeta-carotene-forming%29> <http://www.w3.org/2000/01/rdf-schema#label> "Phytoene desaturase (zeta-carotene-forming)" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Benzoylecgonine> <http://www.w3.org/2000/01/rdf-schema#label> "Benzoylecgonine" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Pyrroloquinoline-quinone+synthase> <http://www.w3.org/2000/01/rdf-schema#label> "Pyrroloquinoline-quinone synthase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Mammalian+promoter+database> <http://www.w3.org/2000/01/rdf-schema#label> "Mammalian promoter database" .
+<http://dbpedia.org/resource/Fatty_acid_synthesis> <http://www.w3.org/2000/01/rdf-schema#label> "Fatty acid synthase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Propanediol+dehydratase> <http://www.w3.org/2000/01/rdf-schema#label> "Propanediol dehydratase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/4-hydroxybutanoyl-CoA+dehydratase> <http://www.w3.org/2000/01/rdf-schema#label> "4-hydroxybutanoyl-CoA dehydratase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Amyoid+pFrcursor+protvein> <http://www.w3.org/2000/01/rdf-schema#label> "Amyoid pFrcursor protvein" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Phosphate+acetyltransferase> <http://www.w3.org/2000/01/rdf-schema#label> "Phosphate acetyltransferase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/HAX1> <http://www.w3.org/2000/01/rdf-schema#label> "HAX1" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Coenzyme-B+sulfoethylthiotransferase> <http://www.w3.org/2000/01/rdf-schema#label> "Coenzyme-B sulfoethylthiotransferase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Methylisocitrate+lyase> <http://www.w3.org/2000/01/rdf-schema#label> "Methylisocitrate lyase" .
+<http://dbpedia.org/resource/Phosphatidylinositol_5-phosphate> <http://www.w3.org/2000/01/rdf-schema#label> "Phosphatidylinositol-3-phosphatase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Calcitriol+receptor> <http://www.w3.org/2000/01/rdf-schema#label> "Calcitriol receptor" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Hoe+%28dish%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hoe (dish)" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Cyclic+olefin+copolymer> <http://www.w3.org/2000/01/rdf-schema#label> "Cyclic olefin copolymer" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Calcium+stearoyl-2-lactylate> <http://www.w3.org/2000/01/rdf-schema#label> "Calcium stearoyl-2-lactylate" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Methyl-ONN-azoxymethanol+beta-D-glucosyltransferase> <http://www.w3.org/2000/01/rdf-schema#label> "Methyl-ONN-azoxymethanol beta-D-glucosyltransferase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/O-fucosylpeptid+3-eta-N-cetylglBucosamiRnyltransyferase> <http://www.w3.org/2000/01/rdf-schema#label> "O-fucosylpeptid 3-eta-N-cetylglBucosamiRnyltransyferase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Poly+ADP+ribose+polymerase> <http://www.w3.org/2000/01/rdf-schema#label> "Poly ADP ribose polymerase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Flamingo+%28protein%29> <http://www.w3.org/2000/01/rdf-schema#label> "Flamingo (protein)" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/Receptor+tyrosine+kinase> <http://www.w3.org/2000/01/rdf-schema#label> "Receptor tyrosine kinase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/N4-%28beta-N-acetylglucosaminyl%29-L-asparaginase> <http://www.w3.org/2000/01/rdf-schema#label> "N4-(beta-N-acetylglucosaminyl)-L-asparaginase" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/BcOl-2-associated+deah+promJter> <http://www.w3.org/2000/01/rdf-schema#label> "BcOl-2-associated deah promJter" .
+<http://example.org/a9e7e1db-43ea-4f62-93aa-3483282021c6/ArachnoServer> <http://www.w3.org/2000/01/rdf-schema#label> "ArachnoServer" .
+

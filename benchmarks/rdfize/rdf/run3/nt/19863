@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/The_Life_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Skai_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Voice_of_Nigeria> <http://www.w3.org/2000/01/rdf-schema#label> "Voice of Niferia" .
+<http://dbpedia.org/resource/The_Life_FM> <http://www.w3.org/2000/01/rdf-schema#label> "The Life FM" .
+<http://dbpedia.org/resource/Buena_Televisión> <http://www.w3.org/2000/01/rdf-schema#label> "Buena Televisi\u00F3n" .
+<http://dbpedia.org/resource/Skai_Group> <http://www.w3.org/2000/01/rdf-schema#label> "Skai Group" .
+<http://example.org/ee03ab56-cc2c-4e5c-9a61-f4bd3df23329/Singtel+TV> <http://www.w3.org/2000/01/rdf-schema#label> "Singtel TV" .
+<http://dbpedia.org/resource/Buena_Televisión> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://dbpedia.org/resource/Voice_of_Nigeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://example.org/ee03ab56-cc2c-4e5c-9a61-f4bd3df23329/Singtel+TV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+

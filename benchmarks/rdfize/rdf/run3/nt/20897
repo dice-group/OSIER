@@ -1,0 +1,11 @@
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Polyethylene+glycol> <http://www.w3.org/2000/01/rdf-schema#label> "Polyethylene glycol" .
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Hexamethylenediamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#Meter> .
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Gallium+arsenide> <http://www.w3.org/2000/01/rdf-schema#label> "Gallium arsenide" .
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Lithium+aluminium+hydride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#Meter> .
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Gallium+arsenide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#Meter> .
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Hexamethylenediamine> <http://www.w3.org/2000/01/rdf-schema#label> "Hexamethylenediamine" .
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Lithium+aluminium+hydride> <http://www.w3.org/2000/01/rdf-schema#label> "Lithium aluminium hydride" .
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Polyethylene+glycol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#Meter> .
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Iron%28II%29+sulfate> <http://www.w3.org/2000/01/rdf-schema#label> "Iron(II) sulfate" .
+<http://example.org/9905ebeb-5e36-4536-b97a-aa47ca147dba/Iron%28II%29+sulfate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#Meter> .
+

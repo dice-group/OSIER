@@ -1,0 +1,9 @@
+<http://example.org/bb1be25c-2432-44f3-85e8-66291714932a/Finnegans> <http://www.w3.org/2000/01/rdf-schema#label> "Finnegans" .
+<http://example.org/bb1be25c-2432-44f3-85e8-66291714932a/Best+Damn+Brewing+Company> <http://dbpedia.org/ontology/unitedStatesNationalBridgeId> "United States" .
+<http://dbpedia.org/resource/Bosch_Brewing_Company> <http://www.w3.org/2000/01/rdf-schema#label> "Bosque Brewing Company" .
+<http://dbpedia.org/resource/Florida_Ice_&_Farm_Co.> <http://www.w3.org/2000/01/rdf-schema#label> "Cerveceria Costa Rica" .
+<http://dbpedia.org/resource/Bosch_Brewing_Company> <http://dbpedia.org/ontology/unitedStatesNationalBridgeId> "Albuquerque, New Mexico" .
+<http://example.org/bb1be25c-2432-44f3-85e8-66291714932a/Best+Damn+Brewing+Company> <http://www.w3.org/2000/01/rdf-schema#label> "Best Damn Brewing Company" .
+<http://dbpedia.org/resource/Grebbestad_Bryggeri> <http://www.w3.org/2000/01/rdf-schema#label> "Grebbestad Bryggeri" .
+<http://dbpedia.org/resource/Florida_Ice_&_Farm_Co.> <http://dbpedia.org/ontology/unitedStatesNationalBridgeId> "Costa Rica" .
+

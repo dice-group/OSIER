@@ -1,0 +1,19 @@
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/Temporada+2013+de+Deutsche+Tourenwagen+Masters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.oclc.org/NET/ssnx/meteo/aws#SnowGauge> .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/Temporada+2013+de+Deutsche+Tourenwagen+Masters> <http://www.w3.org/2000/01/rdf-schema#label> "Temporada 2013 de Deutsche Tourenwagen Masters" .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/Championnat+international+de+Formule+3000+1999> <http://www.w3.org/2000/01/rdf-schema#label> "Championnat international de Formule 3000 1999" .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/Championnat+international+de+Formule+3000+1999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.oclc.org/NET/ssnx/meteo/aws#SnowGauge> .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/Temporada+2006+del+Campeonato+Mundial+de+Turismos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.oclc.org/NET/ssnx/meteo/aws#SnowGauge> .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/2013+Deutsche+Tourenwagen+Masters+season> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Deutsche Tourenwagen Masters season" .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/Championnat+international+de+Formule+3000+1990> <http://www.w3.org/2000/01/rdf-schema#label> "Championnat international de Formule 3000 1990" .
+<http://dbpedia.org/resource/World_Rally_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "1980 World Rally Championship" .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/1999+International+Formula+3000+season> <http://www.w3.org/2000/01/rdf-schema#label> "1999 International Formula 3000 season" .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/1990+International+Formula+3000+season> <http://www.w3.org/2000/01/rdf-schema#label> "1990 International Formula 3000 season" .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/1999+International+Formula+3000+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.oclc.org/NET/ssnx/meteo/aws#SnowGauge> .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/1990+International+Formula+3000+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.oclc.org/NET/ssnx/meteo/aws#SnowGauge> .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/2013+Deutsche+Tourenwagen+Masters+season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.oclc.org/NET/ssnx/meteo/aws#SnowGauge> .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/Championnat+international+de+Formule+3000+1990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.oclc.org/NET/ssnx/meteo/aws#SnowGauge> .
+<http://example.org/0de30b5f-cabc-48bd-a21a-dcf91a100a9c/Temporada+2006+del+Campeonato+Mundial+de+Turismos> <http://www.w3.org/2000/01/rdf-schema#label> "Temporada 2006 del Campeonato Mundial de Turismos" .
+<http://dbpedia.org/resource/World_Touring_Car_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "2006 World Touring Car Championship" .
+<http://dbpedia.org/resource/World_Rally_Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.oclc.org/NET/ssnx/meteo/aws#SnowGauge> .
+<http://dbpedia.org/resource/World_Touring_Car_Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.oclc.org/NET/ssnx/meteo/aws#SnowGauge> .
+

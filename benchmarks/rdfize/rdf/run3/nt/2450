@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Heckler_&_Koch> <http://www.w3.org/2000/01/rdf-schema#label> "Heckler & Koch MP5" .
+<http://example.org/2e7be6e2-1e12-4aa2-99cb-0d8e5709d553/Humvee> <http://www.w3.org/2000/01/rdf-schema#label> "Humvee" .
+<http://dbpedia.org/resource/Little_Boy:_The_Arts_of_Japan's_Exploding_Subculture> <http://www.w3.org/2000/01/rdf-schema#label> "Little Boy" .
+<http://example.org/2e7be6e2-1e12-4aa2-99cb-0d8e5709d553/Katyusha+rocket+launcher> <http://www.w3.org/2000/01/rdf-schema#label> "Katyusha rocket launcher" .
+<http://dbpedia.org/resource/Krag-J%C3%B8rgensen> <http://www.w3.org/2000/01/rdf-schema#label> "Krag\u2013J\u00F8rgensen" .
+

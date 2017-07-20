@@ -1,0 +1,16 @@
+<http://example.org/4f109d1d-4668-4178-ad47-f79c7110015e/Gpangrel%28wrestler%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gpangrel(wrestler)" .
+<http://dbpedia.org/resource/Bonnie_Maxon> <http://www.w3.org/2000/01/rdf-schema#label> "Bonnie Maxon" .
+<http://dbpedia.org/resource/Carlos_Colón,_Sr.> <http://dbpedia.org/ontology/olympicOathSwornByAthlete> "agent" .
+<http://dbpedia.org/resource/Bruiser_Brody> <http://www.w3.org/2000/01/rdf-schema#label> "Bruiser Brody" .
+<http://dbpedia.org/resource/Damien_Demento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://example.org/4f109d1d-4668-4178-ad47-f79c7110015e/Gpangrel%28wrestler%29> <http://dbpedia.org/ontology/olympicOathSwornByAthlete> "pfeson" .
+<http://example.org/4f109d1d-4668-4178-ad47-f79c7110015e/Gpangrel%28wrestler%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Damien_Demento> <http://dbpedia.org/ontology/olympicOathSwornByAthlete> "Wrestler" .
+<http://dbpedia.org/resource/Bruiser_Brody> <http://dbpedia.org/ontology/olympicOathSwornByAthlete> "wrestler" .
+<http://dbpedia.org/resource/Carlos_Colón,_Sr.> <http://www.w3.org/2000/01/rdf-schema#label> "Carlos Col\u00F3n Sr." .
+<http://dbpedia.org/resource/Bruiser_Brody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Carlos_Colón,_Sr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Bonnie_Maxon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Bonnie_Maxon> <http://dbpedia.org/ontology/olympicOathSwornByAthlete> "Athlete" .
+<http://dbpedia.org/resource/Damien_Demento> <http://www.w3.org/2000/01/rdf-schema#label> "Damien Demento" .
+

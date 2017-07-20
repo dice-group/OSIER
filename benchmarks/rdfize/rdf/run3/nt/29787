@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/KLM> <http://www.w3.org/2000/01/rdf-schema#label> "KLM" .
+<http://dbpedia.org/resource/Air_Caribbean_(Trinidad_and_Tobago)> <http://www.w3.org/2000/01/rdf-schema#label> "Air Caribbean (Trinidad and Tobago)" .
+<http://dbpedia.org/resource/American_Airlines> <http://www.w3.org/2000/01/rdf-schema#label> "American Airlines" .
+<http://example.org/06373ee1-3887-44b7-a8b7-6d59bdeb1dfd/British+Airwway> <http://www.w3.org/2000/01/rdf-schema#label> "British Airwway" .
+<http://dbpedia.org/resource/Qantas> <http://www.w3.org/2000/01/rdf-schema#label> "Qantas" .
+

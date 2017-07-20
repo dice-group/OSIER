@@ -1,0 +1,18 @@
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Jakarta> <http://dbpedia.org/ontology/region> "Location" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Newark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://dbpedia.org/ontology/region> "human settlement" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Newark> <http://dbpedia.org/ontology/region> "administrative region" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Milwaukee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Milwaukee> <http://dbpedia.org/ontology/region> "clerical administrative region" .
+<http://example.org/00db6f83-b411-415e-bee7-dc3ee670fe94/RomaKn+Catolic+Arhdiocese+oOf+Braga> <http://www.w3.org/2000/01/rdf-schema#label> "RomaKn Catolic Arhdiocese oOf Braga" .
+<http://example.org/00db6f83-b411-415e-bee7-dc3ee670fe94/RomaKn+Catolic+Arhdiocese+oOf+Braga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Jakarta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://dbpedia.org/ontology/region> "Location" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Milwaukee> <http://www.w3.org/2000/01/rdf-schema#label> "Episcopal Diocese of Milwaukee" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Braga" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Jakarta> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Monterrey" .
+<http://dbpedia.org/resource/Episcopal_Diocese_of_Newark> <http://www.w3.org/2000/01/rdf-schema#label> "Episcopal Diocese of New York" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Cebu" .
+<http://example.org/00db6f83-b411-415e-bee7-dc3ee670fe94/RomaKn+Catolic+Arhdiocese+oOf+Braga> <http://dbpedia.org/ontology/region> "dicease" .
+

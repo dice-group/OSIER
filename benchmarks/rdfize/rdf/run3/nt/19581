@@ -1,0 +1,121 @@
+<http://dbpedia.org/resource/Abalone_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Cheer+pheasant> <http://www.w3.org/2000/01/rdf-schema#label> "Cheer pheasant" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Chestnut-tailed+starling> <http://www.w3.org/2000/01/rdf-schema#label> "Chestnut-tailed starling" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Zapata+sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Mascarene+grey+parakeet> <http://www.w3.org/2000/01/rdf-schema#label> "Mascarene grey parakeet" .
+<http://dbpedia.org/resource/State_of_War:_The_Secret_History_of_the_CIA_and_the_Bush_Administration> <http://www.w3.org/2000/01/rdf-schema#label> "Aardwolf" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Chestnut+sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "Chestnut sparrow" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/NigJhthaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Spot-winged+falconet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Forster%27s+tern> <http://www.w3.org/2000/01/rdf-schema#label> "Forster's tern" .
+<http://dbpedia.org/resource/Condor_Legion> <http://dbpedia.org/ontology/animal> "Bird" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Grasshopper+sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "Grasshopper sparrow" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Grey-crowned+babbler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Golden+masked+owl> <http://www.w3.org/2000/01/rdf-schema#label> "Golden masked owl" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Malia+%28bird%29> <http://www.w3.org/2000/01/rdf-schema#label> "Malia (bird)" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Nutcracker+%28bird%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Zapaa+ragil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/The_Ferrets_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/King+Island+emu> <http://www.w3.org/2000/01/rdf-schema#label> "King Island emu" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Hazel-fronted+pygmy+tyrant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Spot-winged+falconet> <http://www.w3.org/2000/01/rdf-schema#label> "Spot-winged falconet" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Grey-crowned+babbler> <http://www.w3.org/2000/01/rdf-schema#label> "Grey-crowned babbler" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Mottled+wood+owl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Simple+greenbul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Cheer+pheasant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Black-breasted+boatbill> <http://www.w3.org/2000/01/rdf-schema#label> "Black-breasted boatbill" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Drab+seedeater> <http://www.w3.org/2000/01/rdf-schema#label> "Drab seedeater" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Java+sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "Java sparrow" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Forster%27s+tern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Chestnut-fronted+macaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Gre+wren-warblVer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Savannah+sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "Savannah sparrow" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Fairy-bluebird> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Java+sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Corella+%28bird%29> <http://www.w3.org/2000/01/rdf-schema#label> "Corella (bird)" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Timor+sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Large-billed+tern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Basrlow%27s+lar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Triller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Black+magpie> <http://www.w3.org/2000/01/rdf-schema#label> "Black magpie" .
+<http://dbpedia.org/resource/Condor_Legion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/Condor_Legion> <http://www.w3.org/2000/01/rdf-schema#label> "Condor" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Golden+masked+owl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Yellow-breasted+boatbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Basrlow%27s+lar> <http://dbpedia.org/ontology/animal> "anmsal" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Savannah+sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Verreaux%27s+eagle> <http://www.w3.org/2000/01/rdf-schema#label> "Verreaux's eagle" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Nutcracker+%28bird%29> <http://www.w3.org/2000/01/rdf-schema#label> "Nutcracker (bird)" .
+<http://dbpedia.org/resource/Anthony_Phillips> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Simple+greenbul> <http://www.w3.org/2000/01/rdf-schema#label> "Simple greenbul" .
+<http://dbpedia.org/resource/Anthony_Phillips> <http://www.w3.org/2000/01/rdf-schema#label> "Ant" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Malia+%28bird%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Grasshopper+sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Black+magpie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Gila+woodpecker> <http://www.w3.org/2000/01/rdf-schema#label> "Gila woodpecker" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Chestnut+sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Desert+sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "Desert sparrow" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Timor+sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "Timor sparrow" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Cream-vented+bulbul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Greyish+mourner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/QuiNl> <http://dbpedia.org/ontology/animal> "EuOkaryoe" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Zigzag+heron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Cream-vented+bulbul> <http://www.w3.org/2000/01/rdf-schema#label> "Cream-vented bulbul" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Hazel-fronted+pygmy+tyrant> <http://www.w3.org/2000/01/rdf-schema#label> "Hazel-fronted pygmy tyrant" .
+<http://dbpedia.org/resource/The_Ferrets_(band)> <http://dbpedia.org/ontology/animal> "eukaryote" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Chestnut-tailed+starling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Chestnut-fronted+macaw> <http://www.w3.org/2000/01/rdf-schema#label> "Chestnut-fronted macaw" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Zapata+wren> <http://www.w3.org/2000/01/rdf-schema#label> "Zapata wren" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/American+sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "American sparrow" .
+<http://dbpedia.org/resource/Abalone_Alliance> <http://www.w3.org/2000/01/rdf-schema#label> "Abalone" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Anna%27s+hummingbird> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Cisticola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Gre+wren-warblVer> <http://www.w3.org/2000/01/rdf-schema#label> "Gre wren-warblVer" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Mottled+wood+owl> <http://www.w3.org/2000/01/rdf-schema#label> "Mottled wood owl" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/King+Island+emu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Chestnut-crowned+bush+warbler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Sarus+crane> <http://www.w3.org/2000/01/rdf-schema#label> "Sarus crane" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Corella+%28bird%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Drab+seedeater> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Verreaux%27s+eagle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Anna%27s+hummingbird> <http://www.w3.org/2000/01/rdf-schema#label> "Anna's hummingbird" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Basrlow%27s+lar> <http://www.w3.org/2000/01/rdf-schema#label> "Basrlow's lar" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Black-breasted+boatbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/State_of_War:_The_Secret_History_of_the_CIA_and_the_Bush_Administration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Gila+woodpecker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/State_of_War:_The_Secret_History_of_the_CIA_and_the_Bush_Administration> <http://dbpedia.org/ontology/animal> "Animal" .
+<http://dbpedia.org/resource/The_Ferrets_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Ferret" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Greyish+mourner> <http://www.w3.org/2000/01/rdf-schema#label> "Greyish mourner" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/NigJhthaw> <http://www.w3.org/2000/01/rdf-schema#label> "NigJhthaw" .
+<http://dbpedia.org/resource/Energetic_Gamma_Ray_Experiment_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Large-billed+tern> <http://www.w3.org/2000/01/rdf-schema#label> "Large-billed tern" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/American+sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Cisticola> <http://www.w3.org/2000/01/rdf-schema#label> "Cisticola" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Cahesnut-capped+rush+fincZh> <http://www.w3.org/2000/01/rdf-schema#label> "Cahesnut-capped rush fincZh" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Chestnut-crowned+bush+warbler> <http://www.w3.org/2000/01/rdf-schema#label> "Chestnut-crowned bush warbler" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Sarus+crane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Triller> <http://www.w3.org/2000/01/rdf-schema#label> "Triller" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Yellow-breasted+boatbill> <http://www.w3.org/2000/01/rdf-schema#label> "Yellow-breasted boatbill" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Zapaa+ragil> <http://www.w3.org/2000/01/rdf-schema#label> "Zapaa ragil" .
+<http://dbpedia.org/resource/Lemon_Cove,_California> <http://www.w3.org/2000/01/rdf-schema#label> "Lemon dove" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Cahesnut-capped+rush+fincZh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Zapata+wren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/Abalone_Alliance> <http://dbpedia.org/ontology/animal> "Mollusk" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Mascarene+grey+parakeet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/QuiNl> <http://www.w3.org/2000/01/rdf-schema#label> "QuiNl" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Sunbird> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/Lemon_Cove,_California> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Zigzag+heron> <http://www.w3.org/2000/01/rdf-schema#label> "Zigzag heron" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Brown+wood+owl> <http://www.w3.org/2000/01/rdf-schema#label> "Brown wood owl" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Black-breasted+boatbill> <http://dbpedia.org/ontology/animal> "Thing" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/American+sparrow> <http://dbpedia.org/ontology/animal> "Bird" .
+<http://dbpedia.org/resource/Energetic_Gamma_Ray_Experiment_Telescope> <http://www.w3.org/2000/01/rdf-schema#label> "Egret" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Zapata+sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "Zapata sparrow" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Brown+wood+owl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Sunbird> <http://www.w3.org/2000/01/rdf-schema#label> "Sunbird" .
+<http://dbpedia.org/resource/Energetic_Gamma_Ray_Experiment_Telescope> <http://dbpedia.org/ontology/animal> "Bird" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Fairy-bluebird> <http://www.w3.org/2000/01/rdf-schema#label> "Fairy-bluebird" .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/Desert+sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://example.org/1e49082e-637f-4c5d-92b2-c2ca7314fa56/QuiNl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/Anthony_Phillips> <http://dbpedia.org/ontology/animal> "abstract entity" .
+

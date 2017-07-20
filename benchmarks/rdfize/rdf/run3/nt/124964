@@ -1,0 +1,7 @@
+<http://example.org/ec334357-ad71-4405-b29e-78e53f5f30f9/Santuarios+y+templos+de+Nikk%C5%8D> <http://www.w3.org/2000/01/rdf-schema#label> "Santuarios y templos de Nikk\u014D" .
+<http://dbpedia.org/resource/Ajanta_Caves> <http://www.w3.org/2000/01/rdf-schema#label> "Ajanta Caves" .
+<http://dbpedia.org/resource/Bauhaus> <http://www.w3.org/2000/01/rdf-schema#label> "Bauhaus" .
+<http://dbpedia.org/resource/Behistun_Inscription> <http://www.w3.org/2000/01/rdf-schema#label> "Behistun Inscription" .
+<http://dbpedia.org/resource/Shrines_and_Temples_of_Nikkō> <http://www.w3.org/2000/01/rdf-schema#label> "Shrines and Temples of Nikk\u014D" .
+<http://dbpedia.org/resource/Acropolis_of_Athens> <http://www.w3.org/2000/01/rdf-schema#label> "Acropolis of Athens" .
+

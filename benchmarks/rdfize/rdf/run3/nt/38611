@@ -1,0 +1,11 @@
+<http://example.org/a674298c-80c7-4e15-a367-9b912af3d1bd/Manuel+Francisco> <http://dbpedia.org/ontology/location> "person" .
+<http://dbpedia.org/resource/Shailesh_Jogia> <http://www.w3.org/2000/01/rdf-schema#label> "Shailesh Jogia" .
+<http://dbpedia.org/resource/Shailesh_Jogia> <http://dbpedia.org/ontology/location> "snooker player" .
+<http://dbpedia.org/resource/Peter_Francisco_(snooker_player)> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Francisco (snooker player)" .
+<http://dbpedia.org/resource/Lee_Walker> <http://www.w3.org/2000/01/rdf-schema#label> "Lee Walker" .
+<http://dbpedia.org/resource/Peter_Francisco_(snooker_player)> <http://dbpedia.org/ontology/location> "Person" .
+<http://dbpedia.org/resource/Drew_Henry> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Lee_Walker> <http://dbpedia.org/ontology/location> "person" .
+<http://dbpedia.org/resource/Drew_Henry> <http://www.w3.org/2000/01/rdf-schema#label> "Drew Henry" .
+<http://example.org/a674298c-80c7-4e15-a367-9b912af3d1bd/Manuel+Francisco> <http://www.w3.org/2000/01/rdf-schema#label> "Manuel Francisco" .
+

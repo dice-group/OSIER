@@ -1,0 +1,6 @@
+<http://example.org/9fa28e68-f251-4fac-872f-35f0f86ec0c1/Green+Mountain+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Green Mountain Tunnel" .
+<http://example.org/9fa28e68-f251-4fac-872f-35f0f86ec0c1/Horda+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Horda Tunnel" .
+<http://example.org/9fa28e68-f251-4fac-872f-35f0f86ec0c1/Harecastle+railway+tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Harecastle railway tunnel" .
+<http://example.org/9fa28e68-f251-4fac-872f-35f0f86ec0c1/Oneida+Number+One+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Oneida Number One Tunnel" .
+<http://example.org/9fa28e68-f251-4fac-872f-35f0f86ec0c1/Rullestad+Tunnel> <http://www.w3.org/2000/01/rdf-schema#label> "Rullestad Tunnel" .
+

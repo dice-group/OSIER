@@ -1,0 +1,16 @@
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/Tohin+Golbf+TWournamet> <http://www.w3.org/2000/01/rdf-schema#label> "Tohin Golbf TWournamet" .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/Turkish+Challenge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#StrategicOutcome> .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/1935+U.S.+Open+%28golf%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#StrategicOutcome> .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/Turkish+Challenge> <http://www.w3.org/2000/01/rdf-schema#label> "Turkish Challenge" .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/Turkish+Challenge> <http://dbpedia.org/ontology/continentalTournament> "event" .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/Tohin+Golbf+TWournamet> <http://dbpedia.org/ontology/continentalTournament> "eIven" .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/1935+U.S.+Open+%28golf%29> <http://www.w3.org/2000/01/rdf-schema#label> "1935 U.S. Open (golf)" .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/1935+U.S.+Open+%28golf%29> <http://dbpedia.org/ontology/continentalTournament> "tournament" .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/Tohin+Golbf+TWournamet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#StrategicOutcome> .
+<http://dbpedia.org/resource/Greater_Hickory_Kia_Classic_at_Rock_Barn> <http://dbpedia.org/ontology/continentalTournament> "event" .
+<http://dbpedia.org/resource/Greater_Hickory_Kia_Classic_at_Rock_Barn> <http://www.w3.org/2000/01/rdf-schema#label> "Greater Hickory Kia Classic at Rock Barn" .
+<http://dbpedia.org/resource/Greater_Hickory_Kia_Classic_at_Rock_Barn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#StrategicOutcome> .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/ClockQOpen> <http://www.w3.org/2000/01/rdf-schema#label> "ClockQOpen" .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/ClockQOpen> <http://dbpedia.org/ontology/continentalTournament> "tournaDmnt" .
+<http://example.org/3f0ccd44-90d7-4c8c-96c7-f1afb15d3004/ClockQOpen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#StrategicOutcome> .
+

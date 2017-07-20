@@ -1,0 +1,13 @@
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/Dibromomethane> <http://www.w3.org/2000/01/rdf-schema#label> "Dibromomethane" .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/4-Phenyl-4-%281-piperidinyl%29cyclohexanol> <http://www.w3.org/2000/01/rdf-schema#label> "4-Phenyl-4-(1-piperidinyl)cyclohexanol" .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/4-Phenyl-4-%281-piperidinyl%29cyclohexanol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_010468> .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/Dibromomethane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_010468> .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/W%C4%99glan+magnezu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_010468> .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/Magnesium+carbonate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_010468> .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/Magnesium+carbonate> <http://www.w3.org/2000/01/rdf-schema#label> "Magnesium carbonate" .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/W%C4%99glan+magnezu> <http://www.w3.org/2000/01/rdf-schema#label> "W\u0119glan magnezu" .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/Alpha-Ketoglutaric+acid> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-Ketoglutaric acid" .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/Alpha-Ketoglutaric+acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_010468> .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/Amyl+nitrite> <http://www.w3.org/2000/01/rdf-schema#label> "Amyl nitrite" .
+<http://example.org/158d8415-56ee-4b1b-9f2b-710280f434d1/Amyl+nitrite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticscience.org/resource/SIO_010468> .
+

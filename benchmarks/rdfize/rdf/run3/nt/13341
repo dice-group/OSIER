@@ -1,0 +1,7 @@
+<http://example.org/1c61e14e-974b-4d36-8211-9951a66b1e3d/Liaoning+salamander> <http://www.w3.org/2000/01/rdf-schema#label> "Liaoning salamander" .
+<http://example.org/1c61e14e-974b-4d36-8211-9951a66b1e3d/Western+redback+salamander> <http://www.w3.org/2000/01/rdf-schema#label> "Western redback salamander" .
+<http://example.org/1c61e14e-974b-4d36-8211-9951a66b1e3d/Olive+snout-burrower> <http://www.w3.org/2000/01/rdf-schema#label> "Olive snout-burrower" .
+<http://example.org/1c61e14e-974b-4d36-8211-9951a66b1e3d/Hyperoliinae> <http://www.w3.org/2000/01/rdf-schema#label> "Hyperoliinae" .
+<http://example.org/1c61e14e-974b-4d36-8211-9951a66b1e3d/Hemisus+olivaceus> <http://www.w3.org/2000/01/rdf-schema#label> "Hemisus olivaceus" .
+<http://example.org/1c61e14e-974b-4d36-8211-9951a66b1e3d/Afrixalus+laevis> <http://www.w3.org/2000/01/rdf-schema#label> "Afrixalus laevis" .
+

@@ -1,0 +1,112 @@
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/AgustaWestland+CH-149+Cormorant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Post-grunge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/AirLony+Highlander> <http://dbpedia.org/ontology/feature> "DesignedArtifact" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/North+American+P-51+Mustang> <http://dbpedia.org/ontology/feature> "category" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Airbcone+Redback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://dbpedia.org/resource/Northrop_Frye> <http://www.w3.org/2000/01/rdf-schema#label> "Northrop F-5" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Rockwell+B-+rLancer> <http://dbpedia.org/ontology/feature> "cract" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Southern+rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://dbpedia.org/resource/Northrop_Frye> <http://dbpedia.org/ontology/feature> "Model_airplane" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Grindcore> <http://dbpedia.org/ontology/feature> "Concept" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/JapaPese+hip+hop> <http://dbpedia.org/ontology/feature> "muicJ genre" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Rockwell+B-+rLancer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+OC-135B+Open+Skies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Liquid+funk> <http://dbpedia.org/ontology/feature> "category" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Type+XXIII+submarine> <http://www.w3.org/2000/01/rdf-schema#label> "Type XXIII submarine" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/JapaPese+hip+hop> <http://www.w3.org/2000/01/rdf-schema#label> "JapaPese hip hop" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Aeros+Rival> <http://www.w3.org/2000/01/rdf-schema#label> "Aeros Rival" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Post-grunge> <http://www.w3.org/2000/01/rdf-schema#label> "Post-grunge" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Post-grunge> <http://dbpedia.org/ontology/feature> "communication" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+E-3+Sentry> <http://dbpedia.org/ontology/feature> "mean of transportation" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Bongo+Flava> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Airbcone+Redback> <http://dbpedia.org/ontology/feature> "idze" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/HMCS+Bonaventure+%28CVL+22%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+OC-135B+Open+Skies> <http://dbpedia.org/ontology/feature> "category" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/CongWa+music%29> <http://www.w3.org/2000/01/rdf-schema#label> "CongWa music)" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Type+XXIII+submarine> <http://dbpedia.org/ontology/feature> "communication" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Bongo+Flava> <http://www.w3.org/2000/01/rdf-schema#label> "Bongo Flava" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/HMCS+Bonaventure+%28CVL+22%29> <http://www.w3.org/2000/01/rdf-schema#label> "HMCS Bonaventure (CVL 22)" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Type+A+K%C5%8D-hy%C5%8Dteki-class+submarine> <http://dbpedia.org/ontology/feature> "noesis" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Northrop+Grumman+B-2+Spirit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/House+music> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Northrop+Grumman+B-2+Spirit> <http://dbpedia.org/ontology/feature> "aircraft" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/USS+George+H.W.+Bush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Grindcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Aeros+Rival> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/JapaPese+hip+hop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Type+XXIII+submarine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://dbpedia.org/resource/Gangsta_Pat> <http://dbpedia.org/ontology/feature> "category" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Garage+rock> <http://dbpedia.org/ontology/feature> "attribute" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Northrop+Grumman+E-8+Joint+STARS> <http://www.w3.org/2000/01/rdf-schema#label> "Northrop Grumman E-8 Joint STARS" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+Vertol+CH-46+Sea+Knight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+E-3+Sentry> <http://www.w3.org/2000/01/rdf-schema#label> "Boeing E-3 Sentry" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/DSV+Alvin> <http://www.w3.org/2000/01/rdf-schema#label> "DSV Alvin" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Aeros+Rival> <http://dbpedia.org/ontology/feature> "psychological feature" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+RC-135> <http://dbpedia.org/ontology/feature> "device" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Yass+%28music%29> <http://www.w3.org/2000/01/rdf-schema#label> "Yass (music)" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Garage+rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Rockwell+B-+rLancer> <http://www.w3.org/2000/01/rdf-schema#label> "Rockwell B- rLancer" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+E-3+Sentry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/New+wave+music> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Garage+rock> <http://www.w3.org/2000/01/rdf-schema#label> "Garage rock" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Type+A+K%C5%8D-hy%C5%8Dteki-class+submarine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Yass+%28music%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/New+wave+music> <http://dbpedia.org/ontology/feature> "topical concept" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/North+American+P-51+Mustang> <http://www.w3.org/2000/01/rdf-schema#label> "North American P-51 Mustang" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/North+American+P-51+Mustang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/AirLony+Highlander> <http://www.w3.org/2000/01/rdf-schema#label> "AirLony Highlander" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+OC-135B+Open+Skies> <http://www.w3.org/2000/01/rdf-schema#label> "Boeing OC-135B Open Skies" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/CongWa+music%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://dbpedia.org/resource/Santa_Mar%C3%ADa_class_frigate> <http://www.w3.org/2000/01/rdf-schema#label> "Santa Mar\u00EDa-class frigate" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+Vertol+CH-46+Sea+Knight> <http://dbpedia.org/ontology/feature> "Product" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/USS+Asterion+%28AK-100%29> <http://dbpedia.org/ontology/feature> "Ship" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Type+A+K%C5%8D-hy%C5%8Dteki-class+submarine> <http://www.w3.org/2000/01/rdf-schema#label> "Type A K\u014D-hy\u014Dteki-class submarine" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Aeros+UL-2000+Flamingo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+KC-135+Stratotanker> <http://www.w3.org/2000/01/rdf-schema#label> "Boeing KC-135 Stratotanker" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/HMCS+Bonaventure+%28CVL+22%29> <http://dbpedia.org/ontology/feature> "instrumentality" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+KC-135+Stratotanker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://dbpedia.org/resource/Gangsta_Pat> <http://www.w3.org/2000/01/rdf-schema#label> "Gangsta rap" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/AgustaWestland+CH-149+Cormorant> <http://dbpedia.org/ontology/feature> "category" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/AirLony+Highlander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Liquid+funk> <http://www.w3.org/2000/01/rdf-schema#label> "Liquid funk" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Northrop+Grumman+B-2+Spirit> <http://www.w3.org/2000/01/rdf-schema#label> "Northrop Grumman B-2 Spirit" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Yass+%28music%29> <http://dbpedia.org/ontology/feature> "category" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/New+wave+music> <http://www.w3.org/2000/01/rdf-schema#label> "New wave music" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/USS+Asterion+%28AK-100%29> <http://www.w3.org/2000/01/rdf-schema#label> "USS Asterion (AK-100)" .
+<http://dbpedia.org/resource/Musique_concrète> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+RC-135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/USS+Asterion+%28AK-100%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Pub+rockx+%28Unitedk+Kigdo%29> <http://dbpedia.org/ontology/feature> "abstracXt entit" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/CongWa+music%29> <http://dbpedia.org/ontology/feature> "TShng" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Northrop+Grumman+E-8+Joint+STARS> <http://dbpedia.org/ontology/feature> "abstract entity" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/USS+George+H.W.+Bush> <http://dbpedia.org/ontology/feature> "flaVtop" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Liquid+funk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://dbpedia.org/resource/Northrop_Frye> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Pub+rockx+%28Unitedk+Kigdo%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/USS+George+H.W.+Bush> <http://www.w3.org/2000/01/rdf-schema#label> "USS George H.W. Bush" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Bongo+Flava> <http://dbpedia.org/ontology/feature> "genre" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Airbcone+Redback> <http://www.w3.org/2000/01/rdf-schema#label> "Airbcone Redback" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/DSV+Alvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/AgustaWestland+CH-149+Cormorant> <http://www.w3.org/2000/01/rdf-schema#label> "AgustaWestland CH-149 Cormorant" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Southern+rock> <http://www.w3.org/2000/01/rdf-schema#label> "Southern rock" .
+<http://dbpedia.org/resource/Gangsta_Pat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/DSV+Alvin> <http://dbpedia.org/ontology/feature> "ship" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/House+music> <http://dbpedia.org/ontology/feature> "music genre" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Northrop+Grumman+E-8+Joint+STARS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://dbpedia.org/resource/Musique_concrète> <http://www.w3.org/2000/01/rdf-schema#label> "Musique concr\u00E8te" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Aeros+UL-2000+Flamingo> <http://www.w3.org/2000/01/rdf-schema#label> "Aeros UL-2000 Flamingo" .
+<http://dbpedia.org/resource/Santa_Mar%C3%ADa_class_frigate> <http://dbpedia.org/ontology/feature> "category" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/House+music> <http://www.w3.org/2000/01/rdf-schema#label> "House music" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Aeros+UL-2000+Flamingo> <http://dbpedia.org/ontology/feature> "coteOnt" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Pub+rockx+%28Unitedk+Kigdo%29> <http://www.w3.org/2000/01/rdf-schema#label> "Pub rockx (Unitedk Kigdo)" .
+<http://dbpedia.org/resource/List_of_psychoactive_plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://dbpedia.org/resource/List_of_psychoactive_plants> <http://www.w3.org/2000/01/rdf-schema#label> "Psychedelic trance" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+Vertol+CH-46+Sea+Knight> <http://www.w3.org/2000/01/rdf-schema#label> "Boeing Vertol CH-46 Sea Knight" .
+<http://dbpedia.org/resource/Musique_concrète> <http://dbpedia.org/ontology/feature> "music genre" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+RC-135> <http://www.w3.org/2000/01/rdf-schema#label> "Boeing RC-135" .
+<http://dbpedia.org/resource/Santa_Mar%C3%ADa_class_frigate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.bbc.co.uk/ontologies/creativework/Category> .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Grindcore> <http://www.w3.org/2000/01/rdf-schema#label> "Grindcore" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Southern+rock> <http://dbpedia.org/ontology/feature> "music genre" .
+<http://dbpedia.org/resource/List_of_psychoactive_plants> <http://dbpedia.org/ontology/feature> "category" .
+<http://example.org/cd5f8bf5-cd64-4fbd-8079-72fc123189ed/Boeing+KC-135+Stratotanker> <http://dbpedia.org/ontology/feature> "TransportationDevice_Vehicle" .
+

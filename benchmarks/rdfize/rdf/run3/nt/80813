@@ -1,0 +1,12 @@
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/BMW_N46__B18%255D%255D__1> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__B18%5D%5D__1" .
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/GM+Eotec+eQngine> <http://www.w3.org/2000/01/rdf-schema#label> "GM Eotec eQngine" .
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__6> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__6" .
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__2> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__2" .
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__3> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__3" .
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__7> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__7" .
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__5> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__5" .
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/BMW_N46__%255B%255B%2523N46B20%257CN46B20%255D%255D__4> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N46__%5B%5B%23N46B20%7CN46B20%5D%5D__4" .
+<http://dbpedia.org/resource/Ecotec> <http://www.w3.org/2000/01/rdf-schema#label> "GM Ecotec engine" .
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/BMW_N73__B67%255D%255D__1> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N73__B67%5D%5D__1" .
+<http://example.org/32a43f63-31e6-4fea-9a66-7c45c01e3aab/BMW_N73__B60%255D%255D__1> <http://www.w3.org/2000/01/rdf-schema#label> "BMW_N73__B60%5D%5D__1" .
+

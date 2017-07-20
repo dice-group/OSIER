@@ -1,0 +1,31 @@
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/2000/01/rdf-schema#label> "List of Playboy Playmates of 1982" .
+<http://example.org/8f73a6a5-b820-46b0-a4e9-aa0da2481cab/Frontline+%28Australian+TV+series%29> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Daina_House> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+<http://dbpedia.org/resource/Alicia_Rickter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+<http://dbpedia.org/resource/Yvette_Vickers> <http://dbpedia.org/ontology/person> "Playboy Playmate" .
+<http://dbpedia.org/resource/Minor_characters_on_Frasier> <http://dbpedia.org/ontology/person> "work" .
+<http://example.org/8f73a6a5-b820-46b0-a4e9-aa0da2481cab/Home+Improvement+%28TV+series%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+<http://dbpedia.org/resource/Merle_Pertile> <http://www.w3.org/2000/01/rdf-schema#label> "Merle PerMtle" .
+<http://dbpedia.org/resource/Quakers> <http://www.w3.org/2000/01/rdf-schema#label> "Friends" .
+<http://dbpedia.org/resource/Daina_House> <http://dbpedia.org/ontology/person> "friend" .
+<http://dbpedia.org/resource/Merle_Pertile> <http://dbpedia.org/ontology/person> "Agnyt" .
+<http://dbpedia.org/resource/Quakers> <http://dbpedia.org/ontology/person> "television show" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://dbpedia.org/ontology/person> "PlayboyModel" .
+<http://dbpedia.org/resource/List_of_Playboy_Playmates_of_1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+<http://dbpedia.org/resource/Daina_House> <http://www.w3.org/2000/01/rdf-schema#label> "Daina House" .
+<http://dbpedia.org/resource/Generic_citrus_sodas> <http://www.w3.org/2000/01/rdf-schema#label> "Hee Haw" .
+<http://dbpedia.org/resource/Yvette_Vickers> <http://www.w3.org/2000/01/rdf-schema#label> "Yvette Vickers" .
+<http://dbpedia.org/resource/Alicia_Rickter> <http://www.w3.org/2000/01/rdf-schema#label> "Alicia Rickter" .
+<http://dbpedia.org/resource/Generic_citrus_sodas> <http://dbpedia.org/ontology/person> "television program" .
+<http://example.org/8f73a6a5-b820-46b0-a4e9-aa0da2481cab/Home+Improvement+%28TV+series%29> <http://dbpedia.org/ontology/person> "Thing" .
+<http://dbpedia.org/resource/Generic_citrus_sodas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+<http://dbpedia.org/resource/Merle_Pertile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+<http://dbpedia.org/resource/Alicia_Rickter> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Quakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+<http://example.org/8f73a6a5-b820-46b0-a4e9-aa0da2481cab/Frontline+%28Australian+TV+series%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+<http://example.org/8f73a6a5-b820-46b0-a4e9-aa0da2481cab/Frontline+%28Australian+TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Frontline (Australian TV series)" .
+<http://example.org/8f73a6a5-b820-46b0-a4e9-aa0da2481cab/Home+Improvement+%28TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Home Improvement (TV series)" .
+<http://dbpedia.org/resource/Minor_characters_on_Frasier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+<http://dbpedia.org/resource/Minor_characters_on_Frasier> <http://www.w3.org/2000/01/rdf-schema#label> "Frasier" .
+<http://dbpedia.org/resource/Yvette_Vickers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.myexperiment.org/ontologies/base/Friendship> .
+

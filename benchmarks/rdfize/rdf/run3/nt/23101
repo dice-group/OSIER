@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/National_League_1> <http://www.w3.org/2000/01/rdf-schema#label> "Courage League Division 5" .
+<http://example.org/cedadab5-92a6-4a8d-af3c-2c1511a11c63/RFL+Lancashire+Cup> <http://www.w3.org/2000/01/rdf-schema#label> "RFL Lancashire Cup" .
+<http://dbpedia.org/resource/Allsvenskan_and_Elitserien_(bandy)> <http://www.w3.org/2000/01/rdf-schema#label> "Allsveskan and ElitYserien (bandy)" .
+<http://dbpedia.org/resource/2010_European_Under-18_Rugby_Union_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "European Under-19 Rugby Union Championship" .
+<http://example.org/cedadab5-92a6-4a8d-af3c-2c1511a11c63/African+Rugby+Under-19+Cup> <http://www.w3.org/2000/01/rdf-schema#label> "African Rugby Under-19 Cup" .
+<http://example.org/cedadab5-92a6-4a8d-af3c-2c1511a11c63/League+of+Legends+Pro+League> <http://www.w3.org/2000/01/rdf-schema#label> "League of Legends Pro League" .
+<http://example.org/cedadab5-92a6-4a8d-af3c-2c1511a11c63/Ocseani+nder+20+Rugby+ChampiLonship> <http://www.w3.org/2000/01/rdf-schema#label> "Ocseani nder 20 Rugby ChampiLonship" .
+<http://example.org/cedadab5-92a6-4a8d-af3c-2c1511a11c63/League+of+Legends+Champions+Korea> <http://www.w3.org/2000/01/rdf-schema#label> "League of Legends Champions Korea" .
+<http://example.org/cedadab5-92a6-4a8d-af3c-2c1511a11c63/Sottish+Amater+FoUotball+AssociaAtion> <http://www.w3.org/2000/01/rdf-schema#label> "Sottish Amater FoUotball AssociaAtion" .
+

@@ -1,0 +1,16 @@
+<http://example.org/7aee91b4-a6d6-470e-9ea4-02cbfb440a01/Melkite+Greek+Catholic+Eparchy+of+Saint+Michael+Archangel+in+Sydney> <http://dbpedia.org/ontology/diocese> "diocese" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://dbpedia.org/ontology/diocese> "AdministrativeArea" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cashel_and_Emly> <http://dbpedia.org/ontology/diocese> "place" .
+<http://example.org/7aee91b4-a6d6-470e-9ea4-02cbfb440a01/Roman+Catholic+Archdiocese+of+La+Plata+in+Argentina> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of La Plata in Argentina" .
+<http://example.org/7aee91b4-a6d6-470e-9ea4-02cbfb440a01/RomYan+Catholic+Diocese+o+Conchordia+in+Argentia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/7aee91b4-a6d6-470e-9ea4-02cbfb440a01/Roman+Catholic+Archdiocese+of+La+Plata+in+Argentina> <http://dbpedia.org/ontology/diocese> "place" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cashel_and_Emly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/7aee91b4-a6d6-470e-9ea4-02cbfb440a01/Melkite+Greek+Catholic+Eparchy+of+Saint+Michael+Archangel+in+Sydney> <http://www.w3.org/2000/01/rdf-schema#label> "Melkite Greek Catholic Eparchy of Saint Michael Archangel in Sydney" .
+<http://example.org/7aee91b4-a6d6-470e-9ea4-02cbfb440a01/RomYan+Catholic+Diocese+o+Conchordia+in+Argentia> <http://dbpedia.org/ontology/diocese> "AIdminisrativeArea" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Armagh" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Prague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/7aee91b4-a6d6-470e-9ea4-02cbfb440a01/Melkite+Greek+Catholic+Eparchy+of+Saint+Michael+Archangel+in+Sydney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/7aee91b4-a6d6-470e-9ea4-02cbfb440a01/Roman+Catholic+Archdiocese+of+La+Plata+in+Argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://example.org/7aee91b4-a6d6-470e-9ea4-02cbfb440a01/RomYan+Catholic+Diocese+o+Conchordia+in+Argentia> <http://www.w3.org/2000/01/rdf-schema#label> "RomYan Catholic Diocese o Conchordia in Argentia" .
+<http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cashel_and_Emly> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Catholic Archdiocese of Cashel and Emly" .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Stella_Maris_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Stella Maris Light" .
+<http://dbpedia.org/resource/Pooles_Island_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Tower> .
+<http://dbpedia.org/resource/Point_Danger_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Point Danger Light" .
+<http://dbpedia.org/resource/Pooles_Island_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Pooles Island Light" .
+<http://dbpedia.org/resource/Point_Danger_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Tower> .
+<http://dbpedia.org/resource/Pooles_Island_Light> <http://dbpedia.org/ontology/place> "tower" .
+<http://dbpedia.org/resource/Wolf_Rock_Lighthouse> <http://dbpedia.org/ontology/place> "lighthouse" .
+<http://dbpedia.org/resource/Wolf_Rock_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Wolf Rock Lighthouse" .
+<http://dbpedia.org/resource/Turtle_Rock_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Turtle Rock Light" .
+<http://dbpedia.org/resource/Point_Danger_Light> <http://dbpedia.org/ontology/place> "place" .
+<http://dbpedia.org/resource/Stella_Maris_Light> <http://dbpedia.org/ontology/place> "tower" .
+<http://dbpedia.org/resource/Turtle_Rock_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Tower> .
+<http://dbpedia.org/resource/Turtle_Rock_Light> <http://dbpedia.org/ontology/place> "Location" .
+<http://dbpedia.org/resource/Wolf_Rock_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Tower> .
+<http://dbpedia.org/resource/Stella_Maris_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Tower> .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Elaina_Oden> <http://dbpedia.org/ontology/location> "NaturalPerson" .
+<http://dbpedia.org/resource/Alexander_Horst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Dan_Greenberg> <http://www.w3.org/2000/01/rdf-schema#label> "Dan Greenbaum" .
+<http://dbpedia.org/resource/Elaina_Oden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Alejandro_Spajic> <http://www.w3.org/2000/01/rdf-schema#label> "Alejandro Spaji\u0107" .
+<http://dbpedia.org/resource/Alejandro_Spajic> <http://dbpedia.org/ontology/location> "animate thing" .
+<http://dbpedia.org/resource/Alexander_Horst> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Horst" .
+<http://dbpedia.org/resource/Alejandro_Spajic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ebru_Elhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Alexander_Horst> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Ebru_Elhan> <http://www.w3.org/2000/01/rdf-schema#label> "Ebru Elhan" .
+<http://dbpedia.org/resource/Ebru_Elhan> <http://dbpedia.org/ontology/location> "volleyball player" .
+<http://dbpedia.org/resource/Elaina_Oden> <http://www.w3.org/2000/01/rdf-schema#label> "Elaina Oden" .
+<http://dbpedia.org/resource/Dan_Greenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Dan_Greenberg> <http://dbpedia.org/ontology/location> "animate thing" .
+

@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Michael_Coats> <http://dbpedia.org/ontology/agency> "person" .
+<http://dbpedia.org/resource/Lev_Dyomin> <http://dbpedia.org/ontology/agency> "Agent" .
+<http://dbpedia.org/resource/Frederick_Judd_Waugh> <http://www.w3.org/2000/01/rdf-schema#label> "Frederick Hauck" .
+<http://dbpedia.org/resource/Yury_Artyukhin> <http://www.w3.org/2000/01/rdf-schema#label> "Yury Artyukhin" .
+<http://dbpedia.org/resource/Charles_C._B._Walker> <http://dbpedia.org/ontology/agency> "causal agency" .
+<http://dbpedia.org/resource/Michael_Coats> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Coats" .
+<http://dbpedia.org/resource/Lev_Dyomin> <http://www.w3.org/2000/01/rdf-schema#label> "Lev Dyomin" .
+<http://dbpedia.org/resource/Yury_Artyukhin> <http://dbpedia.org/ontology/agency> "person" .
+<http://dbpedia.org/resource/Frederick_Judd_Waugh> <http://dbpedia.org/ontology/agency> "Astronaut" .
+<http://dbpedia.org/resource/Charles_C._B._Walker> <http://www.w3.org/2000/01/rdf-schema#label> "Charles D. Walker" .
+

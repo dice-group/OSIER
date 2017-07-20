@@ -1,0 +1,11 @@
+<http://example.org/a77dd238-d17d-4148-abb4-997f63011ff6/Mathew_Wilson__Baronet-stub__1> <http://dbpedia.org/ontology/creator> "person" .
+<http://example.org/a77dd238-d17d-4148-abb4-997f63011ff6/Francis+Heathcote> <http://www.w3.org/2000/01/rdf-schema#label> "Francis Heathcote" .
+<http://dbpedia.org/resource/Sir_William_Leman,_2nd_Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "Sir William Hickman, 2nd Baronet" .
+<http://example.org/a77dd238-d17d-4148-abb4-997f63011ff6/Mathew_Wilson__Baronet-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Mathew_Wilson__Baronet-stub__1" .
+<http://example.org/a77dd238-d17d-4148-abb4-997f63011ff6/Francis+Heathcote> <http://dbpedia.org/ontology/creator> "agent" .
+<http://dbpedia.org/resource/Marshall_baronets> <http://www.w3.org/2000/01/rdf-schema#label> "Marshall baronets" .
+<http://dbpedia.org/resource/Marshall_baronets> <http://dbpedia.org/ontology/creator> "Person" .
+<http://dbpedia.org/resource/Sir_John_Neeld,_1st_Baronet> <http://www.w3.org/2000/01/rdf-schema#label> "John Neeld" .
+<http://dbpedia.org/resource/Sir_William_Leman,_2nd_Baronet> <http://dbpedia.org/ontology/creator> "person" .
+<http://dbpedia.org/resource/Sir_John_Neeld,_1st_Baronet> <http://dbpedia.org/ontology/creator> "graduate" .
+

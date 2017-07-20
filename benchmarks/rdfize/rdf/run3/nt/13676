@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Camp_Opemikon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Shelter> .
+<http://dbpedia.org/resource/Cape_May_National_Wildlife_Refuge> <http://www.w3.org/2000/01/rdf-schema#label> "Cape Romain National Wildlife Refuge" .
+<http://dbpedia.org/resource/Canoe_Creek_State_Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Shelter> .
+<http://dbpedia.org/resource/Canoe_Creek_State_Park> <http://www.w3.org/2000/01/rdf-schema#label> "Camp Creek State Park" .
+<http://dbpedia.org/resource/Cape_May_National_Wildlife_Refuge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Shelter> .
+<http://dbpedia.org/resource/Caribou_Mountains_Wildland_Park> <http://www.w3.org/2000/01/rdf-schema#label> "Caribou Mountains Wildland Park" .
+<http://dbpedia.org/resource/Caribou_Mountains_Wildland_Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Shelter> .
+<http://dbpedia.org/resource/Central_Oak_Heights> <http://www.w3.org/2000/01/rdf-schema#label> "Central Oak Heights" .
+<http://dbpedia.org/resource/Central_Oak_Heights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Shelter> .
+<http://dbpedia.org/resource/Camp_Opemikon> <http://www.w3.org/2000/01/rdf-schema#label> "Camp Opemikon" .
+

@@ -1,0 +1,23 @@
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Angus+Armanasco+Stakes> <http://dbpedia.org/ontology/nextEvent> "event" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Whiskey+Rebellion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#ElectricalResistance> .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Port+Royal> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Port Royal" .
+<http://dbpedia.org/resource/Battle_of_K%C4%B1z%C4%B1l_Tepe> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of K\u0131z\u0131l Tepe" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Port+Royal> <http://dbpedia.org/ontology/nextEvent> "event" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Whiskey+Rebellion> <http://www.w3.org/2000/01/rdf-schema#label> "Whiskey Rebellion" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Montebello+%281800%29> <http://dbpedia.org/ontology/nextEvent> "sWocietal evnt" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Port+Royal> <http://dbpedia.org/ontology/nextEvent> "conflict" .
+<http://dbpedia.org/resource/Battle_of_K%C4%B1z%C4%B1l_Tepe> <http://dbpedia.org/ontology/nextEvent> "societal event" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Little+Dry+Creek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#ElectricalResistance> .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Montebello+%281800%29> <http://dbpedia.org/ontology/nextEvent> "abstract entity" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Whiskey+Rebellion> <http://dbpedia.org/ontology/nextEvent> "resistance" .
+<http://dbpedia.org/resource/Battle_of_K%C4%B1z%C4%B1l_Tepe> <http://dbpedia.org/ontology/nextEvent> "Event" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Angus+Armanasco+Stakes> <http://www.w3.org/2000/01/rdf-schema#label> "Angus Armanasco Stakes" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Montebello+%281800%29> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Montebello (1800)" .
+<http://dbpedia.org/resource/Battle_of_K%C4%B1z%C4%B1l_Tepe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#ElectricalResistance> .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Little+Dry+Creek> <http://dbpedia.org/ontology/nextEvent> "deed" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Little+Dry+Creek> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Little Dry Creek" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Montebello+%281800%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#ElectricalResistance> .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Little+Dry+Creek> <http://dbpedia.org/ontology/nextEvent> "conflict" .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Battle+of+Port+Royal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#ElectricalResistance> .
+<http://example.org/af98a911-9bfc-4736-a335-793fc0f288a5/Angus+Armanasco+Stakes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iot/vocab/m3-lite#ElectricalResistance> .
+

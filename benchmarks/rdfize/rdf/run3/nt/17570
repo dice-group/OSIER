@@ -1,0 +1,213 @@
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Venera-D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Kamov_Ka-92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Space+Technology+Research+Vehicle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/LEO+%28spacecraft%29> <http://www.w3.org/2000/01/rdf-schema#label> "LEO (spacecraft)" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Skylab+Rescue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Azur+%28satellite%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Pioneer_Venus_project> <http://www.w3.org/2000/01/rdf-schema#label> "Pioneer 11" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+AC-130> <http://www.w3.org/2000/01/rdf-schema#label> "Lockheed AC-130" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Venera-D> <http://dbpedia.org/ontology/product> "craft" .
+<http://dbpedia.org/resource/Canceled_Space_Shuttle_missions> <http://dbpedia.org/ontology/product> "grouping" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Breguet+Atlantic> <http://dbpedia.org/ontology/product> "aircraft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Cessna+T-37+Tweet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "clestiaSl body" .
+<http://dbpedia.org/resource/List_of_Boeing_B-17_Flying_Fortress_variants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Italian+battleship+Giulio+Cesare> <http://www.w3.org/2000/01/rdf-schema#label> "Italian battleship Giulio Cesare" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mariner+4> <http://dbpedia.org/ontology/product> "craft" .
+<http://dbpedia.org/resource/List_of_McDonnell_Douglas_F-4_Phantom_II_variants> <http://dbpedia.org/ontology/product> "craft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Junkers+Ju+87> <http://www.w3.org/2000/01/rdf-schema#label> "Junkers Ju 87" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Spwae+Shuttle+Enterprise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Comte+AC-12+Moskito> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Europa+Jupiter+System+Mission+%E2%80%93+Laplace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/List_of_McDonnell_Douglas_F-4_Phantom_II_variants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "LoatioIn" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Living+Interplanetary+Flight+Experiment> <http://www.w3.org/2000/01/rdf-schema#label> "Living Interplanetary Flight Experiment" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 23" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/MELOS> <http://www.w3.org/2000/01/rdf-schema#label> "MELOS" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Evolved+Laser+Interferometer+Space+Antenna> <http://www.w3.org/2000/01/rdf-schema#label> "Evolved Laser Interferometer Space Antenna" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/McDonnell+FH+Phantom> <http://www.w3.org/2000/01/rdf-schema#label> "McDonnell FH Phantom" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Heat+Capacity+Mapping+Mission> <http://dbpedia.org/ontology/product> "craft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Skylab+Rescue> <http://dbpedia.org/ontology/product> "action" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+P-38+Lightning> <http://www.w3.org/2000/01/rdf-schema#label> "Lockheed P-38 Lightning" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 15" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "instrumentality" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "yagoLegalActorGeo" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+MartinF-35+LightningN+II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Cessna+441+Conquest+II> <http://dbpedia.org/ontology/product> "craft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Europa+Jupiter+System+Mission+%E2%80%93+Laplace> <http://dbpedia.org/ontology/product> "instrument" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mitsubishi+A6M+Zero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Sputnik_11> <http://dbpedia.org/ontology/product> "satellite" .
+<http://dbpedia.org/resource/Akari_(satellite)> <http://www.w3.org/2000/01/rdf-schema#label> "Akari (satellite)" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Living+Interplanetary+Flight+Experiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Radarsat-1> <http://www.w3.org/2000/01/rdf-schema#label> "Radarsat-1" .
+<http://dbpedia.org/resource/Messerschmitt_Me_265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Solar+Wings+Breeze> <http://www.w3.org/2000/01/rdf-schema#label> "Solar Wings Breeze" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Cessna+441+Conquest+II> <http://www.w3.org/2000/01/rdf-schema#label> "Cessna 441 Conquest II" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Fast+Auroral+Snapshot+Explorer> <http://www.w3.org/2000/01/rdf-schema#label> "Fast Auroral Snapshot Explorer" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Space+Shuttle+Endeavour> <http://dbpedia.org/ontology/product> "physical entity" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mars+Colonial+Transporter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Carlson+Sparrow> <http://dbpedia.org/ontology/product> "Thing" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Comte+AC-12+Moskito> <http://dbpedia.org/ontology/product> "content" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+AC-130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/ABS+Aerolight+Legacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Brewster+SB2A+Buccaneer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Space+Technology+Research+Vehicle> <http://www.w3.org/2000/01/rdf-schema#label> "Space Technology Research Vehicle" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/ADM-Aeolus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/BepiColombo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/List_of_Boeing_B-17_Flying_Fortress_variants> <http://www.w3.org/2000/01/rdf-schema#label> "Boeing B-17 Flying Fortress" .
+<http://dbpedia.org/resource/Akari_(satellite)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/BepiColombo> <http://dbpedia.org/ontology/product> "transport" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mariner+4> <http://www.w3.org/2000/01/rdf-schema#label> "Mariner 4" .
+<http://dbpedia.org/resource/Kawasaki_KX250> <http://dbpedia.org/ontology/product> "Thing" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mars+Polar+Lander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Red+Dragon+%28spacecraft%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Messerschmitt+Me+163+Komet> <http://www.w3.org/2000/01/rdf-schema#label> "Messerschmitt Me 163 Komet" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/MELOS> <http://dbpedia.org/ontology/product> "artifact" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+P-38+Lightning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Pioneer_Venus_project> <http://dbpedia.org/ontology/product> "instrumentality" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Breguet+Atlantic> <http://www.w3.org/2000/01/rdf-schema#label> "Breguet Atlantic" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "spacecraft" .
+<http://dbpedia.org/resource/XMM-Newton> <http://dbpedia.org/ontology/product> "craft" .
+<http://dbpedia.org/resource/Airbus> <http://dbpedia.org/ontology/product> "airliner" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+MartinF-35+LightningN+II> <http://dbpedia.org/ontology/product> "aircaCft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Space+Technology+Research+Vehicle> <http://dbpedia.org/ontology/product> "physical entity" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+F-117+Nighthawk> <http://www.w3.org/2000/01/rdf-schema#label> "Lockheed F-117 Nighthawk" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+MartinF-35+LightningN+II> <http://www.w3.org/2000/01/rdf-schema#label> "Lockheed MartinF-35 LightningN II" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/ADM-Aeolus> <http://www.w3.org/2000/01/rdf-schema#label> "ADM-Aeolus" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Titan+Saturn+System+Mission> <http://www.w3.org/2000/01/rdf-schema#label> "Titan Saturn System Mission" .
+<http://dbpedia.org/resource/Zond_2> <http://dbpedia.org/ontology/product> "craft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Brewster+SB2A+Buccaneer> <http://www.w3.org/2000/01/rdf-schema#label> "Brewster SB2A Buccaneer" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Cessna+T-37+Tweet> <http://dbpedia.org/ontology/product> "TransportationDevice_Vehicle" .
+<http://dbpedia.org/resource/Airbus> <http://www.w3.org/2000/01/rdf-schema#label> "Airbus A300" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Comte+AC-12+Moskito> <http://www.w3.org/2000/01/rdf-schema#label> "Comte AC-12 Moskito" .
+<http://dbpedia.org/resource/Airbus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+P-38+Lightning> <http://dbpedia.org/ontology/product> "heavier-than-air craft" .
+<http://dbpedia.org/resource/Gemini_TV> <http://www.w3.org/2000/01/rdf-schema#label> "Gemini 10" .
+<http://dbpedia.org/resource/ISEE-2> <http://dbpedia.org/ontology/product> "guided missile" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Red+Dragon+%28spacecraft%29> <http://www.w3.org/2000/01/rdf-schema#label> "Red Dragon (spacecraft)" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Bristol+Britannia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+C-130+Hercules> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Living+Interplanetary+Flight+Experiment> <http://dbpedia.org/ontology/product> "Thing" .
+<http://dbpedia.org/resource/List_of_McDonnell_Douglas_F-4_Phantom_II_variants> <http://www.w3.org/2000/01/rdf-schema#label> "McDonnell Douglas F-4 Phantom II" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 10" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/British+Aircraft+Swallow> <http://dbpedia.org/ontology/product> "aircraft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Luna+5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/XMM-Newton> <http://www.w3.org/2000/01/rdf-schema#label> "XMM-Newton" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "Satellite" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "pacse" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+C-130+Hercules> <http://www.w3.org/2000/01/rdf-schema#label> "Lockheed C-130 Hercules" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Luna+5> <http://dbpedia.org/ontology/product> "craft" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 19" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 21" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Bristol+Britannia> <http://www.w3.org/2000/01/rdf-schema#label> "Bristol Britannia" .
+<http://dbpedia.org/resource/Zond_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mars+Colonial+Transporter> <http://dbpedia.org/ontology/product> "celestial body" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Space+Shuttle+Endeavour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Messerschmitt+Me+163+Komet> <http://dbpedia.org/ontology/product> "mean of transportation" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Spwae+Shuttle+Enterprise> <http://dbpedia.org/ontology/product> "curat" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Radarsat-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Fast+Auroral+Snapshot+Explorer> <http://dbpedia.org/ontology/product> "equipment" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Messerschmitt+Me+163+Komet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Caudron+Simoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Cessna+T-37+Tweet> <http://www.w3.org/2000/01/rdf-schema#label> "Cessna T-37 Tweet" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 14" .
+<http://dbpedia.org/resource/Pioneer_Venus_project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Azur+%28satellite%29> <http://dbpedia.org/ontology/product> "ArtificialSatellite" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mars+Colonial+Transporter> <http://www.w3.org/2000/01/rdf-schema#label> "Mars Colonial Transporter" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Solar+Wings+Breeze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Titan+Saturn+System+Mission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "nongovernmental organization" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mitsubishi+A6M+Zero> <http://www.w3.org/2000/01/rdf-schema#label> "Mitsubishi A6M Zero" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/ADM-Aeolus> <http://dbpedia.org/ontology/product> "celestial body" .
+<http://dbpedia.org/resource/Gemini_TV> <http://dbpedia.org/ontology/product> "organization" .
+<http://dbpedia.org/resource/Kamov_Ka-92> <http://www.w3.org/2000/01/rdf-schema#label> "Kamov Ka-25" .
+<http://dbpedia.org/resource/Kawasaki_KX250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Titan+Saturn+System+Mission> <http://dbpedia.org/ontology/product> "instrument" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/AIDA+%28mission%29> <http://www.w3.org/2000/01/rdf-schema#label> "AIDA (mission)" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Submillimeter+Wave+AsroWnoyy+Satellite> <http://dbpedia.org/ontology/product> "physical eantit" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Azur+%28satellite%29> <http://www.w3.org/2000/01/rdf-schema#label> "Azur (satellite)" .
+<http://dbpedia.org/resource/Messerschmitt_Me_265> <http://dbpedia.org/ontology/product> "ThUng" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Radarsat-1> <http://dbpedia.org/ontology/product> "craft" .
+<http://dbpedia.org/resource/List_of_Boeing_B-17_Flying_Fortress_variants> <http://dbpedia.org/ontology/product> "craft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Europa+Jupiter+System+Mission+%E2%80%93+Laplace> <http://www.w3.org/2000/01/rdf-schema#label> "Europa Jupiter System Mission \u2013 Laplace" .
+<http://dbpedia.org/resource/Vought_O4U_Corsair> <http://dbpedia.org/ontology/product> "object" .
+<http://dbpedia.org/resource/Vought_O4U_Corsair> <http://www.w3.org/2000/01/rdf-schema#label> "Vought F4U Corsair" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Fast+Auroral+Snapshot+Explorer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Junkers+Ju+87> <http://dbpedia.org/ontology/product> "airplane" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 13" .
+<http://dbpedia.org/resource/Canceled_Space_Shuttle_missions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Akari_(satellite)> <http://dbpedia.org/ontology/product> "device" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Carlson+Sparrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Skylab+Rescue> <http://www.w3.org/2000/01/rdf-schema#label> "Skylab Rescue" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Submillimeter+Wave+AsroWnoyy+Satellite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mars+Polar+Lander> <http://dbpedia.org/ontology/product> "missile" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Submillimeter+Wave+AsroWnoyy+Satellite> <http://www.w3.org/2000/01/rdf-schema#label> "Submillimeter Wave AsroWnoyy Satellite" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Heat+Capacity+Mapping+Mission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 12" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Celier+Xenon+2> <http://dbpedia.org/ontology/product> "Model_airplane" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Red+Dragon+%28spacecraft%29> <http://dbpedia.org/ontology/product> "mean of transportation" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Solar+Wings+Breeze> <http://dbpedia.org/ontology/product> "Hang gliding" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+AC-130> <http://dbpedia.org/ontology/product> "craft" .
+<http://dbpedia.org/resource/ISEE-2> <http://www.w3.org/2000/01/rdf-schema#label> "ISEE-2" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+C-130+Hercules> <http://dbpedia.org/ontology/product> "Product" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/AIDA+%28mission%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Zond_2> <http://www.w3.org/2000/01/rdf-schema#label> "Zond 4" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/LEO+%28spacecraft%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Evolved+Laser+Interferometer+Space+Antenna> <http://dbpedia.org/ontology/product> "instrument" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mariner+4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mitsubishi+A6M+Zero> <http://dbpedia.org/ontology/product> "physical entity" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/British+Aircraft+Swallow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Italian+battleship+Giulio+Cesare> <http://dbpedia.org/ontology/product> "DesignedArtifact" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+F-117+Nighthawk> <http://dbpedia.org/ontology/product> "heavieAr-tan-ai rcraft" .
+<http://dbpedia.org/resource/Sputnik_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Cessna+441+Conquest+II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/ABS+Aerolight+Legacy> <http://www.w3.org/2000/01/rdf-schema#label> "ABS Aerolight Legacy" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/MELOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/AIDA+%28mission%29> <http://dbpedia.org/ontology/product> "Satellite" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/LEO+%28spacecraft%29> <http://dbpedia.org/ontology/product> "spacecraft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Evolved+Laser+Interferometer+Space+Antenna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 17" .
+<http://dbpedia.org/resource/XMM-Newton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Breguet+Atlantic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Carlson+Sparrow> <http://www.w3.org/2000/01/rdf-schema#label> "Carlson Sparrow" .
+<http://dbpedia.org/resource/Sputnik_11> <http://www.w3.org/2000/01/rdf-schema#label> "Sputnik 1" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Italian+battleship+Giulio+Cesare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/McDonnell+FH+Phantom> <http://dbpedia.org/ontology/product> "physical entity" .
+<http://dbpedia.org/resource/Canceled_Space_Shuttle_missions> <http://www.w3.org/2000/01/rdf-schema#label> "STS-51-F" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 11" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/BepiColombo> <http://www.w3.org/2000/01/rdf-schema#label> "BepiColombo" .
+<http://dbpedia.org/resource/Kamov_Ka-92> <http://dbpedia.org/ontology/product> "aircraft" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "craft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Junkers+Ju+87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Luna+5> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 5" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/2000/01/rdf-schema#label> "Luna 22" .
+<http://dbpedia.org/resource/Vought_O4U_Corsair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Zond_2> <http://dbpedia.org/ontology/product> "instrument" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Bristol+Britannia> <http://dbpedia.org/ontology/product> "craft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Celier+Xenon+2> <http://www.w3.org/2000/01/rdf-schema#label> "Celier Xenon 2" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://dbpedia.org/ontology/product> "instrument" .
+<http://dbpedia.org/resource/ISEE-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Caudron+Simoun> <http://www.w3.org/2000/01/rdf-schema#label> "Caudron Simoun" .
+<http://dbpedia.org/resource/Aviasud_Sirocco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/British+Aircraft+Swallow> <http://www.w3.org/2000/01/rdf-schema#label> "British Aircraft Swallow" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/ABS+Aerolight+Legacy> <http://dbpedia.org/ontology/product> "Product" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Caudron+Simoun> <http://dbpedia.org/ontology/product> "abstract entity" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Lockheed+F-117+Nighthawk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Aviasud_Sirocco> <http://dbpedia.org/ontology/product> "Thing" .
+<http://dbpedia.org/resource/Kamov_Ka-92> <http://dbpedia.org/ontology/product> "craft" .
+<http://dbpedia.org/resource/Zond_2> <http://www.w3.org/2000/01/rdf-schema#label> "Zond 3" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Venera-D> <http://www.w3.org/2000/01/rdf-schema#label> "Venera-D" .
+<http://dbpedia.org/resource/F(x)_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Aviasud_Sirocco> <http://www.w3.org/2000/01/rdf-schema#label> "Aviasud Sirocco" .
+<http://dbpedia.org/resource/Kamov_Ka-92> <http://www.w3.org/2000/01/rdf-schema#label> "Kamov Ka-50" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/McDonnell+FH+Phantom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Kawasaki_KX250> <http://www.w3.org/2000/01/rdf-schema#label> "Kawasaki Ki-56" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Celier+Xenon+2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Heat+Capacity+Mapping+Mission> <http://www.w3.org/2000/01/rdf-schema#label> "Heat Capacity Mapping Mission" .
+<http://dbpedia.org/resource/Gemini_TV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Satellite> .
+<http://dbpedia.org/resource/Messerschmitt_Me_265> <http://www.w3.org/2000/01/rdf-schema#label> "Messerschmitt Me 262" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Space+Shuttle+Endeavour> <http://www.w3.org/2000/01/rdf-schema#label> "Space Shuttle Endeavour" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Spwae+Shuttle+Enterprise> <http://www.w3.org/2000/01/rdf-schema#label> "Spwae Shuttle Enterprise" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Brewster+SB2A+Buccaneer> <http://dbpedia.org/ontology/product> "heavier-than-air craft" .
+<http://example.org/9c3ae76b-b49c-4468-a258-0d2ca1229403/Mars+Polar+Lander> <http://www.w3.org/2000/01/rdf-schema#label> "Mars Polar Lander" .
+

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/C.D._Juventud_Olímpica_Metalio> <http://www.w3.org/2000/01/rdf-schema#label> "C.D. Juventud Ol\u00EDmpica Metalio" .
+<http://dbpedia.org/resource/C.D._Lenca> <http://www.w3.org/2000/01/rdf-schema#label> "C.D. Lenca" .
+<http://dbpedia.org/resource/C.D._FAS> <http://www.w3.org/2000/01/rdf-schema#label> "C.D. FAS" .
+<http://dbpedia.org/resource/CD_Alcalá> <http://www.w3.org/2000/01/rdf-schema#label> "CD Alcal\u00E1" .
+<http://dbpedia.org/resource/CD_Agoncillo> <http://www.w3.org/2000/01/rdf-schema#label> "CD Agoncillo" .
+

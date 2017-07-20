@@ -1,0 +1,11 @@
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/Star+Trek+Generations> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek Generations" .
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/The+Birth+of+a+Nation> <http://www.w3.org/2000/01/rdf-schema#label> "The Birth of a Nation" .
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/Stargate+%28film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/Star+Trek+II%3A+The+Wrath+of+Khan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/Terror+of+Mechagodzilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/The+Birth+of+a+Nation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/Stargate+%28film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Stargate (film)" .
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/Star+Trek+Generations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/Terror+of+Mechagodzilla> <http://www.w3.org/2000/01/rdf-schema#label> "Terror of Mechagodzilla" .
+<http://example.org/e840fe89-542a-48b7-be29-9558059aeea9/Star+Trek+II%3A+The+Wrath+of+Khan> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek II: The Wrath of Khan" .
+

@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Referee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://example.org/bdf6ceb4-b606-4900-a2c4-aa0743a885fe/Grosvenor+Research+Professor+of+Practical+Theology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Eve_Torres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Academia> <http://www.w3.org/2000/01/rdf-schema#label> "Academic" .
+<http://dbpedia.org/resource/Media_proprietor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Academia> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Eve_Torres> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Referee> <http://www.w3.org/2000/01/rdf-schema#label> "Umpire" .
+<http://example.org/bdf6ceb4-b606-4900-a2c4-aa0743a885fe/Grosvenor+Research+Professor+of+Practical+Theology> <http://dbpedia.org/ontology/location> "Thing" .
+<http://dbpedia.org/resource/Academia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Eve_Torres> <http://www.w3.org/2000/01/rdf-schema#label> "model" .
+<http://dbpedia.org/resource/Media_proprietor> <http://www.w3.org/2000/01/rdf-schema#label> "media executive" .
+<http://dbpedia.org/resource/Media_proprietor> <http://dbpedia.org/ontology/location> "person function" .
+<http://dbpedia.org/resource/Referee> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/bdf6ceb4-b606-4900-a2c4-aa0743a885fe/Grosvenor+Research+Professor+of+Practical+Theology> <http://www.w3.org/2000/01/rdf-schema#label> "Grosvenor Research Professor of Practical Theology" .
+

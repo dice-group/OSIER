@@ -1,0 +1,820 @@
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/House+of+Love+%28East+17+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/AbiWord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Media+Whores+Online> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Le_Qu%C3%A9b%C3%A9cois_Libre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/DNA+ligase> <http://www.w3.org/2000/01/rdf-schema#label> "DNA ligase" .
+<http://dbpedia.org/resource/Hungary_at_the_1972_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Hungary at the 1948 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/SM-65B+Atlas> <http://www.w3.org/2000/01/rdf-schema#label> "SM-65B Atlas" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Loons%3A+The+Fight+for+Fame> <http://www.w3.org/2000/01/rdf-schema#label> "Loons: The Fight for Fame" .
+<http://dbpedia.org/resource/Forza_Motorsport_(series)> <http://www.w3.org/2000/01/rdf-schema#label> "Forza Motorsport 4" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Agaricus+hondensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/New+Game+Network> <http://www.w3.org/2000/01/rdf-schema#label> "New Game Network" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/House+of+Love+%28Amy+Grant+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "House of Love (Amy Grant song)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Milonga+Del+Angel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/TS+Class+7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/BMW_M73> <http://www.w3.org/2000/01/rdf-schema#label> "BMW M42" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Solar+Wings+Breeze> <http://www.w3.org/2000/01/rdf-schema#label> "Solar Wings Breeze" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/8269+Calandrelli> <http://www.w3.org/2000/01/rdf-schema#label> "8269 Calandrelli" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1987%2F1988> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1987/1988" .
+<http://dbpedia.org/resource/Bassas_da_India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Zeta_Serpentis> <http://www.w3.org/2000/01/rdf-schema#label> "Zeta Serpentis" .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1952 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Coenzym+Q+f%E2%80%93+cytochrome+c+reucitase> <http://www.w3.org/2000/01/rdf-schema#label> "Coenzym Q f\u2013 cytochrome c reucitase" .
+<http://dbpedia.org/resource/Maginot_Line> <http://www.w3.org/2000/01/rdf-schema#label> "Maginot Line" .
+<http://dbpedia.org/resource/Juno_V> <http://www.w3.org/2000/01/rdf-schema#label> "Juno I" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Delta+Lupi> <http://www.w3.org/2000/01/rdf-schema#label> "Delta Lupi" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Adobe+Photoshop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/BMW_M73> <http://www.w3.org/2000/01/rdf-schema#label> "BMW M40" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Virtual+Boy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Rehbar-I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Italy_at_the_1972_Summer_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Heretic+II> <http://www.w3.org/2000/01/rdf-schema#label> "Heretic II" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Milonga+Del+Angel> <http://www.w3.org/2000/01/rdf-schema#label> "Milonga Del Angel" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Starkriechender+Trompetenpfifferling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sundancer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Out_Where_the_West_Begins__Poem-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Out_Where_the_West_Begins__Poem-stub__1" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/10001_Palermo__Beltasteroid-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/LqaeX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Star+Control> <http://www.w3.org/2000/01/rdf-schema#label> "Star Control" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/PasmiZn> <http://www.w3.org/2000/01/rdf-schema#label> "PasmiZn" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Orbital+Technologies+Commercial+Space+Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Remi%2C+Nobody%27s+Girl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zytek-Renault+ZRS03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Icy+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Slane_Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Salpa_Line> <http://www.w3.org/2000/01/rdf-schema#label> "Salpa Line" .
+<http://dbpedia.org/resource/Ulvesund_Lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Heretic+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/GMC+CCKW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Ain't_I_a_Woman%3F_(book)> <http://www.w3.org/2000/01/rdf-schema#label> "Ain't I a Woman? (book)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Media+Take+Out> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Agathis+philippinensis> <http://www.w3.org/2000/01/rdf-schema#label> "Agathis philippinensis" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Leo+the+Lion+%28anime%29> <http://www.w3.org/2000/01/rdf-schema#label> "Leo the Lion (anime)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zamia+melanorrhachis> <http://www.w3.org/2000/01/rdf-schema#label> "Zamia melanorrhachis" .
+<http://dbpedia.org/resource/BMW_M73> <http://www.w3.org/2000/01/rdf-schema#label> "BMW M43" .
+<http://dbpedia.org/resource/Haddington,_Philadelphia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Sargon_the_Sorcerer> <http://www.w3.org/2000/01/rdf-schema#label> "Simon the Sorcerer" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1984%2F1985> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1984/1985" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Media+Take+Out> <http://www.w3.org/2000/01/rdf-schema#label> "Media Take Out" .
+<http://dbpedia.org/resource/11248_Bl%C3%A9riot> <http://www.w3.org/2000/01/rdf-schema#label> "11248 Bl\u00E9riot" .
+<http://dbpedia.org/resource/5694_Ber%C3%A9nyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Norway_at_the_1968_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Norway at the 1952 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Deuce+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Deuce (song)" .
+<http://dbpedia.org/resource/TRAX_(light_rail)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/181+Eucharis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Multiplan_(company)> <http://www.w3.org/2000/01/rdf-schema#label> "Multiplan" .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Class 411" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Star+Wars+Jedi+Knight%3A+Dark+Forces+II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 2005/2006" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Icy+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Icy (song)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Macrophage+migration+inhibitory+factor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Skylab+B> <http://www.w3.org/2000/01/rdf-schema#label> "Skylab B" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sirius+Stiletto> <http://www.w3.org/2000/01/rdf-schema#label> "Sirius Stiletto" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Cajun+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Melbourne_Cricket_Ground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Methoxphenidine> <http://www.w3.org/2000/01/rdf-schema#label> "Methoxphenidine" .
+<http://dbpedia.org/resource/Theatre_Row_(New_York_City)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Collagen+helix> <http://www.w3.org/2000/01/rdf-schema#label> "Collagen helix" .
+<http://dbpedia.org/resource/Blomidon_Golf_&_Country_Club> <http://www.w3.org/2000/01/rdf-schema#label> "Blomidon Golf & Country Club" .
+<http://dbpedia.org/resource/Ingress,_egress,_and_regress> <http://www.w3.org/2000/01/rdf-schema#label> "Ingress, egress, and regress" .
+<http://dbpedia.org/resource/Chocobo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Demigod+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Saphir+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Saphir (rocket)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Deuce+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pillar+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/VentureStar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Lepidopilum+grevilleanum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zoster-immune+globulin> <http://www.w3.org/2000/01/rdf-schema#label> "Zoster-immune globulin" .
+<http://dbpedia.org/resource/List_of_Boeing_B-17_Flying_Fortress_variants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/13722+Campobagatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Haddington,_Philadelphia> <http://www.w3.org/2000/01/rdf-schema#label> "Haddington, Philadelphia" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Starship+Titanic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Dunbar_Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/The_Water-Babies,_A_Fairy_Tale_for_a_Land_Baby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/AOL+Instant+Messenger> <http://www.w3.org/2000/01/rdf-schema#label> "AOL Instant Messenger" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/AbiWord> <http://www.w3.org/2000/01/rdf-schema#label> "AbiWord" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Port+Royale+3%3A+Pirates+%26+Merchants> <http://www.w3.org/2000/01/rdf-schema#label> "Port Royale 3: Pirates & Merchants" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/MTR+KTT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Psion_Series_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Lepidozia+azorica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/A_Descent_into_the_Maelström> <http://www.w3.org/2000/01/rdf-schema#label> "A Descent into the Maelstr\u00F6m" .
+<http://dbpedia.org/resource/Forza_Motorsport_(series)> <http://www.w3.org/2000/01/rdf-schema#label> "Forza Motorsport 5" .
+<http://dbpedia.org/resource/BMW_N26> <http://www.w3.org/2000/01/rdf-schema#label> "BMW N42" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Naphrys+pulex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hot+Shot+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hot Shot (video game)" .
+<http://dbpedia.org/resource/Qualcomm_Gobi> <http://www.w3.org/2000/01/rdf-schema#label> "Qualcomm Toq" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Nagoya+Municipal+Subway+6050+series> <http://www.w3.org/2000/01/rdf-schema#label> "Nagoya Municipal Subway 6050 series" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Clubbed+to+Death+%28instrumental%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clubbed to Death (instrumental)" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 2000/2001" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Digital+%28Joy+Division+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Digital (Joy Division song)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/10001_Palermo__Beltasteroid-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "10001_Palermo__Beltasteroid-stub__1" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/XPSilo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Aviasud_Sirocco> <http://www.w3.org/2000/01/rdf-schema#label> "Aviasud Sirocco" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/DonuweLibchen> <http://www.w3.org/2000/01/rdf-schema#label> "DonuweLibchen" .
+<http://dbpedia.org/resource/FC_Lausanne-Sport> <http://www.w3.org/2000/01/rdf-schema#label> "Lausanne Opera" .
+<http://dbpedia.org/resource/Norway_at_the_1980_Winter_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Blood+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blood (video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Liqauid+paraffin+%28msdicina%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/1388+Aphrodite> <http://www.w3.org/2000/01/rdf-schema#label> "1388 Aphrodite" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sundancer> <http://www.w3.org/2000/01/rdf-schema#label> "Sundancer" .
+<http://dbpedia.org/resource/PPC_512> <http://www.w3.org/2000/01/rdf-schema#label> "Amstrad PCW" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Berkeley+DB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Bloodwych> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Camp_Newton_D._Baker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Bash+%28Unix+shell%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Dartmouth+College+v.+Woodward> <http://www.w3.org/2000/01/rdf-schema#label> "Dartmouth College v. Woodward" .
+<http://dbpedia.org/resource/Donkey_Kong_(character)> <http://www.w3.org/2000/01/rdf-schema#label> "Donkey Kong 3" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Kappa+Draconis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Dartmouth+College+v.+Woodward> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/TS+Class+4> <http://www.w3.org/2000/01/rdf-schema#label> "TS Class 4" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/UTA+70+Class> <http://www.w3.org/2000/01/rdf-schema#label> "UTA 70 Class" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Meta+nigra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Nausicaa.net> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pinus+cubensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/DVmage%28Jimmy+Eat+Wdorld+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Tue_Marshes_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Tue Marshes Light" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Media+Whores+Online> <http://www.w3.org/2000/01/rdf-schema#label> "Media Whores Online" .
+<http://dbpedia.org/resource/Anna_Flyover> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1984%2F1985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Big+Karnak> <http://www.w3.org/2000/01/rdf-schema#label> "Big Karnak" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1999/2000" .
+<http://dbpedia.org/resource/TRAX_(light_rail)> <http://www.w3.org/2000/01/rdf-schema#label> "TRAX (light rail)" .
+<http://dbpedia.org/resource/Australia_at_the_1984_Winter_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Lotus+1-2-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1948 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1989%2F1990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zodarion+jozefienae> <http://www.w3.org/2000/01/rdf-schema#label> "Zodarion jozefienae" .
+<http://dbpedia.org/resource/Super_Mario-kun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hunt+the+Wumpus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Slane_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Slane Castle" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Podocarpus+novae-caledoniae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hexen+II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Sheet_Music_Plus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fortress+%28Grin%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fortress (Grin)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1998%2F1999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Honda_Indy_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 2004/2005" .
+<http://dbpedia.org/resource/WNCF> <http://www.w3.org/2000/01/rdf-schema#label> "ABC 80" .
+<http://dbpedia.org/resource/Blomidon_Golf_&_Country_Club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hothouse+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hothouse (song)" .
+<http://dbpedia.org/resource/Meshanticut_Interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Jamesoniella+undulifolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Applesoft_BASIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1994%2F1995> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1994/1995" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/SimCity+%281989+video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "SimCity (1989 video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Geosynchronous+Satellite+Launch+Vehicle+Mk+III> <http://www.w3.org/2000/01/rdf-schema#label> "Geosynchronous Satellite Launch Vehicle Mk III" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/BO+Microscopii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Cave_of_the_Winds_(New_York)> <http://www.w3.org/2000/01/rdf-schema#label> "Castle of the Winds" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Active+Server+Pages> <http://www.w3.org/2000/01/rdf-schema#label> "Active Server Pages" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Balance+of+Power+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Horticultural_Hall_(Lake_Geneva,_Wisconsin)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/CoRoT-7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/FC_Lausanne-Sport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Neo+Ranga> <http://www.w3.org/2000/01/rdf-schema#label> "Neo Ranga" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/SimCity+%281989+video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Armavir_Radar_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Armavir Radar Station" .
+<http://dbpedia.org/resource/Petrie_Airfield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sher+25> <http://www.w3.org/2000/01/rdf-schema#label> "Sher 25" .
+<http://dbpedia.org/resource/RAF_Great_Massingham> <http://www.w3.org/2000/01/rdf-schema#label> "RAF Great Massingham" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Retinoic+acid+receptor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Alpha+Fornacis> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha Fornacis" .
+<http://dbpedia.org/resource/Sargon_the_Sorcerer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Highfiels%2C+FBuerton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/GMC+CCKW> <http://www.w3.org/2000/01/rdf-schema#label> "GMC CCKW" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Naphrys+pulex> <http://www.w3.org/2000/01/rdf-schema#label> "Naphrys pulex" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Alex+Rider%3A+Stormbreaker> <http://www.w3.org/2000/01/rdf-schema#label> "Alex Rider: Stormbreaker" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/181+Eucharis> <http://www.w3.org/2000/01/rdf-schema#label> "181 Eucharis" .
+<http://dbpedia.org/resource/Melbourne_Cricket_Ground> <http://www.w3.org/2000/01/rdf-schema#label> "Melbourne Cricket Ground" .
+<http://dbpedia.org/resource/RAF_Bungay> <http://www.w3.org/2000/01/rdf-schema#label> "RAF Bungay" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/AutoCAD> <http://www.w3.org/2000/01/rdf-schema#label> "AutoCAD" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/ALV+X-1> <http://www.w3.org/2000/01/rdf-schema#label> "ALV X-1" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Methoxphenidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Big+Karnak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/WoTri+Fort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Soyuz-V> <http://www.w3.org/2000/01/rdf-schema#label> "Soyuz-L" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/3015+Candy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Soyuz-V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/BMW_M73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1976 Summer Olympics" .
+<http://dbpedia.org/resource/Qualcomm_Gobi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Super+Mario+Kart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Macrophage+migration+inhibitory+factor> <http://www.w3.org/2000/01/rdf-schema#label> "Macrophage migration inhibitory factor" .
+<http://dbpedia.org/resource/Italy_at_the_1972_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Italy at the 1924 Summer Olympics" .
+<http://dbpedia.org/resource/Norway_at_the_1968_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Norway at the 1928 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sib+RNA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/List_of_minor_planets:_1001–2000> <http://www.w3.org/2000/01/rdf-schema#label> "1193 Africa" .
+<http://dbpedia.org/resource/Green_Springs_National_Historic_Landmark_District> <http://www.w3.org/2000/01/rdf-schema#label> "Green Springs National Historic Landmark District" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pillar+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Pillar (video game)" .
+<http://dbpedia.org/resource/RAF_Bungay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Star+Control> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zamia+encephalartoides> <http://www.w3.org/2000/01/rdf-schema#label> "Zamia encephalartoides" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Batman+Returns> <http://www.w3.org/2000/01/rdf-schema#label> "Batman Returns" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Telstar+%28game+console%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Wiegenlied%2C+D+498+%28Schubert%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Duck+Hunt> <http://www.w3.org/2000/01/rdf-schema#label> "Duck Hunt" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/ALV+X-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sparta+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Tue_Marshes_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Galaxy+%28spaceraFft%29> <http://www.w3.org/2000/01/rdf-schema#label> "Galaxy (spaceraFft)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Eradicator+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Applesoft_BASIC> <http://www.w3.org/2000/01/rdf-schema#label> "Applesoft BASIC" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sparta+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sparta (rocket)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/EverQuest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/A_Hunger_Artist> <http://www.w3.org/2000/01/rdf-schema#label> "A Hunger Artist" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Bop+GuUn+%28Endagezred+Specie%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bop GuUn (Endagezred Specie)" .
+<http://dbpedia.org/resource/Fort_Loudoun_(Pennsylvania)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Hippodrome_Cinema,_Bo'ness> <http://www.w3.org/2000/01/rdf-schema#label> "Hippodrome Cinema, Bo'ness" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Baman+ForeveCr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/BO+Microscopii> <http://www.w3.org/2000/01/rdf-schema#label> "BO Microscopii" .
+<http://dbpedia.org/resource/Deus_Ex_(series)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Kappa+Draconis> <http://www.w3.org/2000/01/rdf-schema#label> "Kappa Draconis" .
+<http://dbpedia.org/resource/Aberystwyth_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Aberystwyth Castle" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Duke+Nukem+3D> <http://www.w3.org/2000/01/rdf-schema#label> "Duke Nukem 3D" .
+<http://dbpedia.org/resource/Stalag_Luft_7> <http://www.w3.org/2000/01/rdf-schema#label> "Stalag Luft III" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/7680+Cari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/G+208-44%2F208-45> <http://www.w3.org/2000/01/rdf-schema#label> "G 208-44/208-45" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/IBB+AIX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/RAF_Troodos> <http://www.w3.org/2000/01/rdf-schema#label> "RAF Troodos" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sirius+Stiletto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/MP_25> <http://www.w3.org/2000/01/rdf-schema#label> "MP 55" .
+<http://dbpedia.org/resource/MP_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/8269+Calandrelli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Titan_V> <http://www.w3.org/2000/01/rdf-schema#label> "Titan IV" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Donkey+Kong+Country+3%3A+Dixie+Kong%27s+Double+Trouble%21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/StarCraft+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "StarCraft (video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/VentureStar> <http://www.w3.org/2000/01/rdf-schema#label> "VentureStar" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Retinoic+acid+receptor> <http://www.w3.org/2000/01/rdf-schema#label> "Retinoic acid receptor" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Black+Knight+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Black Knight (rocket)" .
+<http://dbpedia.org/resource/Garden_City_Skyway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/DRG_Class_E_18> <http://www.w3.org/2000/01/rdf-schema#label> "\u00D6BB Class 4011" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hot+Shot+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Alpha+Fornacis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Donkey+Kong+Country+3%3A+Dixie+Kong%27s+Double+Trouble%21> <http://www.w3.org/2000/01/rdf-schema#label> "Donkey Kong Country 3: Dixie Kong's Double Trouble!" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hexen%3A+Beyond+Heretic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Norske_Løve_Fortress> <http://www.w3.org/2000/01/rdf-schema#label> "Norske L\u00F8ve Fortress" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/ArgoUML> <http://www.w3.org/2000/01/rdf-schema#label> "ArgoUML" .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Class 401" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ford+flathead+V8+engine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Tux+Racer> <http://www.w3.org/2000/01/rdf-schema#label> "Tux Racer" .
+<http://dbpedia.org/resource/Le_Qu%C3%A9b%C3%A9cois_Libre> <http://www.w3.org/2000/01/rdf-schema#label> "Le Qu\u00E9b\u00E9cois Libre" .
+<http://dbpedia.org/resource/Gateway_to_the_Americas_International_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Gateway to the Americas International Bridge" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Bash+%28Unix+shell%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bash (Unix shell)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/OpenDesktop.org> <http://www.w3.org/2000/01/rdf-schema#label> "OpenDesktop.org" .
+<http://dbpedia.org/resource/Saturn_B-1> <http://www.w3.org/2000/01/rdf-schema#label> "Saturn V-B" .
+<http://dbpedia.org/resource/Midway_Atoll> <http://www.w3.org/2000/01/rdf-schema#label> "Midway Atoll" .
+<http://dbpedia.org/resource/Warsaw_Citadel> <http://www.w3.org/2000/01/rdf-schema#label> "Warsaw Citadel" .
+<http://dbpedia.org/resource/Parthenon> <http://www.w3.org/2000/01/rdf-schema#label> "Parthenon" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Buik+V6+enOgine> <http://www.w3.org/2000/01/rdf-schema#label> "Buik V6 enOgine" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Caribbean+inte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Clemntine%28Marzkc+Owen+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clemntine(Marzkc Owen song)" .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Class 157" .
+<http://dbpedia.org/resource/Bristol_Supertram> <http://www.w3.org/2000/01/rdf-schema#label> "Bristol Supertram" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Dia+%28software%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Eradicator+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Eradicator (video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Starkriechender+Trompetenpfifferling> <http://www.w3.org/2000/01/rdf-schema#label> "Starkriechender Trompetenpfifferling" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Remi%2C+Nobody%27s+Girl> <http://www.w3.org/2000/01/rdf-schema#label> "Remi, Nobody's Girl" .
+<http://dbpedia.org/resource/Saturn_B-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Craterellus+lutescens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Area+51+%281995+video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Walt_Disney_World_Railroad> <http://www.w3.org/2000/01/rdf-schema#label> "Walt Disney WrPld aHilroad" .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1960 Summer Olympics" .
+<http://dbpedia.org/resource/Porto_Santo_Golfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Navy+eReader+Device> <http://www.w3.org/2000/01/rdf-schema#label> "Navy eReader Device" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Active+Server+Pages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/List_of_Star_Wars_starfighters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Finland_at_the_1968_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Finland at the 1956 Summer Olympics" .
+<http://dbpedia.org/resource/Tetteh_Quarshie_Interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gradius+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gradius (video game)" .
+<http://dbpedia.org/resource/Italy_at_the_2012_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Italy at the 1912 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Alpha+Pictoris> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha Pictoris" .
+<http://dbpedia.org/resource/Camp_Crane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Petrie_Airfield> <http://www.w3.org/2000/01/rdf-schema#label> "Petrie Airfield" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zoster-immune+globulin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/PPC_512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Offer_Wadham_lighthouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Fort_Victoria_(Isle_of_Wight)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/RTV-G-4+Bumper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1997%2F1998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/BitchX> <http://www.w3.org/2000/01/rdf-schema#label> "BitchX" .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1964 Summer Olympics" .
+<http://dbpedia.org/resource/BMW_M73> <http://www.w3.org/2000/01/rdf-schema#label> "BMW M70" .
+<http://dbpedia.org/resource/Riders_of_the_Purple_Sage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Leverett_Circle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/3327+Campins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/135+Hertha> <http://www.w3.org/2000/01/rdf-schema#label> "135 Hertha" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Titan+IIIB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Holden+straight-six+motor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Vanguard+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Vanguard (rocket)" .
+<http://dbpedia.org/resource/Eight_Days_a_Week_(TV_series)> <http://www.w3.org/2000/01/rdf-schema#label> "Eight Days a Week" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2012/2013> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1992/1993" .
+<http://dbpedia.org/resource/The_Cinnamon_Peeler> <http://www.w3.org/2000/01/rdf-schema#label> "The Cinnamon Peeler" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/%289966%29_1992_ES13__Beltasteroid-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "(9966)_1992_ES13__Beltasteroid-stub__1" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Buik+V6+enOgine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/House+of+Love+%28East+17+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "House of Love (East 17 song)" .
+<http://dbpedia.org/resource/Gabala_Radar_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Buick_V8_engine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ripple+%28charitable+organisation%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ripple (charitable organisation)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/13722+Campobagatin> <http://www.w3.org/2000/01/rdf-schema#label> "13722 Campobagatin" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/%289966%29_1992_ES13__Beltasteroid-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Batman+Returns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Ingress,_egress,_and_regress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/The_Indian_Hunter__Poem-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Eight_Days_a_Week_(TV_series)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Geosynchronous+Satellite+Launch+Vehicle+Mk+III> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hothouse+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Delta+Lupi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/RAF_Staplehurst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Leo+the+Lion+%28anime%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Super_Mario-kun> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario 64" .
+<http://dbpedia.org/resource/The_Needles_Battery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Jamesoniella+undulifolia> <http://www.w3.org/2000/01/rdf-schema#label> "Jamesoniella undulifolia" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/12341+Calevoet> <http://www.w3.org/2000/01/rdf-schema#label> "12341 Calevoet" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2013/2014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Heart+of+Atlanta+Motel%2C+Inc.+v.+United+States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Switzerland+at+the+1992+Winter+Olympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/MTR+KTT> <http://www.w3.org/2000/01/rdf-schema#label> "MTR KTT" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Digital+%28Joy+Division+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/List_of_Mario_LCD_games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Corby_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Corby Bridge" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/StarCraft+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Damage+%28Pharoahe+Monch+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Offer_Wadham_lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Offer Wadham lighthouse" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gat+air+pistol> <http://www.w3.org/2000/01/rdf-schema#label> "Gat air pistol" .
+<http://dbpedia.org/resource/Destry_Rides_Again_(novel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Podocarpus+nivalis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/France_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "France at the 1904 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Electric+Jukebox> <http://www.w3.org/2000/01/rdf-schema#label> "Electric Jukebox" .
+<http://dbpedia.org/resource/Buick_V8_engine> <http://www.w3.org/2000/01/rdf-schema#label> "Buick V6 engine" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Galaxy+%28spaceraFft%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Tsyklon> <http://www.w3.org/2000/01/rdf-schema#label> "Tsyklon" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/BeOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/LqaeX> <http://www.w3.org/2000/01/rdf-schema#label> "LqaeX" .
+<http://dbpedia.org/resource/New_York_Sack_Exchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/7680+Cari> <http://www.w3.org/2000/01/rdf-schema#label> "7680 Cari" .
+<http://dbpedia.org/resource/Destry_Rides_Again_(novel)> <http://www.w3.org/2000/01/rdf-schema#label> "Destry Rides Again" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Vecuronium+bromide> <http://www.w3.org/2000/01/rdf-schema#label> "Vecuronium bromide" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Alpha+Circini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Agathis+macrophylla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/The_Water-Babies,_A_Fairy_Tale_for_a_Land_Baby> <http://www.w3.org/2000/01/rdf-schema#label> "The Water-Babies, A Fairy Tale for a Land Baby" .
+<http://dbpedia.org/resource/List_of_Star_Wars_starfighters> <http://www.w3.org/2000/01/rdf-schema#label> "Delta A" .
+<http://dbpedia.org/resource/Chepstow_Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Millipede+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Port+Royale%3A+Gold%2C+Power+and+Pirates> <http://www.w3.org/2000/01/rdf-schema#label> "Port Royale: Gold, Power and Pirates" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Kaan%3A+Barbarian%27s+Blade> <http://www.w3.org/2000/01/rdf-schema#label> "Kaan: Barbarian's Blade" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1996%2F1997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/DirkJan> <http://www.w3.org/2000/01/rdf-schema#label> "DirkJan" .
+<http://dbpedia.org/resource/A.D._Police:_Dead_End_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Late+piano+sonatas+%28Beethoven%29> <http://www.w3.org/2000/01/rdf-schema#label> "Late piano sonatas (Beethoven)" .
+<http://dbpedia.org/resource/DRG_Class_E_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/42365+Caligiuri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Green_Springs_National_Historic_Landmark_District> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Rehbar-I> <http://www.w3.org/2000/01/rdf-schema#label> "Rehbar-I" .
+<http://dbpedia.org/resource/VS-31> <http://www.w3.org/2000/01/rdf-schema#label> "VS-30" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Herbertus+borealis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Thor+DSV-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Walt_Disney_World_Railroad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Blood+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Lambda_(rocket_family)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/PWN-9+Kangaroo> <http://www.w3.org/2000/01/rdf-schema#label> "PWN-9 Kangaroo" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Parabuthus+villosus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/UTA+70+Class> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Podocarpus+nivalis> <http://www.w3.org/2000/01/rdf-schema#label> "Podocarpus nivalis" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/NetGalley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Solar+Wings+Breeze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Chevrolet_Big-Block_engine> <http://www.w3.org/2000/01/rdf-schema#label> "Chevrolet small-block engine" .
+<http://dbpedia.org/resource/Das_verschleierte_Bild_zu_Sais> <http://www.w3.org/2000/01/rdf-schema#label> "Das verschleierte Bild zu Sais" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Telstar+%28game+console%29> <http://www.w3.org/2000/01/rdf-schema#label> "Telstar (game console)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/O_Desertor_das_Letras__Poem-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Grand_Island_North_Light> <http://www.w3.org/2000/01/rdf-schema#label> "Grand Island North Light" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pisaurina+brevipes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Kellogg_Air_National_Guard_Base> <http://www.w3.org/2000/01/rdf-schema#label> "Battle Creek Air National Guard Base" .
+<http://dbpedia.org/resource/Chevrolet_Big-Block_engine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/174+Phaedra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sher+25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1987%2F1988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Parabuthus+villosus> <http://www.w3.org/2000/01/rdf-schema#label> "Parabuthus villosus" .
+<http://dbpedia.org/resource/France_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "France at the 1984 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1995%2F1996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gymnopilus+omphalina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1994%2F1995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Foza+HorDizon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/La+Gazelle+%28train%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Norway_at_the_1968_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Norway at the 1936 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1996%2F1997> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1996/1997" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Super+Mario+Kart> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Kart" .
+<http://dbpedia.org/resource/Titan_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hunt+the+Wumpus> <http://www.w3.org/2000/01/rdf-schema#label> "Hunt the Wumpus" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Loons%3A+The+Fight+for+Fame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Antares+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Antares (rocket)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ceratozamia+microstrobila> <http://www.w3.org/2000/01/rdf-schema#label> "Ceratozamia microstrobila" .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1912 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Nagoya+Municipal+Subway+6050+series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Mitsubishi+KE+engine> <http://www.w3.org/2000/01/rdf-schema#label> "Mitsubishi KE engine" .
+<http://dbpedia.org/resource/Horticultural_Hall_(Lake_Geneva,_Wisconsin)> <http://www.w3.org/2000/01/rdf-schema#label> "Horticultural Hall (Lake Geneva, Wisconsin)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Navy+eReader+Device> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1936 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ice+Age+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Growler+%28vehicle%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ptng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/XPSilo> <http://www.w3.org/2000/01/rdf-schema#label> "XPSilo" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Huse+of+Lovee+%28uPaul+songg%29> <http://www.w3.org/2000/01/rdf-schema#label> "Huse of Lovee (uPaul songg)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/FDrecia+IFV> <http://www.w3.org/2000/01/rdf-schema#label> "FDrecia IFV" .
+<http://dbpedia.org/resource/Fort_Loudoun_(Pennsylvania)> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Loudoun (Pennsylvania)" .
+<http://dbpedia.org/resource/Fort_Victoria_(Isle_of_Wight)> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Victoria (Isle of Wight)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/DisciplEine+%28instrumentl%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Agathis+macrophylla> <http://www.w3.org/2000/01/rdf-schema#label> "Agathis macrophylla" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Donkey+Kong+Country+2%3A+Diddy%27s+Kong+Quest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Adobe+RoboHelp> <http://www.w3.org/2000/01/rdf-schema#label> "Adobe RoboHelp" .
+<http://dbpedia.org/resource/Rosia_Airfield> <http://www.w3.org/2000/01/rdf-schema#label> "Rosia Airfield" .
+<http://dbpedia.org/resource/Thaba_Tshwane> <http://www.w3.org/2000/01/rdf-schema#label> "Thaba Tshwane" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Alpha+Pictoris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Long_March_1D> <http://www.w3.org/2000/01/rdf-schema#label> "Long March 2F" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Tobu+6050+series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Norway_at_the_1968_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Norway at the 1948 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Clemntine%28Marzkc+Owen+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/BMW_N26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/British+West+Indies+at+the+1960+Summer+Olympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Demigod+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Demigod (video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/26+Draconis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Castor-Orbus> <http://www.w3.org/2000/01/rdf-schema#label> "Castor-Orbus" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ford+flathead+V8+engine> <http://www.w3.org/2000/01/rdf-schema#label> "Ford flathead V8 engine" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Mitsubishi+KE+engine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Monomoy_Island_Gunnery_Range> <http://www.w3.org/2000/01/rdf-schema#label> "Monomoy Island Gunnery Range" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Antares+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/I,_Libertine> <http://www.w3.org/2000/01/rdf-schema#label> "I, Libertine" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/P.O.W.%3A+Prisoners+of+War> <http://www.w3.org/2000/01/rdf-schema#label> "P.O.W.: Prisoners of War" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Neuropilin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Cajun+%28rocket%29> <http://www.w3.org/2000/01/rdf-schema#label> "Cajun (rocket)" .
+<http://dbpedia.org/resource/Camp_Newton_D._Baker> <http://www.w3.org/2000/01/rdf-schema#label> "Camp Newton D. Baker" .
+<http://dbpedia.org/resource/List_of_minor_planets:_1001–2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Vecuronium+bromide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/EverQuest> <http://www.w3.org/2000/01/rdf-schema#label> "EverQuest" .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Psion_Series_7> <http://www.w3.org/2000/01/rdf-schema#label> "Psion Series 5" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/British+West+Indies+at+the+1960+Summer+Olympics> <http://www.w3.org/2000/01/rdf-schema#label> "British West Indies at the 1960 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/EnephaElartos+ferox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Xi2+Lupi> <http://www.w3.org/2000/01/rdf-schema#label> "Xi2 Lupi" .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1924 Summer Olympics" .
+<http://dbpedia.org/resource/British_Railways_Board> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail BEMU" .
+<http://dbpedia.org/resource/Phi_Orionis> <http://www.w3.org/2000/01/rdf-schema#label> "Chi1 Orionis" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pinus+trMopicais> <http://www.w3.org/2000/01/rdf-schema#label> "Pinus trMopicais" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Titan+23G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/BMW_N26> <http://www.w3.org/2000/01/rdf-schema#label> "BMW N62" .
+<http://dbpedia.org/resource/WNCF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ext+parte+Milliga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Prumnopitys+ferruginoides> <http://www.w3.org/2000/01/rdf-schema#label> "Prumnopitys ferruginoides" .
+<http://dbpedia.org/resource/West_Blockhouse_Point_Beacons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/42365+Caligiuri> <http://www.w3.org/2000/01/rdf-schema#label> "42365 Caligiuri" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/SM-65A+Atlas> <http://www.w3.org/2000/01/rdf-schema#label> "SM-65A Atlas" .
+<http://dbpedia.org/resource/BMW_M73> <http://www.w3.org/2000/01/rdf-schema#label> "BMW M62" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2012/2013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1997%2F1998> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1997/1998" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hexen+II> <http://www.w3.org/2000/01/rdf-schema#label> "Hexen II" .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Class 447" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Out_Where_the_West_Begins__Poem-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/TPC_of_Myrtle_Beach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Parthenon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Class 185" .
+<http://dbpedia.org/resource/Theatre_Row_(New_York_City)> <http://www.w3.org/2000/01/rdf-schema#label> "Theatre Rowe (New York Cty)" .
+<http://dbpedia.org/resource/Blank_Theatre_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Chocobo> <http://www.w3.org/2000/01/rdf-schema#label> "Chocobo Racing" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fovrt+Scott+%28Alington%2C+Virginia%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Maria+faqmiy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Star+Wars+Jedi+Knight%3A+Dark+Forces+II> <http://www.w3.org/2000/01/rdf-schema#label> "Star Wars Jedi Knight: Dark Forces II" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Karin+family> <http://www.w3.org/2000/01/rdf-schema#label> "Karin family" .
+<http://dbpedia.org/resource/Hippodrome_Cinema,_Bo'ness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/A_Descent_into_the_Maelström> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Fort_Ville-Marie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fortress+%28Grin%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/ABS+Aerolight+Legacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Fort_Ville-Marie> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Ville-Marie" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/MINIX> <http://www.w3.org/2000/01/rdf-schema#label> "MINIX" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1998%2F1999> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1998/1999" .
+<http://dbpedia.org/resource/Warsaw_Citadel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/The_Indian_Hunter__Poem-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "The_Indian_Hunter__Poem-stub__1" .
+<http://dbpedia.org/resource/Hungary_at_the_1972_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Hungary at the 1924 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/TS+Class+7> <http://www.w3.org/2000/01/rdf-schema#label> "TS Class 7" .
+<http://dbpedia.org/resource/Hungary_at_the_1972_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Hungary at the 1968 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/OpenStax+CNX> <http://www.w3.org/2000/01/rdf-schema#label> "OpenStax CNX" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Orbital+Technologies+Commercial+Space+Station> <http://www.w3.org/2000/01/rdf-schema#label> "Orbital Technologies Commercial Space Station" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/HyperCard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Corby_Bridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Duck+Hunt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Heretic+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Heretic (video game)" .
+<http://dbpedia.org/resource/Long_March_1D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Titan+IIIB> <http://www.w3.org/2000/01/rdf-schema#label> "Titan IIIB" .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1928 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pinus+hakkodensis> <http://www.w3.org/2000/01/rdf-schema#label> "Pinus hakkodensis" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hexen%3A+Beyond+Heretic> <http://www.w3.org/2000/01/rdf-schema#label> "Hexen: Beyond Heretic" .
+<http://dbpedia.org/resource/A_Hunger_Artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Gateway_to_the_Americas_International_Bridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Detour+%28song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Detour (song)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/OpenDesktop.org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Riders_of_the_Purple_Sage> <http://www.w3.org/2000/01/rdf-schema#label> "Riders of the Purple Wage" .
+<http://dbpedia.org/resource/Donkey_Kong_(character)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zytek-Renault+ZRS03> <http://www.w3.org/2000/01/rdf-schema#label> "Zytek-Renault ZRS03" .
+<http://dbpedia.org/resource/KIM-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gat+air+pistol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Airbus> <http://www.w3.org/2000/01/rdf-schema#label> "Airbus A300" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Thor+DSV-2> <http://www.w3.org/2000/01/rdf-schema#label> "Thor DSV-2" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/174+Phaedra> <http://www.w3.org/2000/01/rdf-schema#label> "174 Phaedra" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Agaricus+hondensis> <http://www.w3.org/2000/01/rdf-schema#label> "Agaricus hondensis" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fortress+%28tower+defense+video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Norway_at_the_1968_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Norway at the 1956 Summer Olympics" .
+<http://dbpedia.org/resource/Fort_Frances–International_Falls_International_Bridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Tiangong-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Lambda_(rocket_family)> <http://www.w3.org/2000/01/rdf-schema#label> "Lambda 4S" .
+<http://dbpedia.org/resource/Ballinbreich_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Ballinbreich Castle" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sulfasalazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Porto_Santo_Golfe> <http://www.w3.org/2000/01/rdf-schema#label> "Porto Santo Golfe" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/ArgoUML> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/E._L._Patton_Yukon_River_Bridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Finland_at_the_1968_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Finland at the 1948 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/12341+Calevoet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Adobe+RoboHelp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Collagen+helix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/BitchX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Gabala_Radar_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Gabala Radar Station" .
+<http://dbpedia.org/resource/Meshanticut_Interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Meshanticut Interchange" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Caribbean+inte> <http://www.w3.org/2000/01/rdf-schema#label> "Caribbean inte" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Growler+%28vehicle%29> <http://www.w3.org/2000/01/rdf-schema#label> "Growler (vehicle)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Apache+HTTP+Server> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Lotus+1-2-3> <http://www.w3.org/2000/01/rdf-schema#label> "Lotus 1-2-3" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Thor-Ablestar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Doom+%281993+video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Doom (1993 video game)" .
+<http://dbpedia.org/resource/Ain't_I_a_Woman%3F_(book)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Integrin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zamia+melanorrhachis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fletcher+v.+Peck> <http://www.w3.org/2000/01/rdf-schema#label> "Fletcher v. Peck" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Titan+23G> <http://www.w3.org/2000/01/rdf-schema#label> "Titan 23G" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Melody+%281953+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Melody (1953 film)" .
+<http://dbpedia.org/resource/KIM-1> <http://www.w3.org/2000/01/rdf-schema#label> "KIM-1" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gibbons+v.+Ogden> <http://www.w3.org/2000/01/rdf-schema#label> "Gibbons v. Ogden" .
+<http://dbpedia.org/resource/458_Hercynia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Forza+Horizon+2> <http://www.w3.org/2000/01/rdf-schema#label> "Forza Horizon 2" .
+<http://dbpedia.org/resource/RAF_Great_Massingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Mojo+%28microconsole%29> <http://www.w3.org/2000/01/rdf-schema#label> "Mojo (microconsole)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Black+Knight+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/I,_Libertine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/AutoCAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ext+parte+Milliga> <http://www.w3.org/2000/01/rdf-schema#label> "Ext parte Milliga" .
+<http://dbpedia.org/resource/Forza_Motorsport_(series)> <http://www.w3.org/2000/01/rdf-schema#label> "Forza Motorsport 3" .
+<http://dbpedia.org/resource/Zeta_Serpentis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pinus+trMopicais> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Ferrocarriles_Nacionales_de_México> <http://www.w3.org/2000/01/rdf-schema#label> "Ferrocarriles Nacionales de M\u00E9xico" .
+<http://dbpedia.org/resource/The_Bag_O'Nails> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/G+protein%E2%80%93coupled+receptor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Integrin> <http://www.w3.org/2000/01/rdf-schema#label> "Integrin" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/FDrecia+IFV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ripple+%28charitable+organisation%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/British_Railways_Board> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Bop+GuUn+%28Endagezred+Specie%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1989%2F1990> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1989/1990" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/WoTri+Fort> <http://www.w3.org/2000/01/rdf-schema#label> "WoTri Fort" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Podocarpus+novae-caledoniae> <http://www.w3.org/2000/01/rdf-schema#label> "Podocarpus novae-caledoniae" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/NetGalley> <http://www.w3.org/2000/01/rdf-schema#label> "NetGalley" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sib+RNA> <http://www.w3.org/2000/01/rdf-schema#label> "Sib RNA" .
+<http://dbpedia.org/resource/New_York_Sack_Exchange> <http://www.w3.org/2000/01/rdf-schema#label> "New York Stock Exchange" .
+<http://dbpedia.org/resource/Fort_Frances–International_Falls_International_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "Fort Frances\u2013International Falls International Bridge" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Nostromo+SpeedPad+n52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/1388+Aphrodite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Martha+%281923+film%29> <http://www.w3.org/2000/01/rdf-schema#label> "Martha (1923 film)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ptng> <http://www.w3.org/2000/01/rdf-schema#label> "Ptng" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/PWN-9+Kangaroo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Haesselia+roraimensis> <http://www.w3.org/2000/01/rdf-schema#label> "Haesselia roraimensis" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pinus+hakkodensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/3327+Campins> <http://www.w3.org/2000/01/rdf-schema#label> "3327 Campins" .
+<http://dbpedia.org/resource/Honda_Indy_200> <http://www.w3.org/2000/01/rdf-schema#label> "Honda Indy V8" .
+<http://dbpedia.org/resource/Italy_at_the_1972_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Italy at the 1932 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Melody+%281953+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Anna_Flyover> <http://www.w3.org/2000/01/rdf-schema#label> "Anna Flyover" .
+<http://dbpedia.org/resource/Château_de_Conches-en-Ouche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Detour+%28song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Austria_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Austria at the 1896 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Forza+Horizon+2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Hungary_at_the_1972_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Hungary at the 1956 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Alpha+Circini> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha Circini" .
+<http://dbpedia.org/resource/List_of_Mario_television_series> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Bros. 2" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Liqauid+paraffin+%28msdicina%29> <http://www.w3.org/2000/01/rdf-schema#label> "Liqauid paraffin (msdicina)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Vanguard+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Blank_Theatre_Company> <http://www.w3.org/2000/01/rdf-schema#label> "Blank Theatre Company" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Clubbed+to+Death+%28instrumental%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Highfiels%2C+FBuerton> <http://www.w3.org/2000/01/rdf-schema#label> "Highfiels, FBuerton" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Kaan%3A+Barbarian%27s+Blade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Mojo+%28microconsole%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Nausicaa.net> <http://www.w3.org/2000/01/rdf-schema#label> "Nausicaa.net" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Big+Brother+%28franchise%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Rosia_Airfield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/La+Gazelle+%28train%29> <http://www.w3.org/2000/01/rdf-schema#label> "La Gazelle (train)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Xi2+Lupi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Dia+%28software%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dia (software)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Berkeley+DB> <http://www.w3.org/2000/01/rdf-schema#label> "Berkeley DB" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/DonuweLibchen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/F-Zero%3Aaximums+VeloRcity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Heretic+II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Tobu+6050+series> <http://www.w3.org/2000/01/rdf-schema#label> "Tobu 6050 series" .
+<http://dbpedia.org/resource/Sheet_Music_Plus> <http://www.w3.org/2000/01/rdf-schema#label> "Sheet Music Plus" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Space+Colony+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pinus+cubensis> <http://www.w3.org/2000/01/rdf-schema#label> "Pinus cubensis" .
+<http://dbpedia.org/resource/Aviasud_Sirocco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Damage+%28Pharoahe+Monch+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "Damage (Pharoahe Monch song)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Neuropilin> <http://www.w3.org/2000/01/rdf-schema#label> "Neuropilin" .
+<http://dbpedia.org/resource/Tetteh_Quarshie_Interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Tetteh Quarshie Interchange" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Duke+Nukem+3D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/BMW_M73> <http://www.w3.org/2000/01/rdf-schema#label> "BMW M10" .
+<http://dbpedia.org/resource/Deus_Ex_(series)> <http://www.w3.org/2000/01/rdf-schema#label> "Deus Ex" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Donkey+Kong+Country+2%3A+Diddy%27s+Kong+Quest> <http://www.w3.org/2000/01/rdf-schema#label> "Donkey Kong Country 2: Diddy's Kong Quest" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Saphir+%28rocket%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/135+Hertha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Nostromo+SpeedPad+n52> <http://www.w3.org/2000/01/rdf-schema#label> "Nostromo SpeedPad n52" .
+<http://dbpedia.org/resource/A.D._Police:_Dead_End_City> <http://www.w3.org/2000/01/rdf-schema#label> "A.D. Police: Dead End City" .
+<http://dbpedia.org/resource/New_South_Wales_Golf_Club> <http://www.w3.org/2000/01/rdf-schema#label> "New South Wales Golf Club" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Encephalartos+villosus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hebeloma+fragilipes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/G+protein%E2%80%93coupled+receptor> <http://www.w3.org/2000/01/rdf-schema#label> "G protein\u2013coupled receptor" .
+<http://dbpedia.org/resource/VS-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/New_South_Wales_Golf_Club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/New+Game+Network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Lučko_interchange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Penicillium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/F-Zero%3Aaximums+VeloRcity> <http://www.w3.org/2000/01/rdf-schema#label> "F-Zero:aximums VeloRcity" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gradius+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Tux+Racer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Lučko_interchange> <http://www.w3.org/2000/01/rdf-schema#label> "Lu\u010Dko interchange" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/SM-65A+Atlas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Norske_Løve_Fortress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Skylab+B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gymnopilus+omphalina> <http://www.w3.org/2000/01/rdf-schema#label> "Gymnopilus omphalina" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gamma+Andromedae> <http://www.w3.org/2000/01/rdf-schema#label> "Gamma Andromedae" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Foza+HorDizon> <http://www.w3.org/2000/01/rdf-schema#label> "Foza HorDizon" .
+<http://dbpedia.org/resource/Phi_Orionis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/HyperCard> <http://www.w3.org/2000/01/rdf-schema#label> "HyperCard" .
+<http://dbpedia.org/resource/Château_Gaillard> <http://www.w3.org/2000/01/rdf-schema#label> "Ch\u00E2teau Gaillard" .
+<http://dbpedia.org/resource/TPC_of_Myrtle_Beach> <http://www.w3.org/2000/01/rdf-schema#label> "TPC of Myrtle Beach" .
+<http://dbpedia.org/resource/British_Rail_Class_01/5> <http://www.w3.org/2000/01/rdf-schema#label> "British Rail Class 402" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/ABS+Aerolight+Legacy> <http://www.w3.org/2000/01/rdf-schema#label> "ABS Aerolight Legacy" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/O2+Joggler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Salpa_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/RAF_Staplehurst> <http://www.w3.org/2000/01/rdf-schema#label> "RAF Staplehurst" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Apache+HTTP+Server> <http://www.w3.org/2000/01/rdf-schema#label> "Apache HTTP Server" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Doom+%281993+video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Heart+of+Atlanta+Motel%2C+Inc.+v.+United+States> <http://www.w3.org/2000/01/rdf-schema#label> "Heart of Atlanta Motel, Inc. v. United States" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Asteroids+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Asteroids (video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Diablo+II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Camp_Crane> <http://www.w3.org/2000/01/rdf-schema#label> "Camp Crane" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Bubble+Bobble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/1245_Calvinia__Beltasteroid-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Encephalartos+villosus> <http://www.w3.org/2000/01/rdf-schema#label> "Encephalartos villosus" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Agathis+moreQi> <http://www.w3.org/2000/01/rdf-schema#label> "Agathis moreQi" .
+<http://dbpedia.org/resource/Château_Gaillard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Lepidozia+azorica> <http://www.w3.org/2000/01/rdf-schema#label> "Lepidozia azorica" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Penicillium> <http://www.w3.org/2000/01/rdf-schema#label> "Penicillium" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fortress+%28online+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fortress (online game)" .
+<http://dbpedia.org/resource/Australia_at_the_1984_Winter_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Australia at the 1968 Winter Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Big+Brother+%28franchise%29> <http://www.w3.org/2000/01/rdf-schema#label> "Big Brother (franchise)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/P.O.W.%3A+Prisoners+of+War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/The_Cinnamon_Peeler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/CoRoT-7d> <http://www.w3.org/2000/01/rdf-schema#label> "COROT-4" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/AOL+Instant+Messenger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Holden+straight-six+motor> <http://www.w3.org/2000/01/rdf-schema#label> "Holden straight-six motor" .
+<http://dbpedia.org/resource/Finland_at_the_1968_Summer_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/HD+205739> <http://www.w3.org/2000/01/rdf-schema#label> "HD 205739" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Switzerland+at+the+y99+Winter+kOlympics> <http://www.w3.org/2000/01/rdf-schema#label> "Switzerland at the y99 Winter kOlympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Agathis+philippinensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/MINIX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/EnephaElartos+ferox> <http://www.w3.org/2000/01/rdf-schema#label> "EnephaElartos ferox" .
+<http://dbpedia.org/resource/Leverett_Circle> <http://www.w3.org/2000/01/rdf-schema#label> "Leverett Circle" .
+<http://dbpedia.org/resource/Austria_at_the_1976_Summer_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/26+Draconis> <http://www.w3.org/2000/01/rdf-schema#label> "26 Draconis" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Karin+family> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Finland_at_the_1968_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Finland at the 1924 Summer Olympics" .
+<http://dbpedia.org/resource/List_of_Mario_LCD_games> <http://www.w3.org/2000/01/rdf-schema#label> "Super Mario Land" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Snooker+world+rankings+1995%2F1996> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1995/1996" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Huse+of+Lovee+%28uPaul+songg%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Vostok-L> <http://www.w3.org/2000/01/rdf-schema#label> "Vostok-L" .
+<http://dbpedia.org/resource/Midway_Atoll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Bloodwych> <http://www.w3.org/2000/01/rdf-schema#label> "Bloodwych" .
+<http://dbpedia.org/resource/Bristol_Supertram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/11248_Bl%C3%A9riot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gibbons+v.+Ogden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Italy_at_the_1972_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Italy at the 1928 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Balance+of+Power+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Balance of Power (video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/RTV-G-4+Bumper> <http://www.w3.org/2000/01/rdf-schema#label> "RTV-G-4 Bumper" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/DVmage%28Jimmy+Eat+Wdorld+song%29> <http://www.w3.org/2000/01/rdf-schema#label> "DVmage(Jimmy Eat Wdorld song)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Sulfasalazine> <http://www.w3.org/2000/01/rdf-schema#label> "Sulfasalazine" .
+<http://dbpedia.org/resource/Dunbar_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Dunbar Castle" .
+<http://dbpedia.org/resource/Castor-Orbus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Rhapsodie+espagnole+%28Liszt%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rhapsodie espagnole (Liszt)" .
+<http://dbpedia.org/resource/Grand_Island_North_Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ice+Age+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ice Age (video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Adobe+Photoshop> <http://www.w3.org/2000/01/rdf-schema#label> "Adobe Photoshop" .
+<http://dbpedia.org/resource/Das_verschleierte_Bild_zu_Sais> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Martha+%281923+film%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fortress+%28online+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/IBB+AIX> <http://www.w3.org/2000/01/rdf-schema#label> "IBB AIX" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/SM-65B+Atlas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/DisciplEine+%28instrumentl%29> <http://www.w3.org/2000/01/rdf-schema#label> "DisciplEine (instrumentl)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/BeOS> <http://www.w3.org/2000/01/rdf-schema#label> "BeOS" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Millipede+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Millipede (video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Tiangong-1> <http://www.w3.org/2000/01/rdf-schema#label> "Tiangong-1" .
+<http://dbpedia.org/resource/Aberystwyth_Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Area+51+%281995+video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Area 51 (1995 video game)" .
+<http://dbpedia.org/resource/Hand_grenade> <http://www.w3.org/2000/01/rdf-schema#label> "Fragmentation grenade" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Electric+Jukebox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fortress+%28tower+defense+video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fortress (tower defense video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Switzerland+at+the+1992+Winter+Olympics> <http://www.w3.org/2000/01/rdf-schema#label> "Switzerland at the 1992 Winter Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Meta+nigra> <http://www.w3.org/2000/01/rdf-schema#label> "Meta nigra" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Port+Royale%3A+Gold%2C+Power+and+Pirates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Chepstow_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Chepstow Castle" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Tsyklon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Kellogg_Air_National_Guard_Base> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Neo+Ranga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/List_of_Mario_television_series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/PasmiZn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/The_Needles_Battery> <http://www.w3.org/2000/01/rdf-schema#label> "The Needles Battery" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Craterellus+lutescens> <http://www.w3.org/2000/01/rdf-schema#label> "Craterellus lutescens" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fletcher+v.+Peck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/OpenStax+CNX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Thaba_Tshwane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Pisaurina+brevipes> <http://www.w3.org/2000/01/rdf-schema#label> "Pisaurina brevipes" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Lepidopilum+grevilleanum> <http://www.w3.org/2000/01/rdf-schema#label> "Lepidopilum grevilleanum" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/O2+Joggler> <http://www.w3.org/2000/01/rdf-schema#label> "O2 Joggler" .
+<http://dbpedia.org/resource/Hungary_at_the_1972_Summer_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Forza_Motorsport_(series)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Baman+ForeveCr> <http://www.w3.org/2000/01/rdf-schema#label> "Baman ForeveCr" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Rhapsodie+espagnole+%28Liszt%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/G+208-44%2F208-45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Garden_City_Skyway> <http://www.w3.org/2000/01/rdf-schema#label> "Garden City Skyway" .
+<http://dbpedia.org/resource/RAF_Troodos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Late+piano+sonatas+%28Beethoven%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Church_Hill_Theatre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Port+Royale+3%3A+Pirates+%26+Merchants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Cave_of_the_Winds_(New_York)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Italy_at_the_2012_Summer_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/The_Bag_O'Nails> <http://www.w3.org/2000/01/rdf-schema#label> "The Bag O'Nails" .
+<http://dbpedia.org/resource/West_Blockhouse_Point_Beacons> <http://www.w3.org/2000/01/rdf-schema#label> "West Blockhouse Point Beacons" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/3015+Candy> <http://www.w3.org/2000/01/rdf-schema#label> "3015 Candy" .
+<http://dbpedia.org/resource/458_Hercynia> <http://www.w3.org/2000/01/rdf-schema#label> "458 Hercynia" .
+<http://dbpedia.org/resource/France_at_the_1976_Summer_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Alex+Rider%3A+Stormbreaker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Hungary_at_the_1972_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Hungary at the 1936 Summer Olympics" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2011/2012> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 2007/2008" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Space+Colony+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Space Colony (video game)" .
+<http://dbpedia.org/resource/E._L._Patton_Yukon_River_Bridge> <http://www.w3.org/2000/01/rdf-schema#label> "E. L. Patton Yukon River Bridge" .
+<http://dbpedia.org/resource/Ross_Creek_Landing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Ross_Creek_Landing> <http://www.w3.org/2000/01/rdf-schema#label> "Ross Creek Landing" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/TS+Class+4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/List_of_Boeing_B-17_Flying_Fortress_variants> <http://www.w3.org/2000/01/rdf-schema#label> "Boeing B-17 Flying Fortress" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Herbertus+borealis> <http://www.w3.org/2000/01/rdf-schema#label> "Herbertus borealis" .
+<http://dbpedia.org/resource/5694_Ber%C3%A9nyi> <http://www.w3.org/2000/01/rdf-schema#label> "5694 Ber\u00E9nyi" .
+<http://dbpedia.org/resource/Ballinbreich_Castle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/DirkJan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Ulvesund_Lighthouse> <http://www.w3.org/2000/01/rdf-schema#label> "Ulvesund Lighthouse" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Switzerland+at+the+y99+Winter+kOlympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Greece_at_the_1976_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Greece at the 1956 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Virtual+Boy> <http://www.w3.org/2000/01/rdf-schema#label> "Virtual Boy" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Hebeloma+fragilipes> <http://www.w3.org/2000/01/rdf-schema#label> "Hebeloma fragilipes" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Prumnopitys+ferruginoides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Stalag_Luft_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Château_de_Conches-en-Ouche> <http://www.w3.org/2000/01/rdf-schema#label> "Ch\u00E2teau de Conches-en-Ouche" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Gamma+Andromedae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/House+of+Love+%28Amy+Grant+song%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Airbus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Hand_grenade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Starship+Titanic> <http://www.w3.org/2000/01/rdf-schema#label> "Starship Titanic" .
+<http://dbpedia.org/resource/Norway_at_the_1980_Winter_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Norway at the 1936 Winter Olympics" .
+<http://dbpedia.org/resource/Armavir_Radar_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Hungary_at_the_1972_Summer_Paralympics> <http://www.w3.org/2000/01/rdf-schema#label> "Hungary at the 1928 Summer Olympics" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/HD+205739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Juno_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Jewel+Box+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Jewel Box (video game)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Agathis+moreQi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Bubble+Bobble> <http://www.w3.org/2000/01/rdf-schema#label> "Bubble Bobble" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/DNA+ligase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Vostok-L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Ferrocarriles_Nacionales_de_México> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Multiplan_(company)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Wiegenlied%2C+D+498+%28Schubert%29> <http://www.w3.org/2000/01/rdf-schema#label> "Wiegenlied, D 498 (Schubert)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/O_Desertor_das_Letras__Poem-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "O_Desertor_das_Letras__Poem-stub__1" .
+<http://dbpedia.org/resource/Bassas_da_India> <http://www.w3.org/2000/01/rdf-schema#label> "Europa (rocket)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Fovrt+Scott+%28Alington%2C+Virginia%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fovrt Scott (Alington, Virginia)" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Asteroids+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Ceratozamia+microstrobila> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zamia+encephalartoides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Psion_Series_7> <http://www.w3.org/2000/01/rdf-schema#label> "Psion Series 3" .
+<http://dbpedia.org/resource/Snooker_world_rankings_2013/2014> <http://www.w3.org/2000/01/rdf-schema#label> "Snooker world rankings 1993/1994" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Coenzym+Q+f%E2%80%93+cytochrome+c+reucitase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Norway_at_the_1968_Summer_Paralympics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/1245_Calvinia__Beltasteroid-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "1245_Calvinia__Beltasteroid-stub__1" .
+<http://dbpedia.org/resource/Monomoy_Island_Gunnery_Range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://dbpedia.org/resource/Maginot_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Zodarion+jozefienae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Jewel+Box+%28video+game%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Thor-Ablestar> <http://www.w3.org/2000/01/rdf-schema#label> "Thor-Ablestar" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Haesselia+roraimensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Asteroid> .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Maria+faqmiy> <http://www.w3.org/2000/01/rdf-schema#label> "Maria faqmiy" .
+<http://dbpedia.org/resource/Church_Hill_Theatre> <http://www.w3.org/2000/01/rdf-schema#label> "Church Hill Theatre" .
+<http://example.org/e5950947-ed4a-432c-9e04-101805285d83/Diablo+II> <http://www.w3.org/2000/01/rdf-schema#label> "Diablo II" .
+

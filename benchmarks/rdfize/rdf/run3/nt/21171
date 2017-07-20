@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Erwin_Rommel> <http://www.w3.org/2000/01/rdf-schema#label> "Erwin Rommel" .
+<http://dbpedia.org/resource/George_Vancouver> <http://www.w3.org/2000/01/rdf-schema#label> "George Vancouver" .
+<http://dbpedia.org/resource/Gnaeus_Julius_Agricola> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Grace_Hopper> <http://www.w3.org/2000/01/rdf-schema#label> "Grace Hopper" .
+<http://dbpedia.org/resource/Erwin_Rommel> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Ethan_Allen> <http://www.w3.org/2000/01/rdf-schema#label> "Ethan Allen" .
+<http://dbpedia.org/resource/Ethan_Allen> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/George_Vancouver> <http://dbpedia.org/ontology/person> "military person" .
+<http://dbpedia.org/resource/Gnaeus_Julius_Agricola> <http://www.w3.org/2000/01/rdf-schema#label> "Gnaeus Julius Agricola" .
+<http://dbpedia.org/resource/Grace_Hopper> <http://dbpedia.org/ontology/person> "Agent" .
+

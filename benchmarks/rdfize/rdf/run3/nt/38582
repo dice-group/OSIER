@@ -1,0 +1,13 @@
+<http://dbpedia.org/resource/FC_Sion> <http://www.w3.org/2000/01/rdf-schema#label> "FC Sion" .
+<http://example.org/a21fe12c-1ec9-4626-89b6-65af59fd388a/FGC+Witerthur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032621> .
+<http://dbpedia.org/resource/FC_Rostov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032621> .
+<http://dbpedia.org/resource/FC_Sion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032621> .
+<http://example.org/a21fe12c-1ec9-4626-89b6-65af59fd388a/FCb+Wnterthur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032621> .
+<http://dbpedia.org/resource/Neuchâtel_Xamax> <http://www.w3.org/2000/01/rdf-schema#label> "Neuch\u00E2tel Xamax" .
+<http://dbpedia.org/resource/Italy_national_football_team> <http://www.w3.org/2000/01/rdf-schema#label> "Italy national football team" .
+<http://dbpedia.org/resource/Neuchâtel_Xamax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032621> .
+<http://dbpedia.org/resource/FC_Rostov> <http://www.w3.org/2000/01/rdf-schema#label> "FC Rostov" .
+<http://example.org/a21fe12c-1ec9-4626-89b6-65af59fd388a/FCb+Wnterthur> <http://www.w3.org/2000/01/rdf-schema#label> "FCb Wnterthur" .
+<http://example.org/a21fe12c-1ec9-4626-89b6-65af59fd388a/FGC+Witerthur> <http://www.w3.org/2000/01/rdf-schema#label> "FGC Witerthur" .
+<http://dbpedia.org/resource/Italy_national_football_team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.obolibrary.org/obo/GO_0032621> .
+

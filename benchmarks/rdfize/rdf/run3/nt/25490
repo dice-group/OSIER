@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Melton_Mowbray_Navigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Canal> .
+<http://dbpedia.org/resource/Middle_Level_Navigations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Canal> .
+<http://dbpedia.org/resource/Middle_Level_Navigations> <http://www.w3.org/2000/01/rdf-schema#label> "Middle Level Navigations" .
+<http://dbpedia.org/resource/Caistor_Canal> <http://www.w3.org/2000/01/rdf-schema#label> "Caistor Canal" .
+<http://dbpedia.org/resource/Melton_Mowbray_Navigation> <http://www.w3.org/2000/01/rdf-schema#label> "Melton Mowbray Navigation" .
+<http://dbpedia.org/resource/Caistor_Canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Canal> .
+<http://dbpedia.org/resource/Dukart's_Canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Canal> .
+<http://dbpedia.org/resource/Dukart's_Canal> <http://www.w3.org/2000/01/rdf-schema#label> "Dukart's Canal" .
+<http://dbpedia.org/resource/Tavistock_Canal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Canal> .
+<http://dbpedia.org/resource/Tavistock_Canal> <http://www.w3.org/2000/01/rdf-schema#label> "Tavistock Canal" .
+

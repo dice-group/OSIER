@@ -1,0 +1,11 @@
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Many-scaled+anole> <http://www.w3.org/2000/01/rdf-schema#label> "Many-scaled anole" .
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Lacertus> <http://www.w3.org/2000/01/rdf-schema#label> "Lacertus" .
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Many-scaled+anole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Homonota+gaudichaudii> <http://www.w3.org/2000/01/rdf-schema#label> "Homonota gaudichaudii" .
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Bothrops+jararaca> <http://www.w3.org/2000/01/rdf-schema#label> "Bothrops jararaca" .
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Calumma+malthe> <http://www.w3.org/2000/01/rdf-schema#label> "Calumma malthe" .
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Calumma+malthe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Bothrops+jararaca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Homonota+gaudichaudii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://example.org/3e3587d3-9cd0-4630-b344-5149c9f0c269/Lacertus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+

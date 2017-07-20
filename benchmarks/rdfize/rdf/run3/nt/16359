@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Shreveport_Area_Transit_System> <http://dbpedia.org/ontology/instrument> "company" .
+<http://dbpedia.org/resource/Citylink_Edmond> <http://www.w3.org/2000/01/rdf-schema#label> "Citylink Edmond" .
+<http://dbpedia.org/resource/East_London_(bus_company)> <http://dbpedia.org/ontology/instrument> "physical entity" .
+<http://dbpedia.org/resource/Shreveport_Area_Transit_System> <http://www.w3.org/2000/01/rdf-schema#label> "Shreveport Area Transit System" .
+<http://dbpedia.org/resource/Hallmark_Place> <http://www.w3.org/2000/01/rdf-schema#label> "Hallmark Coach" .
+<http://dbpedia.org/resource/Shreveport_Area_Transit_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Company> .
+<http://dbpedia.org/resource/Citylink_Edmond> <http://dbpedia.org/ontology/instrument> "instrument" .
+<http://dbpedia.org/resource/Detroit_Department_of_Transportation> <http://dbpedia.org/ontology/instrument> "SocialPerson" .
+<http://dbpedia.org/resource/East_London_(bus_company)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Company> .
+<http://dbpedia.org/resource/Hallmark_Place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Company> .
+<http://dbpedia.org/resource/Detroit_Department_of_Transportation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Company> .
+<http://dbpedia.org/resource/Detroit_Department_of_Transportation> <http://www.w3.org/2000/01/rdf-schema#label> "Detroit Department of Transportation" .
+<http://dbpedia.org/resource/East_London_(bus_company)> <http://www.w3.org/2000/01/rdf-schema#label> "East London (bus company)" .
+<http://dbpedia.org/resource/Hallmark_Place> <http://dbpedia.org/ontology/instrument> "agent" .
+<http://dbpedia.org/resource/Citylink_Edmond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Company> .
+

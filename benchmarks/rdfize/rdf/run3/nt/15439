@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Kebara_Cave> <http://www.w3.org/2000/01/rdf-schema#label> "Kebara Cave" .
+<http://dbpedia.org/resource/Gruta_das_Torres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Cave> .
+<http://dbpedia.org/resource/Cross_Cave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Cave> .
+<http://dbpedia.org/resource/Kebara_Cave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Cave> .
+<http://dbpedia.org/resource/Cross_Cave> <http://dbpedia.org/ontology/place> "Place" .
+<http://dbpedia.org/resource/Kebara_Cave> <http://dbpedia.org/ontology/place> "place" .
+<http://dbpedia.org/resource/Treak_Cliff_Cavern> <http://dbpedia.org/ontology/place> "cave" .
+<http://dbpedia.org/resource/Paglicci_Cave> <http://www.w3.org/2000/01/rdf-schema#label> "Paglicci Cave" .
+<http://dbpedia.org/resource/Treak_Cliff_Cavern> <http://www.w3.org/2000/01/rdf-schema#label> "Treak Cliff Cavern" .
+<http://dbpedia.org/resource/Treak_Cliff_Cavern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Cave> .
+<http://dbpedia.org/resource/Gruta_das_Torres> <http://dbpedia.org/ontology/place> "cave" .
+<http://dbpedia.org/resource/Gruta_das_Torres> <http://www.w3.org/2000/01/rdf-schema#label> "Gruta das Torres" .
+<http://dbpedia.org/resource/Paglicci_Cave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/Cave> .
+<http://dbpedia.org/resource/Paglicci_Cave> <http://dbpedia.org/ontology/place> "geographical area" .
+<http://dbpedia.org/resource/Cross_Cave> <http://www.w3.org/2000/01/rdf-schema#label> "Cross Cave" .
+

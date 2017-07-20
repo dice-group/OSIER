@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Mikhail_Volodin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Jockey> .
+<http://dbpedia.org/resource/Olena_Dvornichenko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Jockey> .
+<http://dbpedia.org/resource/Paul_O'Neill_(gymnast)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Jockey> .
+<http://dbpedia.org/resource/Rusudan_Khoperia> <http://www.w3.org/2000/01/rdf-schema#label> "Rusudan Khoperia" .
+<http://dbpedia.org/resource/Olena_Dvornichenko> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Natalia_Zinchenko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Jockey> .
+<http://dbpedia.org/resource/Paul_O'Neill_(gymnast)> <http://dbpedia.org/ontology/person> "causal agency" .
+<http://dbpedia.org/resource/Natalia_Zinchenko> <http://dbpedia.org/ontology/person> "jock" .
+<http://dbpedia.org/resource/Mikhail_Volodin> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Paul_O'Neill_(gymnast)> <http://www.w3.org/2000/01/rdf-schema#label> "Paul O'Neill (gymnast)" .
+<http://dbpedia.org/resource/Natalia_Zinchenko> <http://www.w3.org/2000/01/rdf-schema#label> "Natalia Yurchenko" .
+<http://dbpedia.org/resource/Rusudan_Khoperia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Jockey> .
+<http://dbpedia.org/resource/Mikhail_Volodin> <http://www.w3.org/2000/01/rdf-schema#label> "Mikhail Voronin" .
+<http://dbpedia.org/resource/Rusudan_Khoperia> <http://dbpedia.org/ontology/person> "gymnast" .
+<http://dbpedia.org/resource/Olena_Dvornichenko> <http://www.w3.org/2000/01/rdf-schema#label> "Olena Dvornichenko" .
+

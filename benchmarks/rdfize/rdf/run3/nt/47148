@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Robert_Anton_Wilson> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Anton Wilson" .
+<http://dbpedia.org/resource/Robert_Nozick> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Nozick" .
+<http://dbpedia.org/resource/René_Descartes> <http://www.w3.org/2000/01/rdf-schema#label> "Ren\u00E9 Descartes" .
+<http://dbpedia.org/resource/Pythagoras> <http://www.w3.org/2000/01/rdf-schema#label> "Pythagoras" .
+<http://dbpedia.org/resource/Ralph_Waldo_Emerson> <http://www.w3.org/2000/01/rdf-schema#label> "Ralph Waldo Emerson" .
+

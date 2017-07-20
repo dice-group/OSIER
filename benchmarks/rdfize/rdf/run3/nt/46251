@@ -1,0 +1,6 @@
+<http://example.org/a3346cbe-fa9b-4a7a-824d-21469137f6c5/Jaskinia+Nied%C5%BAwiedzia> <http://www.w3.org/2000/01/rdf-schema#label> "Jaskinia Nied\u017Awiedzia" .
+<http://example.org/a3346cbe-fa9b-4a7a-824d-21469137f6c5/Al+Hoota+Cave> <http://www.w3.org/2000/01/rdf-schema#label> "Al Hoota Cave" .
+<http://dbpedia.org/resource/Collin's_Cave> <http://www.w3.org/2000/01/rdf-schema#label> "Collin's Cave" .
+<http://example.org/a3346cbe-fa9b-4a7a-824d-21469137f6c5/Lamb_Leer__Cavern__1> <http://www.w3.org/2000/01/rdf-schema#label> "Lamb_Leer__Cavern__1" .
+<http://dbpedia.org/resource/Diesel's_Delight> <http://www.w3.org/2000/01/rdf-schema#label> "Diesel's Delight" .
+

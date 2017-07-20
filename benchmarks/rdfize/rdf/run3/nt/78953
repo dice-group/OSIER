@@ -1,0 +1,15 @@
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Malagasy+ariary> <http://dbpedia.org/ontology/currency> "abstract entity" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Congolese+franc> <http://www.w3.org/2000/01/rdf-schema#label> "Congolese franc" .
+<http://dbpedia.org/resource/Peruvian_art> <http://www.w3.org/2000/01/rdf-schema#label> "Peruvian inti" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Disney+dollar> <http://www.w3.org/2000/01/rdf-schema#label> "Disney dollar" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Malagasy+ariary> <http://www.w3.org/2000/01/rdf-schema#label> "Malagasy ariary" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Rouble+letton> <http://www.w3.org/2000/01/rdf-schema#label> "Rouble letton" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Inti+%28W%C3%A4hrung%29> <http://www.w3.org/2000/01/rdf-schema#label> "Inti (W\u00E4hrung)" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/%D8%A3%D8%B1%D9%8A%D8%A7%D8%B1%D9%8A+%D9%85%D8%AF%D8%BA%D8%B4%D9%82%D8%B1%D9%8A> <http://www.w3.org/2000/01/rdf-schema#label> "\u0623\u0631\u064A\u0627\u0631\u064A \u0645\u062F\u063A\u0634\u0642\u0631\u064A" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Congolese+franc> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Latvian+rublis> <http://www.w3.org/2000/01/rdf-schema#label> "Latvian rublis" .
+<http://dbpedia.org/resource/Peruvian_art> <http://dbpedia.org/ontology/currency> "Currencies of Peru" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Franco+congole%C3%B1o> <http://www.w3.org/2000/01/rdf-schema#label> "Franco congole\u00F1o" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Disney+dollar> <http://dbpedia.org/ontology/currency> "criterion" .
+<http://example.org/1be1994c-f5c2-4907-bd53-b28f3004c070/Latvian+rublis> <http://dbpedia.org/ontology/currency> "Currency" .
+

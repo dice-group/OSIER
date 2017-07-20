@@ -1,0 +1,22 @@
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Odnogi+m%C3%B3zgu> <http://www.w3.org/2000/01/rdf-schema#label> "Odnogi m\u00F3zgu" .
+<http://dbpedia.org/resource/Mirror_neuron> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "anatomical structure" .
+<http://dbpedia.org/resource/Mirror_neuron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Cerebral+crus> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "anatomical structure" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Pulvinar+%28ZNS%29> <http://www.w3.org/2000/01/rdf-schema#label> "Pulvinar (ZNS)" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Pulvinar+nuclei> <http://www.w3.org/2000/01/rdf-schema#label> "Pulvinar nuclei" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Frontal+lobe+epilepsy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Cerebral+crus> <http://www.w3.org/2000/01/rdf-schema#label> "Cerebral crus" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/%D8%AE%D9%84%D9%8A%D8%A9+%D8%B9%D8%B5%D8%A8%D9%8A%D8%A9+%D9%85%D8%B1%D8%A2%D8%AA%D9%8A%D8%A9> <http://www.w3.org/2000/01/rdf-schema#label> "\u062E\u0644\u064A\u0629 \u0639\u0635\u0628\u064A\u0629 \u0645\u0631\u0622\u062A\u064A\u0629" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Pulvinar+%28ZNS%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Frontal+lobe+epilepsy> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "brain" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Odnogi+m%C3%B3zgu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Pulvinar+nuclei> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "Thing" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Pulvinar+nuclei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Cerebral+crus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Lemniscus+%28anatomy%29> <http://dbpedia.org/ontology/isPartOfAnatomicalStructure> "neural structure" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/%D8%AE%D9%84%D9%8A%D8%A9+%D8%B9%D8%B5%D8%A8%D9%8A%D8%A9+%D9%85%D8%B1%D8%A2%D8%AA%D9%8A%D8%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Frontal+lobe+epilepsy> <http://www.w3.org/2000/01/rdf-schema#label> "Frontal lobe epilepsy" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Lemniscus+%28anatomy%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lemniscus (anatomy)" .
+<http://example.org/b330923f-457b-4329-9c19-714605664071/Lemniscus+%28anatomy%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontotext.com/proton/protonext#Brain> .
+<http://dbpedia.org/resource/Mirror_neuron> <http://www.w3.org/2000/01/rdf-schema#label> "Mirror neuron" .
+

@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Miami_Marlins> <http://www.w3.org/2000/01/rdf-schema#label> "Miami Marlins" .
+<http://dbpedia.org/resource/Baltimore_Orioles> <http://www.w3.org/2000/01/rdf-schema#label> "Baltimore Orioles" .
+<http://example.org/557bd04e-4def-4bfa-84d6-52ef89b1e132/Alanta+FalconJs> <http://www.w3.org/2000/01/rdf-schema#label> "Alanta FalconJs" .
+<http://dbpedia.org/resource/Houston_Astros> <http://www.w3.org/2000/01/rdf-schema#label> "Houston Astros" .
+<http://dbpedia.org/resource/Los_Angeles_Dodgers> <http://www.w3.org/2000/01/rdf-schema#label> "Los Angeles Dodgers" .
+<http://dbpedia.org/resource/Milwaukee_Brewers> <http://www.w3.org/2000/01/rdf-schema#label> "Milwaukee Brewers" .
+<http://dbpedia.org/resource/Baltimore_Ravens> <http://www.w3.org/2000/01/rdf-schema#label> "Baltimore Ravens" .
+<http://dbpedia.org/resource/Asociación_Alumni> <http://www.w3.org/2000/01/rdf-schema#label> "Asocacai\u00F3n Alumni" .
+<http://example.org/557bd04e-4def-4bfa-84d6-52ef89b1e132/KnsaIs+City+Royals> <http://www.w3.org/2000/01/rdf-schema#label> "KnsaIs City Royals" .
+<http://dbpedia.org/resource/Atlanta_Braves> <http://www.w3.org/2000/01/rdf-schema#label> "Atlanta Braves" .
+

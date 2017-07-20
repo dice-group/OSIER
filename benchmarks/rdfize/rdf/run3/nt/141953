@@ -1,0 +1,6 @@
+<http://example.org/bac606f3-0c6c-45fe-a19a-87bd804a9315/2006+Boise+State+Broncos+football+team> <http://www.w3.org/2000/01/rdf-schema#label> "2006 Boise State Broncos football team" .
+<http://example.org/bac606f3-0c6c-45fe-a19a-87bd804a9315/1997+Michigan+Wolverines+football+team> <http://www.w3.org/2000/01/rdf-schema#label> "1997 Michigan Wolverines football team" .
+<http://example.org/bac606f3-0c6c-45fe-a19a-87bd804a9315/2001+LSU+Tigers+football+team> <http://www.w3.org/2000/01/rdf-schema#label> "2001 LSU Tigers football team" .
+<http://dbpedia.org/resource/Tennessee_Volunteers_football> <http://www.w3.org/2000/01/rdf-schema#label> "1998 Tennessee Volunteers football team" .
+<http://example.org/bac606f3-0c6c-45fe-a19a-87bd804a9315/1958+LSU+Tigers+football+team> <http://www.w3.org/2000/01/rdf-schema#label> "1958 LSU Tigers football team" .
+

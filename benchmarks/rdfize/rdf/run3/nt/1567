@@ -1,0 +1,132 @@
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Squirt+%28soft+drink%29> <http://www.w3.org/2000/01/rdf-schema#label> "Squirt (soft drink)" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Barton+Premium+Blend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Squirt+%28soft+drink%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Lav+pivo> <http://dbpedia.org/ontology/nextEntity> "brew" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/4-Phenyl-4-%281-piperidinyl%29cyclohexanol> <http://www.w3.org/2000/01/rdf-schema#label> "4-Phenyl-4-(1-piperidinyl)cyclohexanol" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Mecca-Cola> <http://www.w3.org/2000/01/rdf-schema#label> "Mecca-Cola" .
+<http://dbpedia.org/resource/Velkopopovick%C3%BD_Kozel> <http://www.w3.org/2000/01/rdf-schema#label> "Velkopopovick\u00FD Kozel" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Ski+%28soda%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ski (soda)" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Sprite+Remix> <http://dbpedia.org/ontology/nextEntity> "Drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Brisa+drink> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/Mio,_Michigan> <http://www.w3.org/2000/01/rdf-schema#label> "MiO" .
+<http://dbpedia.org/resource/Bhajji_State> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Heinekeenr+Premi+Light> <http://dbpedia.org/ontology/nextEntity> "mvattr" .
+<http://dbpedia.org/resource/Heineken_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kingfisher+%28beer%29> <http://dbpedia.org/ontology/nextEntity> "abstract entity" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Old+Crow> <http://www.w3.org/2000/01/rdf-schema#label> "Old Crow" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Benjamin+Prichard%27s+Tennessee+Whiskey> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin Prichard's Tennessee Whiskey" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/National+Bohemian> <http://dbpedia.org/ontology/nextEntity> "Thing" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Staminade> <http://www.w3.org/2000/01/rdf-schema#label> "Staminade" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Magnesium+carbonate> <http://www.w3.org/2000/01/rdf-schema#label> "Magnesium carbonate" .
+<http://dbpedia.org/resource/Bhajji_State> <http://dbpedia.org/ontology/nextEntity> "dish" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Sprite+Remix> <http://www.w3.org/2000/01/rdf-schema#label> "Sprite Remix" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Dunville%27s+VR> <http://dbpedia.org/ontology/nextEntity> "nutrient" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bolognese+sauce> <http://dbpedia.org/ontology/nextEntity> "spaghetti sauce" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Old+Crow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Lav+pivo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Old+Crow> <http://dbpedia.org/ontology/nextEntity> "liquid" .
+<http://dbpedia.org/resource/Joe_Ades> <http://www.w3.org/2000/01/rdf-schema#label> "AdeS" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Barton+Premium+Blend> <http://www.w3.org/2000/01/rdf-schema#label> "Barton Premium Blend" .
+<http://dbpedia.org/resource/Bhajji_State> <http://www.w3.org/2000/01/rdf-schema#label> "Bhajji" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Lucid+Absinthe> <http://www.w3.org/2000/01/rdf-schema#label> "Lucid Absinthe" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kingfisher+%28beer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/Velkopopovick%C3%BD_Kozel> <http://dbpedia.org/ontology/nextEntity> "physical entity" .
+<http://dbpedia.org/resource/Velkopopovick%C3%BD_Kozel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/Joe_Ades> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kavakl%C4%B1dere+%28winery%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/1519+Tequila> <http://dbpedia.org/ontology/nextEntity> "physical entity" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Rebel+Yell+%28whiskey%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bernheim+Original> <http://dbpedia.org/ontology/nextEntity> "relation" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kingfisher+%28beer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kingfisher (beer)" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bernheim+Original> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Beam%27s+Eight+Star> <http://dbpedia.org/ontology/nextEntity> "street drug" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Beef+on+weck> <http://www.w3.org/2000/01/rdf-schema#label> "Beef on weck" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bernheim+Original> <http://www.w3.org/2000/01/rdf-schema#label> "Bernheim Original" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Dunville%27s+VR> <http://www.w3.org/2000/01/rdf-schema#label> "Dunville's VR" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kick+%28soft+drink%29> <http://dbpedia.org/ontology/nextEntity> "drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kavakl%C4%B1dere+%28winery%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kavakl\u0131dere (winery)" .
+<http://dbpedia.org/resource/WWE_Armageddon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Green+Spot+%28whiskey%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bong+Spirit+Vodka> <http://dbpedia.org/ontology/nextEntity> "drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bolognese+sauce> <http://www.w3.org/2000/01/rdf-schema#label> "Bolognese sauce" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Guinness+Foreign+Extra+Stout> <http://dbpedia.org/ontology/nextEntity> "beverage" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Alpha-Ketoglutaric+acid> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-Ketoglutaric acid" .
+<http://dbpedia.org/resource/WWE_Armageddon> <http://dbpedia.org/ontology/nextEntity> "agent" .
+<http://dbpedia.org/resource/Contrast-enhanced_ultrasound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/DNL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Benjamin+Prichard%27s+Tennessee+Whiskey> <http://dbpedia.org/ontology/nextEntity> "matter" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Boondi> <http://www.w3.org/2000/01/rdf-schema#label> "Boondi" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/1519+Tequila> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Alpha-Ketoglutaric+acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Molsqon+Cnadian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kickapoo+Joy+Juice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bong+Spirit+Vodka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Lucid+Absinthe> <http://dbpedia.org/ontology/nextEntity> "drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Mecca-Cola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/WWE_Armageddon> <http://www.w3.org/2000/01/rdf-schema#label> "Armageddon (beer)" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Blue+Moon+%28beer%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Moon (beer)" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Dibromomethane> <http://www.w3.org/2000/01/rdf-schema#label> "Dibromomethane" .
+<http://dbpedia.org/resource/Heineken_International> <http://www.w3.org/2000/01/rdf-schema#label> "Heineken" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Molsqon+Cnadian> <http://www.w3.org/2000/01/rdf-schema#label> "Molsqon Cnadian" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Amok+trey> <http://www.w3.org/2000/01/rdf-schema#label> "Amok trey" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/1519+Tequila> <http://www.w3.org/2000/01/rdf-schema#label> "1519 Tequila" .
+<http://dbpedia.org/resource/Mio,_Michigan> <http://dbpedia.org/ontology/nextEntity> "name" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Amyl+nitrite> <http://www.w3.org/2000/01/rdf-schema#label> "Amyl nitrite" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kavakl%C4%B1dere+%28winery%29> <http://dbpedia.org/ontology/nextEntity> "Thing" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Magnesium+carbonate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Brisa+drink> <http://www.w3.org/2000/01/rdf-schema#label> "Brisa drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kick+%28soft+drink%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Beam%27s+Eight+Star> <http://www.w3.org/2000/01/rdf-schema#label> "Beam's Eight Star" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Suso+%28drink%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/Northern_Comfort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Dunville%27s+VR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Beam%27s+Eight+Star> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/Mio,_Michigan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Blue+Moon+%28beer%29> <http://dbpedia.org/ontology/nextEntity> "brew" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Suso+%28drink%29> <http://www.w3.org/2000/01/rdf-schema#label> "Suso (drink)" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Molsqon+Cnadian> <http://dbpedia.org/ontology/nextEntity> "nutriBnt" .
+<http://dbpedia.org/resource/Northern_Comfort> <http://dbpedia.org/ontology/nextEntity> "drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Mecca-Cola> <http://dbpedia.org/ontology/nextEntity> "linguistic unit" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Beef+on+weck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Ski+%28soda%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bombay+Sapphire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Brisa+drink> <http://dbpedia.org/ontology/nextEntity> "drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Amyl+nitrite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Suso+%28drink%29> <http://dbpedia.org/ontology/nextEntity> "fluid" .
+<http://dbpedia.org/resource/Northern_Comfort> <http://www.w3.org/2000/01/rdf-schema#label> "Southern Comfort" .
+<http://dbpedia.org/resource/Heineken_International> <http://dbpedia.org/ontology/nextEntity> "fluid" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Heinekeenr+Premi+Light> <http://www.w3.org/2000/01/rdf-schema#label> "Heinekeenr Premi Light" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/4-Phenyl-4-%281-piperidinyl%29cyclohexanol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Ski+%28soda%29> <http://dbpedia.org/ontology/nextEntity> "material" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bombay+Sapphire> <http://www.w3.org/2000/01/rdf-schema#label> "Bombay Sapphire" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Barton+Premium+Blend> <http://dbpedia.org/ontology/nextEntity> "FunctionalSubstance" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Rebel+Yell+%28whiskey%29> <http://dbpedia.org/ontology/nextEntity> "Thing" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Blue+Moon+%28beer%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kick+%28soft+drink%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kick (soft drink)" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Staminade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Lucid+Absinthe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Lav+pivo> <http://www.w3.org/2000/01/rdf-schema#label> "Lav pivo" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Squirt+%28soft+drink%29> <http://dbpedia.org/ontology/nextEntity> "Thing" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Amok+trey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Boondi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Guinness+Foreign+Extra+Stout> <http://www.w3.org/2000/01/rdf-schema#label> "Guinness Foreign Extra Stout" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Heinekeenr+Premi+Light> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Rebel+Yell+%28whiskey%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rebel Yell (whiskey)" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Sprite+Remix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/DNL> <http://www.w3.org/2000/01/rdf-schema#label> "DnL" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/National+Bohemian> <http://www.w3.org/2000/01/rdf-schema#label> "National Bohemian" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Dibromomethane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bolognese+sauce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/National+Bohemian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Bong+Spirit+Vodka> <http://www.w3.org/2000/01/rdf-schema#label> "Bong Spirit Vodka" .
+<http://dbpedia.org/resource/Contrast-enhanced_ultrasound> <http://www.w3.org/2000/01/rdf-schema#label> "Bubble tea" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Benjamin+Prichard%27s+Tennessee+Whiskey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/DNL> <http://dbpedia.org/ontology/nextEntity> "Drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kickapoo+Joy+Juice> <http://www.w3.org/2000/01/rdf-schema#label> "Kickapoo Joy Juice" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Guinness+Foreign+Extra+Stout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sensormeasurement.appspot.com/ont/home/homeActivity#Drink> .
+<http://dbpedia.org/resource/Joe_Ades> <http://dbpedia.org/ontology/nextEntity> "Drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Green+Spot+%28whiskey%29> <http://www.w3.org/2000/01/rdf-schema#label> "Green Spot (whiskey)" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Green+Spot+%28whiskey%29> <http://dbpedia.org/ontology/nextEntity> "food" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Staminade> <http://dbpedia.org/ontology/nextEntity> "Drink" .
+<http://example.org/788fb8f7-0db3-4f3d-bdfb-e4c65aeff694/Kickapoo+Joy+Juice> <http://dbpedia.org/ontology/nextEntity> "compound" .
+

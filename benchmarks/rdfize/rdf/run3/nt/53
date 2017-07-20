@@ -1,0 +1,38 @@
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Finnish+Civil+War> <http://dbpedia.org/ontology/kindOfCriminalAction> "Event" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Cuban+Missile+Crisis> <http://dbpedia.org/ontology/kindOfCriminalAction> "group action" .
+<http://dbpedia.org/resource/Civil_Code_of_Russia> <http://www.w3.org/2000/01/rdf-schema#label> "Russian Civil War" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/First+Battle+of+El+Alamein> <http://www.w3.org/2000/01/rdf-schema#label> "First Battle of El Alamein" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Rusxsian+Revoution> <http://dbpedia.org/ontology/kindOfCriminalAction> "moLdifiction" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Easter+Rising> <http://dbpedia.org/ontology/kindOfCriminalAction> "ConflictEvent" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Siege+of+Pavia+%28773%E2%80%9374%29> <http://dbpedia.org/ontology/kindOfCriminalAction> "group action" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/English+Civil+War> <http://dbpedia.org/ontology/kindOfCriminalAction> "Event" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Peloponnesian+War> <http://dbpedia.org/ontology/kindOfCriminalAction> "event" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Second+Punic+War> <http://www.w3.org/2000/01/rdf-schema#label> "Second Punic War" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Easter+Rising> <http://www.w3.org/2000/01/rdf-schema#label> "Easter Rising" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Eureka+Rebellion> <http://dbpedia.org/ontology/kindOfCriminalAction> "Thing" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Mexican+Revolution> <http://dbpedia.org/ontology/kindOfCriminalAction> "civil war" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Mau+Mau+Uprising> <http://dbpedia.org/ontology/kindOfCriminalAction> "Event" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Second+Punic+War> <http://dbpedia.org/ontology/kindOfCriminalAction> "event" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Finnish+Civil+War> <http://www.w3.org/2000/01/rdf-schema#label> "Finnish Civil War" .
+<http://dbpedia.org/resource/Civil_Code_of_Russia> <http://dbpedia.org/ontology/kindOfCriminalAction> "civil war" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Falklands+War> <http://www.w3.org/2000/01/rdf-schema#label> "Falklands War" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Siege+of+Pavia+%28773%E2%80%9374%29> <http://www.w3.org/2000/01/rdf-schema#label> "Siege of Pavia (773\u201374)" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Quasi-War> <http://dbpedia.org/ontology/kindOfCriminalAction> "Event" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Cuban+Missile+Crisis> <http://www.w3.org/2000/01/rdf-schema#label> "Cuban Missile Crisis" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Mau+Mau+Uprising> <http://www.w3.org/2000/01/rdf-schema#label> "Mau Mau Uprising" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/First+Battle+of+El+Alamein> <http://dbpedia.org/ontology/kindOfCriminalAction> "conflict" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/English+Civil+War> <http://dbpedia.org/ontology/kindOfCriminalAction> "ConflictEvent" .
+<http://dbpedia.org/resource/The_War_of_the_Ring_Online_Campaign> <http://dbpedia.org/ontology/kindOfCriminalAction> "conflict" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Mexican+Revolution> <http://www.w3.org/2000/01/rdf-schema#label> "Mexican Revolution" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Eureka+Rebellion> <http://www.w3.org/2000/01/rdf-schema#label> "Eureka Rebellion" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Peloponnesian+War> <http://www.w3.org/2000/01/rdf-schema#label> "Peloponnesian War" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Falklands+War> <http://dbpedia.org/ontology/kindOfCriminalAction> "conflict" .
+<http://dbpedia.org/resource/The_War_of_the_Ring_Online_Campaign> <http://www.w3.org/2000/01/rdf-schema#label> "War of the Ring" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Second+Opium+War> <http://www.w3.org/2000/01/rdf-schema#label> "Second Opium War" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Rusxsian+Revoution> <http://www.w3.org/2000/01/rdf-schema#label> "Rusxsian Revoution" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Eureka+Rebellion> <http://dbpedia.org/ontology/kindOfCriminalAction> "Event" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/English+Civil+War> <http://www.w3.org/2000/01/rdf-schema#label> "English Civil War" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Quasi-War> <http://www.w3.org/2000/01/rdf-schema#label> "Quasi-War" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Second+Opium+War> <http://dbpedia.org/ontology/kindOfCriminalAction> "abstract entity" .
+<http://example.org/6516e31a-895c-4763-9170-59ccfa625078/Falklands+War> <http://dbpedia.org/ontology/kindOfCriminalAction> "event" .
+

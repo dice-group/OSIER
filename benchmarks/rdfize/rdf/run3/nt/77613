@@ -1,0 +1,7 @@
+<http://example.org/81d65260-6c95-4ecc-a6f1-f6789759d709/Bubble+Bobble> <http://www.w3.org/2000/01/rdf-schema#label> "Bubble Bobble" .
+<http://dbpedia.org/resource/Port_Royal> <http://www.w3.org/2000/01/rdf-schema#label> "Port Royale" .
+<http://example.org/81d65260-6c95-4ecc-a6f1-f6789759d709/Asteroids+%28video+game%29> <http://www.w3.org/2000/01/rdf-schema#label> "Asteroids (video game)" .
+<http://example.org/81d65260-6c95-4ecc-a6f1-f6789759d709/Port+Royale%3A+Gold%2C+Power+and+Pirates> <http://www.w3.org/2000/01/rdf-schema#label> "Port Royale: Gold, Power and Pirates" .
+<http://example.org/81d65260-6c95-4ecc-a6f1-f6789759d709/P.O.W.%3A+Prisoners+of+War> <http://www.w3.org/2000/01/rdf-schema#label> "P.O.W.: Prisoners of War" .
+<http://dbpedia.org/resource/Cave_of_the_Winds_(New_York)> <http://www.w3.org/2000/01/rdf-schema#label> "Castle of the Winds" .
+

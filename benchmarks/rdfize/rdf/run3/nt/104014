@@ -1,0 +1,9 @@
+<http://dbpedia.org/resource/Messier_70> <http://www.w3.org/2000/01/rdf-schema#label> "Messier 105" .
+<http://example.org/ace01da5-651c-458a-99aa-7a53df41a821/%D9%85%D8%B3%D9%8A%D9%8A%D9%87+105> <http://www.w3.org/2000/01/rdf-schema#label> "\u0645\u0633\u064A\u064A\u0647 105" .
+<http://dbpedia.org/resource/Messier_70> <http://www.w3.org/2000/01/rdf-schema#label> "Messier 108" .
+<http://dbpedia.org/resource/Segue_3> <http://www.w3.org/2000/01/rdf-schema#label> "Segue 2" .
+<http://dbpedia.org/resource/NGC_32> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 57" .
+<http://dbpedia.org/resource/NGC_32> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 3" .
+<http://example.org/ace01da5-651c-458a-99aa-7a53df41a821/%D8%A5%D9%86+%D8%AC%D9%8A+%D8%B3%D9%8A+3> <http://www.w3.org/2000/01/rdf-schema#label> "\u0625\u0646 \u062C\u064A \u0633\u064A 3" .
+<http://example.org/ace01da5-651c-458a-99aa-7a53df41a821/%D9%85%D8%B3%D9%8A%D9%8A%D9%87+108> <http://www.w3.org/2000/01/rdf-schema#label> "\u0645\u0633\u064A\u064A\u0647 108" .
+

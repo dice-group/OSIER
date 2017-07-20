@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/London_Underground_rolling_stock> <http://www.w3.org/2000/01/rdf-schema#label> "London Underground coaching stock" .
+<http://example.org/fe5297ea-c6fd-43f7-959f-e3abf8c5e15b/TT+Class+8> <http://www.w3.org/2000/01/rdf-schema#label> "TT Class 8" .
+<http://example.org/fe5297ea-c6fd-43f7-959f-e3abf8c5e15b/V%2FLine+Sprinter> <http://www.w3.org/2000/01/rdf-schema#label> "V/Line Sprinter" .
+<http://example.org/fe5297ea-c6fd-43f7-959f-e3abf8c5e15b/Stadsgewestelijk+Materieel> <http://www.w3.org/2000/01/rdf-schema#label> "Stadsgewestelijk Materieel" .
+<http://dbpedia.org/resource/Movia> <http://www.w3.org/2000/01/rdf-schema#label> "Movia" .
+<http://example.org/fe5297ea-c6fd-43f7-959f-e3abf8c5e15b/NS+SGMm> <http://www.w3.org/2000/01/rdf-schema#label> "NS SGMm" .
+

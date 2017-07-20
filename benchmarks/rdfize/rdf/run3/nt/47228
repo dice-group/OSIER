@@ -1,0 +1,9 @@
+<http://example.org/b16dd3ab-b503-477e-878d-32c58e85e44f/Hawker+Sidaeley+Harrier> <http://www.w3.org/2000/01/rdf-schema#label> "Hawker Sidaeley Harrier" .
+<http://example.org/b16dd3ab-b503-477e-878d-32c58e85e44f/Hawker+Harrier> <http://www.w3.org/2000/01/rdf-schema#label> "Hawker Harrier" .
+<http://example.org/b16dd3ab-b503-477e-878d-32c58e85e44f/Junkers+Ju+87> <http://www.w3.org/2000/01/rdf-schema#label> "Junkers Ju 87" .
+<http://example.org/b16dd3ab-b503-477e-878d-32c58e85e44f/General+Dynamics+F-16+Fighting+Falcon> <http://www.w3.org/2000/01/rdf-schema#label> "General Dynamics F-16 Fighting Falcon" .
+<http://dbpedia.org/resource/Second_voyage_of_HMS_Beagle> <http://www.w3.org/2000/01/rdf-schema#label> "HMS Beagle" .
+<http://example.org/b16dd3ab-b503-477e-878d-32c58e85e44f/Grumman+F-14+Tomcat> <http://www.w3.org/2000/01/rdf-schema#label> "Grumman F-14 Tomcat" .
+<http://dbpedia.org/resource/Champollion_(spacecraft)> <http://www.w3.org/2000/01/rdf-schema#label> "Deep Space 1" .
+<http://dbpedia.org/resource/Ford_GT75> <http://www.w3.org/2000/01/rdf-schema#label> "Ford GT40" .
+

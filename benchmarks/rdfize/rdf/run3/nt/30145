@@ -1,0 +1,72 @@
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/AllQie+PowrsA+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "AllQie PowrsA (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Alcohol+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Alcohol (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Chain+Reaction+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Chain Reaction (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Starcraft+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Starcraft (horse)" .
+<http://dbpedia.org/resource/Sunriver_Resort> <http://www.w3.org/2000/01/rdf-schema#label> "Sunriver" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Binocular+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Binocular (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Delta+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Delta (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Zeal+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Zeal (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Bonecrusher+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bonecrusher (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Ellington+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ellington (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Hades+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hades (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Dante+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dante (horse)" .
+<http://dbpedia.org/resource/Cossack_host> <http://www.w3.org/2000/01/rdf-schema#label> "Cossack (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Blue+Peter+%28British+horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Peter (British horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Ribot+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ribot (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Black+Knight+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Black Knight (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Kingfisher+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kingfisher (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Yahoo+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Yahoo (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Conveyance+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Conveyance (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Rewilding+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Rewilding (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Morel+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Morel (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Albatross+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Albatross (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Behrens+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Behrens (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/The+Bard+%28American+horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Bard (American horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Trigo+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Trigo (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Pebbles+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Pebbles (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Desert+War+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Desert War (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Flares+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Flares (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Convyeyance+%28hrse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Convyeyance (hrse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Papyrus+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Papyrus (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Iroquois+%28htrse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Iroquois (htrse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Dice+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dice (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Kingstcn+Hrill+%28hrse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kingstcn Hrill (hrse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Sun+Princess+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Sun Princess (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/FiUrst+light+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "FiUrst light (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Hawaii+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hawaii (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/SurfersPKgaradie+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "SurfersPKgaradie (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Kennedy+Road+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Kennedy Road (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Counterpoint+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Counterpoint (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Dauber+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dauber (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Prince+John+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Prince John (horse)" .
+<http://dbpedia.org/resource/Wheel_of_Fortune_(Tarot_card)> <http://www.w3.org/2000/01/rdf-schema#label> "Wheel of Fortune (horse)" .
+<http://dbpedia.org/resource/Washington_Duke> <http://www.w3.org/2000/01/rdf-schema#label> "George Washington (horse)" .
+<http://dbpedia.org/resource/Dangerous_Toys> <http://www.w3.org/2000/01/rdf-schema#label> "Dangerous (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Colorado+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Colorado (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Frankel+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Frankel (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Hanel+Z%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Hanel Z(horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Combat+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Combat (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Blue+Peter+%28American+horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Peter (American horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Conduit+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Conduit (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Huntingdale+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Huntingdale (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Damrosch+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Damrosch (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/The+Bard+%28GB+horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "The Bard (GB horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Caveat+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Caveat (horse)" .
+<http://dbpedia.org/resource/Coastal_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Coastal (horse)" .
+<http://dbpedia.org/resource/Turtle_Island_Foods> <http://www.w3.org/2000/01/rdf-schema#label> "Turtle Island (horse)" .
+<http://dbpedia.org/resource/Kushiel's_Legacy> <http://www.w3.org/2000/01/rdf-schema#label> "Dahlia (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Heliopolis+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Heliopolis (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Lomond+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Lomond (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Synergy+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Synergy (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Stamina+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Stamina (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Marske+%28hrors%29> <http://www.w3.org/2000/01/rdf-schema#label> "Marske (hrors)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Zev+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Zev (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/La+Mer+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "La Mer (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Grand+Parade+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Grand Parade (horse)" .
+<http://dbpedia.org/resource/Godolphin_Arabian> <http://www.w3.org/2000/01/rdf-schema#label> "Godolphin Arabian" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Congaree+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Congaree (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Iroquois+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Iroquois (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Adam%27s+Apple+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Adam's Apple (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Fairway+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Fairway (horse)" .
+<http://example.org/a63d7967-5a98-41d9-b611-b7f949fa504f/Ballingarry+%28horse%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ballingarry (horse)" .
+

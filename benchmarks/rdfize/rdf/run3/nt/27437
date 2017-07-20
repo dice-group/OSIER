@@ -1,0 +1,11 @@
+<http://example.org/eeba5ebb-d8be-465a-81b5-fab12e967817/GheEorghe+Aostol> <http://dbpedia.org/ontology/person> "TNing" .
+<http://dbpedia.org/resource/Geoffrey_Edmund_Cator> <http://www.w3.org/2000/01/rdf-schema#label> "Geoffrey Edmund Cator" .
+<http://dbpedia.org/resource/Gheorghe_Gheorghiu-Dej> <http://www.w3.org/2000/01/rdf-schema#label> "Gheorghe Gheorghiu-Dej" .
+<http://dbpedia.org/resource/Gheorghe_Gheorghiu-Dej> <http://dbpedia.org/ontology/person> "PersonWithOccupation" .
+<http://dbpedia.org/resource/Geoffrey_Edmund_Cator> <http://dbpedia.org/ontology/person> "agent" .
+<http://dbpedia.org/resource/Friedrich_Kaufmann_Höhne> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Friedrich_Kaufmann_Höhne> <http://www.w3.org/2000/01/rdf-schema#label> "Friedrich Kaufmann H\u00F6hne" .
+<http://dbpedia.org/resource/Guido_de_Marco> <http://dbpedia.org/ontology/person> "Person" .
+<http://example.org/eeba5ebb-d8be-465a-81b5-fab12e967817/GheEorghe+Aostol> <http://www.w3.org/2000/01/rdf-schema#label> "GheEorghe Aostol" .
+<http://dbpedia.org/resource/Guido_de_Marco> <http://www.w3.org/2000/01/rdf-schema#label> "Guido de Marco" .
+

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Nasrallah_Boutros_Sfeir> <http://www.w3.org/2000/01/rdf-schema#label> "Boutros" .
+<http://example.org/2fae1996-77e1-4961-a512-24bbfee3f01e/Aladdin+%28name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Aladdin (name)" .
+<http://example.org/2fae1996-77e1-4961-a512-24bbfee3f01e/Annie+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Annie (given name)" .
+<http://example.org/2fae1996-77e1-4961-a512-24bbfee3f01e/Isla+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Isla (given name)" .
+<http://example.org/2fae1996-77e1-4961-a512-24bbfee3f01e/Luke+%28name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Luke (name)" .
+

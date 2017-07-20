@@ -1,0 +1,24 @@
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Aidianus+inferVnus> <http://dbpedia.org/ontology/Work/runtime> "m.0wfts7t" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Methanocella+paludicola> <http://www.w3.org/2000/01/rdf-schema#label> "Methanocella paludicola" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Clelia+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clelia (given name)" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Gertrude+%28pr%C3%A9nom%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gertrude (pr\u00E9nom)" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Dalia+%28imi%C4%99%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dalia (imi\u0119)" .
+<http://dbpedia.org/resource/Casimir_(dinosaur)> <http://www.w3.org/2000/01/rdf-schema#label> "Casimir" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Aigarchaeota> <http://www.w3.org/2000/01/rdf-schema#label> "Aigarchaeota" .
+<http://dbpedia.org/resource/Ennio_Morricone> <http://www.w3.org/2000/01/rdf-schema#label> "Ennio" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Clarissa+%28given+name%29> <http://dbpedia.org/ontology/Work/runtime> "Klarissza" .
+<http://dbpedia.org/resource/Cristina_Casandra> <http://www.w3.org/2000/01/rdf-schema#label> "Casandra" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Thermococcus+gammatolerans> <http://www.w3.org/2000/01/rdf-schema#label> "Thermococcus gammatolerans" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Clarissa+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clarissa (given name)" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Clara+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Clara (given name)" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Gertrude+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gertrude (given name)" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Archaeal+Richmond+Mine+acidophilic+nanoorganisms> <http://www.w3.org/2000/01/rdf-schema#label> "Archaeal Richmond Mine acidophilic nanoorganisms" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Aigarchaeota> <http://dbpedia.org/ontology/Work/runtime> "Aigarchaeota" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Cassandra+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Cassandra (given name)" .
+<http://dbpedia.org/resource/Emre_(surname)> <http://www.w3.org/2000/01/rdf-schema#label> "Emre" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Archaeal+Richmond+Mine+acidophilic+nanoorganisms> <http://dbpedia.org/ontology/Work/runtime> "ARMAN" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Cassandra+%28given+name%29> <http://dbpedia.org/ontology/Work/runtime> "Cassandra" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Dlia+%28given+nrame%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dlia (given nrame)" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Aidianus+inferVnus> <http://www.w3.org/2000/01/rdf-schema#label> "Aidianus inferVnus" .
+<http://example.org/e3735dfd-a954-4183-82dd-5d78befc279b/Clelia+%28given+name%29> <http://dbpedia.org/ontology/Work/runtime> "Clelia" .
+

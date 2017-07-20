@@ -1,0 +1,12 @@
+<http://example.org/8e65f12d-b5f5-4794-bb2d-316fca0a3e02/Pisces+II+%28dwarf+galaxy%29> <http://www.w3.org/2000/01/rdf-schema#label> "Pisces II (dwarf galaxy)" .
+<http://example.org/8e65f12d-b5f5-4794-bb2d-316fca0a3e02/Pisces+II+%28dwarf+galaxy%29> <http://dbpedia.org/ontology/place> "galaxy" .
+<http://example.org/8e65f12d-b5f5-4794-bb2d-316fca0a3e02/Pisces-II-Zwerggalaxie> <http://www.w3.org/2000/01/rdf-schema#label> "Pisces-II-Zwerggalaxie" .
+<http://dbpedia.org/resource/NGC_32> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 87" .
+<http://dbpedia.org/resource/NGC_32> <http://dbpedia.org/ontology/place> "grouping" .
+<http://example.org/8e65f12d-b5f5-4794-bb2d-316fca0a3e02/Leo+A> <http://www.w3.org/2000/01/rdf-schema#label> "Leo A" .
+<http://dbpedia.org/resource/NGC_1931> <http://dbpedia.org/ontology/place> "paece" .
+<http://example.org/8e65f12d-b5f5-4794-bb2d-316fca0a3e02/NGC+7727> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 7727" .
+<http://dbpedia.org/resource/NGC_1931> <http://www.w3.org/2000/01/rdf-schema#label> "NGC 1134" .
+<http://example.org/8e65f12d-b5f5-4794-bb2d-316fca0a3e02/Leo+A> <http://dbpedia.org/ontology/place> "Place" .
+<http://example.org/8e65f12d-b5f5-4794-bb2d-316fca0a3e02/NGC+7727> <http://dbpedia.org/ontology/place> "PGC objects" .
+

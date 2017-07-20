@@ -1,0 +1,301 @@
+<http://dbpedia.org/resource/Trondheim_Tramway> <http://www.w3.org/2000/01/rdf-schema#label> "Trondheim Tramway" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Hodfder+Faih> <http://www.w3.org/2000/01/rdf-schema#label> "Hodfder Faih" .
+<http://dbpedia.org/resource/Morrison_&_Foerster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Transportes_Aéreos_Bandeirantes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/The+Ren+%26+Stimpy+Show> <http://dbpedia.org/ontology/organisation> "artifact" .
+<http://dbpedia.org/resource/Cuneo_Gilbert_&_LaDuca,_LLP> <http://www.w3.org/2000/01/rdf-schema#label> "Cuneo Gilbert & LaDuca, LLP" .
+<http://dbpedia.org/resource/Rollits_LLP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Cole_Ranch_AVA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Chrysler> <http://www.w3.org/2000/01/rdf-schema#label> "Chrysler" .
+<http://dbpedia.org/resource/Harvard_Legal_Aid_Bureau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Wahlström_&_Widstrand> <http://www.w3.org/2000/01/rdf-schema#label> "Wahlstr\u00F6m & Widstrand" .
+<http://dbpedia.org/resource/Jerusalem_Institute_of_Justice> <http://www.w3.org/2000/01/rdf-schema#label> "Jerusalem Institute of Justice" .
+<http://dbpedia.org/resource/Hisham_Mubarak_Law_Center> <http://dbpedia.org/ontology/organisation> "Organization" .
+<http://dbpedia.org/resource/Brunswick_Books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Nature_Publishing_Group> <http://dbpedia.org/ontology/organisation> "Organization" .
+<http://dbpedia.org/resource/Transportes_Aéreos_Bandeirantes> <http://www.w3.org/2000/01/rdf-schema#label> "Transportes A\u00E9reos Bandeirantes" .
+<http://dbpedia.org/resource/Hoagland,_Longo,_Moran,_Dunst_&_Doukas> <http://dbpedia.org/ontology/organisation> "business concern" .
+<http://dbpedia.org/resource/Kingsford_Legal_Centre> <http://dbpedia.org/ontology/organisation> "Agent" .
+<http://dbpedia.org/resource/Rhine-Main_Railway> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/USA3000_Airlines> <http://www.w3.org/2000/01/rdf-schema#label> "USA3000 Airlines" .
+<http://dbpedia.org/resource/Compaq> <http://dbpedia.org/ontology/organisation> "Thing" .
+<http://dbpedia.org/resource/Sidley_Austin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/King_&_Wood_Mallesons> <http://www.w3.org/2000/01/rdf-schema#label> "King & Wood Mallesons" .
+<http://dbpedia.org/resource/Hanson_Bridgett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Holman_Fenwick_Willan> <http://www.w3.org/2000/01/rdf-schema#label> "Holman Fenwick Willan" .
+<http://dbpedia.org/resource/Trondheim_Tramway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Black_Tusk_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "Black Mask Studios" .
+<http://dbpedia.org/resource/Chestnut_Hill_West_Line> <http://dbpedia.org/ontology/organisation> "Place" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Hodfder+Faih> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Kinstellar> <http://www.w3.org/2000/01/rdf-schema#label> "Kinstellar" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/S33+%28ZVV%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Rodyk_&_Davidson> <http://www.w3.org/2000/01/rdf-schema#label> "Rodyk & Davidson" .
+<http://dbpedia.org/resource/Keihin-Tōhoku_Line> <http://dbpedia.org/ontology/organisation> "railway line" .
+<http://dbpedia.org/resource/Fodor's> <http://www.w3.org/2000/01/rdf-schema#label> "Fodor's" .
+<http://dbpedia.org/resource/Thomas_Dunne_Books> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas Dunne Books" .
+<http://dbpedia.org/resource/Cole_Ranch_AVA> <http://dbpedia.org/ontology/organisation> "establishment" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Dallas+%281978+TV+series%29> <http://dbpedia.org/ontology/organisation> "CreativeWork" .
+<http://dbpedia.org/resource/Feltrinelli_(publisher)> <http://dbpedia.org/ontology/organisation> "business concern" .
+<http://dbpedia.org/resource/Lindquist_&_Vennum> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Derwent_Valley_Mills> <http://www.w3.org/2000/01/rdf-schema#label> "Derwent Valley Line" .
+<http://dbpedia.org/resource/Holt_McDougal> <http://dbpedia.org/ontology/organisation> "organisation" .
+<http://dbpedia.org/resource/Obverse_Books> <http://www.w3.org/2000/01/rdf-schema#label> "Obverse Books" .
+<http://dbpedia.org/resource/Devil's_Due_Publishing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Fodor's> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Ave_Maria_Press> <http://www.w3.org/2000/01/rdf-schema#label> "Ave Maria Press" .
+<http://dbpedia.org/resource/Jōetsu_Shinkansen> <http://dbpedia.org/ontology/organisation> "place" .
+<http://dbpedia.org/resource/Tomsk_Avia> <http://www.w3.org/2000/01/rdf-schema#label> "Tomsk Avia" .
+<http://dbpedia.org/resource/King_&_Wood_Mallesons> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/PLOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Fodor's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Wiley_Rein> <http://www.w3.org/2000/01/rdf-schema#label> "Wiley Rein" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Katende+Ssempebwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Dallas+%281978+TV+series%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Katende+Ssempebwa> <http://dbpedia.org/ontology/organisation> "law firm" .
+<http://dbpedia.org/resource/Kintetsu_Kyoto_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Sullivan_&_Cromwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Rhine-Main_Railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Brunswick_Books> <http://www.w3.org/2000/01/rdf-schema#label> "Brunswick Books" .
+<http://dbpedia.org/resource/Carter_Ledyard_&_Milburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Jerusalem_Institute_of_Justice> <http://dbpedia.org/ontology/organisation> "organisation" .
+<http://dbpedia.org/resource/Paul,_Weiss,_Rifkind,_Wharton_&_Garrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/DC_Comics> <http://www.w3.org/2000/01/rdf-schema#label> "DC Comics" .
+<http://dbpedia.org/resource/Holman_Fenwick_Willan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Jersey_Eastern_Railway> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/IRT_Flushing_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/PLOS> <http://www.w3.org/2000/01/rdf-schema#label> "PLOS" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Star+Trek%3A+Enterprise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Golden+RuleAirlPines> <http://www.w3.org/2000/01/rdf-schema#label> "Golden RuleAirlPines" .
+<http://dbpedia.org/resource/Tomsk_Avia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/DPaniTeloone+Corridor> <http://www.w3.org/2000/01/rdf-schema#label> "DPaniTeloone Corridor" .
+<http://dbpedia.org/resource/Keihin-Tōhoku_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Feltrinelli_(publisher)> <http://www.w3.org/2000/01/rdf-schema#label> "Feltrinelli (publisher)" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Shakespeare+Martineau+LLP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/USA3000_Airlines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Akin_Gump_Strauss_Hauer_&_Feld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Nature_Publishing_Group> <http://www.w3.org/2000/01/rdf-schema#label> "Nature Publishing Group" .
+<http://dbpedia.org/resource/McCarter_&_English> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/PLOS> <http://dbpedia.org/ontology/organisation> "publisher" .
+<http://dbpedia.org/resource/Wahlström_&_Widstrand> <http://dbpedia.org/ontology/organisation> "Agent" .
+<http://dbpedia.org/resource/Olsson_Frank_Weeda_Terman_Matz_PC> <http://dbpedia.org/ontology/organisation> "grouping" .
+<http://dbpedia.org/resource/Rollits_LLP> <http://dbpedia.org/ontology/organisation> "company" .
+<http://dbpedia.org/resource/Derwent_Valley_Mills> <http://dbpedia.org/ontology/organisation> "line" .
+<http://dbpedia.org/resource/Southern_Railway_(Austria)> <http://dbpedia.org/ontology/organisation> "architectural structure" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/The+Ren+%26+Stimpy+Show> <http://www.w3.org/2000/01/rdf-schema#label> "The Ren & Stimpy Show" .
+<http://dbpedia.org/resource/Commodore_International> <http://dbpedia.org/ontology/organisation> "company" .
+<http://dbpedia.org/resource/East-West_Airlines_(India)> <http://dbpedia.org/ontology/organisation> "airline" .
+<http://dbpedia.org/resource/Olsson_Frank_Weeda_Terman_Matz_PC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Chrysler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Cuneo_Gilbert_&_LaDuca,_LLP> <http://dbpedia.org/ontology/organisation> "SocialPerson" .
+<http://dbpedia.org/resource/Kinstellar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Fieldfisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Akin_Gump_Strauss_Hauer_&_Feld> <http://www.w3.org/2000/01/rdf-schema#label> "Akin Gump Strauss Hauer & Feld" .
+<http://dbpedia.org/resource/Olsson_Frank_Weeda_Terman_Matz_PC> <http://www.w3.org/2000/01/rdf-schema#label> "Olsson Frank Weeda Terman Matz PC" .
+<http://dbpedia.org/resource/Sukhumvit_Line> <http://dbpedia.org/ontology/organisation> "Thing" .
+<http://dbpedia.org/resource/Echills_Wood_Railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Kintetsu_Namba_Line> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Sub_Pop> <http://www.w3.org/2000/01/rdf-schema#label> "Subterranean Press" .
+<http://dbpedia.org/resource/Hoagland,_Longo,_Moran,_Dunst_&_Doukas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Amarchand_&_Mangaldas_&_Suresh_A_Shroff_&_Co> <http://www.w3.org/2000/01/rdf-schema#label> "Amarchand & Mangaldas & Suresh A Shroff & Co" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Stuttgart%E2%80%93Hattingen+railway> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Gleaner_Company> <http://www.w3.org/2000/01/rdf-schema#label> "Gleaner Company" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/DPaniTeloone+Corridor> <http://dbpedia.org/ontology/organisation> "railyroadline" .
+<http://dbpedia.org/resource/Sullivan_&_Cromwell> <http://dbpedia.org/ontology/organisation> "law firm" .
+<http://dbpedia.org/resource/Echills_Wood_Railway> <http://dbpedia.org/ontology/organisation> "public transit system" .
+<http://dbpedia.org/resource/Daegu_Metro_Line_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Globus_(airline)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Sub_Pop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Sullivan_&_Cromwell> <http://www.w3.org/2000/01/rdf-schema#label> "Sullivan & Cromwell" .
+<http://dbpedia.org/resource/OlsenDaines> <http://dbpedia.org/ontology/organisation> "organisation" .
+<http://dbpedia.org/resource/Russell-Cooke_Solicitors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Williams_Mullen> <http://www.w3.org/2000/01/rdf-schema#label> "Williams Mullen" .
+<http://dbpedia.org/resource/Private_Trials> <http://dbpedia.org/ontology/organisation> "agent" .
+<http://dbpedia.org/resource/Groninger_Luchtvaart_Maatschappij> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/TABA_–_Transportes_Aéreos_da_Bacia_Amazônica> <http://www.w3.org/2000/01/rdf-schema#label> "TABA \u2013 Transportes A\u00E9reos da Bacia Amaz\u00F4nica" .
+<http://dbpedia.org/resource/Richmond_Hill_Rams> <http://www.w3.org/2000/01/rdf-schema#label> "Richmond Hill line" .
+<http://dbpedia.org/resource/Groninger_Luchtvaart_Maatschappij> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Between_the_Lines_Books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Chrysler> <http://dbpedia.org/ontology/organisation> "company" .
+<http://dbpedia.org/resource/Feltrinelli_(publisher)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Stuttgart%E2%80%93Hattingen+railway> <http://www.w3.org/2000/01/rdf-schema#label> "Stuttgart\u2013Hattingen railway" .
+<http://dbpedia.org/resource/Gordon_&_Rees> <http://www.w3.org/2000/01/rdf-schema#label> "Gordon & Rees" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Dallas+%281978+TV+series%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dallas (1978 TV series)" .
+<http://dbpedia.org/resource/Carter_Ledyard_&_Milburn> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/McCarter_&_English> <http://www.w3.org/2000/01/rdf-schema#label> "McCarter & English" .
+<http://dbpedia.org/resource/Kintetsu_Namba_Line> <http://www.w3.org/2000/01/rdf-schema#label> "Kintetsu Nagoya Line" .
+<http://dbpedia.org/resource/Flamingo_Air> <http://www.w3.org/2000/01/rdf-schema#label> "Flamingo Air" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Betzdorf%E2%80%93Haiger+railway> <http://www.w3.org/2000/01/rdf-schema#label> "Betzdorf\u2013Haiger railway" .
+<http://dbpedia.org/resource/Cuneo_Gilbert_&_LaDuca,_LLP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Harvill_Secker> <http://dbpedia.org/ontology/organisation> "Organization" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Faegre+M%26+enson> <http://www.w3.org/2000/01/rdf-schema#label> "Faegre M& enson" .
+<http://dbpedia.org/resource/Cabletren_Bolivariano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Cabletren_Bolivariano> <http://dbpedia.org/ontology/organisation> "artifact" .
+<http://dbpedia.org/resource/Globus_(airline)> <http://www.w3.org/2000/01/rdf-schema#label> "Globus Airlines" .
+<http://dbpedia.org/resource/Jōetsu_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Sidley_Austin> <http://dbpedia.org/ontology/organisation> "law firm" .
+<http://dbpedia.org/resource/Obverse_Books> <http://dbpedia.org/ontology/organisation> "Book_CW" .
+<http://dbpedia.org/resource/Bongo_Comics_Group> <http://dbpedia.org/ontology/organisation> "organisation" .
+<http://dbpedia.org/resource/OlsenDaines> <http://www.w3.org/2000/01/rdf-schema#label> "OlsenDaines" .
+<http://dbpedia.org/resource/Lindquist_&_Vennum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/IRT_Flushing_Line> <http://dbpedia.org/ontology/organisation> "place" .
+<http://dbpedia.org/resource/Holt_McDougal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/The+Mickey+Mouse+Club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Harvill_Secker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Betzdorf%E2%80%93Haiger+railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Thomas_Dunne_Books> <http://dbpedia.org/ontology/organisation> "abstract entity" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Faegre+M%26+enson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Alternative_Comics_(publisher)> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Alternative_Comics_(publisher)> <http://www.w3.org/2000/01/rdf-schema#label> "Alternative Comics (publisher)" .
+<http://dbpedia.org/resource/Cardiff_City_F.C.> <http://dbpedia.org/ontology/organisation> "business concern" .
+<http://dbpedia.org/resource/Echills_Wood_Railway> <http://www.w3.org/2000/01/rdf-schema#label> "Echills Wood Railway" .
+<http://dbpedia.org/resource/Globus_(airline)> <http://dbpedia.org/ontology/organisation> "organization" .
+<http://dbpedia.org/resource/Private_Trials> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Stuttgart%E2%80%93Hattingen+railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Rodyk_&_Davidson> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Richmond_Hill_Rams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Between_the_Lines_Books> <http://www.w3.org/2000/01/rdf-schema#label> "Between the Lines Books" .
+<http://dbpedia.org/resource/Kintetsu_Kyoto_Line> <http://www.w3.org/2000/01/rdf-schema#label> "Kintetsu Kyoto Line" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Golden+RuleAirlPines> <http://dbpedia.org/ontology/organisation> "comnpay" .
+<http://dbpedia.org/resource/Mesherskoye_peat_narrow_gauge_railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Transportes_Aéreos_Bandeirantes> <http://dbpedia.org/ontology/organisation> "airway" .
+<http://dbpedia.org/resource/Private_Trials> <http://www.w3.org/2000/01/rdf-schema#label> "Private Trials" .
+<http://dbpedia.org/resource/Flamingo_Air> <http://dbpedia.org/ontology/organisation> "airline" .
+<http://dbpedia.org/resource/Groninger_Luchtvaart_Maatschappij> <http://www.w3.org/2000/01/rdf-schema#label> "Groninger Luchtvaart Maatschappij" .
+<http://dbpedia.org/resource/Houthoff_Buruma> <http://www.w3.org/2000/01/rdf-schema#label> "Houthoff Buruma" .
+<http://dbpedia.org/resource/Jōetsu_Shinkansen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Kintetsu_Kyoto_Line> <http://dbpedia.org/ontology/organisation> "railroad line" .
+<http://dbpedia.org/resource/Obverse_Books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Golden+RuleAirlPines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/DC_Comics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Devil's_Due_Publishing> <http://www.w3.org/2000/01/rdf-schema#label> "Devil's Due Publishing" .
+<http://dbpedia.org/resource/Black_Tusk_Studios> <http://dbpedia.org/ontology/organisation> "grouping" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/The+Beverly+Hillbillies> <http://dbpedia.org/ontology/organisation> "change" .
+<http://dbpedia.org/resource/Jersey_Eastern_Railway> <http://www.w3.org/2000/01/rdf-schema#label> "Jersey Eastern Railway" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Faegre+M%26+enson> <http://dbpedia.org/ontology/organisation> "Thnmg" .
+<http://dbpedia.org/resource/McCarter_&_English> <http://dbpedia.org/ontology/organisation> "business concern" .
+<http://dbpedia.org/resource/Sukhumvit_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Gleaner_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Cardiff_City_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Rhine-Main_Railway> <http://www.w3.org/2000/01/rdf-schema#label> "Rhine-Main Railway" .
+<http://dbpedia.org/resource/Jerusalem_Institute_of_Justice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Hisham_Mubarak_Law_Center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Cole_Ranch_AVA> <http://www.w3.org/2000/01/rdf-schema#label> "Coleco" .
+<http://dbpedia.org/resource/Keihin-Tōhoku_Line> <http://www.w3.org/2000/01/rdf-schema#label> "Keihin-T\u014Dhoku Line" .
+<http://dbpedia.org/resource/McGlinchey_Stafford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Bennett_Brook_Railway> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Mesherskoye_peat_narrow_gauge_railway> <http://www.w3.org/2000/01/rdf-schema#label> "Pelgorskoye peat narrow gauge railway" .
+<http://dbpedia.org/resource/Derwent_Valley_Mills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Holman_Fenwick_Willan> <http://dbpedia.org/ontology/organisation> "abstract entity" .
+<http://dbpedia.org/resource/Nature_Publishing_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Rollits_LLP> <http://www.w3.org/2000/01/rdf-schema#label> "Rollits LLP" .
+<http://dbpedia.org/resource/Birlinn_(publisher)> <http://dbpedia.org/ontology/organisation> "Thing" .
+<http://dbpedia.org/resource/Compaq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Paul,_Weiss,_Rifkind,_Wharton_&_Garrison> <http://dbpedia.org/ontology/organisation> "agent" .
+<http://dbpedia.org/resource/Bennett_Brook_Railway> <http://www.w3.org/2000/01/rdf-schema#label> "Bennett Brook Railway" .
+<http://dbpedia.org/resource/Sidley_Austin> <http://www.w3.org/2000/01/rdf-schema#label> "Sidley Austin" .
+<http://dbpedia.org/resource/Russell-Cooke_Solicitors> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Fieldfisher> <http://www.w3.org/2000/01/rdf-schema#label> "Fieldfisher" .
+<http://dbpedia.org/resource/Morrison_&_Foerster> <http://www.w3.org/2000/01/rdf-schema#label> "Morrison & Foerster" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Betzdorf%E2%80%93Haiger+railway> <http://dbpedia.org/ontology/organisation> "Thing" .
+<http://dbpedia.org/resource/Commodore_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Saul_Ewing> <http://www.w3.org/2000/01/rdf-schema#label> "Saul Ewing" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/DPaniTeloone+Corridor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Alternative_Comics_(publisher)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Between_the_Lines_Books> <http://dbpedia.org/ontology/organisation> "organization" .
+<http://dbpedia.org/resource/Kinstellar> <http://dbpedia.org/ontology/organisation> "business concern" .
+<http://dbpedia.org/resource/Wiley_Rein> <http://dbpedia.org/ontology/organisation> "Thing" .
+<http://dbpedia.org/resource/Harvard_Legal_Aid_Bureau> <http://www.w3.org/2000/01/rdf-schema#label> "Harvard Legal Aid Bureau" .
+<http://dbpedia.org/resource/Kintetsu_Namba_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/S33+%28ZVV%29> <http://www.w3.org/2000/01/rdf-schema#label> "S33 (ZVV)" .
+<http://dbpedia.org/resource/Houthoff_Buruma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/USA3000_Airlines> <http://dbpedia.org/ontology/organisation> "Agent" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Fieldfisher> <http://dbpedia.org/ontology/organisation> "business concern" .
+<http://dbpedia.org/resource/TABA_–_Transportes_Aéreos_da_Bacia_Amazônica> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Amarchand_&_Mangaldas_&_Suresh_A_Shroff_&_Co> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Mesherskoye_peat_narrow_gauge_railway> <http://dbpedia.org/ontology/organisation> "route of transportation" .
+<http://dbpedia.org/resource/Richmond_Hill_Rams> <http://dbpedia.org/ontology/organisation> "architectural structure" .
+<http://dbpedia.org/resource/Ave_Maria_Press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Katende+Ssempebwa> <http://www.w3.org/2000/01/rdf-schema#label> "Katende Ssempebwa" .
+<http://dbpedia.org/resource/Amarchand_&_Mangaldas_&_Suresh_A_Shroff_&_Co> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Williams_Mullen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Lindquist_&_Vennum> <http://www.w3.org/2000/01/rdf-schema#label> "Lindquist & Vennum" .
+<http://dbpedia.org/resource/Ave_Maria_Press> <http://dbpedia.org/ontology/organisation> "SocialPerson" .
+<http://dbpedia.org/resource/Harvill_Secker> <http://www.w3.org/2000/01/rdf-schema#label> "Harvill Secker" .
+<http://dbpedia.org/resource/Wahlström_&_Widstrand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/McGlinchey_Stafford> <http://dbpedia.org/ontology/organisation> "organization" .
+<http://dbpedia.org/resource/Commodore_International> <http://www.w3.org/2000/01/rdf-schema#label> "Commodore International" .
+<http://dbpedia.org/resource/Hanson_Bridgett> <http://dbpedia.org/ontology/organisation> "SocialPerson" .
+<http://dbpedia.org/resource/Bongo_Comics_Group> <http://www.w3.org/2000/01/rdf-schema#label> "Bongo Comics Group" .
+<http://dbpedia.org/resource/Hisham_Mubarak_Law_Center> <http://www.w3.org/2000/01/rdf-schema#label> "Hisham Mubarak Law Center" .
+<http://dbpedia.org/resource/TANS_Perú> <http://dbpedia.org/ontology/organisation> "business concern" .
+<http://dbpedia.org/resource/Rodyk_&_Davidson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Star+Trek%3A+Enterprise> <http://dbpedia.org/ontology/organisation> "television program" .
+<http://dbpedia.org/resource/Saul_Ewing> <http://dbpedia.org/ontology/organisation> "agent" .
+<http://dbpedia.org/resource/Daegu_Metro_Line_1> <http://dbpedia.org/ontology/organisation> "infrastructure" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Shakespeare+Martineau+LLP> <http://www.w3.org/2000/01/rdf-schema#label> "Shakespeare Martineau LLP" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/The+Beverly+Hillbillies> <http://www.w3.org/2000/01/rdf-schema#label> "The Beverly Hillbillies" .
+<http://dbpedia.org/resource/Jersey_Eastern_Railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Compaq> <http://www.w3.org/2000/01/rdf-schema#label> "Compaq" .
+<http://dbpedia.org/resource/National_Motor_Museum_Monorail> <http://dbpedia.org/ontology/organisation> "public transit system" .
+<http://dbpedia.org/resource/Russell-Cooke_Solicitors> <http://www.w3.org/2000/01/rdf-schema#label> "Russell-Cooke Solicitors" .
+<http://dbpedia.org/resource/Harvard_Legal_Aid_Bureau> <http://dbpedia.org/ontology/organisation> "organization" .
+<http://dbpedia.org/resource/Tomsk_Avia> <http://dbpedia.org/ontology/organisation> "carrier" .
+<http://dbpedia.org/resource/Flamingo_Air> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Birlinn_(publisher)> <http://www.w3.org/2000/01/rdf-schema#label> "Birlinn (publisher)" .
+<http://dbpedia.org/resource/IRT_Flushing_Line> <http://www.w3.org/2000/01/rdf-schema#label> "IRT Flushing Line" .
+<http://dbpedia.org/resource/McGlinchey_Stafford> <http://www.w3.org/2000/01/rdf-schema#label> "McGlinchey Stafford" .
+<http://dbpedia.org/resource/East-West_Airlines_(India)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/The+Beverly+Hillbillies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Williams_Mullen> <http://dbpedia.org/ontology/organisation> "organisation" .
+<http://dbpedia.org/resource/Sukhumvit_Line> <http://www.w3.org/2000/01/rdf-schema#label> "Sukhumvit Line" .
+<http://dbpedia.org/resource/National_Motor_Museum_Monorail> <http://www.w3.org/2000/01/rdf-schema#label> "National Motor Museum Monorail" .
+<http://dbpedia.org/resource/Hanson_Bridgett> <http://www.w3.org/2000/01/rdf-schema#label> "Hanson Bridgett" .
+<http://dbpedia.org/resource/Holt_McDougal> <http://www.w3.org/2000/01/rdf-schema#label> "Holt McDougal" .
+<http://dbpedia.org/resource/Paul,_Weiss,_Rifkind,_Wharton_&_Garrison> <http://www.w3.org/2000/01/rdf-schema#label> "Paul, Weiss, Rifkind, Wharton & Garrison" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/The+Ren+%26+Stimpy+Show> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Sub_Pop> <http://dbpedia.org/ontology/organisation> "SocialPerson" .
+<http://dbpedia.org/resource/Gleaner_Company> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Gordon_&_Rees> <http://dbpedia.org/ontology/organisation> "Thing" .
+<http://dbpedia.org/resource/OlsenDaines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Jōetsu_Line> <http://www.w3.org/2000/01/rdf-schema#label> "J\u014Detsu Line" .
+<http://dbpedia.org/resource/Houthoff_Buruma> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/King_&_Wood_Mallesons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Hoagland,_Longo,_Moran,_Dunst_&_Doukas> <http://www.w3.org/2000/01/rdf-schema#label> "Hoagland, Longo, Moran, Dunst & Doukas" .
+<http://dbpedia.org/resource/Jōetsu_Line> <http://dbpedia.org/ontology/organisation> "grouping" .
+<http://dbpedia.org/resource/East-West_Airlines_(India)> <http://www.w3.org/2000/01/rdf-schema#label> "East-West Airlines (India)" .
+<http://dbpedia.org/resource/Bennett_Brook_Railway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Shakespeare+Martineau+LLP> <http://dbpedia.org/ontology/organisation> "agent" .
+<http://dbpedia.org/resource/Morrison_&_Foerster> <http://dbpedia.org/ontology/organisation> "agent" .
+<http://dbpedia.org/resource/Wiley_Rein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/The+Mickey+Mouse+Club> <http://www.w3.org/2000/01/rdf-schema#label> "The Mickey Mouse Club" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/The+Mickey+Mouse+Club> <http://dbpedia.org/ontology/organisation> "broadcast" .
+<http://dbpedia.org/resource/Cardiff_City_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "Cardiff City Line" .
+<http://dbpedia.org/resource/TABA_–_Transportes_Aéreos_da_Bacia_Amazônica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Bongo_Comics_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Chestnut_Hill_West_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Akin_Gump_Strauss_Hauer_&_Feld> <http://dbpedia.org/ontology/organisation> "organisation" .
+<http://dbpedia.org/resource/Trondheim_Tramway> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Carter_Ledyard_&_Milburn> <http://www.w3.org/2000/01/rdf-schema#label> "Carter Ledyard & Milburn" .
+<http://dbpedia.org/resource/Gordon_&_Rees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Daegu_Metro_Line_1> <http://www.w3.org/2000/01/rdf-schema#label> "Daegu Metro Line 1" .
+<http://dbpedia.org/resource/Devil's_Due_Publishing> <http://dbpedia.org/ontology/organisation> "organization" .
+<http://dbpedia.org/resource/TANS_Perú> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Star+Trek%3A+Enterprise> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek: Enterprise" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/Hodfder+Faih> <http://dbpedia.org/ontology/organisation> "hosGe" .
+<http://dbpedia.org/resource/Kingsford_Legal_Centre> <http://www.w3.org/2000/01/rdf-schema#label> "Kingsford Legal Centre" .
+<http://dbpedia.org/resource/Saul_Ewing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/TANS_Perú> <http://www.w3.org/2000/01/rdf-schema#label> "TANS Per\u00FA" .
+<http://dbpedia.org/resource/Brunswick_Books> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/Kingsford_Legal_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Birlinn_(publisher)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Southern_Railway_(Austria)> <http://www.w3.org/2000/01/rdf-schema#label> "Southern Railway (Austria)" .
+<http://dbpedia.org/resource/Thomas_Dunne_Books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Chestnut_Hill_West_Line> <http://www.w3.org/2000/01/rdf-schema#label> "Chestnut Hill West Line" .
+<http://dbpedia.org/resource/DC_Comics> <http://dbpedia.org/ontology/organisation> "enterprise" .
+<http://dbpedia.org/resource/National_Motor_Museum_Monorail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Black_Tusk_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+<http://dbpedia.org/resource/Cabletren_Bolivariano> <http://www.w3.org/2000/01/rdf-schema#label> "Cabletren Bolivariano" .
+<http://dbpedia.org/resource/Jōetsu_Shinkansen> <http://www.w3.org/2000/01/rdf-schema#label> "J\u014Detsu Shinkansen" .
+<http://example.org/73d8c511-f9db-4f75-b1f4-2475cabc7c3d/S33+%28ZVV%29> <http://dbpedia.org/ontology/organisation> "artifact" .
+<http://dbpedia.org/resource/Southern_Railway_(Austria)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.data.gov/def/fea#FEA_EnterpriseConcept> .
+

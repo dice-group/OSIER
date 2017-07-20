@@ -1,0 +1,31 @@
+<http://dbpedia.org/resource/Lambeau_Field> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://dbpedia.org/resource/Kirkby_Road> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://dbpedia.org/resource/Craven_Cottage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://dbpedia.org/resource/Derby_Road_Ground,_Wirksworth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://dbpedia.org/resource/Kirkby_Road> <http://dbpedia.org/ontology/location> "Location" .
+<http://dbpedia.org/resource/Kelham_Road> <http://dbpedia.org/ontology/location> "ground" .
+<http://dbpedia.org/resource/Craven_Cottage> <http://dbpedia.org/ontology/location> "Thing" .
+<http://example.org/a489c42c-1b01-4db9-b842-a4005bc6d118/Abbeydale_Park__England-cricket-ground-stub__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://dbpedia.org/resource/Lambeau_Field> <http://www.w3.org/2000/01/rdf-schema#label> "Lambeau Field" .
+<http://dbpedia.org/resource/Derby_Road_Ground,_Wirksworth> <http://dbpedia.org/ontology/location> "architectural structure" .
+<http://dbpedia.org/resource/Derby_Road_Ground,_Wirksworth> <http://www.w3.org/2000/01/rdf-schema#label> "Derby Road Ground" .
+<http://example.org/a489c42c-1b01-4db9-b842-a4005bc6d118/Melborne+riickset+Ground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://example.org/a489c42c-1b01-4db9-b842-a4005bc6d118/Palais+des+Sports+%28Kint%C3%A9l%C3%A9%29> <http://dbpedia.org/ontology/location> "Location" .
+<http://dbpedia.org/resource/County_Cricket_Ground,_Chelmsford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://dbpedia.org/resource/Kirkby_Road> <http://www.w3.org/2000/01/rdf-schema#label> "Kirkby Road" .
+<http://example.org/a489c42c-1b01-4db9-b842-a4005bc6d118/Palais+des+Sports+%28Kint%C3%A9l%C3%A9%29> <http://www.w3.org/2000/01/rdf-schema#label> "Palais des Sports (Kint\u00E9l\u00E9)" .
+<http://example.org/a489c42c-1b01-4db9-b842-a4005bc6d118/Abbeydale_Park__England-cricket-ground-stub__1> <http://www.w3.org/2000/01/rdf-schema#label> "Abbeydale_Park__England-cricket-ground-stub__1" .
+<http://dbpedia.org/resource/County_Cricket_Ground,_Chelmsford> <http://dbpedia.org/ontology/location> "cricket ground" .
+<http://dbpedia.org/resource/Cardiff_Arms_Park> <http://www.w3.org/2000/01/rdf-schema#label> "Cardiff Arms Park" .
+<http://dbpedia.org/resource/Kelham_Road> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://example.org/a489c42c-1b01-4db9-b842-a4005bc6d118/Melborne+riickset+Ground> <http://dbpedia.org/ontology/location> "grouNd" .
+<http://dbpedia.org/resource/Cardiff_Arms_Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://example.org/a489c42c-1b01-4db9-b842-a4005bc6d118/Palais+des+Sports+%28Kint%C3%A9l%C3%A9%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linkedgeodata.org/ontology/RecreationGround> .
+<http://dbpedia.org/resource/Cardiff_Arms_Park> <http://dbpedia.org/ontology/location> "architectural structure" .
+<http://example.org/a489c42c-1b01-4db9-b842-a4005bc6d118/Melborne+riickset+Ground> <http://www.w3.org/2000/01/rdf-schema#label> "Melborne riickset Ground" .
+<http://dbpedia.org/resource/Lambeau_Field> <http://dbpedia.org/ontology/location> "architectural structure" .
+<http://example.org/a489c42c-1b01-4db9-b842-a4005bc6d118/Abbeydale_Park__England-cricket-ground-stub__1> <http://dbpedia.org/ontology/location> "Location" .
+<http://dbpedia.org/resource/Craven_Cottage> <http://www.w3.org/2000/01/rdf-schema#label> "Craven Cottage" .
+<http://dbpedia.org/resource/County_Cricket_Ground,_Chelmsford> <http://www.w3.org/2000/01/rdf-schema#label> "County Cricket Ground, Chelmsford" .
+<http://dbpedia.org/resource/Kelham_Road> <http://www.w3.org/2000/01/rdf-schema#label> "Kelham Road" .
+

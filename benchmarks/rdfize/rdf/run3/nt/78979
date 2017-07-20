@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Billie_Joe_Armstrong> <http://www.w3.org/2000/01/rdf-schema#label> "Blue" .
+<http://dbpedia.org/resource/Cyan_Worlds> <http://www.w3.org/2000/01/rdf-schema#label> "Cyan" .
+<http://dbpedia.org/resource/Black_(novel)> <http://www.w3.org/2000/01/rdf-schema#label> "Black" .
+<http://dbpedia.org/resource/Beige_(novel)> <http://www.w3.org/2000/01/rdf-schema#label> "Beige" .
+<http://example.org/e508a342-b974-41c0-afc4-570751d9c706/Cyaan> <http://www.w3.org/2000/01/rdf-schema#label> "Cyaan" .
+<http://example.org/e508a342-b974-41c0-afc4-570751d9c706/Ultramaryna> <http://www.w3.org/2000/01/rdf-schema#label> "Ultramaryna" .
+<http://dbpedia.org/resource/Space_Marines_(Warhammer_40,000)> <http://www.w3.org/2000/01/rdf-schema#label> "Ultramarine" .
+<http://example.org/e508a342-b974-41c0-afc4-570751d9c706/%D0%A1%D0%B8%D0%BD%D0%B8%D0%B9+%D1%86%D0%B2%D0%B5%D1%82> <http://www.w3.org/2000/01/rdf-schema#label> "\u0421\u0438\u043D\u0438\u0439 \u0446\u0432\u0435\u0442" .
+<http://example.org/e508a342-b974-41c0-afc4-570751d9c706/%E9%BB%92> <http://www.w3.org/2000/01/rdf-schema#label> "\u9ED2" .
+

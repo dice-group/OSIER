@@ -1,0 +1,21 @@
+<http://example.org/230473d5-6cee-4a42-8bf7-72a426419b7c/Adelaide+Plains+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Adelaide Plains wine region" .
+<http://dbpedia.org/resource/Lake_County_wine> <http://www.w3.org/2000/01/rdf-schema#label> "Lake County wine" .
+<http://example.org/230473d5-6cee-4a42-8bf7-72a426419b7c/Adelaide+Hills+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Adelaide Hills wine region" .
+<http://dbpedia.org/resource/Rasteau_AOC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+<http://dbpedia.org/resource/Észak-Dunántúl_wine_region> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C9szak-Dun\u00E1nt\u00FAl wine region" .
+<http://dbpedia.org/resource/Rasteau_AOC> <http://www.w3.org/2000/01/rdf-schema#label> "Rasteau AOC" .
+<http://dbpedia.org/resource/Balti_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+<http://dbpedia.org/resource/Lake_County_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+<http://example.org/230473d5-6cee-4a42-8bf7-72a426419b7c/Padthaway+wine+region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+<http://example.org/230473d5-6cee-4a42-8bf7-72a426419b7c/Currency+Creek+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Currency Creek wine region" .
+<http://example.org/230473d5-6cee-4a42-8bf7-72a426419b7c/Currency+Creek+wine+region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+<http://dbpedia.org/resource/Tokaj_(Slovakia)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+<http://dbpedia.org/resource/Tokaj_(Slovakia)> <http://www.w3.org/2000/01/rdf-schema#label> "Tokaj (Slovakia)" .
+<http://dbpedia.org/resource/Rhône_wine> <http://www.w3.org/2000/01/rdf-schema#label> "Robe wine region" .
+<http://example.org/230473d5-6cee-4a42-8bf7-72a426419b7c/Padthaway+wine+region> <http://www.w3.org/2000/01/rdf-schema#label> "Padthaway wine region" .
+<http://example.org/230473d5-6cee-4a42-8bf7-72a426419b7c/Adelaide+Plains+wine+region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+<http://dbpedia.org/resource/Balti_wine> <http://www.w3.org/2000/01/rdf-schema#label> "Balti (wine)" .
+<http://example.org/230473d5-6cee-4a42-8bf7-72a426419b7c/Adelaide+Hills+wine+region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+<http://dbpedia.org/resource/Rhône_wine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+<http://dbpedia.org/resource/Észak-Dunántúl_wine_region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#Merlot> .
+

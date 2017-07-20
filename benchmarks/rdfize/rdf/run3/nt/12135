@@ -1,0 +1,35 @@
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Caprmelita+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Danylo+%28name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://dbpedia.org/resource/Op%C3%A9ration_Aphrodite> <http://www.w3.org/2000/01/rdf-schema#label> "Operation Aphrodite" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Inta+%28given+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Inta+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Inta (given name)" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Bushmaster+M4-type+Carbine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://dbpedia.org/resource/Conrad_Schnitzler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Colt+Diamondback> <http://www.w3.org/2000/01/rdf-schema#label> "Colt Diamondback" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Gun+%28Swedish+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/RIM-113> <http://www.w3.org/2000/01/rdf-schema#label> "RIM-113" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Bushmaster+Protected+Mobility+Vehicle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Pecheneg+machine+gun> <http://www.w3.org/2000/01/rdf-schema#label> "Pecheneg machine gun" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Bushmaster+M4-type+Carbine> <http://www.w3.org/2000/01/rdf-schema#label> "Bushmaster M4-type Carbine" .
+<http://dbpedia.org/resource/Crocodile_Armoured_Personnel_Carrier> <http://www.w3.org/2000/01/rdf-schema#label> "Crocodile Armoured Personnel Carrier" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Gun+%28Swedish+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Gun (Swedish name)" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/CarmeElita+%28nme%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/CarmeElita+%28nme%29> <http://www.w3.org/2000/01/rdf-schema#label> "CarmeElita (nme)" .
+<http://dbpedia.org/resource/Crocodile_Armoured_Personnel_Carrier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Caprmelita+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Caprmelita name)" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/RAAD+%28anti-tank+missile%29> <http://www.w3.org/2000/01/rdf-schema#label> "RAAD (anti-tank missile)" .
+<http://dbpedia.org/resource/Op%C3%A9ration_Aphrodite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Danylo+%28name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Danylo (name)" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/RIM-113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/RAAD+%28anti-tank+missile%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Benedictus+%28given+name%29> <http://www.w3.org/2000/01/rdf-schema#label> "Benedictus (given name)" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Colt+Paterson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Benedictus+%28given+name%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Bushmaster+Protected+Mobility+Vehicle> <http://www.w3.org/2000/01/rdf-schema#label> "Bushmaster Protected Mobility Vehicle" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Panzer+38%28t%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Pecheneg+machine+gun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Panzer+38%28t%29> <http://www.w3.org/2000/01/rdf-schema#label> "Panzer 38(t)" .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Colt+Diamondback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://mex.aksw.org/mex-algo#Shogun> .
+<http://example.org/47281e79-40bb-4d50-9555-9b0f797a8c75/Colt+Paterson> <http://www.w3.org/2000/01/rdf-schema#label> "Colt Paterson" .
+<http://dbpedia.org/resource/Conrad_Schnitzler> <http://www.w3.org/2000/01/rdf-schema#label> "Schnitzler" .
+

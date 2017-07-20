@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/Gottfried_Wilhelm_Leibniz> <http://www.w3.org/2000/01/rdf-schema#label> "Gottfried Wilhelm Leibniz" .
+<http://dbpedia.org/resource/George_Berkeley> <http://dbpedia.org/ontology/person> "decision maker" .
+<http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> <http://www.w3.org/2000/01/rdf-schema#label> "Georg Wilhelm Friedrich Hegel" .
+<http://dbpedia.org/resource/Gottfried_Wilhelm_Leibniz> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/George_Pappas> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/George_Berkeley> <http://www.w3.org/2000/01/rdf-schema#label> "George Berkeley" .
+<http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/Gilles_Deleuze> <http://dbpedia.org/ontology/person> "philosopher" .
+<http://dbpedia.org/resource/George_Pappas> <http://www.w3.org/2000/01/rdf-schema#label> "George Pappas" .
+<http://dbpedia.org/resource/Gilles_Deleuze> <http://www.w3.org/2000/01/rdf-schema#label> "Gilles Deleuze" .
+

@@ -1,0 +1,66 @@
+<http://dbpedia.org/resource/Ain't_I_a_Woman%3F_(book)> <http://www.w3.org/2000/01/rdf-schema#label> "Ain't I a Woman? (book)" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Garasu+no+Usagi> <http://dbpedia.org/ontology/notableWork> "Book" .
+<http://dbpedia.org/resource/Collage_novel> <http://www.w3.org/2000/01/rdf-schema#label> "Collage nEvel" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Western+visual+novel> <http://www.w3.org/2000/01/rdf-schema#label> "Western visual novel" .
+<http://dbpedia.org/resource/Destination:_Void> <http://www.w3.org/2000/01/rdf-schema#label> "Destination: Void" .
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Sheep%3F> <http://www.w3.org/2000/01/rdf-schema#label> "Do Androids Dream of Electric Sheep?" .
+<http://dbpedia.org/resource/Destination:_Void> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Dikson+jMcunn+trCilogy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Creatures_of_Light_and_Darkness> <http://www.w3.org/2000/01/rdf-schema#label> "Creatures of Light and Darkness" .
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Sheep%3F> <http://www.w3.org/2000/01/rdf-schema#label> "Do Androids Dream ofSElectriAc Seep?" .
+<http://dbpedia.org/resource/The_Ego_and_Its_Own> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Sheep%3F> <http://dbpedia.org/ontology/notableWork> "written work" .
+<http://dbpedia.org/resource/Sense_and_Sensibility> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Sheep%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Adventures_of_Huckleberry_Finn> <http://dbpedia.org/ontology/notableWork> "Book_CW" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Western+visual+novel> <http://dbpedia.org/ontology/notableWork> "Book" .
+<http://dbpedia.org/resource/Adventures_of_Huckleberry_Finn> <http://www.w3.org/2000/01/rdf-schema#label> "Adventures of Huckleberry Finn" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Western+visual+novel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Ain't_I_a_Woman%3F_(book)> <http://dbpedia.org/ontology/notableWork> "wrzitten wrk" .
+<http://dbpedia.org/resource/A_Modest_Proposal> <http://www.w3.org/2000/01/rdf-schema#label> "A Modest Proposal" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Sheng+Si+Qiao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Agni+Poolu+%28novel%29> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://dbpedia.org/resource/A_Wizard_of_Earthsea> <http://dbpedia.org/ontology/notableWork> "fiction" .
+<http://dbpedia.org/resource/A_Wizard_of_Earthsea> <http://www.w3.org/2000/01/rdf-schema#label> "A Wizard of Earthsea" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Sheng+Si+Qiao> <http://dbpedia.org/ontology/notableWork> "novel" .
+<http://dbpedia.org/resource/Pride_and_Prejudice> <http://dbpedia.org/ontology/notableWork> "Book_CW" .
+<http://dbpedia.org/resource/Pride_and_Prejudice> <http://www.w3.org/2000/01/rdf-schema#label> "Pride and Prejudice" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Agni+Poolu+%28novel%29> <http://www.w3.org/2000/01/rdf-schema#label> "Agni Poolu (novel)" .
+<http://dbpedia.org/resource/Sense_and_Sensibility> <http://www.w3.org/2000/01/rdf-schema#label> "Sense and Sensibility" .
+<http://dbpedia.org/resource/Creatures_of_Light_and_Darkness> <http://dbpedia.org/ontology/notableWork> "CreativeWork" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Dikson+jMcunn+trCilogy> <http://www.w3.org/2000/01/rdf-schema#label> "Dikson jMcunn trCilogy" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Sheng+Si+Qiao> <http://www.w3.org/2000/01/rdf-schema#label> "Sheng Si Qiao" .
+<http://dbpedia.org/resource/A_Doll's_House> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Yugavatara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Toby_Jones_(novel_series)> <http://www.w3.org/2000/01/rdf-schema#label> "Toby Jones (novel series)" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Dikson+jMcunn+trCilogy> <http://dbpedia.org/ontology/notableWork> "bbok" .
+<http://dbpedia.org/resource/A_Modest_Proposal> <http://dbpedia.org/ontology/notableWork> "folder" .
+<http://dbpedia.org/resource/A_Doll's_House> <http://dbpedia.org/ontology/notableWork> "dramatic work" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Yugavatara> <http://dbpedia.org/ontology/notableWork> "book" .
+<http://dbpedia.org/resource/A_Doll's_House> <http://www.w3.org/2000/01/rdf-schema#label> "A Doll's House" .
+<http://dbpedia.org/resource/A_Modest_Proposal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/A_Wizard_of_Earthsea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Garasu+no+Usagi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Toby_Jones_(novel_series)> <http://dbpedia.org/ontology/notableWork> "work" .
+<http://dbpedia.org/resource/Sense_and_Sensibility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Toby_Jones_(novel_series)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/One+Part+Wmvan> <http://dbpedia.org/ontology/notableWork> "wKor" .
+<http://dbpedia.org/resource/Adventures_of_Huckleberry_Finn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/The_Ego_and_Its_Own> <http://dbpedia.org/ontology/notableWork> "Book" .
+<http://dbpedia.org/resource/Destination:_Void> <http://dbpedia.org/ontology/notableWork> "Book" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Agni+Poolu+%28novel%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Kushuku+Gakkou+No+Alice> <http://dbpedia.org/ontology/notableWork> "Book" .
+<http://dbpedia.org/resource/The_Ego_and_Its_Own> <http://www.w3.org/2000/01/rdf-schema#label> "The Ego and Its Own" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Kushuku+Gakkou+No+Alice> <http://www.w3.org/2000/01/rdf-schema#label> "Kushuku Gakkou No Alice" .
+<http://dbpedia.org/resource/Creatures_of_Light_and_Darkness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Kushuku+Gakkou+No+Alice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Ain't_I_a_Woman%3F_(book)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Collage_novel> <http://dbpedia.org/ontology/notableWork> "atifDact" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/One+Part+Wmvan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/One+Part+Wmvan> <http://www.w3.org/2000/01/rdf-schema#label> "One Part Wmvan" .
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Sheep%3F> <http://dbpedia.org/ontology/notableWork> "BYok" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Garasu+no+Usagi> <http://www.w3.org/2000/01/rdf-schema#label> "Garasu no Usagi" .
+<http://example.org/b83cce81-9801-48bd-9835-cafdce1690a7/Yugavatara> <http://www.w3.org/2000/01/rdf-schema#label> "Yugavatara" .
+<http://dbpedia.org/resource/Collage_novel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://dbpedia.org/resource/Pride_and_Prejudice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+

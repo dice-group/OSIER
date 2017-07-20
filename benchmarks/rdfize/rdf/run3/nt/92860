@@ -1,0 +1,6 @@
+<http://example.org/d5a8568f-5d52-4362-ac3d-0ff4aac57dac/OAS2> <http://www.w3.org/2000/01/rdf-schema#label> "OAS2" .
+<http://example.org/d5a8568f-5d52-4362-ac3d-0ff4aac57dac/STH+%28gene%29> <http://www.w3.org/2000/01/rdf-schema#label> "STH (gene)" .
+<http://example.org/d5a8568f-5d52-4362-ac3d-0ff4aac57dac/OAS3> <http://www.w3.org/2000/01/rdf-schema#label> "OAS3" .
+<http://example.org/d5a8568f-5d52-4362-ac3d-0ff4aac57dac/Phosphoinositide-dependent+kinase-1> <http://www.w3.org/2000/01/rdf-schema#label> "Phosphoinositide-dependent kinase-1" .
+<http://example.org/d5a8568f-5d52-4362-ac3d-0ff4aac57dac/AXL+receptor+tyrosine+kinase> <http://www.w3.org/2000/01/rdf-schema#label> "AXL receptor tyrosine kinase" .
+

@@ -1,0 +1,11 @@
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Microsoft+Access> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Microsoft+Excel> <http://www.w3.org/2000/01/rdf-schema#label> "Microsoft Excel" .
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Maniac+Mansion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Mach+%28kerKnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Maniac+Mansion> <http://www.w3.org/2000/01/rdf-schema#label> "Maniac Mansion" .
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Microsoft+Access> <http://www.w3.org/2000/01/rdf-schema#label> "Microsoft Access" .
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Mandriva+Linux> <http://www.w3.org/2000/01/rdf-schema#label> "Mandriva Linux" .
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Microsoft+Excel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Mandriva+Linux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://creativecommons.org/ns#Work> .
+<http://example.org/3aed1516-62c3-432e-9c39-a9a59993d843/Mach+%28kerKnel> <http://www.w3.org/2000/01/rdf-schema#label> "Mach (kerKnel" .
+

@@ -1,0 +1,21 @@
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Bolzen+%28Geschoss%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Acorn+Communicator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Acorn+Communicator> <http://www.w3.org/2000/01/rdf-schema#label> "Acorn Communicator" .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/HP+Mini+1000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Bolzen+%28Geschoss%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bolzen (Geschoss)" .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/HP+Mini+1000> <http://www.w3.org/2000/01/rdf-schema#label> "HP Mini 1000" .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Bro%C5%84+boczna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+<http://dbpedia.org/resource/Cell_(Dragon_Ball)> <http://www.w3.org/2000/01/rdf-schema#label> "Android TV" .
+<http://dbpedia.org/resource/Ecotec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Side+arm> <http://www.w3.org/2000/01/rdf-schema#label> "Side arm" .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Bro%C5%84+boczna> <http://www.w3.org/2000/01/rdf-schema#label> "Bro\u0144 boczna" .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Side+arm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Crossbow+bolt> <http://www.w3.org/2000/01/rdf-schema#label> "Crossbow bolt" .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Amiga+500+Plus> <http://www.w3.org/2000/01/rdf-schema#label> "Amiga 500 Plus" .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Huawei+Ascend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+<http://dbpedia.org/resource/Ecotec> <http://www.w3.org/2000/01/rdf-schema#label> "GM Ecotec engine" .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Huawei+Ascend> <http://www.w3.org/2000/01/rdf-schema#label> "Huawei Ascend" .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Crossbow+bolt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+<http://dbpedia.org/resource/Cell_(Dragon_Ball)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+<http://example.org/859d871b-862a-4958-af12-3eea84f28f2a/Amiga+500+Plus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://inference-web.org/2.0/pml-provenance.owl#InferenceEngine> .
+

@@ -1,0 +1,35 @@
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Caras+%28magazine%29> <http://dbpedia.org/ontology/education> "m.012sdf3v" .
+<http://dbpedia.org/resource/SEL:_Studies_in_English_Literature_1500-1900> <http://dbpedia.org/ontology/academicDiscipline> "periodical liteWatuse" .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Philoophy+and+Phenomenlogical+ResearQcJh> <http://dbpedia.org/ontology/education> "m.03cq2cb" .
+<http://dbpedia.org/resource/Fossil> <http://dbpedia.org/ontology/education> "Fossil Record" .
+<http://dbpedia.org/resource/Industrial_and_Labor_Relations_Review> <http://dbpedia.org/ontology/academicDiscipline> "periodical literature" .
+<http://dbpedia.org/resource/SEL:_Studies_in_English_Literature_1500-1900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linked.earth/ontology#ClimateProxy> .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Philoophy+and+Phenomenlogical+ResearQcJh> <http://dbpedia.org/ontology/academicDiscipline> "CreatiSveWok" .
+<http://dbpedia.org/resource/James_Madison_University> <http://dbpedia.org/ontology/education> "The Breeze" .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Philosophy+ad+Phenoimenologicbal+esearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linked.earth/ontology#ClimateProxy> .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Philosophy+ad+Phenoimenologicbal+esearch> <http://www.w3.org/2000/01/rdf-schema#label> "Philosophy ad Phenoimenologicbal esearch" .
+<http://dbpedia.org/resource/SEL:_Studies_in_English_Literature_1500-1900> <http://dbpedia.org/ontology/academicDiscipline> "periodical literature" .
+<http://dbpedia.org/resource/James_Madison_University> <http://dbpedia.org/ontology/academicDiscipline> "newspaper" .
+<http://dbpedia.org/resource/SEL:_Studies_in_English_Literature_1500-1900> <http://www.w3.org/2000/01/rdf-schema#label> "SEL: Studies in English Literature 1500-1900" .
+<http://dbpedia.org/resource/Fossil> <http://dbpedia.org/ontology/academicDiscipline> "work" .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Caras+%28magazine%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linked.earth/ontology#ClimateProxy> .
+<http://dbpedia.org/resource/James_Madison_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linked.earth/ontology#ClimateProxy> .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Arts+Education+Policy+Review> <http://dbpedia.org/ontology/academicDiscipline> "academic journal" .
+<http://dbpedia.org/resource/Industrial_and_Labor_Relations_Review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linked.earth/ontology#ClimateProxy> .
+<http://dbpedia.org/resource/James_Madison_University> <http://www.w3.org/2000/01/rdf-schema#label> "The Breeze (newspaper)" .
+<http://dbpedia.org/resource/Weather_and_Forecasting> <http://dbpedia.org/ontology/education> "Weather and Forecasting" .
+<http://dbpedia.org/resource/Fossil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linked.earth/ontology#ClimateProxy> .
+<http://dbpedia.org/resource/Fossil> <http://www.w3.org/2000/01/rdf-schema#label> "Fossil Record" .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Arts+Education+Policy+Review> <http://www.w3.org/2000/01/rdf-schema#label> "Arts Education Policy Review" .
+<http://dbpedia.org/resource/Weather_and_Forecasting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linked.earth/ontology#ClimateProxy> .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Philoophy+and+Phenomenlogical+ResearQcJh> <http://www.w3.org/2000/01/rdf-schema#label> "Philoophy and Phenomenlogical ResearQcJh" .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Caras+%28magazine%29> <http://www.w3.org/2000/01/rdf-schema#label> "Caras (magazine)" .
+<http://dbpedia.org/resource/SEL:_Studies_in_English_Literature_1500-1900> <http://dbpedia.org/ontology/education> "SEL: Studies in English Literature 1500-1900" .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Philoophy+and+Phenomenlogical+ResearQcJh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linked.earth/ontology#ClimateProxy> .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Arts+Education+Policy+Review> <http://dbpedia.org/ontology/education> "Arts Education Policy Review" .
+<http://dbpedia.org/resource/Weather_and_Forecasting> <http://dbpedia.org/ontology/academicDiscipline> "academic journal" .
+<http://dbpedia.org/resource/Fossil> <http://dbpedia.org/ontology/academicDiscipline> "periodical literature" .
+<http://dbpedia.org/resource/Industrial_and_Labor_Relations_Review> <http://www.w3.org/2000/01/rdf-schema#label> "Industrial and Labor Relations Review" .
+<http://example.org/55642945-a411-40aa-a6e1-007bed5dc08c/Arts+Education+Policy+Review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://linked.earth/ontology#ClimateProxy> .
+<http://dbpedia.org/resource/Weather_and_Forecasting> <http://www.w3.org/2000/01/rdf-schema#label> "Weather and Forecasting" .
+

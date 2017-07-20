@@ -1,0 +1,16 @@
+<http://example.org/125c29f6-cb7d-493c-9d80-79d196bc63a0/Erzxs%C3%A9bet+Kcsis> <http://www.w3.org/2000/01/rdf-schema#label> "Erzxs\u00E9bet Kcsis" .
+<http://dbpedia.org/resource/Dragica_Džono> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Dragica_Džono> <http://www.w3.org/2000/01/rdf-schema#label> "Dragica D\u017Eono" .
+<http://example.org/125c29f6-cb7d-493c-9d80-79d196bc63a0/Erzxs%C3%A9bet+Kcsis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Fabiana_Diniz> <http://www.w3.org/2000/01/rdf-schema#label> "Fabiana Diniz" .
+<http://dbpedia.org/resource/Esin_Sağdıç> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Dragica_Mitrova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Dragica_Mitrova> <http://www.w3.org/2000/01/rdf-schema#label> "Dragica Mitrova" .
+<http://dbpedia.org/resource/Esin_Sağdıç> <http://www.w3.org/2000/01/rdf-schema#label> "Esin Sa\u011Fd\u0131\u00E7" .
+<http://dbpedia.org/resource/Esin_Sağdıç> <http://dbpedia.org/ontology/creator> "person" .
+<http://dbpedia.org/resource/Fabiana_Diniz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<http://dbpedia.org/resource/Dragica_Mitrova> <http://dbpedia.org/ontology/creator> "handball player" .
+<http://dbpedia.org/resource/Fabiana_Diniz> <http://dbpedia.org/ontology/creator> "athlete" .
+<http://dbpedia.org/resource/Dragica_Džono> <http://dbpedia.org/ontology/creator> "Agent" .
+<http://example.org/125c29f6-cb7d-493c-9d80-79d196bc63a0/Erzxs%C3%A9bet+Kcsis> <http://dbpedia.org/ontology/creator> "peOson" .
+

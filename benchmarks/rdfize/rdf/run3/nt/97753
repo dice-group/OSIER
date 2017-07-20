@@ -1,0 +1,51 @@
+<http://dbpedia.org/resource/Media_of_Sierra_Leone> <http://dbpedia.org/ontology/currency> "metric" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%84%D1%80%D0%B0%D0%BD%D0%BA> <http://www.w3.org/2000/01/rdf-schema#label> "\u0410\u043B\u0431\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0440\u0430\u043D\u043A" .
+<http://dbpedia.org/resource/Saint_Helena_Sound> <http://www.w3.org/2000/01/rdf-schema#label> "Saint Helena pound" .
+<http://dbpedia.org/resource/Saint_Helena_Sound> <http://dbpedia.org/ontology/currency> "medium of exchange" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Fiume+krone> <http://www.w3.org/2000/01/rdf-schema#label> "Fiume krone" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Dollaro+del+Texas> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Liecloin> <http://dbpedia.org/ontology/currency> "AternatjiYve currencis" .
+<http://dbpedia.org/resource/Bosnia_and_Herzegovina_art> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Brunei+dollar> <http://www.w3.org/2000/01/rdf-schema#label> "Brunei dollar" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Malawian+pound> <http://www.w3.org/2000/01/rdf-schema#label> "Malawian pound" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Syrian+pound> <http://www.w3.org/2000/01/rdf-schema#label> "Syrian pound" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Zimbabwean+dollar> <http://www.w3.org/2000/01/rdf-schema#label> "Zimbabwean dollar" .
+<http://dbpedia.org/resource/European_Monetary_System> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Moroccan+dirham> <http://www.w3.org/2000/01/rdf-schema#label> "Moroccan dirham" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/PrimcoiXn> <http://dbpedia.org/ontology/currency> "mdium of Uexchange" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/%D0%98%D1%82%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D1%81> <http://www.w3.org/2000/01/rdf-schema#label> "\u0418\u0442\u0430\u043A\u0441\u043A\u0438\u0439 \u0447\u0430\u0441" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Zerocoin> <http://dbpedia.org/ontology/currency> "medium of exchange" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Dollaro+del+Texas> <http://www.w3.org/2000/01/rdf-schema#label> "Dollaro del Texas" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Brunei+dollar> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Zerocoin> <http://www.w3.org/2000/01/rdf-schema#label> "Zerocoin" .
+<http://dbpedia.org/resource/Media_of_Sierra_Leone> <http://www.w3.org/2000/01/rdf-schema#label> "Sierra Leonean leone" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Unidad+de+Fomento> <http://www.w3.org/2000/01/rdf-schema#label> "Unidad de Fomento" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Moroccan+dirham> <http://dbpedia.org/ontology/currency> "Currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Dash+%28cryptocurrency%29> <http://www.w3.org/2000/01/rdf-schema#label> "Dash (cryptocurrency)" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Surinamese+dollar> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%84%D1%80%D0%B0%D0%BD%D0%BA> <http://dbpedia.org/ontology/currency> "metric" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Unidad+de+Fomento> <http://dbpedia.org/ontology/currency> "medium of exchange" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/%D0%98%D1%82%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B0%D1%81> <http://dbpedia.org/ontology/currency> "medium of exchange" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Fiume+krone> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Dash+%28cryptocurrency%29> <http://dbpedia.org/ontology/currency> "Circulating currencies" .
+<http://dbpedia.org/resource/São_Tomé_and_Príncipe_real> <http://dbpedia.org/ontology/currency> "Currency" .
+<http://dbpedia.org/resource/São_Tomé_and_Príncipe_real> <http://www.w3.org/2000/01/rdf-schema#label> "S\u00E3o Tom\u00E9 and Pr\u00EDncipe dobra" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Cuban+peso> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Argentine+peso+argentino> <http://www.w3.org/2000/01/rdf-schema#label> "Argentine peso argentino" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Zimbabwean+dollar> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Liecloin> <http://www.w3.org/2000/01/rdf-schema#label> "Liecloin" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Reichsmark> <http://dbpedia.org/ontology/currency> "currency" .
+<http://dbpedia.org/resource/European_Monetary_System> <http://www.w3.org/2000/01/rdf-schema#label> "European Currency Unit" .
+<http://dbpedia.org/resource/Nicaraguan_c%C3%B3rdoba> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Argentine+peso+argentino> <http://dbpedia.org/ontology/currency> "currency" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Cuban+peso> <http://www.w3.org/2000/01/rdf-schema#label> "Cuban peso" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Surinamese+dollar> <http://www.w3.org/2000/01/rdf-schema#label> "Surinamese dollar" .
+<http://dbpedia.org/resource/Nicaraguan_c%C3%B3rdoba> <http://www.w3.org/2000/01/rdf-schema#label> "Nicaraguan c\u00F3rdoba" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Syrian+pound> <http://dbpedia.org/ontology/currency> "metric" .
+<http://dbpedia.org/resource/Latvian_Naval_Forces> <http://www.w3.org/2000/01/rdf-schema#label> "Latvian lats" .
+<http://dbpedia.org/resource/Bosnia_and_Herzegovina_art> <http://www.w3.org/2000/01/rdf-schema#label> "Bosnia and Herzegovina dinar" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Malawian+pound> <http://dbpedia.org/ontology/currency> "abstract entity" .
+<http://dbpedia.org/resource/Latvian_Naval_Forces> <http://dbpedia.org/ontology/currency> "Circulating currencies" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/PrimcoiXn> <http://www.w3.org/2000/01/rdf-schema#label> "PrimcoiXn" .
+<http://example.org/6f5170df-f724-4d0b-80b6-b9d8d6b03a62/Reichsmark> <http://www.w3.org/2000/01/rdf-schema#label> "Reichsmark" .
+

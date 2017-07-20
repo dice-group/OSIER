@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/1994_FIFA_World_Cup_qualification_(AFC)> <http://www.w3.org/2000/01/rdf-schema#label> "1998 FIFA World Cup qualification (AFC)" .
+<http://dbpedia.org/resource/1982_FIFA_World_Cup_qualification_(CAF)> <http://www.w3.org/2000/01/rdf-schema#label> "1974 FIFA World Cup" .
+<http://example.org/fa9f8c1b-abd3-4bb9-ac7a-c3ebb3b62dce/1998+FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97%E3%83%BB%E3%82%A2%E3%82%B8%E3%82%A2%E4%BA%88%E9%81%B8> <http://www.w3.org/2000/01/rdf-schema#label> "1998 FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u30FB\u30A2\u30B8\u30A2\u4E88\u9078" .
+<http://dbpedia.org/resource/1982_FIFA_World_Cup_qualification_(CAF)> <http://www.w3.org/2000/01/rdf-schema#label> "1970 FIFA World Cup" .
+<http://dbpedia.org/resource/2009_Arab_Nations_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "2009 Arab Nations Cup" .
+<http://dbpedia.org/resource/1982_FIFA_World_Cup_qualification_(CAF)> <http://www.w3.org/2000/01/rdf-schema#label> "1986 FIFA World Cup" .
+

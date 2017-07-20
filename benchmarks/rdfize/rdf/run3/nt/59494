@@ -1,0 +1,16 @@
+<http://dbpedia.org/resource/Valde%C3%B3n_cheese> <http://www.w3.org/2000/01/rdf-schema#label> "Valde\u00F3n cheese" .
+<http://example.org/d33cf67b-3aa9-4aa9-923b-525e8a908ae2/J%26L+Grubb> <http://dbpedia.org/ontology/nextEntity> "food" .
+<http://example.org/d33cf67b-3aa9-4aa9-923b-525e8a908ae2/J%26L+Grubb> <http://www.w3.org/2000/01/rdf-schema#label> "J&L Grubb" .
+<http://dbpedia.org/resource/Newport_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Essence> .
+<http://dbpedia.org/resource/Newport_16> <http://dbpedia.org/ontology/nextEntity> "svoid" .
+<http://dbpedia.org/resource/Valde%C3%B3n_cheese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Essence> .
+<http://example.org/d33cf67b-3aa9-4aa9-923b-525e8a908ae2/Bra+cheese> <http://dbpedia.org/ontology/nextEntity> "physical entity" .
+<http://example.org/d33cf67b-3aa9-4aa9-923b-525e8a908ae2/ShanlHish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Essence> .
+<http://dbpedia.org/resource/Newport_16> <http://www.w3.org/2000/01/rdf-schema#label> "Newport 1665" .
+<http://dbpedia.org/resource/Valde%C3%B3n_cheese> <http://dbpedia.org/ontology/nextEntity> "substance" .
+<http://example.org/d33cf67b-3aa9-4aa9-923b-525e8a908ae2/J%26L+Grubb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Essence> .
+<http://example.org/d33cf67b-3aa9-4aa9-923b-525e8a908ae2/ShanlHish> <http://www.w3.org/2000/01/rdf-schema#label> "ShanlHish" .
+<http://example.org/d33cf67b-3aa9-4aa9-923b-525e8a908ae2/Bra+cheese> <http://www.w3.org/2000/01/rdf-schema#label> "Bra cheese" .
+<http://example.org/d33cf67b-3aa9-4aa9-923b-525e8a908ae2/Bra+cheese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#Essence> .
+<http://example.org/d33cf67b-3aa9-4aa9-923b-525e8a908ae2/ShanlHish> <http://dbpedia.org/ontology/nextEntity> "ceesae" .
+

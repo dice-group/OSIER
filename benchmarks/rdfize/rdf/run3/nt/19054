@@ -1,0 +1,11 @@
+<http://example.org/6a454890-0ae0-44d2-b172-d8c82cba3200/Edhward+.+Allworth> <http://www.w3.org/2000/01/rdf-schema#label> "Edhward . Allworth" .
+<http://dbpedia.org/resource/Paul_van_Dyk> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Albert_M._Craig> <http://www.w3.org/2000/01/rdf-schema#label> "Albert M. Craig" .
+<http://dbpedia.org/resource/Albert_M._Craig> <http://dbpedia.org/ontology/person> "person" .
+<http://dbpedia.org/resource/John_R._Brooke> <http://dbpedia.org/ontology/person> "Person" .
+<http://dbpedia.org/resource/Paul_van_Dyk> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Van Dyke" .
+<http://dbpedia.org/resource/John_R._Brooke> <http://www.w3.org/2000/01/rdf-schema#label> "John L. Brooke" .
+<http://example.org/6a454890-0ae0-44d2-b172-d8c82cba3200/Edhward+.+Allworth> <http://dbpedia.org/ontology/person> "writZe" .
+<http://dbpedia.org/resource/Curt_Gentry> <http://dbpedia.org/ontology/person> "writer" .
+<http://dbpedia.org/resource/Curt_Gentry> <http://www.w3.org/2000/01/rdf-schema#label> "Curt Gentry" .
+

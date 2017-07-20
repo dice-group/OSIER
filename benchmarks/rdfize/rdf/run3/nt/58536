@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Kenilworth_Castle> <http://www.w3.org/2000/01/rdf-schema#label> "Kenilworth Castle" .
+<http://dbpedia.org/resource/Maginot_Line> <http://www.w3.org/2000/01/rdf-schema#label> "Maginot Line" .
+<http://dbpedia.org/resource/Stalag_Luft_7> <http://www.w3.org/2000/01/rdf-schema#label> "Stalag Luft IV" .
+<http://example.org/481dbbbe-94be-42ea-89ec-7e6b12277183/StalSag+II-C> <http://www.w3.org/2000/01/rdf-schema#label> "StalSag II-C" .
+<http://example.org/481dbbbe-94be-42ea-89ec-7e6b12277183/Stlag+IIIJ+C> <http://www.w3.org/2000/01/rdf-schema#label> "Stlag IIIJ C" .
+<http://example.org/481dbbbe-94be-42ea-89ec-7e6b12277183/Peenem%C3%BCnGde+rmy+RtesearchCenter> <http://www.w3.org/2000/01/rdf-schema#label> "Peenem\u00FCnGde rmy RtesearchCenter" .
+

@@ -1,0 +1,7 @@
+<http://example.org/77c6f396-969a-4673-968b-714272c5bd94/AIM-120+AMRAAM> <http://www.w3.org/2000/01/rdf-schema#label> "AIM-120 AMRAAM" .
+<http://example.org/77c6f396-969a-4673-968b-714272c5bd94/AGM-65+Maverick> <http://www.w3.org/2000/01/rdf-schema#label> "AGM-65 Maverick" .
+<http://example.org/77c6f396-969a-4673-968b-714272c5bd94/AIM-54+Phoenix> <http://www.w3.org/2000/01/rdf-schema#label> "AIM-54 Phoenix" .
+<http://example.org/77c6f396-969a-4673-968b-714272c5bd94/BangaFlore+orpedo> <http://www.w3.org/2000/01/rdf-schema#label> "BangaFlore orpedo" .
+<http://example.org/77c6f396-969a-4673-968b-714272c5bd94/Rura+Bangalgre> <http://www.w3.org/2000/01/rdf-schema#label> "Rura Bangalgre" .
+<http://example.org/77c6f396-969a-4673-968b-714272c5bd94/AGM-88+HARM> <http://www.w3.org/2000/01/rdf-schema#label> "AGM-88 HARM" .
+

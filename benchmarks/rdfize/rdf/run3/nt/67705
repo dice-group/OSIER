@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/National_Pro_Fastpitch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Canton> .
+<http://example.org/09eba810-460d-4e1c-b3ed-71de6c3effdd/Limestone+Umpire+Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Canton> .
+<http://dbpedia.org/resource/Asian_Men's_Handball_Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Canton> .
+<http://dbpedia.org/resource/Ontario_Amateur_Softball_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Canton> .
+<http://example.org/09eba810-460d-4e1c-b3ed-71de6c3effdd/Limestone+Umpire+Association> <http://www.w3.org/2000/01/rdf-schema#label> "Limestone Umpire Association" .
+<http://dbpedia.org/resource/Men's_Softball_World_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "Women's Softball World Championship" .
+<http://dbpedia.org/resource/Men's_Softball_World_Championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Canton> .
+<http://dbpedia.org/resource/Asian_Men's_Handball_Championship> <http://www.w3.org/2000/01/rdf-schema#label> "Asian Men\u2019s Softball Championship" .
+<http://dbpedia.org/resource/National_Pro_Fastpitch> <http://www.w3.org/2000/01/rdf-schema#label> "National Pro Fastpitch" .
+<http://dbpedia.org/resource/Ontario_Amateur_Softball_Association> <http://www.w3.org/2000/01/rdf-schema#label> "Ontario Amateur Softball AsociatiSun" .
+
