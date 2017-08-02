@@ -10,7 +10,8 @@
  [b'Bernard Francis Law', b'human'],
  [b'Caesar Baronius', b'Person']]
 Table class: b'cardinal'
-CORRECT
+Score: 1
+T CORRECT
 Column header: b'label'
 Column property: b'label'
 CORRECT
@@ -26,7 +27,8 @@ WRONG
  [b'Gianna Michaels', b'artist'],
  [b'James Deen', b'person']]
 Table class: b'character'
-WRONG
+T WRONG
+Score: 0
 Column header: b'label'
 Column property: b'label'
 CORRECT
@@ -42,7 +44,8 @@ WRONG
  [b'History of the World (board game)', b'History of the World'],
  [b'Labyrinth (marble game)', b'Labyrinth']]
 Table class: b'Labyrinth'
-WRONG
+T WRONG
+Score: 0
 Column header: b'label'
 Column property: b'label'
 CORRECT
@@ -1243,7 +1246,9 @@ WRONG
   None,
   None,
   None]]
+T WRONG
 Table class: b'City'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'arsenic'
@@ -1492,6 +1497,7 @@ Column property: b'net'
  [b'Roman Catholic Archdiocese of Cashel and Emly', b'place'],
  [b'Roman Catholic Archdiocese of La Plata in Argentina', b'place']]
 Table class: b'place'
+Score: 1
 CORRECT
 Column header: b'label'
 Column property: b'label'
@@ -1543,6 +1549,7 @@ WRONG
  [b'Cricket World Cup Trophy', None, b'abstract entity', None],
  [b'Cricket World Cup Trophy', None, None, b'']]
 Table class: b'label'
+Score: 0
 WRONG
 Column header: b'label'
 Column property: b'label'
@@ -1569,6 +1576,7 @@ WRONG
  [b'Alps', None, b'mountain range'],
  [b'Amazon River', None, b'RiverBodyOfWater']]
 Table class: b'place'
+Score: 0
 WRONG
 Column header: b'label'
 Column property: b'Aegean_Sea'
@@ -1588,6 +1596,7 @@ WRONG
  [b'Michael Merzenich', b'person'],
  [b'Victor Horsley', b'faculty member']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -1630,6 +1639,7 @@ Column property: b'character'
   b'mander in the Hynobiidae family.As of March 2003, it is no longer consid'
   b'ered a species.']]
 Table class: b'amphibian'
+Score: 1
 Column header: b'label'
 Column property: b'label'
 Column header: b'type'
@@ -1650,6 +1660,7 @@ Column property: b'abstraction'
  [b'Iran\xe2\x80\x93Iraq War', b'military conflict'],
  None]
 Table class: b'Conflict'
+Score: 1
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -1663,6 +1674,7 @@ Column property: b'Conflict'
  [b'Great St Bernard Tunnel', b'Thing'],
  [b'Kanonersky Tunnel', b'passage']]
 Table class: b'place'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -1679,6 +1691,7 @@ Column property: b'place'
  [b'Star Wars Jedi Knight: Dark Forces II'],
  [b'Star Wars: Jedi Knight: Dark Forces II']]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 
@@ -1696,6 +1709,7 @@ Column property: b'label'
   b'\x8a\xd8\xb1\xd8\xa7\xd9\x86',
   None]]
 Table class: b'thing'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'type'
@@ -1710,6 +1724,7 @@ Column property: b'thing'
  [b'Santuarios y templos de Nikk\xc5\x8d'],
  [b'Shrines and Temples of Nikk\xc5\x8d']]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 
@@ -1760,6 +1775,7 @@ Column property: b'label'
   b'in alpine maow, opeFen rocky baWrrens, and coniferous wodlaRunds.',
   b'']]
 Table class: b'abstraction'
+Score: 0
 Column header: b'abstraction'
 Column property: b'abstraction'
 Column header: b'arsenic'
@@ -1774,6 +1790,7 @@ Column property: b'arsenic'
  [b'physicHal entiy', b'AmaznMite'],
  None]
 Table class: b'label'
+Score: 0
 Column header: b'type'
 Column property: b'type'
 Column header: b'label'
@@ -1802,6 +1819,7 @@ Column property: b'label'
   b'izi di streaming media Netflix e Hulu, cos\xc3\xac come i giochi.',
   None]]
 Table class: b'thing'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'compaction'
@@ -1822,6 +1840,7 @@ Column property: b'arsenic'
  [b'Red (G&S)', b'Shades of red', b'Shades_of_red__G&S__1'],
  None]
 Table class: b'name'
+Score: 0
 Column header: b'name'
 Column property: b'name'
 Column header: b'mutant'
@@ -1837,6 +1856,7 @@ Column property: b'label'
  [b'Robert Anton Wilson', b'philosopher'],
  [b'Robert Nozick', b'person']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -1892,6 +1912,7 @@ Column property: b'character'
   b'\xc3\xb3W debacterias pt\xc3\xb3gena desde la vagina y el cello uterino.'],
  [b'PelvicinflamkmEatory dsease', None, None]]
 Table class: b'Paranoia'
+Score: 0
 Column header: b'label'
 Column property: b'Paranoia'
 Column header: b'type'
@@ -1907,6 +1928,7 @@ Column property: b'gossip'
  [b'Melling Chase', b'contest'],
  [b"Sefton Novices' Hurdle", b'societal event']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2004,6 +2026,7 @@ Column property: b'character'
   None,
   None]]
 Table class: b'monument'
+Score: 1
 Column header: b'label'
 Column property: b'label'
 Column header: b'abstraction'
@@ -2057,6 +2080,7 @@ Column property: b'arsenic'
  [b'NS SGMm', None, b'train', None],
  [b'Stadsgewestelijk Materieel', None, None, None]]
 Table class: b'train'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'gossip'
@@ -2078,6 +2102,7 @@ Column property: b'arsenic'
  [b'Falklands War', b'conflict'],
  [b'Finnish Civil War', b'Event']]
 Table class: b'event'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2108,6 +2133,7 @@ Column property: b'event'
   b'euermann steht f\xc3\xbcr:',
   b'name']]
 Table class: b'name'
+Score: 1
 Column header: b'abstraction'
 Column property: b'abstraction'
 Column header: b'type'
@@ -2129,6 +2155,7 @@ Column property: b'name'
   b'image'],
  [b"'Two_Years'_Vacation'_by_L\xc3\xa9on_Benett_01.jpg?width=300", b'image']]
 Table class: b'image'
+Score: 1
 Column header: b'label'
 Column property: b'label'
 Column header: b'type'
@@ -2142,6 +2169,7 @@ Column property: b'image'
  [b'Shahab-4', b'instrumentality'],
  [b'Space Shuttle program', b'know-how']]
 Table class: b'rocket'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2155,6 +2183,7 @@ Column property: b'rocket'
  [b'Potrerillos Dam', b'Place'],
  [b'Yali Falls Dam', b'installation']]
 Table class: b'place'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2168,6 +2197,7 @@ Column property: b'place'
  [b'Tohin Golbf TWournamet', b'eIven'],
  [b'Turkish Challenge', b'event']]
 Table class: b'event'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2210,6 +2240,7 @@ Column property: b'event'
   b's since 2005.',
   b'PHI-base']]
 Table class: b'Hollywood'
+Score: 0
 Column header: b'abstraction'
 Column property: b'abstraction'
 Column header: b'claim'
@@ -2227,6 +2258,7 @@ Column property: b'Hollywood'
  [b'Borstal Institution and Juvenile Jail Bahawalpur', b'building', None],
  [b'Borstal Institution and Juvenile Jail Faisalabad', b'Location', None]]
 Table class: b'prison'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'type'
@@ -2242,6 +2274,7 @@ Column property: b'prison'
  [b'Paglicci Cave', b'geographical area'],
  [b'Treak Cliff Cavern', b'cave']]
 Table class: b'place'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2259,6 +2292,7 @@ Column property: b'place'
  [b'Spain national football team', b'1995'],
  [b'Spain national under-23 football team', b'1996']]
 Table class: b'year'
+Score: 0
 Column header: b'team'
 Column property: b'team'
 Column header: b'year'
@@ -2278,6 +2312,7 @@ Column property: b'year'
  [b'Creativity, Culture and Education', b'm.0806tx_'],
  [b'Fam78b', b'FAM78B']]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'lapp'
@@ -2293,6 +2328,7 @@ Column property: b'LAMP'
  [b'FC Krylia Sovetov Samara', b'28'],
  [b'FC stIana', b'2825']]
 Table class: b'catch'
+Score: 0
 Column header: b'team'
 Column property: b'team'
 Column header: b'catch'
@@ -2322,6 +2358,7 @@ Column property: b'catch'
  [b'KLM', None, None, None],
  [b'KLM', None, None, b'Thing']]
 Table class: b'agent'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'gossip'
@@ -2346,6 +2383,7 @@ Column property: b'agent'
  [b'1667 Duboviok Gearthquake', b'pheoYmenon', None, None],
  [b'1667 Dubrovnik earthquake', None, b'physical process', None]]
 Table class: b'event'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2367,6 +2405,7 @@ Column property: b'event'
  [b'Boeing OC-135B Open Skies', b'category'],
  [b'Boeing RC-135', b'device']]
 Table class: b'category'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2384,6 +2423,7 @@ Column property: b'category'
  [b'Hungate baronets', b'baronet'],
  [b'John Aubrey-Fletcher', b'blue blood']]
 Table class: b'Human'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2409,6 +2449,7 @@ Column property: b'Human'
   None],
  [b'Chartrle Moss', None, None, None, None]]
 Table class: b'United_Kingdom'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'nation'
@@ -2428,6 +2469,7 @@ Column property: b'India'
  [b'Army of Darkness', b'movie'],
  [b'Asterois (vqideor ame)', b'SoftwarObjecht']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2441,6 +2483,7 @@ Column property: b'character'
  [b'Microsoft Access', b'abstract entity'],
  [b'Microsoft Excel', b'auditory communication']]
 Table class: b'work'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2517,6 +2560,7 @@ Column property: b'work'
   b'Patome',
   b'Patome']]
 Table class: b'Panther'
+Score: 0
 Column header: b'abstraction'
 Column property: b'abstraction'
 Column header: b'label'
@@ -2536,6 +2580,7 @@ Column property: b'Hollywood'
  [b'Vandenberg AFB Space Launch Complex 4', b'architectural structure'],
  [b'Vandenberg AFB Space Launch Complex 5', b'SpatialThing']]
 Table class: b'platform'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2553,6 +2598,7 @@ Column property: b'platform'
  [b'Kenna Partners', None, None, b'organization'],
  [b'Kenna Partners', None, None, None]]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'lawyer'
@@ -2574,6 +2620,7 @@ Column property: b'type'
  [b'Caprese salad', b'FunctionalSubstance', None],
  [b'Casandra', None, b'constituent']]
 Table class: b'name'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2601,6 +2648,7 @@ Column property: b'name'
  [b'Jeremy Gaubert', None, None],
  [b'Jeremy Gaubert', None, b'person']]
 Table class: b'person'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'gossip'
@@ -2616,6 +2664,7 @@ Column property: b'person'
  [b'Ontario Amateur Softball AsociatiSun', b''],
  [b"Women's Softball World Championship", b'']]
 Table class: b'Canada'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'nation'
@@ -2629,6 +2678,7 @@ Column property: b'Canada'
  [b'GWR 2800 Class 2807', b'engine'],
  [b'Rebel (train)', b'passenger train']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2645,6 +2695,7 @@ Column property: b'character'
  [b'Hawker Sidaeley Harrier', b'obkjec'],
  [b'Junkers Ju 87', b'mean of transportation']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2662,6 +2713,7 @@ Column property: b'character'
  [b'Black-breasted boatbill', None, b'Thing'],
  [b'Brown wood owl', b'species', None]]
 Table class: b'bird'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2722,6 +2774,7 @@ Column property: b'bird'
   None,
   None]]
 Table class: b'season'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'gossip'
@@ -2743,6 +2796,7 @@ Column property: b'season'
  [b'2009 Arab Nations Cup'],
  None]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 
@@ -2754,6 +2808,7 @@ Column property: b'label'
  [b'Stockport County F.C.', b'97'],
  [b'Wrexham F.C.', b'51']]
 Table class: b'1'
+Score: 0
 Column header: b'team'
 Column property: b'team'
 Column header: b'catch'
@@ -2795,6 +2850,7 @@ Column property: b'1'
  [b'\xd0\xa1\xd0\xb8\xd0\xbd\xd0\xb8\xd0\xb9 \xd1\x86\xd0\xb2\xd0\xb5\xd1\x82',
   None]]
 Table class: b'Blue'
+Score: 0
 Column header: b'label'
 Column property: b'Blue'
 Column header: b'gossip'
@@ -2808,6 +2864,7 @@ Column property: b'gossip'
  [b'Mintz, Levin, Cohn, Ferris, Glovsky, and Popeo', b''],
  [b'Wilmer Cutler Pickering Hale and Dorr', b'']]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'practice'
@@ -2821,6 +2878,7 @@ Column property: b'practice'
  [b'Esin Sa\xc4\x9fd\xc4\xb1\xc3\xa7', b'person'],
  [b'Fabiana Diniz', b'athlete']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2873,6 +2931,7 @@ Column property: b'character'
   None,
   None]]
 Table class: b'work'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2898,6 +2957,7 @@ Column property: b'person'
  [b'Frontal eminence', b'anatomical structure'],
  [b'Long bone', b'anatomical structure']]
 Table class: b'thing'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'type'
@@ -2915,6 +2975,7 @@ Column property: b'thing'
  [b'Francisco Delgado Melo', b'human'],
  [b'George Allen (footballer)', b'back']]
 Table class: b'back'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2928,6 +2989,7 @@ Column property: b'back'
  [b'Vox (website)', b''],
  [b'World Tibet News', b'']]
 Table class: b'Ricochet'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'arsenic'
@@ -2943,6 +3005,7 @@ Column property: b'Ricochet'
  [b'De Havilland Mosquito', b'airplane'],
  [b'DeI Havilland osuAito', b'hdevierthanp-air craft']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -2968,6 +3031,7 @@ Column property: b'character'
   None],
  [b'1888 Cleveland Blues season', b'Cleveland Spiders seasons', None]]
 Table class: b'season'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'type'
@@ -3022,6 +3086,7 @@ Column property: b'season'
   None],
  [b'Pitcairn Islands dollar', None, None, None, b'metric']]
 Table class: b'Washington'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'washington'
@@ -3041,6 +3106,7 @@ Column property: b'measure'
  [b'Simon Weston', b'person'],
  [b'T\xc5\x8dg\xc5\x8d Heihachir\xc5\x8d', b'agent']]
 Table class: b'agent'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3055,6 +3121,7 @@ Column property: b'agent'
  [b'Clio_V6_Renault_Sport__Phase_2__1', b'0.002946'],
  None]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'displacement'
@@ -3072,6 +3139,7 @@ Column property: b'displacement'
  [b'BepiColombo', b'transport'],
  [b'Boeing B-17 Flying Fortress', b'craft']]
 Table class: b'craft'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3086,6 +3154,7 @@ Column property: b'craft'
  [b'Arthur Wellesley, 1st Duke of Wellington',
   b'PrimeMinister_HeadOfGovernment']]
 Table class: b'Human'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3106,6 +3175,7 @@ Column property: b'Human'
  [b'Yan Song (Ming dynasty)', None],
  [b'\xe5\x8e\xb3\xe5\xb5\xa9', None]]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'gossip'
@@ -3123,6 +3193,7 @@ Column property: b'gossip'
  [b'Albert, 12th Prince of Thurn and Taxis', None, None, None],
  [b'Albert, 8th Prince of Thurn and Taxis', None, None, None]]
 Table class: b'agent'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'arsenic'
@@ -3142,6 +3213,7 @@ Column property: b'agent'
  [b'Stalag Luft IV', None],
  [b'Stlag IIIJ C', None]]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'type'
@@ -3155,6 +3227,7 @@ Column property: b'type'
  [b'Jaskinia Nied\xc5\xbawiedzia', b''],
  [b'Lamb_Leer__Cavern__1', b'West Harptree']]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'placement'
@@ -3168,6 +3241,7 @@ Column property: b'placement'
  [b'Labrador Sea', b'natural place'],
  [b'Laptev Sea', b'sea']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3185,6 +3259,7 @@ Column property: b'character'
  [b'Natsu no Arashi!', b'work', None],
  [b'Natsu no arashi!', None, None]]
 Table class: b'work'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'type'
@@ -3203,6 +3278,7 @@ Column property: b'work'
  [b'Wraith: The Oblivion'],
  [b'Wraith: el olvido']]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 
@@ -3214,6 +3290,7 @@ Column property: b'label'
  [b'Damien Demento', b'Wrestler'],
  [b'Gpangrel(wrestler)', b'pfeson']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3227,6 +3304,7 @@ Column property: b'character'
  [b'Isla (given name)', b'Isla'],
  [b'Luke (name)', b'']]
 Table class: b'Aladdin'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'name'
@@ -3395,6 +3473,7 @@ Column property: b'Aladdin'
   None,
   None]]
 Table class: b'thing'
+Score: 0
 Column header: b'abstraction'
 Column property: b'abstraction'
 Column header: b'part'
@@ -3432,6 +3511,7 @@ Column property: b'Pezizomycotina'
  [b'Kyoto Common Lisp', b'work'],
  [b'LambdaMOO', b'software']]
 Table class: b'work'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3445,6 +3525,7 @@ Column property: b'work'
  [b'Magdalina Valchanova', b'NaturalPerson'],
  [b'Victortia Fullr', b'Pbeson']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3462,6 +3543,7 @@ Column property: b'character'
  [b'1881\xe2\x80\x9382 Heart of Midlothian F.C. season', b'abstract entity'],
  [b'1882\xe2\x80\x9383 Heart of Midlothian F.C. season', b'season']]
 Table class: b'measure'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'type'
@@ -3475,6 +3557,7 @@ Column property: b'measure'
  [b'Baum School of Art', b'organisation'],
  [b'Belen Jesuit Preparatory School', b'SpatialThing']]
 Table class: b'organization'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3490,6 +3573,7 @@ Column property: b'organization'
  [b'Roman Catholic Archdiocese of Monterrey', b'SpatialThing'],
  None]
 Table class: b'location'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3503,6 +3587,7 @@ Column property: b'location'
  [b'Anders Celsius', b'associate'],
  [b'Andrei Sakharov', b'grownup']]
 Table class: b'character'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 Column header: b'character'
@@ -3523,6 +3608,7 @@ Column property: b'character'
  [b'President', b'person function', b'Jacqueline Daley-Aspinall', None],
  [b'President', None, None, b'BVI_Bar_Association__1']]
 Table class: b'President'
+Score: 0
 Column header: b'championship'
 Column property: b'President'
 Column header: b'type'
@@ -3541,6 +3627,7 @@ Column property: b'label'
  [b'Ferret'],
  [b'\xd9\x83\xd9\x86\xd8\xaf\xd9\x88\xd8\xb1']]
 Table class: b'label'
+Score: 0
 Column header: b'label'
 Column property: b'label'
 
@@ -3625,6 +3712,7 @@ Column property: b'label'
  [b'Kvint is a Ofamily axme of', b'2549493337'],
  [b'Kv\xc3\xad\xc4\x8dala is a Czech surname of:', b'27021151']]
 Table class: b'abstraction'
+Score: 0
 Column header: b'abstraction'
 Column property: b'abstraction'
 Column header: b'id'
@@ -3734,6 +3822,7 @@ Column property: b'Id'
   b'e 2016 XBIZ Awards.',
   b'']]
 Table class: b'Link'
+Score: 0
 Column header: b'abstraction'
 Column property: b'abstraction'
 Column header: b'link'

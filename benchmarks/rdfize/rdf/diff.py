@@ -12,5 +12,5 @@ g2.parse(target, format="nt")
 
 from rdflib.compare import graph_diff
 both, first, second = graph_diff(g1, g2)
-print(both.serialize(format="nt").decode())
+#print(both.serialize(format="nt").decode())
 #print("both: {}, first: {}, second: {}".format(len(both), len(first), len(second)))

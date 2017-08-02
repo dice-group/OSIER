@@ -4,10 +4,24 @@ import pickle
 import os
 
 from osier.pathes import ATOMIC_TABLES_TOP_HASHES_SIMPLE, \
-    ATOMIC_TABLES_TOP_HASHES_LEMMATIZE
+    ATOMIC_TABLES_TOP_HASHES_LEMMATIZE, ATOMIC_TABLES_TOP_HASHES_CATEGORIZE
 from osier.tablefactory import get_atomic_table_parent_id, get_table_list
 from osier.metadata import get_table_class
 from osier.table import Table
+
+def test_find_join_candidates_categorize():
+    """
+    Total groups: 3401
+    groups with more than 1 table: 1516
+    groups with more than 1 class: 832
+    correct groups: 684
+    """
+    _f = open(ATOMIC_TABLES_TOP_HASHES_CATEGORIZE, "rb")
+    join_candidates = pickle.load(_f)
+    _f.close()
+    print_stats(join_candidates)
+    print(count_tables(join_candidates))
+    print(get_groups_with_one_class(join_candidates))
 
 @nottest
 def test_find_join_candidates_lemmatize():

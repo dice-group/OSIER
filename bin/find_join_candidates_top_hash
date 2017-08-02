@@ -7,7 +7,7 @@ import argparse
 from osier.tablefactory import load_atomic_tables_lazy
 from osier.join import get_top_hash
 from osier.pathes import ATOMIC_TABLES_TOP_HASHES_SIMPLE,\
-    ATOMIC_TABLES_TOP_HASHES_LEMMATIZE
+    ATOMIC_TABLES_TOP_HASHES_LEMMATIZE, ATOMIC_TABLES_TOP_HASHES_CATEGORIZE
 
 parser = argparse.ArgumentParser(description="""Find join candidates for table corpus.""")
 parser.add_argument('mode', help="Mode 'simple' or 'lemmatize'")
@@ -18,6 +18,8 @@ if vectorization_type == "simple":
     _cache = ATOMIC_TABLES_TOP_HASHES_SIMPLE
 elif vectorization_type == "lemmatize":
     _cache = ATOMIC_TABLES_TOP_HASHES_LEMMATIZE
+elif vectorization_type == "categorize":
+    _cache = ATOMIC_TABLES_TOP_HASHES_CATEGORIZE
 
 join_candidates = {}
 

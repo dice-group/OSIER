@@ -2,6 +2,7 @@ import copy
 
 from datasketch.minhash import MinHash
 from osier.lemmatize import lemmatize_atomic_table
+from osier.categorize import categorize_atomic_table
 
 def vectorize_atomic_table(atomic_table):
     vector = atomic_table[0] + atomic_table[1]
@@ -14,8 +15,12 @@ def get_hash_values(atomic_table, vectorization_type="simple"):
         table_vector = vectorize_atomic_table(atomic_table)
     elif vectorization_type == "lemmatize":
         table_vector = lemmatize_atomic_table(atomic_table)
+    elif vectorization_type == "categorize":
+        table_vector = categorize_atomic_table(atomic_table)
     _hash = MinHash()
     for item in table_vector:
+        if type(item) == str:
+            item = item.encode()
         _hash.update(item)
     return _hash.hashvalues
 

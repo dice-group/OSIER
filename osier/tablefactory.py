@@ -9,7 +9,8 @@ import pickle
 
 from osier.table import Table
 from osier.pathes import ATOMIC_TABLES_DIR, ATOMIC_TABLES_INDEX, \
-    ATOMIC_TABLES_TOP_HASHES_SIMPLE, ATOMIC_TABLES_TOP_HASHES_LEMMATIZE
+    ATOMIC_TABLES_TOP_HASHES_SIMPLE, ATOMIC_TABLES_TOP_HASHES_LEMMATIZE, \
+    ATOMIC_TABLES_TOP_HASHES_CATEGORIZE
 
 OSIER_DATA_ENDPOINT = os.environ.get("OSIER_DATA_ENDPOINT", "http://localhost")
 TABLE_LIST_URI = OSIER_DATA_ENDPOINT + "/table/list"
@@ -80,6 +81,8 @@ def get_table_groups(vectorization_type="simple"):
         _cache = ATOMIC_TABLES_TOP_HASHES_SIMPLE
     elif vectorization_type == "lemmatize":
         _cache = ATOMIC_TABLES_TOP_HASHES_LEMMATIZE
+    elif vectorization_type == "categorize":
+        _cache = ATOMIC_TABLES_TOP_HASHES_CATEGORIZE
 
     _f = open(_cache, "rb")
     table_groups = pickle.load(_f)
