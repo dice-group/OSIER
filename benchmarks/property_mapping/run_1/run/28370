@@ -1,0 +1,1 @@
+{'1_3': [], '2_4': [], '3_4': [], '1_4': [], '1_2': [], '0_1': [], '0_3': [], '0_4': ['http://dbpedia.org/ontology/wikiPageWikiLink'], '0_2': ['http://dbpedia.org/ontology/abstract', 'http://dbpedia.org/ontology/wikiPageWikiLink', 'http://www.w3.org/2000/01/rdf-schema#comment', 'http://purl.org/dc/terms/subject', 'http://www.w3.org/ns/prov#wasDerivedFrom'], '2_3': []}

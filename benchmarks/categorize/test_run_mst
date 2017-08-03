@@ -10,6 +10,7 @@
  [b'Bernard Francis Law', b'human'],
  [b'Caesar Baronius', b'Person']]
 Table class: cardinal
+Score: 0
 Column header: b'label'
 Column property: b'John_Kemp'
 Column header: b'character'
@@ -23,6 +24,7 @@ Column property: b'cardinal'
  [b'Gianna Michaels', b'artist'],
  [b'James Deen', b'person']]
 Table class: hypostasis
+Score: 0
 Column header: b'label'
 Column property: b'C\xc3\xa9line_Bara'
 Column header: b'character'
@@ -36,6 +38,7 @@ Column property: b'person'
  [b'History of the World (board game)', b'History of the World'],
  [b'Labyrinth (marble game)', b'Labyrinth']]
 Table class: history_of_the_world
+Score: 0
 Column header: b'label'
 Column property: b'Hero_Wars'
 Column header: b'arsenic'
@@ -1235,6 +1238,7 @@ Column property: b'Labyrinth'
   None,
   None]]
 Table class: thing
+Score: 0
 Column header: b'label'
 Column property: b'(Blooper)_Bunny'
 Column header: b'arsenic'
@@ -1483,6 +1487,7 @@ Column property: b''
  [b'Roman Catholic Archdiocese of Cashel and Emly', b'place'],
  [b'Roman Catholic Archdiocese of La Plata in Argentina', b'place']]
 Table class: place
+Score: 0
 Column header: b'label'
 Column property: b'Archdiocese_of_Cashel_and_Emly'
 Column header: b'type'
@@ -1531,6 +1536,7 @@ Column property: b'place'
  [b'Cricket World Cup Trophy', None, b'abstract entity', None],
  [b'Cricket World Cup Trophy', None, None, b'']]
 Table class: cricket_world_cup_trophy
+Score: 0
 Column header: b'label'
 Column property: b'ADDY_Awards'
 Column header: b'gossip'
@@ -1552,6 +1558,7 @@ Column property: b'Punjabi_Music_Awards'
  [b'Alps', None, b'mountain range'],
  [b'Amazon River', None, b'RiverBodyOfWater']]
 Table class: aegean_sea
+Score: 0
 Column header: b'label'
 Column property: b'Aegean_Sea'
 Column header: b'arsenic'
@@ -1567,6 +1574,7 @@ Column property: b'place'
  [b'Michael Merzenich', b'person'],
  [b'Victor Horsley', b'faculty member']]
 Table class: hypostasis
+Score: 0
 Column header: b'label'
 Column property: b'John_Brereton_Barlow'
 Column header: b'character'

@@ -6,7 +6,7 @@ import random
 from osier.tablefactory import get_table_list, get_one_table, \
     get_random_table, load_atomic_tables, load_random_atomic_table, \
     load_atomic_tables_lazy, get_atomic_table, get_atomic_table_parent_id, \
-    get_table_group_by_hash, load_table_groups_lazy
+    get_table_group_by_hash, load_table_groups_lazy, get_table_meta_by_hash
 from osier.atomizer import generate_atomic_table_id
 
 LIST_FIRST_ITEM = "001351a2-73fd-4550-be6c-601c98392acb"
